@@ -1,0 +1,6207 @@
+#####TASK##### Here
+## name
+crossing_traffic_inst_mdp__13
+## horizon
+100
+## discount factor
+1
+## number of action fluents
+4
+## number of det state fluents
+151
+## number of prob state fluents
+9
+## number of preconds
+0
+## number of actions
+5
+## number of hashing functions
+161
+## initial state
+1 0 0 0 0 1 1 0 0 0 1 0 0 0 1 0 1 1 0 1 1 0 0 0 0 0 0 1 1 1 1 0 0 1 1 0 0 1 0 0 0 1 0 1 1 0 0 0 1 0 1 1 0 1 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1 1 1 1 1 0 0 1 1 
+## 1 if task is deterministic
+0
+## 1 if state hashing possible
+0
+## 1 if kleene state hashing possible
+0
+
+
+#####ACTION FLUENTS#####
+## index
+0
+## name
+move-east
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+1
+## name
+move-north
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+2
+## name
+move-south
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+3
+## name
+move-west
+## number of values
+2
+## values
+0 false
+1 true
+
+
+
+#####DET STATE FLUENTS AND CPFS#####
+## index
+0
+## name
+obstacle-at(x1, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(9)
+## hash index
+0
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+1
+## name
+obstacle-at(x1, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(10)
+## hash index
+1
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+2
+## name
+obstacle-at(x1, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(11)
+## hash index
+2
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+3
+## name
+obstacle-at(x1, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(12)
+## hash index
+3
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+4
+## name
+obstacle-at(x1, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(13)
+## hash index
+4
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+5
+## name
+obstacle-at(x1, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(14)
+## hash index
+5
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+6
+## name
+obstacle-at(x1, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(15)
+## hash index
+6
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+7
+## name
+obstacle-at(x1, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(16)
+## hash index
+7
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+8
+## name
+obstacle-at(x1, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(17)
+## hash index
+8
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+9
+## name
+obstacle-at(x2, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(18)
+## hash index
+9
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+10
+## name
+obstacle-at(x2, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(19)
+## hash index
+10
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+11
+## name
+obstacle-at(x2, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(20)
+## hash index
+11
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+12
+## name
+obstacle-at(x2, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(21)
+## hash index
+12
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+13
+## name
+obstacle-at(x2, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(22)
+## hash index
+13
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+14
+## name
+obstacle-at(x2, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(23)
+## hash index
+14
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+15
+## name
+obstacle-at(x2, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(24)
+## hash index
+15
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+16
+## name
+obstacle-at(x2, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(25)
+## hash index
+16
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+17
+## name
+obstacle-at(x2, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(26)
+## hash index
+17
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+18
+## name
+obstacle-at(x3, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(27)
+## hash index
+18
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+19
+## name
+obstacle-at(x3, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(28)
+## hash index
+19
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+20
+## name
+obstacle-at(x3, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(29)
+## hash index
+20
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+21
+## name
+obstacle-at(x3, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(30)
+## hash index
+21
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+22
+## name
+obstacle-at(x3, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(31)
+## hash index
+22
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+23
+## name
+obstacle-at(x3, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(32)
+## hash index
+23
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+24
+## name
+obstacle-at(x3, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(33)
+## hash index
+24
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+25
+## name
+obstacle-at(x3, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(34)
+## hash index
+25
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+26
+## name
+obstacle-at(x3, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(35)
+## hash index
+26
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+27
+## name
+obstacle-at(x4, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(36)
+## hash index
+27
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+28
+## name
+obstacle-at(x4, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(37)
+## hash index
+28
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+29
+## name
+obstacle-at(x4, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(38)
+## hash index
+29
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+30
+## name
+obstacle-at(x4, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(39)
+## hash index
+30
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+31
+## name
+obstacle-at(x4, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(40)
+## hash index
+31
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+32
+## name
+obstacle-at(x4, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(41)
+## hash index
+32
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+33
+## name
+obstacle-at(x4, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(42)
+## hash index
+33
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+34
+## name
+obstacle-at(x4, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(43)
+## hash index
+34
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+35
+## name
+obstacle-at(x4, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(44)
+## hash index
+35
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+36
+## name
+obstacle-at(x5, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(45)
+## hash index
+36
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+37
+## name
+obstacle-at(x5, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(46)
+## hash index
+37
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+38
+## name
+obstacle-at(x5, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(47)
+## hash index
+38
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+39
+## name
+obstacle-at(x5, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(48)
+## hash index
+39
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+40
+## name
+obstacle-at(x5, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(49)
+## hash index
+40
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+41
+## name
+obstacle-at(x5, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(50)
+## hash index
+41
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+42
+## name
+obstacle-at(x5, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(51)
+## hash index
+42
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+43
+## name
+obstacle-at(x5, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(52)
+## hash index
+43
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+44
+## name
+obstacle-at(x5, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(53)
+## hash index
+44
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+45
+## name
+obstacle-at(x6, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(54)
+## hash index
+45
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+46
+## name
+obstacle-at(x6, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(55)
+## hash index
+46
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+47
+## name
+obstacle-at(x6, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(56)
+## hash index
+47
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+48
+## name
+obstacle-at(x6, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(57)
+## hash index
+48
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+49
+## name
+obstacle-at(x6, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(58)
+## hash index
+49
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+50
+## name
+obstacle-at(x6, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(59)
+## hash index
+50
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+51
+## name
+obstacle-at(x6, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(60)
+## hash index
+51
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+52
+## name
+obstacle-at(x6, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(61)
+## hash index
+52
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+53
+## name
+obstacle-at(x6, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(62)
+## hash index
+53
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+54
+## name
+obstacle-at(x7, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(151)
+## hash index
+54
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+55
+## name
+obstacle-at(x7, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(152)
+## hash index
+55
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+56
+## name
+obstacle-at(x7, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(153)
+## hash index
+56
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+57
+## name
+obstacle-at(x7, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(154)
+## hash index
+57
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+58
+## name
+obstacle-at(x7, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(155)
+## hash index
+58
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+59
+## name
+obstacle-at(x7, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(156)
+## hash index
+59
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+60
+## name
+obstacle-at(x7, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(157)
+## hash index
+60
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+61
+## name
+obstacle-at(x7, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(158)
+## hash index
+61
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+62
+## name
+obstacle-at(x7, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+$s(159)
+## hash index
+62
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+63
+## name
+robot-at(x1, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(63)) : $c(0)) (and($a(2) $s(66) ~($s(1))) : $c(1)) (and($a(0) $s(63)) : $c(0)) (and($a(3) $s(74)) : $c(1)) ($c(1) : $s(63)) )
+## hash index
+63
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+64
+## name
+robot-at(x1, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(73) ~($s(8))) : $c(1)) (and($a(1) $s(64)) : $c(0)) (and($a(2) $s(65)) : $c(1)) (and($a(2) $s(64)) : $c(0)) (and($a(0) $s(64)) : $c(0)) (and($a(3) $s(75) ~($s(9))) : $c(1)) ($c(1) : and($s(64) ~($s(0)))) )
+## hash index
+64
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+65
+## name
+robot-at(x1, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(64) ~($s(0))) : $c(1)) (and($a(2) $s(65)) : $c(0)) (and($a(0) $s(65)) : $c(0)) (and($a(3) $s(76)) : $c(1)) ($c(1) : $s(65)) )
+## hash index
+65
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+66
+## name
+robot-at(x1, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(63)) : $c(1)) (and($a(1) $s(66)) : $c(0)) (and($a(2) $s(67) ~($s(2))) : $c(1)) (and($a(2) $s(66)) : $c(0)) (and($a(0) $s(66)) : $c(0)) (and($a(3) $s(77) ~($s(10))) : $c(1)) ($c(1) : and($s(66) ~($s(1)))) )
+## hash index
+66
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+67
+## name
+robot-at(x1, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(66) ~($s(1))) : $c(1)) (and($a(1) $s(67)) : $c(0)) (and($a(2) $s(68) ~($s(3))) : $c(1)) (and($a(2) $s(67)) : $c(0)) (and($a(0) $s(67)) : $c(0)) (and($a(3) $s(78) ~($s(11))) : $c(1)) ($c(1) : and($s(67) ~($s(2)))) )
+## hash index
+67
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+68
+## name
+robot-at(x1, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(67) ~($s(2))) : $c(1)) (and($a(1) $s(68)) : $c(0)) (and($a(2) $s(69) ~($s(4))) : $c(1)) (and($a(2) $s(68)) : $c(0)) (and($a(0) $s(68)) : $c(0)) (and($a(3) $s(79) ~($s(12))) : $c(1)) ($c(1) : and($s(68) ~($s(3)))) )
+## hash index
+68
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+69
+## name
+robot-at(x1, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(68) ~($s(3))) : $c(1)) (and($a(1) $s(69)) : $c(0)) (and($a(2) $s(70) ~($s(5))) : $c(1)) (and($a(2) $s(69)) : $c(0)) (and($a(0) $s(69)) : $c(0)) (and($a(3) $s(80) ~($s(13))) : $c(1)) ($c(1) : and($s(69) ~($s(4)))) )
+## hash index
+69
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+70
+## name
+robot-at(x1, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(69) ~($s(4))) : $c(1)) (and($a(1) $s(70)) : $c(0)) (and($a(2) $s(71) ~($s(6))) : $c(1)) (and($a(2) $s(70)) : $c(0)) (and($a(0) $s(70)) : $c(0)) (and($a(3) $s(81) ~($s(14))) : $c(1)) ($c(1) : and($s(70) ~($s(5)))) )
+## hash index
+70
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+71
+## name
+robot-at(x1, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(70) ~($s(5))) : $c(1)) (and($a(1) $s(71)) : $c(0)) (and($a(2) $s(72) ~($s(7))) : $c(1)) (and($a(2) $s(71)) : $c(0)) (and($a(0) $s(71)) : $c(0)) (and($a(3) $s(82) ~($s(15))) : $c(1)) ($c(1) : and($s(71) ~($s(6)))) )
+## hash index
+71
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+72
+## name
+robot-at(x1, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(71) ~($s(6))) : $c(1)) (and($a(1) $s(72)) : $c(0)) (and($a(2) $s(73) ~($s(8))) : $c(1)) (and($a(2) $s(72)) : $c(0)) (and($a(0) $s(72)) : $c(0)) (and($a(3) $s(83) ~($s(16))) : $c(1)) ($c(1) : and($s(72) ~($s(7)))) )
+## hash index
+72
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+73
+## name
+robot-at(x1, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(72) ~($s(7))) : $c(1)) (and($a(1) $s(73)) : $c(0)) (and($a(2) $s(64) ~($s(0))) : $c(1)) (and($a(2) $s(73)) : $c(0)) (and($a(0) $s(73)) : $c(0)) (and($a(3) $s(84) ~($s(17))) : $c(1)) ($c(1) : and($s(73) ~($s(8)))) )
+## hash index
+73
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+74
+## name
+robot-at(x2, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(74)) : $c(0)) (and($a(2) $s(77) ~($s(10))) : $c(1)) (and($a(0) $s(63)) : $c(1)) (and($a(0) $s(74)) : $c(0)) (and($a(3) $s(85)) : $c(1)) (and($a(3) $s(74)) : $c(0)) ($c(1) : $s(74)) )
+## hash index
+74
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+75
+## name
+robot-at(x2, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(84) ~($s(17))) : $c(1)) (and($a(1) $s(75)) : $c(0)) (and($a(2) $s(76)) : $c(1)) (and($a(2) $s(75)) : $c(0)) (and($a(0) $s(64) ~($s(0))) : $c(1)) (and($a(0) $s(75)) : $c(0)) (and($a(3) $s(86) ~($s(18))) : $c(1)) (and($a(3) $s(75)) : $c(0)) ($c(1) : and($s(75) ~($s(9)))) )
+## hash index
+75
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+76
+## name
+robot-at(x2, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(75) ~($s(9))) : $c(1)) (and($a(2) $s(76)) : $c(0)) (and($a(0) $s(65)) : $c(1)) (and($a(0) $s(76)) : $c(0)) (and($a(3) $s(87)) : $c(1)) (and($a(3) $s(76)) : $c(0)) ($c(1) : $s(76)) )
+## hash index
+76
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+77
+## name
+robot-at(x2, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(74)) : $c(1)) (and($a(1) $s(77)) : $c(0)) (and($a(2) $s(78) ~($s(11))) : $c(1)) (and($a(2) $s(77)) : $c(0)) (and($a(0) $s(66) ~($s(1))) : $c(1)) (and($a(0) $s(77)) : $c(0)) (and($a(3) $s(88) ~($s(19))) : $c(1)) (and($a(3) $s(77)) : $c(0)) ($c(1) : and($s(77) ~($s(10)))) )
+## hash index
+77
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+78
+## name
+robot-at(x2, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(77) ~($s(10))) : $c(1)) (and($a(1) $s(78)) : $c(0)) (and($a(2) $s(79) ~($s(12))) : $c(1)) (and($a(2) $s(78)) : $c(0)) (and($a(0) $s(67) ~($s(2))) : $c(1)) (and($a(0) $s(78)) : $c(0)) (and($a(3) $s(89) ~($s(20))) : $c(1)) (and($a(3) $s(78)) : $c(0)) ($c(1) : and($s(78) ~($s(11)))) )
+## hash index
+78
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+79
+## name
+robot-at(x2, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(78) ~($s(11))) : $c(1)) (and($a(1) $s(79)) : $c(0)) (and($a(2) $s(80) ~($s(13))) : $c(1)) (and($a(2) $s(79)) : $c(0)) (and($a(0) $s(68) ~($s(3))) : $c(1)) (and($a(0) $s(79)) : $c(0)) (and($a(3) $s(90) ~($s(21))) : $c(1)) (and($a(3) $s(79)) : $c(0)) ($c(1) : and($s(79) ~($s(12)))) )
+## hash index
+79
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+80
+## name
+robot-at(x2, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(79) ~($s(12))) : $c(1)) (and($a(1) $s(80)) : $c(0)) (and($a(2) $s(81) ~($s(14))) : $c(1)) (and($a(2) $s(80)) : $c(0)) (and($a(0) $s(69) ~($s(4))) : $c(1)) (and($a(0) $s(80)) : $c(0)) (and($a(3) $s(91) ~($s(22))) : $c(1)) (and($a(3) $s(80)) : $c(0)) ($c(1) : and($s(80) ~($s(13)))) )
+## hash index
+80
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+81
+## name
+robot-at(x2, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(80) ~($s(13))) : $c(1)) (and($a(1) $s(81)) : $c(0)) (and($a(2) $s(82) ~($s(15))) : $c(1)) (and($a(2) $s(81)) : $c(0)) (and($a(0) $s(70) ~($s(5))) : $c(1)) (and($a(0) $s(81)) : $c(0)) (and($a(3) $s(92) ~($s(23))) : $c(1)) (and($a(3) $s(81)) : $c(0)) ($c(1) : and($s(81) ~($s(14)))) )
+## hash index
+81
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+82
+## name
+robot-at(x2, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(81) ~($s(14))) : $c(1)) (and($a(1) $s(82)) : $c(0)) (and($a(2) $s(83) ~($s(16))) : $c(1)) (and($a(2) $s(82)) : $c(0)) (and($a(0) $s(71) ~($s(6))) : $c(1)) (and($a(0) $s(82)) : $c(0)) (and($a(3) $s(93) ~($s(24))) : $c(1)) (and($a(3) $s(82)) : $c(0)) ($c(1) : and($s(82) ~($s(15)))) )
+## hash index
+82
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+83
+## name
+robot-at(x2, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(82) ~($s(15))) : $c(1)) (and($a(1) $s(83)) : $c(0)) (and($a(2) $s(84) ~($s(17))) : $c(1)) (and($a(2) $s(83)) : $c(0)) (and($a(0) $s(72) ~($s(7))) : $c(1)) (and($a(0) $s(83)) : $c(0)) (and($a(3) $s(94) ~($s(25))) : $c(1)) (and($a(3) $s(83)) : $c(0)) ($c(1) : and($s(83) ~($s(16)))) )
+## hash index
+83
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+84
+## name
+robot-at(x2, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(83) ~($s(16))) : $c(1)) (and($a(1) $s(84)) : $c(0)) (and($a(2) $s(75) ~($s(9))) : $c(1)) (and($a(2) $s(84)) : $c(0)) (and($a(0) $s(73) ~($s(8))) : $c(1)) (and($a(0) $s(84)) : $c(0)) (and($a(3) $s(95) ~($s(26))) : $c(1)) (and($a(3) $s(84)) : $c(0)) ($c(1) : and($s(84) ~($s(17)))) )
+## hash index
+84
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+85
+## name
+robot-at(x3, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(85)) : $c(0)) (and($a(2) $s(88) ~($s(19))) : $c(1)) (and($a(0) $s(74)) : $c(1)) (and($a(0) $s(85)) : $c(0)) (and($a(3) $s(96)) : $c(1)) (and($a(3) $s(85)) : $c(0)) ($c(1) : $s(85)) )
+## hash index
+85
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+86
+## name
+robot-at(x3, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(95) ~($s(26))) : $c(1)) (and($a(1) $s(86)) : $c(0)) (and($a(2) $s(87)) : $c(1)) (and($a(2) $s(86)) : $c(0)) (and($a(0) $s(75) ~($s(9))) : $c(1)) (and($a(0) $s(86)) : $c(0)) (and($a(3) $s(97) ~($s(27))) : $c(1)) (and($a(3) $s(86)) : $c(0)) ($c(1) : and($s(86) ~($s(18)))) )
+## hash index
+86
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+87
+## name
+robot-at(x3, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(86) ~($s(18))) : $c(1)) (and($a(2) $s(87)) : $c(0)) (and($a(0) $s(76)) : $c(1)) (and($a(0) $s(87)) : $c(0)) (and($a(3) $s(98)) : $c(1)) (and($a(3) $s(87)) : $c(0)) ($c(1) : $s(87)) )
+## hash index
+87
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+88
+## name
+robot-at(x3, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(85)) : $c(1)) (and($a(1) $s(88)) : $c(0)) (and($a(2) $s(89) ~($s(20))) : $c(1)) (and($a(2) $s(88)) : $c(0)) (and($a(0) $s(77) ~($s(10))) : $c(1)) (and($a(0) $s(88)) : $c(0)) (and($a(3) $s(99) ~($s(28))) : $c(1)) (and($a(3) $s(88)) : $c(0)) ($c(1) : and($s(88) ~($s(19)))) )
+## hash index
+88
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+89
+## name
+robot-at(x3, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(88) ~($s(19))) : $c(1)) (and($a(1) $s(89)) : $c(0)) (and($a(2) $s(90) ~($s(21))) : $c(1)) (and($a(2) $s(89)) : $c(0)) (and($a(0) $s(78) ~($s(11))) : $c(1)) (and($a(0) $s(89)) : $c(0)) (and($a(3) $s(100) ~($s(29))) : $c(1)) (and($a(3) $s(89)) : $c(0)) ($c(1) : and($s(89) ~($s(20)))) )
+## hash index
+89
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+90
+## name
+robot-at(x3, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(89) ~($s(20))) : $c(1)) (and($a(1) $s(90)) : $c(0)) (and($a(2) $s(91) ~($s(22))) : $c(1)) (and($a(2) $s(90)) : $c(0)) (and($a(0) $s(79) ~($s(12))) : $c(1)) (and($a(0) $s(90)) : $c(0)) (and($a(3) $s(101) ~($s(30))) : $c(1)) (and($a(3) $s(90)) : $c(0)) ($c(1) : and($s(90) ~($s(21)))) )
+## hash index
+90
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+91
+## name
+robot-at(x3, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(90) ~($s(21))) : $c(1)) (and($a(1) $s(91)) : $c(0)) (and($a(2) $s(92) ~($s(23))) : $c(1)) (and($a(2) $s(91)) : $c(0)) (and($a(0) $s(80) ~($s(13))) : $c(1)) (and($a(0) $s(91)) : $c(0)) (and($a(3) $s(102) ~($s(31))) : $c(1)) (and($a(3) $s(91)) : $c(0)) ($c(1) : and($s(91) ~($s(22)))) )
+## hash index
+91
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+92
+## name
+robot-at(x3, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(91) ~($s(22))) : $c(1)) (and($a(1) $s(92)) : $c(0)) (and($a(2) $s(93) ~($s(24))) : $c(1)) (and($a(2) $s(92)) : $c(0)) (and($a(0) $s(81) ~($s(14))) : $c(1)) (and($a(0) $s(92)) : $c(0)) (and($a(3) $s(103) ~($s(32))) : $c(1)) (and($a(3) $s(92)) : $c(0)) ($c(1) : and($s(92) ~($s(23)))) )
+## hash index
+92
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+93
+## name
+robot-at(x3, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(92) ~($s(23))) : $c(1)) (and($a(1) $s(93)) : $c(0)) (and($a(2) $s(94) ~($s(25))) : $c(1)) (and($a(2) $s(93)) : $c(0)) (and($a(0) $s(82) ~($s(15))) : $c(1)) (and($a(0) $s(93)) : $c(0)) (and($a(3) $s(104) ~($s(33))) : $c(1)) (and($a(3) $s(93)) : $c(0)) ($c(1) : and($s(93) ~($s(24)))) )
+## hash index
+93
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+94
+## name
+robot-at(x3, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(93) ~($s(24))) : $c(1)) (and($a(1) $s(94)) : $c(0)) (and($a(2) $s(95) ~($s(26))) : $c(1)) (and($a(2) $s(94)) : $c(0)) (and($a(0) $s(83) ~($s(16))) : $c(1)) (and($a(0) $s(94)) : $c(0)) (and($a(3) $s(105) ~($s(34))) : $c(1)) (and($a(3) $s(94)) : $c(0)) ($c(1) : and($s(94) ~($s(25)))) )
+## hash index
+94
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+95
+## name
+robot-at(x3, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(94) ~($s(25))) : $c(1)) (and($a(1) $s(95)) : $c(0)) (and($a(2) $s(86) ~($s(18))) : $c(1)) (and($a(2) $s(95)) : $c(0)) (and($a(0) $s(84) ~($s(17))) : $c(1)) (and($a(0) $s(95)) : $c(0)) (and($a(3) $s(106) ~($s(35))) : $c(1)) (and($a(3) $s(95)) : $c(0)) ($c(1) : and($s(95) ~($s(26)))) )
+## hash index
+95
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+96
+## name
+robot-at(x4, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(96)) : $c(0)) (and($a(2) $s(99) ~($s(28))) : $c(1)) (and($a(0) $s(85)) : $c(1)) (and($a(0) $s(96)) : $c(0)) (and($a(3) $s(107)) : $c(1)) (and($a(3) $s(96)) : $c(0)) ($c(1) : $s(96)) )
+## hash index
+96
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+97
+## name
+robot-at(x4, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(106) ~($s(35))) : $c(1)) (and($a(1) $s(97)) : $c(0)) (and($a(2) $s(98)) : $c(1)) (and($a(2) $s(97)) : $c(0)) (and($a(0) $s(86) ~($s(18))) : $c(1)) (and($a(0) $s(97)) : $c(0)) (and($a(3) $s(108) ~($s(36))) : $c(1)) (and($a(3) $s(97)) : $c(0)) ($c(1) : and($s(97) ~($s(27)))) )
+## hash index
+97
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+98
+## name
+robot-at(x4, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(97) ~($s(27))) : $c(1)) (and($a(2) $s(98)) : $c(0)) (and($a(0) $s(87)) : $c(1)) (and($a(0) $s(98)) : $c(0)) (and($a(3) $s(109)) : $c(1)) (and($a(3) $s(98)) : $c(0)) ($c(1) : $s(98)) )
+## hash index
+98
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+99
+## name
+robot-at(x4, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(96)) : $c(1)) (and($a(1) $s(99)) : $c(0)) (and($a(2) $s(100) ~($s(29))) : $c(1)) (and($a(2) $s(99)) : $c(0)) (and($a(0) $s(88) ~($s(19))) : $c(1)) (and($a(0) $s(99)) : $c(0)) (and($a(3) $s(110) ~($s(37))) : $c(1)) (and($a(3) $s(99)) : $c(0)) ($c(1) : and($s(99) ~($s(28)))) )
+## hash index
+99
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+100
+## name
+robot-at(x4, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(99) ~($s(28))) : $c(1)) (and($a(1) $s(100)) : $c(0)) (and($a(2) $s(101) ~($s(30))) : $c(1)) (and($a(2) $s(100)) : $c(0)) (and($a(0) $s(89) ~($s(20))) : $c(1)) (and($a(0) $s(100)) : $c(0)) (and($a(3) $s(111) ~($s(38))) : $c(1)) (and($a(3) $s(100)) : $c(0)) ($c(1) : and($s(100) ~($s(29)))) )
+## hash index
+100
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+101
+## name
+robot-at(x4, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(100) ~($s(29))) : $c(1)) (and($a(1) $s(101)) : $c(0)) (and($a(2) $s(102) ~($s(31))) : $c(1)) (and($a(2) $s(101)) : $c(0)) (and($a(0) $s(90) ~($s(21))) : $c(1)) (and($a(0) $s(101)) : $c(0)) (and($a(3) $s(112) ~($s(39))) : $c(1)) (and($a(3) $s(101)) : $c(0)) ($c(1) : and($s(101) ~($s(30)))) )
+## hash index
+101
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+102
+## name
+robot-at(x4, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(101) ~($s(30))) : $c(1)) (and($a(1) $s(102)) : $c(0)) (and($a(2) $s(103) ~($s(32))) : $c(1)) (and($a(2) $s(102)) : $c(0)) (and($a(0) $s(91) ~($s(22))) : $c(1)) (and($a(0) $s(102)) : $c(0)) (and($a(3) $s(113) ~($s(40))) : $c(1)) (and($a(3) $s(102)) : $c(0)) ($c(1) : and($s(102) ~($s(31)))) )
+## hash index
+102
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+103
+## name
+robot-at(x4, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(102) ~($s(31))) : $c(1)) (and($a(1) $s(103)) : $c(0)) (and($a(2) $s(104) ~($s(33))) : $c(1)) (and($a(2) $s(103)) : $c(0)) (and($a(0) $s(92) ~($s(23))) : $c(1)) (and($a(0) $s(103)) : $c(0)) (and($a(3) $s(114) ~($s(41))) : $c(1)) (and($a(3) $s(103)) : $c(0)) ($c(1) : and($s(103) ~($s(32)))) )
+## hash index
+103
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+104
+## name
+robot-at(x4, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(103) ~($s(32))) : $c(1)) (and($a(1) $s(104)) : $c(0)) (and($a(2) $s(105) ~($s(34))) : $c(1)) (and($a(2) $s(104)) : $c(0)) (and($a(0) $s(93) ~($s(24))) : $c(1)) (and($a(0) $s(104)) : $c(0)) (and($a(3) $s(115) ~($s(42))) : $c(1)) (and($a(3) $s(104)) : $c(0)) ($c(1) : and($s(104) ~($s(33)))) )
+## hash index
+104
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+105
+## name
+robot-at(x4, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(104) ~($s(33))) : $c(1)) (and($a(1) $s(105)) : $c(0)) (and($a(2) $s(106) ~($s(35))) : $c(1)) (and($a(2) $s(105)) : $c(0)) (and($a(0) $s(94) ~($s(25))) : $c(1)) (and($a(0) $s(105)) : $c(0)) (and($a(3) $s(116) ~($s(43))) : $c(1)) (and($a(3) $s(105)) : $c(0)) ($c(1) : and($s(105) ~($s(34)))) )
+## hash index
+105
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+106
+## name
+robot-at(x4, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(105) ~($s(34))) : $c(1)) (and($a(1) $s(106)) : $c(0)) (and($a(2) $s(97) ~($s(27))) : $c(1)) (and($a(2) $s(106)) : $c(0)) (and($a(0) $s(95) ~($s(26))) : $c(1)) (and($a(0) $s(106)) : $c(0)) (and($a(3) $s(117) ~($s(44))) : $c(1)) (and($a(3) $s(106)) : $c(0)) ($c(1) : and($s(106) ~($s(35)))) )
+## hash index
+106
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+107
+## name
+robot-at(x5, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(107)) : $c(0)) (and($a(2) $s(110) ~($s(37))) : $c(1)) (and($a(0) $s(96)) : $c(1)) (and($a(0) $s(107)) : $c(0)) (and($a(3) $s(118)) : $c(1)) (and($a(3) $s(107)) : $c(0)) ($c(1) : $s(107)) )
+## hash index
+107
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+108
+## name
+robot-at(x5, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(117) ~($s(44))) : $c(1)) (and($a(1) $s(108)) : $c(0)) (and($a(2) $s(109)) : $c(1)) (and($a(2) $s(108)) : $c(0)) (and($a(0) $s(97) ~($s(27))) : $c(1)) (and($a(0) $s(108)) : $c(0)) (and($a(3) $s(119) ~($s(45))) : $c(1)) (and($a(3) $s(108)) : $c(0)) ($c(1) : and($s(108) ~($s(36)))) )
+## hash index
+108
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+109
+## name
+robot-at(x5, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(108) ~($s(36))) : $c(1)) (and($a(2) $s(109)) : $c(0)) (and($a(0) $s(98)) : $c(1)) (and($a(0) $s(109)) : $c(0)) (and($a(3) $s(120)) : $c(1)) (and($a(3) $s(109)) : $c(0)) ($c(1) : $s(109)) )
+## hash index
+109
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+110
+## name
+robot-at(x5, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(107)) : $c(1)) (and($a(1) $s(110)) : $c(0)) (and($a(2) $s(111) ~($s(38))) : $c(1)) (and($a(2) $s(110)) : $c(0)) (and($a(0) $s(99) ~($s(28))) : $c(1)) (and($a(0) $s(110)) : $c(0)) (and($a(3) $s(121) ~($s(46))) : $c(1)) (and($a(3) $s(110)) : $c(0)) ($c(1) : and($s(110) ~($s(37)))) )
+## hash index
+110
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+111
+## name
+robot-at(x5, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(110) ~($s(37))) : $c(1)) (and($a(1) $s(111)) : $c(0)) (and($a(2) $s(112) ~($s(39))) : $c(1)) (and($a(2) $s(111)) : $c(0)) (and($a(0) $s(100) ~($s(29))) : $c(1)) (and($a(0) $s(111)) : $c(0)) (and($a(3) $s(122) ~($s(47))) : $c(1)) (and($a(3) $s(111)) : $c(0)) ($c(1) : and($s(111) ~($s(38)))) )
+## hash index
+111
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+112
+## name
+robot-at(x5, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(111) ~($s(38))) : $c(1)) (and($a(1) $s(112)) : $c(0)) (and($a(2) $s(113) ~($s(40))) : $c(1)) (and($a(2) $s(112)) : $c(0)) (and($a(0) $s(101) ~($s(30))) : $c(1)) (and($a(0) $s(112)) : $c(0)) (and($a(3) $s(123) ~($s(48))) : $c(1)) (and($a(3) $s(112)) : $c(0)) ($c(1) : and($s(112) ~($s(39)))) )
+## hash index
+112
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+113
+## name
+robot-at(x5, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(112) ~($s(39))) : $c(1)) (and($a(1) $s(113)) : $c(0)) (and($a(2) $s(114) ~($s(41))) : $c(1)) (and($a(2) $s(113)) : $c(0)) (and($a(0) $s(102) ~($s(31))) : $c(1)) (and($a(0) $s(113)) : $c(0)) (and($a(3) $s(124) ~($s(49))) : $c(1)) (and($a(3) $s(113)) : $c(0)) ($c(1) : and($s(113) ~($s(40)))) )
+## hash index
+113
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+114
+## name
+robot-at(x5, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(113) ~($s(40))) : $c(1)) (and($a(1) $s(114)) : $c(0)) (and($a(2) $s(115) ~($s(42))) : $c(1)) (and($a(2) $s(114)) : $c(0)) (and($a(0) $s(103) ~($s(32))) : $c(1)) (and($a(0) $s(114)) : $c(0)) (and($a(3) $s(125) ~($s(50))) : $c(1)) (and($a(3) $s(114)) : $c(0)) ($c(1) : and($s(114) ~($s(41)))) )
+## hash index
+114
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+115
+## name
+robot-at(x5, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(114) ~($s(41))) : $c(1)) (and($a(1) $s(115)) : $c(0)) (and($a(2) $s(116) ~($s(43))) : $c(1)) (and($a(2) $s(115)) : $c(0)) (and($a(0) $s(104) ~($s(33))) : $c(1)) (and($a(0) $s(115)) : $c(0)) (and($a(3) $s(126) ~($s(51))) : $c(1)) (and($a(3) $s(115)) : $c(0)) ($c(1) : and($s(115) ~($s(42)))) )
+## hash index
+115
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+116
+## name
+robot-at(x5, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(115) ~($s(42))) : $c(1)) (and($a(1) $s(116)) : $c(0)) (and($a(2) $s(117) ~($s(44))) : $c(1)) (and($a(2) $s(116)) : $c(0)) (and($a(0) $s(105) ~($s(34))) : $c(1)) (and($a(0) $s(116)) : $c(0)) (and($a(3) $s(127) ~($s(52))) : $c(1)) (and($a(3) $s(116)) : $c(0)) ($c(1) : and($s(116) ~($s(43)))) )
+## hash index
+116
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+117
+## name
+robot-at(x5, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(116) ~($s(43))) : $c(1)) (and($a(1) $s(117)) : $c(0)) (and($a(2) $s(108) ~($s(36))) : $c(1)) (and($a(2) $s(117)) : $c(0)) (and($a(0) $s(106) ~($s(35))) : $c(1)) (and($a(0) $s(117)) : $c(0)) (and($a(3) $s(128) ~($s(53))) : $c(1)) (and($a(3) $s(117)) : $c(0)) ($c(1) : and($s(117) ~($s(44)))) )
+## hash index
+117
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+118
+## name
+robot-at(x6, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(118)) : $c(0)) (and($a(2) $s(121) ~($s(46))) : $c(1)) (and($a(0) $s(107)) : $c(1)) (and($a(0) $s(118)) : $c(0)) (and($a(3) $s(129)) : $c(1)) (and($a(3) $s(118)) : $c(0)) ($c(1) : $s(118)) )
+## hash index
+118
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+119
+## name
+robot-at(x6, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(128) ~($s(53))) : $c(1)) (and($a(1) $s(119)) : $c(0)) (and($a(2) $s(120)) : $c(1)) (and($a(2) $s(119)) : $c(0)) (and($a(0) $s(108) ~($s(36))) : $c(1)) (and($a(0) $s(119)) : $c(0)) (and($a(3) $s(130) ~($s(54))) : $c(1)) (and($a(3) $s(119)) : $c(0)) ($c(1) : and($s(119) ~($s(45)))) )
+## hash index
+119
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+120
+## name
+robot-at(x6, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(119) ~($s(45))) : $c(1)) (and($a(2) $s(120)) : $c(0)) (and($a(0) $s(109)) : $c(1)) (and($a(0) $s(120)) : $c(0)) (and($a(3) $s(131)) : $c(1)) (and($a(3) $s(120)) : $c(0)) ($c(1) : $s(120)) )
+## hash index
+120
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+121
+## name
+robot-at(x6, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(118)) : $c(1)) (and($a(1) $s(121)) : $c(0)) (and($a(2) $s(122) ~($s(47))) : $c(1)) (and($a(2) $s(121)) : $c(0)) (and($a(0) $s(110) ~($s(37))) : $c(1)) (and($a(0) $s(121)) : $c(0)) (and($a(3) $s(132) ~($s(55))) : $c(1)) (and($a(3) $s(121)) : $c(0)) ($c(1) : and($s(121) ~($s(46)))) )
+## hash index
+121
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+122
+## name
+robot-at(x6, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(121) ~($s(46))) : $c(1)) (and($a(1) $s(122)) : $c(0)) (and($a(2) $s(123) ~($s(48))) : $c(1)) (and($a(2) $s(122)) : $c(0)) (and($a(0) $s(111) ~($s(38))) : $c(1)) (and($a(0) $s(122)) : $c(0)) (and($a(3) $s(133) ~($s(56))) : $c(1)) (and($a(3) $s(122)) : $c(0)) ($c(1) : and($s(122) ~($s(47)))) )
+## hash index
+122
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+123
+## name
+robot-at(x6, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(122) ~($s(47))) : $c(1)) (and($a(1) $s(123)) : $c(0)) (and($a(2) $s(124) ~($s(49))) : $c(1)) (and($a(2) $s(123)) : $c(0)) (and($a(0) $s(112) ~($s(39))) : $c(1)) (and($a(0) $s(123)) : $c(0)) (and($a(3) $s(134) ~($s(57))) : $c(1)) (and($a(3) $s(123)) : $c(0)) ($c(1) : and($s(123) ~($s(48)))) )
+## hash index
+123
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+124
+## name
+robot-at(x6, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(123) ~($s(48))) : $c(1)) (and($a(1) $s(124)) : $c(0)) (and($a(2) $s(125) ~($s(50))) : $c(1)) (and($a(2) $s(124)) : $c(0)) (and($a(0) $s(113) ~($s(40))) : $c(1)) (and($a(0) $s(124)) : $c(0)) (and($a(3) $s(135) ~($s(58))) : $c(1)) (and($a(3) $s(124)) : $c(0)) ($c(1) : and($s(124) ~($s(49)))) )
+## hash index
+124
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+125
+## name
+robot-at(x6, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(124) ~($s(49))) : $c(1)) (and($a(1) $s(125)) : $c(0)) (and($a(2) $s(126) ~($s(51))) : $c(1)) (and($a(2) $s(125)) : $c(0)) (and($a(0) $s(114) ~($s(41))) : $c(1)) (and($a(0) $s(125)) : $c(0)) (and($a(3) $s(136) ~($s(59))) : $c(1)) (and($a(3) $s(125)) : $c(0)) ($c(1) : and($s(125) ~($s(50)))) )
+## hash index
+125
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+126
+## name
+robot-at(x6, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(125) ~($s(50))) : $c(1)) (and($a(1) $s(126)) : $c(0)) (and($a(2) $s(127) ~($s(52))) : $c(1)) (and($a(2) $s(126)) : $c(0)) (and($a(0) $s(115) ~($s(42))) : $c(1)) (and($a(0) $s(126)) : $c(0)) (and($a(3) $s(137) ~($s(60))) : $c(1)) (and($a(3) $s(126)) : $c(0)) ($c(1) : and($s(126) ~($s(51)))) )
+## hash index
+126
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+127
+## name
+robot-at(x6, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(126) ~($s(51))) : $c(1)) (and($a(1) $s(127)) : $c(0)) (and($a(2) $s(128) ~($s(53))) : $c(1)) (and($a(2) $s(127)) : $c(0)) (and($a(0) $s(116) ~($s(43))) : $c(1)) (and($a(0) $s(127)) : $c(0)) (and($a(3) $s(138) ~($s(61))) : $c(1)) (and($a(3) $s(127)) : $c(0)) ($c(1) : and($s(127) ~($s(52)))) )
+## hash index
+127
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+128
+## name
+robot-at(x6, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(127) ~($s(52))) : $c(1)) (and($a(1) $s(128)) : $c(0)) (and($a(2) $s(119) ~($s(45))) : $c(1)) (and($a(2) $s(128)) : $c(0)) (and($a(0) $s(117) ~($s(44))) : $c(1)) (and($a(0) $s(128)) : $c(0)) (and($a(3) $s(139) ~($s(62))) : $c(1)) (and($a(3) $s(128)) : $c(0)) ($c(1) : and($s(128) ~($s(53)))) )
+## hash index
+128
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+129
+## name
+robot-at(x7, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(129)) : $c(0)) (and($a(2) $s(132) ~($s(55))) : $c(1)) (and($a(0) $s(118)) : $c(1)) (and($a(0) $s(129)) : $c(0)) (and($a(3) $s(140)) : $c(1)) (and($a(3) $s(129)) : $c(0)) ($c(1) : $s(129)) )
+## hash index
+129
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+130
+## name
+robot-at(x7, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(139) ~($s(62))) : $c(1)) (and($a(1) $s(130)) : $c(0)) (and($a(2) $s(131)) : $c(1)) (and($a(2) $s(130)) : $c(0)) (and($a(0) $s(119) ~($s(45))) : $c(1)) (and($a(0) $s(130)) : $c(0)) (and($a(3) $s(141) ~($s(151))) : $c(1)) (and($a(3) $s(130)) : $c(0)) ($c(1) : and($s(130) ~($s(54)))) )
+## hash index
+130
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+131
+## name
+robot-at(x7, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(130) ~($s(54))) : $c(1)) (and($a(2) $s(131)) : $c(0)) (and($a(0) $s(120)) : $c(1)) (and($a(0) $s(131)) : $c(0)) (and($a(3) $s(142)) : $c(1)) (and($a(3) $s(131)) : $c(0)) ($c(1) : $s(131)) )
+## hash index
+131
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+132
+## name
+robot-at(x7, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(129)) : $c(1)) (and($a(1) $s(132)) : $c(0)) (and($a(2) $s(133) ~($s(56))) : $c(1)) (and($a(2) $s(132)) : $c(0)) (and($a(0) $s(121) ~($s(46))) : $c(1)) (and($a(0) $s(132)) : $c(0)) (and($a(3) $s(143) ~($s(152))) : $c(1)) (and($a(3) $s(132)) : $c(0)) ($c(1) : and($s(132) ~($s(55)))) )
+## hash index
+132
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+133
+## name
+robot-at(x7, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(132) ~($s(55))) : $c(1)) (and($a(1) $s(133)) : $c(0)) (and($a(2) $s(134) ~($s(57))) : $c(1)) (and($a(2) $s(133)) : $c(0)) (and($a(0) $s(122) ~($s(47))) : $c(1)) (and($a(0) $s(133)) : $c(0)) (and($a(3) $s(144) ~($s(153))) : $c(1)) (and($a(3) $s(133)) : $c(0)) ($c(1) : and($s(133) ~($s(56)))) )
+## hash index
+133
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+134
+## name
+robot-at(x7, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(133) ~($s(56))) : $c(1)) (and($a(1) $s(134)) : $c(0)) (and($a(2) $s(135) ~($s(58))) : $c(1)) (and($a(2) $s(134)) : $c(0)) (and($a(0) $s(123) ~($s(48))) : $c(1)) (and($a(0) $s(134)) : $c(0)) (and($a(3) $s(145) ~($s(154))) : $c(1)) (and($a(3) $s(134)) : $c(0)) ($c(1) : and($s(134) ~($s(57)))) )
+## hash index
+134
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+135
+## name
+robot-at(x7, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(134) ~($s(57))) : $c(1)) (and($a(1) $s(135)) : $c(0)) (and($a(2) $s(136) ~($s(59))) : $c(1)) (and($a(2) $s(135)) : $c(0)) (and($a(0) $s(124) ~($s(49))) : $c(1)) (and($a(0) $s(135)) : $c(0)) (and($a(3) $s(146) ~($s(155))) : $c(1)) (and($a(3) $s(135)) : $c(0)) ($c(1) : and($s(135) ~($s(58)))) )
+## hash index
+135
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+136
+## name
+robot-at(x7, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(135) ~($s(58))) : $c(1)) (and($a(1) $s(136)) : $c(0)) (and($a(2) $s(137) ~($s(60))) : $c(1)) (and($a(2) $s(136)) : $c(0)) (and($a(0) $s(125) ~($s(50))) : $c(1)) (and($a(0) $s(136)) : $c(0)) (and($a(3) $s(147) ~($s(156))) : $c(1)) (and($a(3) $s(136)) : $c(0)) ($c(1) : and($s(136) ~($s(59)))) )
+## hash index
+136
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+137
+## name
+robot-at(x7, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(136) ~($s(59))) : $c(1)) (and($a(1) $s(137)) : $c(0)) (and($a(2) $s(138) ~($s(61))) : $c(1)) (and($a(2) $s(137)) : $c(0)) (and($a(0) $s(126) ~($s(51))) : $c(1)) (and($a(0) $s(137)) : $c(0)) (and($a(3) $s(148) ~($s(157))) : $c(1)) (and($a(3) $s(137)) : $c(0)) ($c(1) : and($s(137) ~($s(60)))) )
+## hash index
+137
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+138
+## name
+robot-at(x7, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(137) ~($s(60))) : $c(1)) (and($a(1) $s(138)) : $c(0)) (and($a(2) $s(139) ~($s(62))) : $c(1)) (and($a(2) $s(138)) : $c(0)) (and($a(0) $s(127) ~($s(52))) : $c(1)) (and($a(0) $s(138)) : $c(0)) (and($a(3) $s(149) ~($s(158))) : $c(1)) (and($a(3) $s(138)) : $c(0)) ($c(1) : and($s(138) ~($s(61)))) )
+## hash index
+138
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+139
+## name
+robot-at(x7, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(138) ~($s(61))) : $c(1)) (and($a(1) $s(139)) : $c(0)) (and($a(2) $s(130) ~($s(54))) : $c(1)) (and($a(2) $s(139)) : $c(0)) (and($a(0) $s(128) ~($s(53))) : $c(1)) (and($a(0) $s(139)) : $c(0)) (and($a(3) $s(150) ~($s(159))) : $c(1)) (and($a(3) $s(139)) : $c(0)) ($c(1) : and($s(139) ~($s(62)))) )
+## hash index
+139
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+140
+## name
+robot-at(x8, y1)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(140)) : $c(0)) (and($a(2) $s(143) ~($s(152))) : $c(1)) (and($a(0) $s(129)) : $c(1)) (and($a(3) $s(140)) : $c(0)) ($c(1) : $s(140)) )
+## hash index
+140
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+141
+## name
+robot-at(x8, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(150) ~($s(159))) : $c(1)) (and($a(1) $s(141)) : $c(0)) (and($a(2) $s(142)) : $c(1)) (and($a(2) $s(141)) : $c(0)) (and($a(0) $s(130) ~($s(54))) : $c(1)) (and($a(3) $s(141)) : $c(0)) ($c(1) : and($s(141) ~($s(151)))) )
+## hash index
+141
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+142
+## name
+robot-at(x8, y11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(1)) ($s(142) : $c(0)) (and($a(1) $s(141) ~($s(151))) : $c(1)) (and($a(2) $s(142)) : $c(0)) (and($a(0) $s(131)) : $c(1)) (and($a(3) $s(142)) : $c(0)) ($c(1) : $s(142)) )
+## hash index
+142
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+143
+## name
+robot-at(x8, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(140)) : $c(1)) (and($a(1) $s(143)) : $c(0)) (and($a(2) $s(144) ~($s(153))) : $c(1)) (and($a(2) $s(143)) : $c(0)) (and($a(0) $s(132) ~($s(55))) : $c(1)) (and($a(3) $s(143)) : $c(0)) ($c(1) : and($s(143) ~($s(152)))) )
+## hash index
+143
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+144
+## name
+robot-at(x8, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(143) ~($s(152))) : $c(1)) (and($a(1) $s(144)) : $c(0)) (and($a(2) $s(145) ~($s(154))) : $c(1)) (and($a(2) $s(144)) : $c(0)) (and($a(0) $s(133) ~($s(56))) : $c(1)) (and($a(3) $s(144)) : $c(0)) ($c(1) : and($s(144) ~($s(153)))) )
+## hash index
+144
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+145
+## name
+robot-at(x8, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(144) ~($s(153))) : $c(1)) (and($a(1) $s(145)) : $c(0)) (and($a(2) $s(146) ~($s(155))) : $c(1)) (and($a(2) $s(145)) : $c(0)) (and($a(0) $s(134) ~($s(57))) : $c(1)) (and($a(3) $s(145)) : $c(0)) ($c(1) : and($s(145) ~($s(154)))) )
+## hash index
+145
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+146
+## name
+robot-at(x8, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(145) ~($s(154))) : $c(1)) (and($a(1) $s(146)) : $c(0)) (and($a(2) $s(147) ~($s(156))) : $c(1)) (and($a(2) $s(146)) : $c(0)) (and($a(0) $s(135) ~($s(58))) : $c(1)) (and($a(3) $s(146)) : $c(0)) ($c(1) : and($s(146) ~($s(155)))) )
+## hash index
+146
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+147
+## name
+robot-at(x8, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(146) ~($s(155))) : $c(1)) (and($a(1) $s(147)) : $c(0)) (and($a(2) $s(148) ~($s(157))) : $c(1)) (and($a(2) $s(147)) : $c(0)) (and($a(0) $s(136) ~($s(59))) : $c(1)) (and($a(3) $s(147)) : $c(0)) ($c(1) : and($s(147) ~($s(156)))) )
+## hash index
+147
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+148
+## name
+robot-at(x8, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(147) ~($s(156))) : $c(1)) (and($a(1) $s(148)) : $c(0)) (and($a(2) $s(149) ~($s(158))) : $c(1)) (and($a(2) $s(148)) : $c(0)) (and($a(0) $s(137) ~($s(60))) : $c(1)) (and($a(3) $s(148)) : $c(0)) ($c(1) : and($s(148) ~($s(157)))) )
+## hash index
+148
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+149
+## name
+robot-at(x8, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(148) ~($s(157))) : $c(1)) (and($a(1) $s(149)) : $c(0)) (and($a(2) $s(150) ~($s(159))) : $c(1)) (and($a(2) $s(149)) : $c(0)) (and($a(0) $s(138) ~($s(61))) : $c(1)) (and($a(3) $s(149)) : $c(0)) ($c(1) : and($s(149) ~($s(158)))) )
+## hash index
+149
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+## index
+150
+## name
+robot-at(x8, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( ($s(142) : $c(0)) (and($a(1) $s(149) ~($s(158))) : $c(1)) (and($a(1) $s(150)) : $c(0)) (and($a(2) $s(141) ~($s(151))) : $c(1)) (and($a(2) $s(150)) : $c(0)) (and($a(0) $s(139) ~($s(62))) : $c(1)) (and($a(3) $s(150)) : $c(0)) ($c(1) : and($s(150) ~($s(159)))) )
+## hash index
+150
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+
+
+
+#####PROB STATE FLUENTS AND CPFS#####
+## index
+0
+## name
+obstacle-at(x8, y10)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+151
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+1
+## name
+obstacle-at(x8, y2)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+152
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+2
+## name
+obstacle-at(x8, y3)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+153
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+3
+## name
+obstacle-at(x8, y4)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+154
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+4
+## name
+obstacle-at(x8, y5)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+155
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+5
+## name
+obstacle-at(x8, y6)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+156
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+6
+## name
+obstacle-at(x8, y7)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+157
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+7
+## name
+obstacle-at(x8, y8)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+158
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+## index
+8
+## name
+obstacle-at(x8, y9)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+Bernoulli($c(0.2))
+## hash index
+159
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+
+
+#####REWARD#####
+## formula
+-($c(0) ~($s(142)))
+## min
+-1
+## max
+0
+## independent from actions
+1
+## hash index
+160
+## caching type
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+
+
+#####PRECONDITIONS#####
+
+
+#####ACTION STATES#####
+## index
+0
+## state
+0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+1
+## state
+0 0 0 1 
+## relevant preconditions
+0
+
+
+## index
+2
+## state
+0 0 1 0 
+## relevant preconditions
+0
+
+
+## index
+3
+## state
+0 1 0 0 
+## relevant preconditions
+0
+
+
+## index
+4
+## state
+1 0 0 0 
+## relevant preconditions
+0
+
+
+
+#####HASH KEYS OF DETERMINISTIC STATE FLUENTS#####
+## index
+0
+
+## state fluent hash keys (first line is the number of keys)
+4
+64 5
+65 5
+73 5
+75 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+1
+
+## state fluent hash keys (first line is the number of keys)
+4
+63 5
+66 5
+67 5
+77 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+2
+
+## state fluent hash keys (first line is the number of keys)
+4
+66 10
+67 10
+68 5
+78 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+3
+
+## state fluent hash keys (first line is the number of keys)
+4
+67 20
+68 10
+69 5
+79 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+4
+
+## state fluent hash keys (first line is the number of keys)
+4
+68 20
+69 10
+70 5
+80 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+5
+
+## state fluent hash keys (first line is the number of keys)
+4
+69 20
+70 10
+71 5
+81 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+6
+
+## state fluent hash keys (first line is the number of keys)
+4
+70 20
+71 10
+72 5
+82 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+7
+
+## state fluent hash keys (first line is the number of keys)
+4
+71 20
+72 10
+73 10
+83 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+8
+
+## state fluent hash keys (first line is the number of keys)
+4
+64 10
+72 20
+73 20
+84 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+9
+
+## state fluent hash keys (first line is the number of keys)
+6
+0 1
+64 20
+75 10
+76 5
+84 10
+86 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+10
+
+## state fluent hash keys (first line is the number of keys)
+6
+1 1
+66 20
+74 5
+77 10
+78 10
+88 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+11
+
+## state fluent hash keys (first line is the number of keys)
+6
+2 1
+67 40
+77 20
+78 20
+79 10
+89 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+12
+
+## state fluent hash keys (first line is the number of keys)
+6
+3 1
+68 40
+78 40
+79 20
+80 10
+90 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+13
+
+## state fluent hash keys (first line is the number of keys)
+6
+4 1
+69 40
+79 40
+80 20
+81 10
+91 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+14
+
+## state fluent hash keys (first line is the number of keys)
+6
+5 1
+70 40
+80 40
+81 20
+82 10
+92 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+15
+
+## state fluent hash keys (first line is the number of keys)
+6
+6 1
+71 40
+81 40
+82 20
+83 10
+93 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+16
+
+## state fluent hash keys (first line is the number of keys)
+6
+7 1
+72 40
+82 40
+83 20
+84 20
+94 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+17
+
+## state fluent hash keys (first line is the number of keys)
+6
+8 1
+73 40
+75 20
+83 40
+84 40
+95 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+18
+
+## state fluent hash keys (first line is the number of keys)
+6
+9 1
+75 40
+86 10
+87 5
+95 10
+97 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+19
+
+## state fluent hash keys (first line is the number of keys)
+6
+10 1
+77 40
+85 5
+88 10
+89 10
+99 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+20
+
+## state fluent hash keys (first line is the number of keys)
+6
+11 1
+78 80
+88 20
+89 20
+90 10
+100 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+21
+
+## state fluent hash keys (first line is the number of keys)
+6
+12 1
+79 80
+89 40
+90 20
+91 10
+101 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+22
+
+## state fluent hash keys (first line is the number of keys)
+6
+13 1
+80 80
+90 40
+91 20
+92 10
+102 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+23
+
+## state fluent hash keys (first line is the number of keys)
+6
+14 1
+81 80
+91 40
+92 20
+93 10
+103 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+24
+
+## state fluent hash keys (first line is the number of keys)
+6
+15 1
+82 80
+92 40
+93 20
+94 10
+104 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+25
+
+## state fluent hash keys (first line is the number of keys)
+6
+16 1
+83 80
+93 40
+94 20
+95 20
+105 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+26
+
+## state fluent hash keys (first line is the number of keys)
+6
+17 1
+84 80
+86 20
+94 40
+95 40
+106 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+27
+
+## state fluent hash keys (first line is the number of keys)
+6
+18 1
+86 40
+97 10
+98 5
+106 10
+108 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+28
+
+## state fluent hash keys (first line is the number of keys)
+6
+19 1
+88 40
+96 5
+99 10
+100 10
+110 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+29
+
+## state fluent hash keys (first line is the number of keys)
+6
+20 1
+89 80
+99 20
+100 20
+101 10
+111 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+30
+
+## state fluent hash keys (first line is the number of keys)
+6
+21 1
+90 80
+100 40
+101 20
+102 10
+112 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+31
+
+## state fluent hash keys (first line is the number of keys)
+6
+22 1
+91 80
+101 40
+102 20
+103 10
+113 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+32
+
+## state fluent hash keys (first line is the number of keys)
+6
+23 1
+92 80
+102 40
+103 20
+104 10
+114 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+33
+
+## state fluent hash keys (first line is the number of keys)
+6
+24 1
+93 80
+103 40
+104 20
+105 10
+115 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+34
+
+## state fluent hash keys (first line is the number of keys)
+6
+25 1
+94 80
+104 40
+105 20
+106 20
+116 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+35
+
+## state fluent hash keys (first line is the number of keys)
+6
+26 1
+95 80
+97 20
+105 40
+106 40
+117 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+36
+
+## state fluent hash keys (first line is the number of keys)
+6
+27 1
+97 40
+108 10
+109 5
+117 10
+119 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+37
+
+## state fluent hash keys (first line is the number of keys)
+6
+28 1
+99 40
+107 5
+110 10
+111 10
+121 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+38
+
+## state fluent hash keys (first line is the number of keys)
+6
+29 1
+100 80
+110 20
+111 20
+112 10
+122 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+39
+
+## state fluent hash keys (first line is the number of keys)
+6
+30 1
+101 80
+111 40
+112 20
+113 10
+123 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+40
+
+## state fluent hash keys (first line is the number of keys)
+6
+31 1
+102 80
+112 40
+113 20
+114 10
+124 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+41
+
+## state fluent hash keys (first line is the number of keys)
+6
+32 1
+103 80
+113 40
+114 20
+115 10
+125 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+42
+
+## state fluent hash keys (first line is the number of keys)
+6
+33 1
+104 80
+114 40
+115 20
+116 10
+126 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+43
+
+## state fluent hash keys (first line is the number of keys)
+6
+34 1
+105 80
+115 40
+116 20
+117 20
+127 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+44
+
+## state fluent hash keys (first line is the number of keys)
+6
+35 1
+106 80
+108 20
+116 40
+117 40
+128 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+45
+
+## state fluent hash keys (first line is the number of keys)
+6
+36 1
+108 40
+119 10
+120 5
+128 10
+130 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+46
+
+## state fluent hash keys (first line is the number of keys)
+6
+37 1
+110 40
+118 5
+121 10
+122 10
+132 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+47
+
+## state fluent hash keys (first line is the number of keys)
+6
+38 1
+111 80
+121 20
+122 20
+123 10
+133 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+48
+
+## state fluent hash keys (first line is the number of keys)
+6
+39 1
+112 80
+122 40
+123 20
+124 10
+134 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+49
+
+## state fluent hash keys (first line is the number of keys)
+6
+40 1
+113 80
+123 40
+124 20
+125 10
+135 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+50
+
+## state fluent hash keys (first line is the number of keys)
+6
+41 1
+114 80
+124 40
+125 20
+126 10
+136 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+51
+
+## state fluent hash keys (first line is the number of keys)
+6
+42 1
+115 80
+125 40
+126 20
+127 10
+137 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+52
+
+## state fluent hash keys (first line is the number of keys)
+6
+43 1
+116 80
+126 40
+127 20
+128 20
+138 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+53
+
+## state fluent hash keys (first line is the number of keys)
+6
+44 1
+117 80
+119 20
+127 40
+128 40
+139 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+54
+
+## state fluent hash keys (first line is the number of keys)
+6
+45 1
+119 40
+130 10
+131 5
+139 10
+141 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+55
+
+## state fluent hash keys (first line is the number of keys)
+6
+46 1
+121 40
+129 5
+132 10
+133 10
+143 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+56
+
+## state fluent hash keys (first line is the number of keys)
+6
+47 1
+122 80
+132 20
+133 20
+134 10
+144 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+57
+
+## state fluent hash keys (first line is the number of keys)
+6
+48 1
+123 80
+133 40
+134 20
+135 10
+145 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+58
+
+## state fluent hash keys (first line is the number of keys)
+6
+49 1
+124 80
+134 40
+135 20
+136 10
+146 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+59
+
+## state fluent hash keys (first line is the number of keys)
+6
+50 1
+125 80
+135 40
+136 20
+137 10
+147 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+60
+
+## state fluent hash keys (first line is the number of keys)
+6
+51 1
+126 80
+136 40
+137 20
+138 10
+148 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+61
+
+## state fluent hash keys (first line is the number of keys)
+6
+52 1
+127 80
+137 40
+138 20
+139 20
+149 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+62
+
+## state fluent hash keys (first line is the number of keys)
+6
+53 1
+128 80
+130 20
+138 40
+139 40
+150 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+63
+
+## state fluent hash keys (first line is the number of keys)
+3
+63 10
+66 40
+74 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+64
+
+## state fluent hash keys (first line is the number of keys)
+4
+64 40
+65 10
+73 80
+75 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+65
+
+## state fluent hash keys (first line is the number of keys)
+3
+64 80
+65 20
+76 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+66
+
+## state fluent hash keys (first line is the number of keys)
+4
+63 20
+66 80
+67 80
+77 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+67
+
+## state fluent hash keys (first line is the number of keys)
+4
+66 160
+67 160
+68 80
+78 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+68
+
+## state fluent hash keys (first line is the number of keys)
+4
+67 320
+68 160
+69 80
+79 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+69
+
+## state fluent hash keys (first line is the number of keys)
+4
+68 320
+69 160
+70 80
+80 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+70
+
+## state fluent hash keys (first line is the number of keys)
+4
+69 320
+70 160
+71 80
+81 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+71
+
+## state fluent hash keys (first line is the number of keys)
+4
+70 320
+71 160
+72 80
+82 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+72
+
+## state fluent hash keys (first line is the number of keys)
+4
+71 320
+72 160
+73 160
+83 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+73
+
+## state fluent hash keys (first line is the number of keys)
+4
+64 160
+72 320
+73 320
+84 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+74
+
+## state fluent hash keys (first line is the number of keys)
+4
+63 40
+74 20
+77 160
+85 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+75
+
+## state fluent hash keys (first line is the number of keys)
+5
+64 320
+75 160
+76 20
+84 320
+86 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+76
+
+## state fluent hash keys (first line is the number of keys)
+4
+65 40
+75 320
+76 40
+87 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+77
+
+## state fluent hash keys (first line is the number of keys)
+5
+66 320
+74 40
+77 320
+78 320
+88 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+78
+
+## state fluent hash keys (first line is the number of keys)
+5
+67 640
+77 640
+78 640
+79 320
+89 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+79
+
+## state fluent hash keys (first line is the number of keys)
+5
+68 640
+78 1280
+79 640
+80 320
+90 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+80
+
+## state fluent hash keys (first line is the number of keys)
+5
+69 640
+79 1280
+80 640
+81 320
+91 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+81
+
+## state fluent hash keys (first line is the number of keys)
+5
+70 640
+80 1280
+81 640
+82 320
+92 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+82
+
+## state fluent hash keys (first line is the number of keys)
+5
+71 640
+81 1280
+82 640
+83 320
+93 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+83
+
+## state fluent hash keys (first line is the number of keys)
+5
+72 640
+82 1280
+83 640
+84 640
+94 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+84
+
+## state fluent hash keys (first line is the number of keys)
+5
+73 640
+75 640
+83 1280
+84 1280
+95 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+85
+
+## state fluent hash keys (first line is the number of keys)
+4
+74 80
+85 20
+88 160
+96 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+86
+
+## state fluent hash keys (first line is the number of keys)
+5
+75 1280
+86 160
+87 20
+95 320
+97 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+87
+
+## state fluent hash keys (first line is the number of keys)
+4
+76 80
+86 320
+87 40
+98 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+88
+
+## state fluent hash keys (first line is the number of keys)
+5
+77 1280
+85 40
+88 320
+89 320
+99 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+89
+
+## state fluent hash keys (first line is the number of keys)
+5
+78 2560
+88 640
+89 640
+90 320
+100 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+90
+
+## state fluent hash keys (first line is the number of keys)
+5
+79 2560
+89 1280
+90 640
+91 320
+101 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+91
+
+## state fluent hash keys (first line is the number of keys)
+5
+80 2560
+90 1280
+91 640
+92 320
+102 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+92
+
+## state fluent hash keys (first line is the number of keys)
+5
+81 2560
+91 1280
+92 640
+93 320
+103 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+93
+
+## state fluent hash keys (first line is the number of keys)
+5
+82 2560
+92 1280
+93 640
+94 320
+104 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+94
+
+## state fluent hash keys (first line is the number of keys)
+5
+83 2560
+93 1280
+94 640
+95 640
+105 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+95
+
+## state fluent hash keys (first line is the number of keys)
+5
+84 2560
+86 640
+94 1280
+95 1280
+106 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+96
+
+## state fluent hash keys (first line is the number of keys)
+4
+85 80
+96 20
+99 160
+107 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+97
+
+## state fluent hash keys (first line is the number of keys)
+5
+86 1280
+97 160
+98 20
+106 320
+108 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+98
+
+## state fluent hash keys (first line is the number of keys)
+4
+87 80
+97 320
+98 40
+109 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+99
+
+## state fluent hash keys (first line is the number of keys)
+5
+88 1280
+96 40
+99 320
+100 320
+110 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+100
+
+## state fluent hash keys (first line is the number of keys)
+5
+89 2560
+99 640
+100 640
+101 320
+111 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+101
+
+## state fluent hash keys (first line is the number of keys)
+5
+90 2560
+100 1280
+101 640
+102 320
+112 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+102
+
+## state fluent hash keys (first line is the number of keys)
+5
+91 2560
+101 1280
+102 640
+103 320
+113 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+103
+
+## state fluent hash keys (first line is the number of keys)
+5
+92 2560
+102 1280
+103 640
+104 320
+114 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+104
+
+## state fluent hash keys (first line is the number of keys)
+5
+93 2560
+103 1280
+104 640
+105 320
+115 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+105
+
+## state fluent hash keys (first line is the number of keys)
+5
+94 2560
+104 1280
+105 640
+106 640
+116 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+106
+
+## state fluent hash keys (first line is the number of keys)
+5
+95 2560
+97 640
+105 1280
+106 1280
+117 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+107
+
+## state fluent hash keys (first line is the number of keys)
+4
+96 80
+107 20
+110 160
+118 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+108
+
+## state fluent hash keys (first line is the number of keys)
+5
+97 1280
+108 160
+109 20
+117 320
+119 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+109
+
+## state fluent hash keys (first line is the number of keys)
+4
+98 80
+108 320
+109 40
+120 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+110
+
+## state fluent hash keys (first line is the number of keys)
+5
+99 1280
+107 40
+110 320
+111 320
+121 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+111
+
+## state fluent hash keys (first line is the number of keys)
+5
+100 2560
+110 640
+111 640
+112 320
+122 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+112
+
+## state fluent hash keys (first line is the number of keys)
+5
+101 2560
+111 1280
+112 640
+113 320
+123 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+113
+
+## state fluent hash keys (first line is the number of keys)
+5
+102 2560
+112 1280
+113 640
+114 320
+124 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+114
+
+## state fluent hash keys (first line is the number of keys)
+5
+103 2560
+113 1280
+114 640
+115 320
+125 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+115
+
+## state fluent hash keys (first line is the number of keys)
+5
+104 2560
+114 1280
+115 640
+116 320
+126 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+116
+
+## state fluent hash keys (first line is the number of keys)
+5
+105 2560
+115 1280
+116 640
+117 640
+127 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+117
+
+## state fluent hash keys (first line is the number of keys)
+5
+106 2560
+108 640
+116 1280
+117 1280
+128 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+118
+
+## state fluent hash keys (first line is the number of keys)
+4
+107 80
+118 20
+121 160
+129 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+119
+
+## state fluent hash keys (first line is the number of keys)
+5
+108 1280
+119 160
+120 20
+128 320
+130 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+120
+
+## state fluent hash keys (first line is the number of keys)
+4
+109 80
+119 320
+120 40
+131 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+121
+
+## state fluent hash keys (first line is the number of keys)
+5
+110 1280
+118 40
+121 320
+122 320
+132 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+122
+
+## state fluent hash keys (first line is the number of keys)
+5
+111 2560
+121 640
+122 640
+123 320
+133 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+123
+
+## state fluent hash keys (first line is the number of keys)
+5
+112 2560
+122 1280
+123 640
+124 320
+134 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+124
+
+## state fluent hash keys (first line is the number of keys)
+5
+113 2560
+123 1280
+124 640
+125 320
+135 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+125
+
+## state fluent hash keys (first line is the number of keys)
+5
+114 2560
+124 1280
+125 640
+126 320
+136 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+126
+
+## state fluent hash keys (first line is the number of keys)
+5
+115 2560
+125 1280
+126 640
+127 320
+137 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+127
+
+## state fluent hash keys (first line is the number of keys)
+5
+116 2560
+126 1280
+127 640
+128 640
+138 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+128
+
+## state fluent hash keys (first line is the number of keys)
+5
+117 2560
+119 640
+127 1280
+128 1280
+139 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+129
+
+## state fluent hash keys (first line is the number of keys)
+4
+118 80
+129 20
+132 80
+140 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+130
+
+## state fluent hash keys (first line is the number of keys)
+5
+119 1280
+130 80
+131 20
+139 160
+141 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+131
+
+## state fluent hash keys (first line is the number of keys)
+4
+120 80
+130 160
+131 40
+142 5
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+132
+
+## state fluent hash keys (first line is the number of keys)
+5
+121 1280
+129 40
+132 160
+133 160
+143 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+133
+
+## state fluent hash keys (first line is the number of keys)
+5
+122 2560
+132 320
+133 320
+134 160
+144 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+134
+
+## state fluent hash keys (first line is the number of keys)
+5
+123 2560
+133 640
+134 320
+135 160
+145 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+135
+
+## state fluent hash keys (first line is the number of keys)
+5
+124 2560
+134 640
+135 320
+136 160
+146 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+136
+
+## state fluent hash keys (first line is the number of keys)
+5
+125 2560
+135 640
+136 320
+137 160
+147 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+137
+
+## state fluent hash keys (first line is the number of keys)
+5
+126 2560
+136 640
+137 320
+138 160
+148 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+138
+
+## state fluent hash keys (first line is the number of keys)
+5
+127 2560
+137 640
+138 320
+139 320
+149 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+139
+
+## state fluent hash keys (first line is the number of keys)
+5
+128 2560
+130 320
+138 640
+139 640
+150 10
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+140
+
+## state fluent hash keys (first line is the number of keys)
+3
+129 80
+140 10
+143 20
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+141
+
+## state fluent hash keys (first line is the number of keys)
+4
+130 640
+141 20
+142 10
+150 20
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+142
+
+## state fluent hash keys (first line is the number of keys)
+89
+63 80
+64 640
+65 80
+66 640
+67 1280
+68 1280
+69 1280
+70 1280
+71 1280
+72 1280
+73 1280
+74 160
+75 2560
+76 160
+77 2560
+78 5120
+79 5120
+80 5120
+81 5120
+82 5120
+83 5120
+84 5120
+85 160
+86 2560
+87 160
+88 2560
+89 5120
+90 5120
+91 5120
+92 5120
+93 5120
+94 5120
+95 5120
+96 160
+97 2560
+98 160
+99 2560
+100 5120
+101 5120
+102 5120
+103 5120
+104 5120
+105 5120
+106 5120
+107 160
+108 2560
+109 160
+110 2560
+111 5120
+112 5120
+113 5120
+114 5120
+115 5120
+116 5120
+117 5120
+118 160
+119 2560
+120 160
+121 2560
+122 5120
+123 5120
+124 5120
+125 5120
+126 5120
+127 5120
+128 5120
+129 160
+130 1280
+131 80
+132 640
+133 1280
+134 1280
+135 1280
+136 1280
+137 1280
+138 1280
+139 1280
+140 20
+141 40
+142 20
+143 40
+144 20
+145 20
+146 20
+147 20
+148 20
+149 20
+150 40
+160 1
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+143
+
+## state fluent hash keys (first line is the number of keys)
+4
+132 1280
+140 40
+143 80
+144 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+144
+
+## state fluent hash keys (first line is the number of keys)
+4
+133 2560
+143 160
+144 80
+145 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+145
+
+## state fluent hash keys (first line is the number of keys)
+4
+134 2560
+144 160
+145 80
+146 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+146
+
+## state fluent hash keys (first line is the number of keys)
+4
+135 2560
+145 160
+146 80
+147 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+147
+
+## state fluent hash keys (first line is the number of keys)
+4
+136 2560
+146 160
+147 80
+148 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+148
+
+## state fluent hash keys (first line is the number of keys)
+4
+137 2560
+147 160
+148 80
+149 40
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+149
+
+## state fluent hash keys (first line is the number of keys)
+4
+138 2560
+148 160
+149 80
+150 80
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+150
+
+## state fluent hash keys (first line is the number of keys)
+4
+139 2560
+141 80
+149 160
+150 160
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+
+#####HASH KEYS OF PROBABILISTIC STATE FLUENTS#####
+## index
+0
+
+## state fluent hash keys (first line is the number of keys)
+5
+54 1
+130 2560
+141 160
+142 40
+150 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+42838416 140100477561824
+130 98415
+141 1215
+142 135
+150 3645
+
+## index
+1
+
+## state fluent hash keys (first line is the number of keys)
+5
+55 1
+132 2560
+140 80
+143 320
+144 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+41936752 42752848
+132 98415
+140 405
+143 3645
+144 3645
+
+## index
+2
+
+## state fluent hash keys (first line is the number of keys)
+5
+56 1
+133 5120
+143 640
+144 640
+145 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+42731504 42774240
+133 295245
+143 10935
+144 10935
+145 3645
+
+## index
+3
+
+## state fluent hash keys (first line is the number of keys)
+5
+57 1
+134 5120
+144 1280
+145 640
+146 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+42752848 42795632
+134 295245
+144 32805
+145 10935
+146 3645
+
+## index
+4
+
+## state fluent hash keys (first line is the number of keys)
+5
+58 1
+135 5120
+145 1280
+146 640
+147 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+42774240 42817024
+135 295245
+145 32805
+146 10935
+147 3645
+
+## index
+5
+
+## state fluent hash keys (first line is the number of keys)
+5
+59 1
+136 5120
+146 1280
+147 640
+148 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+42795632 42838416
+136 295245
+146 32805
+147 10935
+148 3645
+
+## index
+6
+
+## state fluent hash keys (first line is the number of keys)
+5
+60 1
+137 5120
+147 1280
+148 640
+149 320
+## kleene state fluent hash keys (first line is the number of keys)
+5
+42817024 42860048
+137 295245
+147 32805
+148 10935
+149 3645
+
+## index
+7
+
+## state fluent hash keys (first line is the number of keys)
+5
+61 1
+138 5120
+148 1280
+149 640
+150 640
+## kleene state fluent hash keys (first line is the number of keys)
+5
+61 1
+138 295245
+148 32805
+149 10935
+150 10935
+
+## index
+8
+
+## state fluent hash keys (first line is the number of keys)
+5
+62 1
+139 5120
+141 320
+149 1280
+150 1280
+## kleene state fluent hash keys (first line is the number of keys)
+5
+62 1
+139 295245
+141 3645
+149 32805
+150 32805
+

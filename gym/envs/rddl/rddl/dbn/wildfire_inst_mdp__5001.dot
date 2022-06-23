@@ -1,0 +1,4286 @@
+digraph G {
+	graph [bb="0,0,734.36,10462",
+		fontname=Helvetica,
+		fontsize=16,
+		rankdir=LR,
+		ranksep=2.00,
+		ratio=auto,
+		size="7.5,10"
+	];
+	node [fontsize=16,
+		label="\N"
+	];
+	{
+		graph [rank=same];
+		"cut-out($x4, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5016.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x1, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2255.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x11, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,10064",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"burning($x5, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4637.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x10, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8538.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"put-out($x6, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4366.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"out-of-fuel($x8, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7182.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x10, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9243.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"out-of-fuel($x2, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,348.38",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x4, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,2417.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x5, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3664.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x7, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6043.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x4, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3448.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"burning($x5, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3014.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x6, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5718.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"out-of-fuel($x2, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,73.385",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x8, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7724.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x4, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1985.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x5, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5664.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"burning($x10, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9298.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"put-out($x1, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,1278.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x11, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9734.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"put-out($x5, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3718.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x7, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5880.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"Current State and Actions"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="137.18,10444",
+			shape=plaintext,
+			style=bold,
+			width=3.2361];
+		"cut-out($x10, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7995.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"out-of-fuel($x1, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,18.385",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x5, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3232.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x7, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4745.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x9, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8810.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x2, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1114.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x6, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5610.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x5, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3880.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x3, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1332.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x8, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6746.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"put-out($x1, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2039.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x7, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4962.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x11, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9679.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"put-out($x2, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2309.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"out-of-fuel($x1, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,183.38",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x10, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8265.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"put-out($x6, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4150.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x5, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3177.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x10, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8483.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"out-of-fuel($x2, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,839.38",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x8, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6911.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x7, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4312.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x9, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8373.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x5, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3988.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x6, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5556.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x3, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1875.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x12, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,10227",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"put-out($x12, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8756.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"put-out($x7, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4420.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x3, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2579.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x11, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9789.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"burning($x9, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8648.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x1, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,568.38",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x9, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7779.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x8, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6801.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x1, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2471.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"burning($x10, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9188.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"out-of-fuel($x11, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9954.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"cut-out($x3, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,1602.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"burning($x9, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8157.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x1, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1004.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x10, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8593.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"out-of-fuel($x9, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7237.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x8, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6856.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x12, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,10390",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"cut-out($x1, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2093.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x4, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3394.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x12, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,9516.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"cut-out($x3, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5340.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x1, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,1386.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x9, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6692.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x9, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8049.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x10, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8428.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"out-of-fuel($x11, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,10009",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"cut-out($x2, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5124.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x4, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5070.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x12, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,9026.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"cut-out($x3, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2741.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x11, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7941.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"cut-out($x1, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,622.38",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x10, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9353.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"burning($x9, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7507.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x2, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,1548.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x12, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9624.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"out-of-fuel($x5, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3340.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x11, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7887.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"burning($x1, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,128.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x11, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8702.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"cut-out($x7, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4528.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x9, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7291.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x2, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2201.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x3, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2363.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x2, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1059.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x12, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,9570.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"burning($x7, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4908.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x5, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3122.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x11, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8918.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"put-out($x12, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,10118",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"put-out($x11, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,9134.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"burning($x1, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,293.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x8, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6421.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x7, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4854.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"cut-out($x8, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6965.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x4, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3502.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x3, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2687.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x10, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7453.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"put-out($x9, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7019.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x2, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2525.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x8, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6205.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x12, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,10336",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"burning($x2, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,894.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x7, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4474.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x6, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3772.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x11, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8864.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"burning($x1, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,784.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x11, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,9462.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"cut-out($x7, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5448.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x10, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7399.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"put-out($x8, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6367.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x8, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7127.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x3, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3068.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"out-of-fuel($x12, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,10282",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"burning($x7, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6529.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x11, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5286.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"burning($x1, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,949.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x12, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9899.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"burning($x6, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4204.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x8, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,7669.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x11, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,8972.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8105];
+		"cut-out($x7, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6097.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x10, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8103.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"put-out($x9, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7833.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x8, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6475.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x7, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6313.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x10, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7345.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"out-of-fuel($x4, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1765.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x6, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4800.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x5, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3826.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"out-of-fuel($x6, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,3610.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"put-out($x2, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2147.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x10, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8211.4",
+			shape=box,
+			style=filled,
+			width=2.3611];
+		"burning($x3, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1494.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x9, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7615.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x3, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,403.38",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x6, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4258.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"out-of-fuel($x7, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,6584.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"put-out($x4, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3556.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x8, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6638.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x12, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,10172",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"cut-out($x10, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7561.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"put-out($x1, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,676.38",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x6, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,5934.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x4, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,2904.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"put-out($x2, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,1440.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"put-out($x5, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3934.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x11, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9080.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"out-of-fuel($x6, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4096.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"burning($x3, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1710.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"out-of-fuel($x3, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1169.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x7, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,5989.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x6, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4042.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"burning($x12, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9844.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"out-of-fuel($x5, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,4582.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x4, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,2849.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x9, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5232.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x2, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,730.38",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"out-of-fuel($x6, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,5502.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x8, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6259.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x6, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5772.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x3, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,513.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x4, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,2795.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"burning($x4, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,2633.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"cut-out($x12, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,8319.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"burning($x2, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,458.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x12, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,9408.4",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"out-of-fuel($x5, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,2959.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x4, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1930.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"out-of-fuel($x6, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,5826.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5945];
+		"cut-out($x9, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5178.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x5, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,4691.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x8, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,6151.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"burning($x3, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1224.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x2, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,238.38",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"burning($x4, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="137.18,1820.4",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"put-out($x3, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,1656.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+		"cut-out($x12, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,5394.4",
+			shape=box,
+			style=filled,
+			width=2.3333];
+		"cut-out($x9, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,7073.4",
+			shape=box,
+			style=filled,
+			width=2.1944];
+		"put-out($x4, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="137.18,3286.4",
+			shape=box,
+			style=filled,
+			width=2.2083];
+	}
+	{
+		graph [rank=same];
+		"burning'($x6, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4231.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x1, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1004.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x5, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3342.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x6, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,5907.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"Next State and Reward"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="576.36,10444",
+			shape=plaintext,
+			style=bold,
+			width=2.9167];
+		"out-of-fuel'($x11, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,10062",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"burning'($x6, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,5610.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x7, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6313.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x5, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3014.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x10, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9243.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"burning'($x6, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,5826.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x4, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,2538.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x10, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9298.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x1, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1224.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x11, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9706.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x6, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4176.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x10, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9188.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"burning'($x11, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,10007",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x10, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8373.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x5, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3232.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x6, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,5066.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x10, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8538.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x11, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9651.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"burning'($x10, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8428.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x7, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6529.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x12, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,10336",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x9, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7400.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x5, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3177.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x8, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7182.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"Reward Function"	[color=black,
+			fillcolor=firebrick1,
+			height=0.72222,
+			pos="576.36,5259.4",
+			shape=diamond,
+			style=filled,
+			width=4.3889];
+		"burning'($x7, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4419.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x7, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6204.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x4, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,2849.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x5, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3287.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x10, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9133.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x6, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3772.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x7, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4853.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x9, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8102.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x5, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3122.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x9, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8648.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x8, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6911.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x7, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4474.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x7, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6042.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x6, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,3988.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x9, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7940.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x8, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6746.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x8, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7127.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x7, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4908.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x3, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1875.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x12, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9761.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x2, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,183.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x8, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6856.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x4, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,2741.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x9, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7779.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x3, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1169.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x12, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,10117",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x8, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7072.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x9, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8593.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x3, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1467.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x9, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8157.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x8, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,6801.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x12, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,10227",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x8, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7669.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x4, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1958.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x2, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,293.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x5, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4637.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x4, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1765.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x9, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,7237.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x3, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,623.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x4, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,2013.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x1, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,403.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x11, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9823.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"burning'($x10, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8483.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x12, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,10172",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"burning'($x2, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,894.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"burning'($x11, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9408.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"burning'($x1, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,238.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x4, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,2417.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x1, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,839.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x11, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8917.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x12, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9892.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"burning'($x2, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,458.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x2, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1279.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x3, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,568.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x11, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,8972.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"out-of-fuel'($x3, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1334.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x1, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,348.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x5, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,4582.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x3, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1820.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x12, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9353.4",
+			shape=ellipse,
+			style=filled,
+			width=3.8891];
+		"out-of-fuel'($x2, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,949.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x2, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,513.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x3, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1522.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x1, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,784.38",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+		"out-of-fuel'($x1, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,128.38",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"out-of-fuel'($x4, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,2659.4",
+			shape=ellipse,
+			style=filled,
+			width=3.6927];
+		"burning'($x12, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,9543.4",
+			shape=ellipse,
+			style=filled,
+			width=3.5159];
+		"burning'($x2, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="576.36,1086.4",
+			shape=ellipse,
+			style=filled,
+			width=3.3195];
+	}
+	"cut-out($x4, $y4)" -> "Reward Function"	[pos="e,552.2,5237.3 216.26,5026 235.74,5029.9 256.22,5035.5 274.36,5043.4 384.09,5091 493.23,5183.4 544.73,5230.4"];
+	"put-out($x1, $y1)" -> "burning'($x1, $y1)"	[color=black,
+		pos="e,488.01,1016.8 216.72,2256.2 238.14,2252.4 259.51,2244.4 274.36,2228.4 630.73,1844.9 89.928,1467 418.36,1059.4 433.5,1040.6 455.48,\
+1028.2 478.23,1020.1",
+		style=solid];
+	"put-out($x1, $y1)" -> "Reward Function"	[pos="e,545.06,5238.2 216.73,2253.8 238.42,2257.5 259.93,2265.7 274.36,2282.4 478.95,2518.9 295.31,4805.9 418.36,5093.4 443.46,5152 498.99,\
+5202.5 536.81,5231.9"];
+	"burning($x11, $y1)" -> "out-of-fuel'($x11, $y1)"	[color=black,
+		pos="e,436.41,10063 261.12,10064 312.37,10064 372.35,10063 426.1,10063",
+		style=solid];
+	"burning($x11, $y1)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,455.04,9248.9 245.7,10055 256.37,10051 266.23,10045 274.36,10036 516.94,9789.7 172.55,9514.8 418.36,9271.4 426.26,9263.6 435.56,\
+9257.5 445.61,9252.8",
+		style=solid];
+	"burning($x11, $y1)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,454.92,9193.8 245.8,10055 256.45,10051 266.28,10045 274.36,10036 532.19,9771 157.06,9478.4 418.36,9216.4 426.22,9208.5 435.48,\
+9202.4 445.51,9197.7",
+		style=solid];
+	"burning($x11, $y1)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,481.53,10020 230.63,10052 301.11,10043 398.19,10030 471.37,10021",
+		style=solid];
+	"burning($x11, $y1)" -> "Reward Function"	[pos="e,559.65,5282.8 247.98,10056 258.03,10051 267.13,10045 274.36,10036 433.84,9847.1 359.09,5823.7 418.36,5583.4 446.56,5469 518.3,\
+5347.5 554.21,5291.3"];
+	"burning($x11, $y1)" -> "burning'($x12, $y2)"	[color=black,
+		pos="e,478.65,10106 233.58,10076 302.93,10084 396.83,10096 468.67,10104",
+		style=solid];
+	"burning($x11, $y1)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,488.33,9836.7 234.61,10053 248.52,10049 262.22,10044 274.36,10036 359.74,9985.6 334.5,9918.7 418.36,9865.4 436.45,9853.9 457.63,\
+9845.5 478.47,9839.4",
+		style=solid];
+	"burning($x5, $y1)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,564.17,5591.8 243,4645 254.62,4649.5 265.45,4655.7 274.36,4664.4 480.37,4864.5 321.78,5023.9 418.36,5294.4 458.19,5406 527.44,\
+5529.3 558.93,5582.9",
+		style=solid];
+	"burning($x5, $y1)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,554.1,5808.2 244.32,4644.6 255.58,4649.2 265.96,4655.6 274.36,4664.4 575.84,4980.9 240.08,5238.2 418.36,5637.4 448.52,5704.9 509.84,\
+5767.7 546.28,5801.1",
+		style=solid];
+	"burning($x5, $y1)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,458.49,3180.6 243.75,4630.1 255.32,4625.4 265.94,4618.7 274.36,4609.4 695.05,4144.1 -8.416,3665.1 418.36,3205.4 426.98,3196.1 \
+437.53,3189.2 449.06,3184.2",
+		style=solid];
+	"burning($x5, $y1)" -> "Reward Function"	[pos="e,548.59,5237.7 241.51,4645.6 253.52,4650 264.86,4656 274.36,4664.4 425.38,4797.2 314.83,4921 418.36,5093.4 451.48,5148.6 505.67,\
+5200.5 540.93,5231.1"];
+	"burning($x5, $y1)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,513.97,2757.1 244.28,4630.2 255.69,4625.4 266.12,4618.7 274.36,4609.4 538.31,4311 197.55,3154 418.36,2822.4 438.23,2792.5 472.69,\
+2773.1 504.28,2760.7",
+		style=solid];
+	"burning($x5, $y1)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,456.84,4637.4 253.33,4637.4 312.76,4637.4 385.45,4637.4 446.72,4637.4",
+		style=solid];
+	"burning($x5, $y1)" -> "out-of-fuel'($x5, $y1)"	[color=black,
+		pos="e,477.56,4594.7 228.5,4626 297.87,4617.3 393.91,4605.2 467.35,4596",
+		style=solid];
+	"burning($x10, $y4)" -> "out-of-fuel'($x10, $y4)"	[color=black,
+		pos="e,436.02,8538.4 261.12,8538.4 312.25,8538.4 372.08,8538.4 425.73,8538.4",
+		style=solid];
+	"burning($x10, $y4)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,486.3,8441.4 217.18,8524.3 236.05,8520.4 256.04,8515.7 274.36,8510.4 340.03,8491.4 352.44,8474.5 418.36,8456.4 436.89,8451.3 456.91,\
+8446.9 476.25,8443.2",
+		style=solid];
+	"burning($x10, $y4)" -> "Reward Function"	[pos="e,559.8,5282.9 247.84,8529.9 257.91,8525.3 267.05,8518.9 274.36,8510.4 486.25,8263.2 337.74,5898.9 418.36,5583.4 447.52,5469.3 518.8,\
+5347.6 554.41,5291.3"];
+	"burning($x10, $y4)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,544.58,7797.2 244.62,8529.2 255.62,8524.7 265.85,8518.6 274.36,8510.4 470.6,8320.7 275.58,8146 418.36,7913.4 447.65,7865.7 499.67,\
+7826.3 535.77,7802.8",
+		style=solid];
+	"burning($x10, $y4)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,479.96,8495.4 232.23,8526.6 302.1,8517.8 397.44,8505.8 469.89,8496.7",
+		style=solid];
+	"burning($x10, $y4)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,454.93,9402.9 245.79,8547.4 256.44,8551.9 266.28,8558.1 274.36,8566.4 530.52,8829.7 158.75,9120.4 418.36,9380.4 426.22,9388.3 \
+435.49,9394.4 445.52,9399",
+		style=solid];
+	"burning($x10, $y4)" -> "burning'($x11, $y4)"	[color=black,
+		pos="e,458.28,8965.5 242.26,8548.2 253.94,8552.5 264.98,8558.4 274.36,8566.4 411.3,8682.9 279.89,8829.7 418.36,8944.4 427.44,8951.9 437.84,\
+8957.7 448.87,8962.1",
+		style=solid];
+	"put-out($x6, $y3)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,533.62,4248.6 216.78,4352.9 235.76,4349 255.89,4344.5 274.36,4339.4 363.82,4314.6 464.81,4276.1 524.12,4252.4",
+		style=solid];
+	"put-out($x6, $y3)" -> "Reward Function"	[pos="e,547.17,5238 216.99,4366.6 238.04,4370.4 259.14,4378.3 274.36,4393.4 499.75,4617.2 271.62,4811.7 418.36,5093.4 448,5150.3 502.87,\
+5201.6 539.25,5231.6"];
+	"out-of-fuel($x8, $y2)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,483.24,7139 234.66,7170.2 305.39,7161.3 401.23,7149.3 473.24,7140.2",
+		style=solid];
+	"out-of-fuel($x8, $y2)" -> "out-of-fuel'($x8, $y2)"	[color=black,
+		pos="e,484.23,7085.7 218.62,7168 237.06,7164.1 256.5,7159.5 274.36,7154.4 340.03,7135.4 352.44,7118.5 418.36,7100.4 436.24,7095.5 455.51,\
+7091.2 474.21,7087.6",
+		style=solid];
+	"out-of-fuel($x10, $y1)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,449.73,9243.4 274.41,9243.4 327.02,9243.4 387.1,9243.4 439.66,9243.4",
+		style=solid];
+	"out-of-fuel($x10, $y1)" -> "out-of-fuel'($x10, $y1)"	[color=black,
+		pos="e,482.58,9147 220.06,9228.7 238.07,9224.9 256.96,9220.4 274.36,9215.4 340.03,9196.4 352.44,9179.5 418.36,9161.4 435.7,9156.6 454.36,\
+9152.5 472.54,9148.9",
+		style=solid];
+	"out-of-fuel($x2, $y3)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,488.76,445.85 218.62,362.76 237.06,366.65 256.5,371.23 274.36,376.38 340.03,395.33 352.44,412.31 418.36,430.38 437.66,435.68 458.58,\
+440.21 478.66,444",
+		style=solid];
+	"out-of-fuel($x2, $y3)" -> "out-of-fuel'($x2, $y3)"	[color=black,
+		pos="e,471.53,502.02 229.7,361.34 244.98,365.15 260.4,370.06 274.36,376.38 347.47,409.51 344.81,453.23 418.36,485.38 431.99,491.34 446.81,\
+496.04 461.73,499.73",
+		style=solid];
+	"burning($x4, $y3)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,459.51,3173.2 243.53,2424.9 254.99,2429.4 265.64,2435.7 274.36,2444.4 501.14,2669.9 189.41,2926.1 418.36,3149.4 427.43,3158.2 \
+438.27,3164.8 449.97,3169.6",
+		style=solid];
+	"burning($x4, $y3)" -> "Reward Function"	[pos="e,545.09,5238.2 245.46,2424 256.45,2428.7 266.46,2435.3 274.36,2444.4 467.54,2667 301.96,4822.6 418.36,5093.4 443.55,5152 499.06,\
+5202.5 536.85,5231.9"];
+	"burning($x4, $y3)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,523.45,2832.8 239.74,2426.1 252.25,2430.4 264.19,2436.3 274.36,2444.4 397.47,2542.8 310.21,2653.8 418.36,2768.4 444.4,2796 481.93,\
+2815.8 513.77,2829",
+		style=solid];
+	"burning($x4, $y3)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,459.24,3283.4 243.75,2424.7 255.18,2429.2 265.76,2435.6 274.36,2444.4 531.73,2707.2 158.47,2999.1 418.36,3259.4 427.31,3268.4 \
+438.08,3275 449.73,3279.9",
+		style=solid];
+	"burning($x4, $y3)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,518.13,3106.2 242.9,2425.1 254.54,2429.6 265.4,2435.8 274.36,2444.4 471.27,2633.4 249.81,2826.7 418.36,3041.4 441.01,3070.2 476.78,\
+3089.8 508.45,3102.5",
+		style=solid];
+	"burning($x4, $y3)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,458.68,1172.8 244.55,2410.4 255.77,2405.8 266.08,2399.3 274.36,2390.4 637.46,1998.7 51.504,1585.5 418.36,1197.4 427.06,1188.2 \
+437.67,1181.4 449.23,1176.4",
+		style=solid];
+	"burning($x4, $y3)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,459.09,1471.2 244.22,2410.1 255.49,2405.5 265.91,2399.1 274.36,2390.4 554.04,2100.4 135.9,1782.7 418.36,1495.4 427.24,1486.3 437.97,\
+1479.6 449.59,1474.7",
+		style=solid];
+	"burning($x4, $y3)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,461.68,1963.9 241.02,2409.1 253.18,2404.8 264.69,2398.7 274.36,2390.4 418.66,2265.8 272.86,2109.5 418.36,1986.4 428.29,1978 439.87,\
+1971.7 452.16,1967.1",
+		style=solid];
+	"burning($x4, $y3)" -> "out-of-fuel'($x4, $y3)"	[color=black,
+		pos="e,443.25,2417.4 253.33,2417.4 308.45,2417.4 374.98,2417.4 433.22,2417.4",
+		style=solid];
+	"cut-out($x5, $y2)" -> "out-of-fuel'($x5, $y2)"	[color=black,
+		pos="e,518.01,3030.9 216.45,3663.6 237.49,3659.8 258.71,3652.1 274.36,3637.4 456.15,3466.9 262.2,3289.6 418.36,3095.4 441.26,3066.9 476.86,\
+3047.4 508.37,3034.7",
+		style=solid];
+	"cut-out($x5, $y2)" -> "Reward Function"	[pos="e,545.89,5238.3 216.21,3663.3 237.88,3667 259.51,3675.1 274.36,3691.4 485.24,3922.9 287.81,4808.7 418.36,5093.4 445.03,5151.5 500.42,\
+5202.3 537.75,5231.9"];
+	"put-out($x7, $y1)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,532.93,6296.2 216.89,6050.1 236.56,6054.1 256.98,6060.5 274.36,6070.4 357.74,6118 342.59,6172.4 418.36,6231.4 450.61,6256.5 491.68,\
+6277.6 523.73,6292.1",
+		style=solid];
+	"put-out($x7, $y1)" -> "Reward Function"	[pos="e,562.44,5283.3 216.95,6041.8 237.63,6037.9 258.54,6030.3 274.36,6016.4 426.46,5882.2 341.98,5771.3 418.36,5583.4 462.73,5474.2 \
+526.88,5350.2 557.63,5292.3"];
+	"cut-out($x4, $y3)" -> "Reward Function"	[pos="e,545.76,5238.3 216.35,3447.2 238.02,3450.9 259.62,3459 274.36,3475.4 515.6,3743.9 270.13,4764.2 418.36,5093.4 444.63,5151.7 500.13,\
+5202.4 537.59,5232"];
+	"cut-out($x4, $y3)" -> "out-of-fuel'($x4, $y3)"	[color=black,
+		pos="e,524.71,2434.5 216.37,3448.8 237.79,3445.1 259.24,3437.1 274.36,3421.4 558.23,3126.3 189.14,2850.7 418.36,2511.4 441.44,2477.2 \
+481.48,2453.5 515.34,2438.5",
+		style=solid];
+	"burning($x5, $y2)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,458.71,4228 244.53,3021.4 255.75,3026 266.07,3032.5 274.36,3041.4 628.77,3422.4 60.298,3825.8 418.36,4203.4 427.08,4212.6 437.69,\
+4219.4 449.26,4224.4",
+		style=solid];
+	"burning($x5, $y2)" -> "out-of-fuel'($x5, $y2)"	[color=black,
+		pos="e,443.25,3014.4 253.33,3014.4 308.45,3014.4 374.98,3014.4 433.22,3014.4",
+		style=solid];
+	"burning($x5, $y2)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,476.96,3167.1 227.14,3026 243.25,3029.8 259.61,3034.8 274.36,3041.4 347.42,3074 344.99,3117.5 418.36,3149.4 433.64,3156 450.42,\
+3161.1 467.14,3165",
+		style=solid];
+	"burning($x5, $y2)" -> "Reward Function"	[pos="e,545.57,5238.4 245.32,3021.1 256.34,3025.8 266.39,3032.3 274.36,3041.4 576.66,3384.3 234.55,4674.8 418.36,5093.4 444.08,5152 499.72,\
+5202.6 537.36,5232.1"];
+	"burning($x5, $y2)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,466.64,3279.9 236.44,3024.1 249.87,3028.1 262.95,3033.7 274.36,3041.4 370.76,3106.1 321.34,3195.6 418.36,3259.4 429.99,3267 443.11,\
+3272.8 456.69,3277",
+		style=solid];
+	"burning($x5, $y2)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,531.83,2758.6 231.62,3003.6 246.52,2999.5 261.32,2994 274.36,2986.4 358.22,2937.6 341.92,2882.1 418.36,2822.4 450.14,2797.5 490.71,\
+2776.9 522.64,2762.6",
+		style=solid];
+	"burning($x5, $y2)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,458.68,1768.8 243.59,3007 255.19,3002.3 265.86,2995.6 274.36,2986.4 636.08,2593.5 51.504,2181.5 418.36,1793.4 427.06,1784.2 437.67,\
+1777.4 449.23,1772.4",
+		style=solid];
+	"put-out($x6, $y2)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,519.61,5626.6 216.86,5703.7 235.75,5699.9 255.81,5695.7 274.36,5691.4 355.98,5672.3 449.01,5646.7 509.77,5629.4",
+		style=solid];
+	"put-out($x6, $y2)" -> "Reward Function"	[pos="e,566.11,5283.9 216.69,5713.3 236.68,5709.3 257.31,5702.5 274.36,5691.4 430.23,5589.5 528.63,5376.2 562.33,5293.3"];
+	"out-of-fuel($x2, $y4)" -> "Reward Function"	[pos="e,544.84,5238.3 249.94,82.613 259.22,87.227 267.61,93.344 274.36,101.38 452.76,313.87 312.06,4837.1 418.36,5093.4 442.8,5152.3 498.5,\
+5202.7 536.53,5232.1"];
+	"out-of-fuel($x2, $y4)" -> "out-of-fuel'($x2, $y4)"	[color=black,
+		pos="e,484.23,170.03 218.62,87.756 237.06,91.65 256.5,96.235 274.36,101.38 340.03,120.33 352.44,137.31 418.36,155.38 436.24,160.29 455.51,\
+164.54 474.21,168.15",
+		style=solid];
+	"out-of-fuel($x2, $y4)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,470.17,284.74 235.9,85.41 249.35,89.34 262.57,94.532 274.36,101.38 358.22,150.13 333.86,217.75 418.36,265.38 431.32,272.69 445.75,\
+278.16 460.47,282.25",
+		style=solid];
+	"out-of-fuel($x8, $y1)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,460.76,7187.4 245.56,7714.2 256.12,7709.9 266,7704.1 274.36,7696.4 440.3,7544 250.43,7360.6 418.36,7210.4 427.88,7201.9 439.08,\
+7195.5 451.03,7190.8",
+		style=solid];
+	"out-of-fuel($x8, $y1)" -> "out-of-fuel'($x8, $y1)"	[color=black,
+		pos="e,477.23,7681.7 234.66,7712.2 303.33,7703.6 395.66,7692 466.88,7683",
+		style=solid];
+	"burning($x4, $y4)" -> "out-of-fuel'($x4, $y4)"	[color=black,
+		pos="e,529.03,2521.1 241.53,1993.6 253.54,1997.9 264.86,2004 274.36,2012.4 426.19,2146.2 291.65,2286.6 418.36,2444.4 444.81,2477.3 486.15,\
+2501.4 519.77,2517",
+		style=solid];
+	"burning($x4, $y4)" -> "Reward Function"	[pos="e,545.02,5238.3 245.53,1992 256.51,1996.7 266.49,2003.3 274.36,2012.4 497.98,2272.1 284.23,4778 418.36,5093.4 443.33,5152.1 498.89,\
+5202.6 536.75,5232"];
+	"burning($x4, $y4)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,516.81,2833.3 243.64,1992.8 255.08,1997.3 265.7,2003.7 274.36,2012.4 515.31,2255.2 213.72,2494.3 418.36,2768.4 440.14,2797.6 475.49,\
+2817.1 507.13,2829.7",
+		style=solid];
+	"burning($x4, $y4)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,458.62,3284 244.6,1992.4 255.81,1997 266.11,2003.4 274.36,2012.4 652.61,2422.5 36.178,2852.9 418.36,3259.4 427.04,3268.6 437.63,\
+3275.4 449.18,3280.4",
+		style=solid];
+	"burning($x4, $y4)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,515.46,3106.5 244.39,1992.5 255.64,1997.1 266,2003.5 274.36,2012.4 591.51,2348 151.26,2664.7 418.36,3041.4 439.26,3070.9 474.17,\
+3090.4 505.77,3102.8",
+		style=solid];
+	"burning($x4, $y4)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,459.37,1173.5 242.67,1977.6 254.5,1972.9 265.47,1966.4 274.36,1957.4 515.56,1712.4 173.96,1439.2 418.36,1197.4 427.37,1188.5 438.17,\
+1181.9 449.84,1177",
+		style=solid];
+	"burning($x4, $y4)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,465.09,1965.2 245.4,1978.8 308.89,1974.8 389.47,1969.9 455.1,1965.8",
+		style=solid];
+	"burning($x4, $y4)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,542.54,641.19 243.6,1978 255.2,1973.3 265.86,1966.6 274.36,1957.4 638.03,1562.1 164.68,1230.9 418.36,757.38 444.68,708.26 496.97,\
+669.36 533.96,646.4",
+		style=solid];
+	"cut-out($x5, $y1)" -> "Reward Function"	[pos="e,563.79,5283.7 216.22,5658.5 236.21,5654.5 256.96,5648 274.36,5637.4 417.96,5549.9 521.21,5367.7 559.26,5292.7"];
+	"burning($x10, $y2)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,479.96,9255.4 232.23,9286.6 302.1,9277.8 397.44,9265.8 469.89,9256.7",
+		style=solid];
+	"burning($x10, $y2)" -> "out-of-fuel'($x10, $y2)"	[color=black,
+		pos="e,436.02,9298.4 261.12,9298.4 312.25,9298.4 372.08,9298.4 425.73,9298.4",
+		style=solid];
+	"burning($x10, $y2)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,486.3,9201.4 217.18,9284.3 236.05,9280.4 256.04,9275.7 274.36,9270.4 340.03,9251.4 352.44,9234.5 418.36,9216.4 436.89,9211.3 456.91,\
+9206.9 476.25,9203.2",
+		style=solid];
+	"burning($x10, $y2)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,523.03,9990.6 244.61,9307.6 255.61,9312.1 265.85,9318.2 274.36,9326.4 469.5,9514.7 254.42,9703.3 418.36,9919.4 442.17,9950.8 480.59,\
+9972.6 513.47,9986.6",
+		style=solid];
+	"burning($x10, $y2)" -> "Reward Function"	[pos="e,559.71,5282.9 247.92,9290 257.98,9285.3 267.1,9278.9 274.36,9270.4 539.58,8957.7 318.86,5981.1 418.36,5583.4 446.94,5469.1 518.5,\
+5347.5 554.29,5291.3"];
+	"burning($x10, $y2)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,561.51,8666.7 242.27,9288.6 253.95,9284.3 264.99,9278.4 274.36,9270.4 411.83,9153.3 336.75,9051.5 418.36,8890.4 460.17,8807.8 \
+523.41,8718.4 555.37,8675",
+		style=solid];
+	"burning($x10, $y2)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,542.41,7797.1 246.7,9289.8 257.12,9285.2 266.65,9278.9 274.36,9270.4 478.13,9045.8 276.98,8181.7 418.36,7913.4 444.34,7864.1 496.7,\
+7825.2 533.8,7802.3",
+		style=solid];
+	"burning($x10, $y2)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,554.16,8175.6 245.96,9289.6 256.58,9285 266.36,9278.8 274.36,9270.4 561.08,8969.5 247.41,8725.2 418.36,8346.4 448.78,8279 510.01,\
+8216.2 546.36,8182.7",
+		style=solid];
+	"burning($x10, $y2)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,465.48,9814.4 243.42,9307.9 254.76,9312.3 265.41,9318.3 274.36,9326.4 433.8,9470.7 260.11,9642.7 418.36,9788.4 429.13,9798.3 442.06,\
+9805.6 455.83,9811",
+		style=solid];
+	"burning($x10, $y2)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,486.3,9395.4 217.18,9312.5 236.05,9316.4 256.04,9321.1 274.36,9326.4 340.03,9345.3 352.44,9362.3 418.36,9380.4 436.89,9385.5 456.91,\
+9389.9 476.25,9393.5",
+		style=solid];
+	"put-out($x1, $y3)" -> "Reward Function"	[pos="e,544.93,5238.3 216.87,1276.7 238.56,1280.4 260.04,1288.6 274.36,1305.4 547.8,1625.8 255.2,4705.1 418.36,5093.4 443.07,5152.2 498.7,\
+5202.6 536.65,5232"];
+	"put-out($x1, $y3)" -> "burning'($x1, $y3)"	[color=black,
+		pos="e,459.12,352.21 217.02,1278.6 238.2,1274.8 259.35,1266.9 274.36,1251.4 548.46,968.19 141.54,656.93 418.36,376.38 427.26,367.37 437.99,\
+360.68 449.62,355.77",
+		style=solid];
+	"burning($x11, $y3)" -> "out-of-fuel'($x11, $y3)"	[color=black,
+		pos="e,450.21,9714.4 251.05,9727.2 308.8,9723.5 379.53,9718.9 440.18,9715",
+		style=solid];
+	"burning($x11, $y3)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,456.77,9194.7 243.89,9724.9 255.08,9720.5 265.57,9714.5 274.36,9706.4 441.39,9552.7 249.32,9367.9 418.36,9216.4 426.89,9208.7 \
+436.76,9202.8 447.33,9198.3",
+		style=solid];
+	"burning($x11, $y3)" -> "Reward Function"	[pos="e,559.67,5282.9 247.96,9726 258.01,9721.3 267.11,9715 274.36,9706.4 422.27,9531.3 363.19,5805.8 418.36,5583.4 446.7,5469.1 518.37,\
+5347.5 554.24,5291.3"];
+	"burning($x11, $y3)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,459.4,9754.2 251.62,9741.4 312.13,9745.1 386.76,9749.7 449.1,9753.6",
+		style=solid];
+	"burning($x11, $y3)" -> "burning'($x12, $y2)"	[color=black,
+		pos="e,459.53,10110 241.18,9744.4 253.18,9748.7 264.59,9754.5 274.36,9762.4 397.9,9862.2 293.52,9991.2 418.36,10089 427.8,10097 438.54,\
+10103 449.88,10107",
+		style=solid];
+	"burning($x11, $y3)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,502.14,9808.5 210.86,9749.2 288.28,9764.9 410.64,9789.9 491.94,9806.4",
+		style=solid];
+	"burning($x11, $y3)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,454.38,8488.3 246.58,9725.7 257.02,9721.1 266.59,9714.8 274.36,9706.4 636.63,9312.8 50.936,8900.2 418.36,8511.4 426,8503.3 435.11,\
+8497.1 445.05,8492.3",
+		style=solid];
+	"burning($x11, $y3)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,543.38,9426.2 236.01,9723.2 249.51,9719.2 262.72,9713.7 274.36,9706.4 363.99,9649.9 341.73,9589.6 418.36,9516.4 453.89,9482.4 \
+501.05,9451.5 534.37,9431.6",
+		style=solid];
+	"burning($x11, $y3)" -> "burning'($x12, $y4)"	[color=black,
+		pos="e,539.91,9561.1 223.62,9721.1 240.7,9717.3 258.32,9712.4 274.36,9706.4 343.28,9680.4 353.62,9659.5 418.36,9624.4 456.02,9604 499.34,\
+9581.7 530.92,9565.7",
+		style=solid];
+	"put-out($x5, $y4)" -> "Reward Function"	[pos="e,545.93,5238.2 216.88,3717.5 238.31,3721.2 259.64,3729.3 274.36,3745.4 477.66,3967.7 292.23,4819.8 418.36,5093.4 445.15,5151.5 \
+500.51,5202.3 537.8,5231.9"];
+	"put-out($x5, $y4)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,460.49,3127.1 216.8,3717.6 237.72,3713.7 258.8,3706 274.36,3691.4 455.87,3521.2 235.21,3318.8 418.36,3150.4 427.76,3141.7 438.88,\
+3135.3 450.79,3130.5",
+		style=solid];
+	"put-out($x7, $y2)" -> "Reward Function"	[pos="e,563.58,5283.3 216.73,5877 237.05,5873.1 257.84,5865.9 274.36,5853.4 286.97,5843.8 498.37,5415.7 559.14,5292.4"];
+	"put-out($x7, $y2)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,542.48,6024.7 216.72,5892.8 235.8,5896.7 255.99,5901.5 274.36,5907.4 370.24,5938 476.31,5990.2 533.41,6019.9",
+		style=solid];
+	"Current State and Actions" -> "Next State and Reward"	[color=black,
+		pos="e,471.01,10444 253.9,10444 317.89,10444 397.12,10444 460.91,10444",
+		style=invis];
+	"cut-out($x10, $y1)" -> "Reward Function"	[pos="e,559.9,5282.9 221.25,7996 241.35,7992 260.88,7983.8 274.36,7968.4 448.95,7768.4 351.19,5840.2 418.36,5583.4 448.15,5469.4 519.14,\
+5347.7 554.54,5291.4"];
+	"cut-out($x10, $y1)" -> "out-of-fuel'($x10, $y1)"	[color=black,
+		pos="e,542.79,9115.4 221.45,7995.8 241.17,7999.9 260.48,8007.8 274.36,8022.4 576.96,8340.3 205.89,8615.3 418.36,8999.4 445.34,9048.2 \
+497.48,9087.1 534.26,9110.2",
+		style=solid];
+	"out-of-fuel($x1, $y4)" -> "burning'($x1, $y4)"	[color=black,
+		pos="e,470.17,229.74 235.9,30.41 249.35,34.34 262.57,39.532 274.36,46.385 358.22,95.129 333.86,162.75 418.36,210.38 431.32,217.69 445.75,\
+223.16 460.47,227.25",
+		style=solid];
+	"out-of-fuel($x1, $y4)" -> "out-of-fuel'($x1, $y4)"	[color=black,
+		pos="e,518.49,111.74 214.36,33.163 233.96,37.208 254.99,41.76 274.36,46.385 355.45,65.747 447.85,91.472 508.64,108.91",
+		style=solid];
+	"burning($x5, $y3)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,459,4227.7 244.29,3239.6 255.55,3244.2 265.94,3250.6 274.36,3259.4 567.73,3566.1 122.05,3899.5 418.36,4203.4 427.2,4212.5 437.91,\
+4219.2 449.52,4224.1",
+		style=solid];
+	"burning($x5, $y3)" -> "out-of-fuel'($x5, $y3)"	[color=black,
+		pos="e,484.21,3329.1 217.21,3245.7 236.09,3249.5 256.06,3254.1 274.36,3259.4 340.19,3278.3 352.34,3296.1 418.36,3314.4 436.22,3319.3 \
+455.48,3323.6 474.19,3327.2",
+		style=solid];
+	"burning($x5, $y3)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,483.27,3189 228.5,3221 299.66,3212.1 398.89,3199.6 472.99,3190.3",
+		style=solid];
+	"burning($x5, $y3)" -> "Reward Function"	[pos="e,545.65,5238.4 245.25,3239.2 256.28,3243.9 266.35,3250.4 274.36,3259.4 545.98,3564.9 252.43,4719.8 418.36,5093.4 444.33,5151.9 \
+499.9,5202.6 537.46,5232"];
+	"burning($x5, $y3)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,550.97,2867.5 234.67,3222.4 248.73,3218.2 262.45,3212.4 274.36,3204.4 370.29,3139.6 342.23,3074.6 418.36,2987.4 456.97,2943.2 \
+509.49,2899.7 542.91,2873.7",
+		style=solid];
+	"burning($x5, $y3)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,483.27,3275.8 228.5,3243.7 299.66,3252.7 398.89,3265.2 472.99,3274.5",
+		style=solid];
+	"burning($x5, $y3)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,488.76,3134.9 215.39,3218.7 234.79,3214.7 255.46,3209.8 274.36,3204.4 340.03,3185.4 352.44,3168.5 418.36,3150.4 437.66,3145.1 \
+458.58,3140.6 478.66,3136.8",
+		style=solid];
+	"burning($x5, $y3)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,555.27,3970 242.36,3240.2 254.16,3244.6 265.21,3250.8 274.36,3259.4 455.6,3429.2 304.34,3578.7 418.36,3799.4 452.4,3865.3 512.61,\
+3928.8 547.75,3962.8",
+		style=solid];
+	"burning($x5, $y3)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,458.65,1961.8 243.61,3225 255.21,3220.3 265.87,3213.6 274.36,3204.4 643.06,2802.9 44.41,2383 418.36,1986.4 427.05,1977.2 437.65,\
+1970.3 449.2,1965.4",
+		style=solid];
+	"out-of-fuel($x7, $y3)" -> "out-of-fuel'($x7, $y3)"	[color=black,
+		pos="e,517.06,4836.8 214.34,4760.2 233.94,4764.3 254.97,4768.8 274.36,4773.4 354.75,4792.3 446.37,4817.1 507.19,4834.1",
+		style=solid];
+	"out-of-fuel($x7, $y3)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,476.99,4898 229.29,4758.4 244.7,4762.2 260.26,4767.1 274.36,4773.4 347.13,4806 345.16,4848.8 418.36,4880.4 433.66,4887 450.44,\
+4892 467.16,4895.9",
+		style=solid];
+	"out-of-fuel($x9, $y1)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,542.48,8666.1 223.2,8796.6 240.32,8793 258.05,8788.6 274.36,8783.4 370.24,8752.8 476.31,8700.6 533.41,8670.9",
+		style=solid];
+	"out-of-fuel($x9, $y1)" -> "out-of-fuel'($x9, $y1)"	[color=black,
+		pos="e,464.85,8603.4 237.28,8798.7 250.24,8794.9 262.96,8789.9 274.36,8783.4 357.96,8735.5 334.3,8668.4 418.36,8621.4 429.72,8615 442.2,\
+8610.1 455.01,8606.2",
+		style=solid];
+	"out-of-fuel($x2, $y1)" -> "out-of-fuel'($x2, $y1)"	[color=black,
+		pos="e,471.53,1268 229.7,1127.3 244.98,1131.2 260.4,1136.1 274.36,1142.4 347.47,1175.5 344.81,1219.2 418.36,1251.4 431.99,1257.3 446.81,\
+1262 461.73,1265.7",
+		style=solid];
+	"out-of-fuel($x2, $y1)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,465.77,1093.4 255.33,1106.9 317.27,1102.9 393.16,1098.1 455.49,1094.1",
+		style=solid];
+	"cut-out($x6, $y1)" -> "Reward Function"	[pos="e,560.92,5283.3 216.41,5603.5 236.19,5599.5 256.78,5593.2 274.36,5583.4 405.95,5510 512.69,5358.7 555.34,5292.1"];
+	"cut-out($x5, $y4)" -> "out-of-fuel'($x5, $y4)"	[color=black,
+		pos="e,453.19,3239.3 216.3,3879.9 237.45,3876.1 258.78,3868.3 274.36,3853.4 470.17,3665.7 220.75,3446.2 418.36,3260.4 425.85,3253.3 434.47,\
+3247.8 443.73,3243.3",
+		style=solid];
+	"cut-out($x5, $y4)" -> "Reward Function"	[pos="e,546.07,5238.2 216.38,3879.5 237.92,3883.2 259.44,3891.3 274.36,3907.4 454.93,4102 305.47,4853.1 418.36,5093.4 445.56,5151.3 500.81,\
+5202.1 537.97,5231.8"];
+	"out-of-fuel($x3, $y2)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,533.62,1450.2 220.01,1346.6 238.03,1350.2 256.94,1354.6 274.36,1359.4 363.82,1384.2 464.81,1422.6 524.12,1446.4",
+		style=solid];
+	"out-of-fuel($x3, $y2)" -> "out-of-fuel'($x3, $y2)"	[color=black,
+		pos="e,467.55,1511.7 234.6,1344.5 248.37,1348.2 262.03,1353.1 274.36,1359.4 352.39,1399.5 339.94,1455.1 418.36,1494.4 430.61,1500.5 443.99,\
+1505.3 457.6,1509.1",
+		style=solid];
+	"out-of-fuel($x8, $y4)" -> "out-of-fuel'($x8, $y4)"	[color=black,
+		pos="e,443.14,6746.4 266.69,6746.4 318.87,6746.4 379.36,6746.4 432.88,6746.4",
+		style=solid];
+	"out-of-fuel($x8, $y4)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,483.24,6789.8 234.66,6758.5 305.39,6767.4 401.23,6779.5 473.24,6788.5",
+		style=solid];
+	"put-out($x1, $y2)" -> "Reward Function"	[pos="e,545.03,5238.3 216.77,2037.8 238.46,2041.5 259.96,2049.7 274.36,2066.4 494.17,2321.4 286.45,4783.6 418.36,5093.4 443.35,5152.1 \
+498.91,5202.5 536.76,5232"];
+	"put-out($x1, $y2)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,458.67,787.77 216.75,2040.2 238.17,2036.4 259.53,2028.4 274.36,2012.4 639.42,1618.3 49.518,1202.9 418.36,812.38 427.06,803.17 \
+437.67,796.36 449.22,791.38",
+		style=solid];
+	"put-out($x7, $y3)" -> "Reward Function"	[pos="e,553.64,5237.1 216.89,4970.6 236.35,4974.6 256.68,4980.5 274.36,4989.4 336.81,5020.6 483.94,5166.3 546.45,5229.8"];
+	"put-out($x7, $y3)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,482.54,4919.8 216.84,4952.7 288.25,4943.8 394.02,4930.8 472.18,4921.1",
+		style=solid];
+	"burning($x11, $y2)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,458.26,9250.2 242.27,9669.6 253.95,9665.3 264.99,9659.4 274.36,9651.4 411.83,9534.3 279.35,9386.7 418.36,9271.4 427.43,9263.9 \
+437.83,9258.1 448.86,9253.6",
+		style=solid];
+	"burning($x11, $y2)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,457.48,9194.9 243.29,9669.8 254.65,9665.4 265.34,9659.4 274.36,9651.4 426.53,9516 264.42,9349.7 418.36,9216.4 427.1,9208.8 437.17,\
+9203 447.89,9198.5",
+		style=solid];
+	"burning($x11, $y2)" -> "out-of-fuel'($x11, $y2)"	[color=black,
+		pos="e,450.21,9659.4 251.05,9672.2 308.8,9668.5 379.53,9663.9 440.18,9660",
+		style=solid];
+	"burning($x11, $y2)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,454.38,8433.3 246.58,9670.7 257.02,9666.1 266.59,9659.8 274.36,9651.4 636.63,9257.8 50.936,8845.2 418.36,8456.4 426,8448.3 435.11,\
+8442.1 445.05,8437.3",
+		style=solid];
+	"burning($x11, $y2)" -> "Reward Function"	[pos="e,559.68,5282.9 247.95,9671 258.01,9666.3 267.11,9660 274.36,9651.4 420.34,9478.7 363.88,5802.9 418.36,5583.4 446.73,5469.1 518.39,\
+5347.5 554.24,5291.3"];
+	"burning($x11, $y2)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,495.05,9747.3 212.45,9694 268.89,9705 348.46,9720.4 418.36,9733.4 439.96,9737.4 463.25,9741.6 485.11,9745.5",
+		style=solid];
+	"burning($x11, $y2)" -> "burning'($x12, $y1)"	[color=black,
+		pos="e,456.76,10221 243.9,9688.8 255.09,9693.3 265.57,9699.3 274.36,9707.4 441.93,9861.8 248.77,10047 418.36,10199 426.88,10207 436.76,\
+10213 447.32,10217",
+		style=solid];
+	"burning($x11, $y2)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,492.13,9809.6 223.23,9692.6 240.43,9696.5 258.19,9701.3 274.36,9707.4 343.14,9733.1 349.79,9762.1 418.36,9788.4 438.51,9796.1 \
+460.79,9802.4 482.09,9807.3",
+		style=solid];
+	"burning($x11, $y2)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,546.65,9426.3 231.37,9667.4 246.23,9663.5 261.07,9658.3 274.36,9651.4 352.25,9611 350.03,9571.4 418.36,9516.4 457.46,9484.9 505.36,\
+9452.8 537.9,9431.9",
+		style=solid];
+	"put-out($x2, $y1)" -> "Reward Function"	[pos="e,545.07,5238.2 216.72,2307.9 238.41,2311.5 259.92,2319.7 274.36,2336.4 475.15,2568.3 297.53,4811.4 418.36,5093.4 443.49,5152 499.01,\
+5202.5 536.82,5231.9"];
+	"put-out($x2, $y1)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,489.25,1099 216.68,2310.1 238.11,2306.4 259.48,2298.3 274.36,2282.4 622.6,1908.8 98.465,1540.5 418.36,1142.4 433.81,1123.2 456.38,\
+1110.5 479.62,1102.2",
+		style=solid];
+	"out-of-fuel($x1, $y3)" -> "out-of-fuel'($x1, $y3)"	[color=black,
+		pos="e,464.4,393.31 235.9,195.41 249.35,199.34 262.57,204.53 274.36,211.38 358.22,260.13 333.86,327.75 418.36,375.38 429.6,381.72 441.96,\
+386.68 454.64,390.55",
+		style=solid];
+	"out-of-fuel($x1, $y3)" -> "burning'($x1, $y3)"	[color=black,
+		pos="e,476.94,338.16 229.7,196.34 244.98,200.15 260.4,205.06 274.36,211.38 347.47,244.51 344.81,288.23 418.36,320.38 433.63,327.06 450.39,\
+332.15 467.11,336.02",
+		style=solid];
+	"cut-out($x10, $y2)" -> "out-of-fuel'($x10, $y2)"	[color=black,
+		pos="e,448.51,9290.7 221.45,8265.8 241.17,8269.9 260.48,8277.8 274.36,8292.4 577.24,8610.7 112.43,8955 418.36,9270.4 424.59,9276.8 431.75,\
+9282.1 439.51,9286.3",
+		style=solid];
+	"cut-out($x10, $y2)" -> "Reward Function"	[pos="e,559.85,5282.9 221.32,8266.1 241.41,8262 260.93,8253.9 274.36,8238.4 467.97,8015.2 344.49,5869.4 418.36,5583.4 447.8,5469.4 518.95,\
+5347.7 554.47,5291.4"];
+	"put-out($x6, $y4)" -> "Reward Function"	[pos="e,546.41,5238 216.74,4150 238.03,4153.8 259.33,4161.7 274.36,4177.4 559.91,4474.5 236.61,4723.5 418.36,5093.4 446.58,5150.8 501.56,\
+5201.8 538.38,5231.6"];
+	"put-out($x6, $y4)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,542.48,4006.1 216.72,4138 235.8,4134.1 255.99,4129.2 274.36,4123.4 370.24,4092.8 476.31,4040.6 533.41,4010.9",
+		style=solid];
+	"burning($x5, $y4)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,458.92,4227.8 243.39,3185 255.02,3189.7 265.75,3196.2 274.36,3205.4 581.68,3531.6 106.77,3881.3 418.36,4203.4 427.17,4212.5 437.84,\
+4219.2 449.44,4224.2",
+		style=solid];
+	"burning($x5, $y4)" -> "out-of-fuel'($x5, $y4)"	[color=black,
+		pos="e,477.56,3220.1 228.5,3188.7 297.87,3197.5 393.91,3209.6 467.35,3218.8",
+		style=solid];
+	"burning($x5, $y4)" -> "Reward Function"	[pos="e,545.63,5238.4 244.31,3184.6 255.72,3189.3 266.14,3196.1 274.36,3205.4 552.46,3521.2 248,4708.6 418.36,5093.4 444.26,5151.9 499.85,\
+5202.6 537.43,5232.1"];
+	"burning($x5, $y4)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,553.01,2867.5 231.22,3166.6 246.25,3162.5 261.19,3157 274.36,3149.4 357.79,3101.2 350.05,3055.3 418.36,2987.4 460.46,2945.5 512.89,\
+2900.8 545.23,2874",
+		style=solid];
+	"burning($x5, $y4)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,488.76,3274.9 215.39,3191.1 234.79,3195.1 255.46,3199.9 274.36,3205.4 340.03,3224.3 352.44,3241.3 418.36,3259.4 437.66,3264.7 \
+458.58,3269.2 478.66,3273",
+		style=solid];
+	"burning($x5, $y4)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,483.27,3134 228.5,3166 299.66,3157.1 398.89,3144.6 472.99,3135.3",
+		style=solid];
+	"burning($x5, $y4)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,555.09,3970.1 241.9,3185.5 253.93,3190.1 265.15,3196.5 274.36,3205.4 469.78,3394.1 296.42,3556.6 418.36,3799.4 451.65,3865.7 512.13,\
+3929.1 547.52,3963",
+		style=solid];
+	"burning($x5, $y4)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,458.71,1961.8 243.56,3169.9 255.17,3165.2 265.84,3158.6 274.36,3149.4 627.7,2766.7 60.015,2364.4 418.36,1986.4 427.08,1977.2 437.69,\
+1970.4 449.25,1965.4",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,455.74,9182.6 245.1,8492.6 255.95,8497.1 266.02,8503.2 274.36,8511.4 484.9,8718.7 205.11,8955.9 418.36,9160.4 426.47,9168.2 435.95,\
+9174.2 446.17,9178.8",
+		style=solid];
+	"burning($x10, $y3)" -> "out-of-fuel'($x10, $y3)"	[color=black,
+		pos="e,482.58,8387 217.18,8469.3 236.05,8465.4 256.04,8460.7 274.36,8455.4 340.03,8436.4 352.44,8419.5 418.36,8401.4 435.7,8396.6 454.36,\
+8392.5 472.54,8388.9",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,479.96,8440.4 232.23,8471.6 302.1,8462.8 397.44,8450.8 469.89,8441.7",
+		style=solid];
+	"burning($x10, $y3)" -> "Reward Function"	[pos="e,559.81,5282.9 247.83,8474.9 257.9,8470.3 267.05,8463.9 274.36,8455.4 482.4,8212.9 339.1,5892.9 418.36,5583.4 447.57,5469.3 518.83,\
+5347.6 554.42,5291.3"];
+	"burning($x10, $y3)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,545.1,7797.1 244.44,8474 255.46,8469.5 265.76,8463.5 274.36,8455.4 455.54,8284.2 285.54,8124.3 418.36,7913.4 448.28,7865.9 500.41,\
+7826.3 536.34,7802.8",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,562.88,8175.7 232.25,8471.5 246.85,8467.6 261.38,8462.3 274.36,8455.4 403.85,8386.1 514.52,8243.5 556.9,8184.2",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,543.31,7255.2 246.48,8474.6 256.94,8470 266.54,8463.8 274.36,8455.4 605.1,8100.5 188.06,7800.4 418.36,7373.4 445.14,7323.7 497.83,\
+7284 534.75,7260.6",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,449.54,8483.4 261.12,8483.4 316.63,8483.4 382.4,8483.4 439.38,8483.4",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,454.82,9403 245.88,8492.3 256.52,8496.8 266.32,8503 274.36,8511.4 545.79,8793.5 143.24,9101.9 418.36,9380.4 426.18,9388.3 435.41,\
+9394.4 445.43,9399.1",
+		style=solid];
+	"burning($x10, $y3)" -> "burning'($x11, $y4)"	[color=black,
+		pos="e,457.49,8965.9 243.27,8493 254.64,8497.4 265.33,8503.4 274.36,8511.4 425.99,8646.1 264.97,8811.7 418.36,8944.4 427.1,8951.9 437.17,\
+8957.8 447.91,8962.3",
+		style=solid];
+	"out-of-fuel($x2, $y2)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,483.24,882.8 234.66,851.52 305.39,860.42 401.23,872.48 473.24,881.54",
+		style=solid];
+	"out-of-fuel($x2, $y2)" -> "out-of-fuel'($x2, $y2)"	[color=black,
+		pos="e,484.23,936.03 218.62,853.76 237.06,857.65 256.5,862.23 274.36,867.38 340.03,886.33 352.44,903.31 418.36,921.38 436.24,926.29 455.51,\
+930.54 474.21,934.15",
+		style=solid];
+	"out-of-fuel($x8, $y3)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,456.65,6911.4 266.69,6911.4 323.37,6911.4 389.84,6911.4 446.55,6911.4",
+		style=solid];
+	"out-of-fuel($x8, $y3)" -> "out-of-fuel'($x8, $y3)"	[color=black,
+		pos="e,477.23,6868.7 234.66,6899.2 303.33,6890.6 395.66,6879 466.88,6870",
+		style=solid];
+	"out-of-fuel($x7, $y4)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,518.76,4403.2 216.5,4327 235.49,4330.8 255.69,4335.1 274.36,4339.4 355.56,4358.2 448.13,4383.4 508.91,4400.4",
+		style=solid];
+	"out-of-fuel($x7, $y4)" -> "out-of-fuel'($x7, $y4)"	[color=black,
+		pos="e,472,4463 231.09,4325.1 245.91,4328.7 260.81,4333.4 274.36,4339.4 347.25,4371.7 345.16,4414.8 418.36,4446.4 432.12,4452.3 447.08,\
+4457 462.12,4460.7",
+		style=solid];
+	"out-of-fuel($x9, $y2)" -> "out-of-fuel'($x9, $y2)"	[color=black,
+		pos="e,460.95,8111.5 240.64,8362.3 252.59,8358.4 264.14,8353.2 274.36,8346.4 370.28,8282.3 321.83,8193.6 418.36,8130.4 428.4,8123.8 439.55,\
+8118.7 451.13,8114.6",
+		style=solid];
+	"out-of-fuel($x9, $y2)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,553.13,8175.4 228.53,8360.3 244.1,8356.7 259.91,8352.1 274.36,8346.4 381.64,8303.8 492.87,8222.5 544.99,8181.8",
+		style=solid];
+	"cut-out($x5, $y3)" -> "out-of-fuel'($x5, $y3)"	[color=black,
+		pos="e,568.89,3360.9 216.51,3985.3 236.95,3981.3 257.85,3974.1 274.36,3961.4 378.62,3881 526.42,3480.3 565.55,3370.3",
+		style=solid];
+	"cut-out($x5, $y3)" -> "Reward Function"	[pos="e,546.18,5238.1 216.26,3987.6 237.8,3991.4 259.34,3999.4 274.36,4015.4 605.23,4367.8 210.22,4657.1 418.36,5093.4 445.91,5151.1 501.07,\
+5202 538.11,5231.8"];
+	"cut-out($x6, $y2)" -> "Reward Function"	[pos="e,557.44,5282.3 216.53,5548.2 236.1,5544.2 256.57,5538.3 274.36,5529.4 394.96,5469.1 504.02,5347.3 550.97,5290.2"];
+	"out-of-fuel($x3, $y1)" -> "Reward Function"	[pos="e,545,5238.3 249.49,1884.6 258.92,1889.2 267.46,1895.3 274.36,1903.4 504.7,2173.2 279.76,4766.8 418.36,5093.4 443.28,5152.1 498.86,\
+5202.6 536.73,5232"];
+	"out-of-fuel($x3, $y1)" -> "out-of-fuel'($x3, $y1)"	[color=black,
+		pos="e,443.14,1875.4 266.69,1875.4 318.87,1875.4 379.36,1875.4 432.88,1875.4",
+		style=solid];
+	"out-of-fuel($x3, $y1)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,483.24,1832 234.66,1863.2 305.39,1854.3 401.23,1842.3 473.24,1833.2",
+		style=solid];
+	"burning($x12, $y1)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,467.29,10017 234.12,10216 248.18,10212 262.05,10207 274.36,10199 358.22,10151 333.86,10083 418.36,10035 430.39,10029 443.7,10023 \
+457.32,10019",
+		style=solid];
+	"burning($x12, $y1)" -> "out-of-fuel'($x12, $y1)"	[color=black,
+		pos="e,517.35,10320 213.28,10242 233.19,10246 254.63,10251 274.36,10255 354.91,10274 446.68,10300 507.49,10317",
+		style=solid];
+	"burning($x12, $y1)" -> "Reward Function"	[pos="e,559.64,5282.8 247.99,10219 258.04,10214 267.13,10208 274.36,10199 439.56,10003 357.07,5832.5 418.36,5583.4 446.49,5469 518.26,\
+5347.5 554.19,5291.3"];
+	"burning($x12, $y1)" -> "burning'($x12, $y2)"	[color=black,
+		pos="e,486.3,10130 217.18,10213 236.05,10209 256.04,10205 274.36,10199 340.03,10180 352.44,10163 418.36,10145 436.89,10140 456.91,10136 \
+476.25,10132",
+		style=solid];
+	"burning($x12, $y1)" -> "burning'($x12, $y1)"	[color=black,
+		pos="e,449.54,10227 261.12,10227 316.63,10227 382.4,10227 439.38,10227",
+		style=solid];
+	"burning($x12, $y1)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,477.76,9835.1 241.59,10217 253.44,10213 264.72,10207 274.36,10199 399.72,10097 296.04,9971.1 418.36,9865.4 432.5,9853.2 449.83,\
+9844.5 467.76,9838.3",
+		style=solid];
+	"put-out($x12, $y4)" -> "Reward Function"	[pos="e,559.77,5282.9 222.47,8756.9 242.18,8752.8 261.23,8744.6 274.36,8729.4 502.56,8464.1 332.3,5922.6 418.36,5583.4 447.32,5469.2 518.7,\
+5347.6 554.37,5291.3"];
+	"put-out($x12, $y4)" -> "burning'($x12, $y4)"	[color=black,
+		pos="e,534.35,9525.9 222.52,8757.8 241.65,8762 260.4,8769.7 274.36,8783.4 486.46,8990.9 252.56,9189.3 418.36,9435.4 444.57,9474.3 489.93,\
+9503.2 525.17,9521.3",
+		style=solid];
+	"put-out($x7, $y4)" -> "Reward Function"	[pos="e,547.32,5238 216.83,4420.7 237.88,4424.6 259.01,4432.4 274.36,4447.4 484.8,4652.9 280.33,4833.6 418.36,5093.4 448.47,5150 503.21,\
+5201.4 539.44,5231.5"];
+	"put-out($x7, $y4)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,456.54,4419.7 216.84,4420.2 280.59,4420.1 371.72,4419.9 446.15,4419.7",
+		style=solid];
+	"cut-out($x3, $y3)" -> "Reward Function"	[pos="e,545.45,5238.5 216.31,2577.8 238.11,2581.5 259.8,2589.7 274.36,2606.4 456.13,2815.1 308.61,4839.3 418.36,5093.4 443.73,5152.1 499.46,\
+5202.7 537.21,5232.2"];
+	"cut-out($x3, $y3)" -> "out-of-fuel'($x3, $y3)"	[color=black,
+		pos="e,531.31,1351.8 216.3,2580.2 237.84,2576.4 259.38,2568.4 274.36,2552.4 614.75,2188.4 156.66,1864.5 418.36,1440.4 442.38,1401.5 486.63,\
+1373.5 522.05,1356.2",
+		style=solid];
+	"out-of-fuel($x11, $y3)" -> "out-of-fuel'($x11, $y3)"	[color=black,
+		pos="e,491.38,9721.1 214.22,9774.1 270.53,9762.8 349.17,9747.3 418.36,9734.4 438.7,9730.6 460.56,9726.6 481.3,9722.9",
+		style=solid];
+	"out-of-fuel($x11, $y3)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,540.9,9426.2 242.43,9777.6 253.81,9773.5 264.74,9768.3 274.36,9761.4 377.07,9687.9 332.28,9608.8 418.36,9516.4 451.47,9480.8 498.27,\
+9450.5 532.15,9431.1",
+		style=solid];
+	"burning($x9, $y1)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,456.53,9237.4 242.36,8656.2 254.16,8660.6 265.21,8666.8 274.36,8675.4 455.6,8845.2 235.49,9047.3 418.36,9215.4 426.79,9223.1 436.6,\
+9229.1 447.12,9233.7",
+		style=solid];
+	"burning($x9, $y1)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,456.79,9182.1 242.14,8656.4 253.97,8660.8 265.09,8666.9 274.36,8675.4 440.56,8826.8 250.7,9010.5 418.36,9160.4 426.9,9168 436.78,\
+9173.9 447.35,9178.4",
+		style=solid];
+	"burning($x9, $y1)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,458.49,7185.6 243.75,8641.1 255.33,8636.4 265.94,8629.7 274.36,8620.4 696.73,8153 -10.121,7672.1 418.36,7210.4 426.98,7201.1 437.53,\
+7194.2 449.05,7189.2",
+		style=solid];
+	"burning($x9, $y1)" -> "Reward Function"	[pos="e,559.79,5282.9 244.57,8641.4 255.94,8636.6 266.28,8629.8 274.36,8620.4 493.97,8363.7 335.01,5910.8 418.36,5583.4 447.42,5469.3 \
+518.75,5347.6 554.39,5291.3"];
+	"burning($x9, $y1)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,456.84,8648.4 253.33,8648.4 312.76,8648.4 385.45,8648.4 446.72,8648.4",
+		style=solid];
+	"burning($x9, $y1)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,458.44,7130.6 244.12,8641 255.56,8636.3 266.04,8629.6 274.36,8620.4 493.24,8377.3 196.3,7395.6 418.36,7155.4 426.96,7146.1 437.5,\
+7139.2 449.02,7134.2",
+		style=solid];
+	"burning($x9, $y1)" -> "out-of-fuel'($x9, $y1)"	[color=black,
+		pos="e,477.56,8605.7 228.5,8637 297.87,8628.3 393.91,8616.2 467.35,8607",
+		style=solid];
+	"out-of-fuel($x1, $y2)" -> "out-of-fuel'($x1, $y2)"	[color=black,
+		pos="e,460.95,830.25 240.64,579.46 252.59,583.37 264.14,588.55 274.36,595.38 370.28,659.51 321.83,748.19 418.36,811.38 428.4,817.96 439.55,\
+823.11 451.13,827.13",
+		style=solid];
+	"out-of-fuel($x1, $y2)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,553.13,766.34 228.53,581.47 244.1,585.08 259.91,589.64 274.36,595.38 381.64,638.01 492.87,719.27 544.99,759.94",
+		style=solid];
+	"out-of-fuel($x9, $y3)" -> "Reward Function"	[pos="e,559.96,5282.9 249.31,7770 258.77,7765.5 267.38,7759.4 274.36,7751.4 433.03,7569.4 356.58,5816.8 418.36,5583.4 448.5,5469.5 519.32,\
+5347.8 554.61,5291.4"];
+	"out-of-fuel($x9, $y3)" -> "out-of-fuel'($x9, $y3)"	[color=black,
+		pos="e,542.02,7922.6 223.19,7793.2 240.31,7796.8 258.05,7801.2 274.36,7806.4 369.9,7836.7 475.69,7888.3 532.92,7917.8",
+		style=solid];
+	"out-of-fuel($x9, $y3)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,456.65,7779.4 266.69,7779.4 323.37,7779.4 389.84,7779.4 446.55,7779.4",
+		style=solid];
+	"burning($x8, $y4)" -> "Reward Function"	[pos="e,560.45,5283.1 243.59,6794 255.19,6789.3 265.86,6782.6 274.36,6773.4 454.8,6577.4 343.25,5839 418.36,5583.4 451.5,5470.6 520.65,\
+5348.7 555.04,5291.9"];
+	"burning($x8, $y4)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,488.76,6898.9 215.39,6815.1 234.79,6819.1 255.46,6823.9 274.36,6829.4 340.03,6848.3 352.44,6865.3 418.36,6883.4 437.66,6888.7 \
+458.58,6893.2 478.66,6897",
+		style=solid];
+	"burning($x8, $y4)" -> "out-of-fuel'($x8, $y4)"	[color=black,
+		pos="e,477.56,6758.7 228.5,6790 297.87,6781.3 393.91,6769.2 467.35,6760",
+		style=solid];
+	"burning($x8, $y4)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,541.2,4926 244.25,6794.1 255.67,6789.4 266.11,6782.7 274.36,6773.4 530.89,6484.1 240.1,5382.5 418.36,5039.4 443.58,4990.8 495.35,\
+4953.3 532.55,4931",
+		style=solid];
+	"burning($x8, $y4)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,517.67,7763.2 242.87,6809 254.66,6813.7 265.57,6820.3 274.36,6829.4 545.24,7110.8 189.96,7379.5 418.36,7696.4 440.1,7726.5 476.2,\
+7746.7 508.3,7759.6",
+		style=solid];
+	"burning($x8, $y4)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,456.84,6801.4 253.33,6801.4 312.76,6801.4 385.45,6801.4 446.72,6801.4",
+		style=solid];
+	"burning($x8, $y4)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,462.27,7231.8 239.51,6810.1 252.2,6814.6 264.25,6820.8 274.36,6829.4 411.83,6946.5 279.35,7094.1 418.36,7209.4 428.46,7217.8 440.21,\
+7224 452.64,7228.6",
+		style=solid];
+	"cut-out($x1, $y1)" -> "out-of-fuel'($x1, $y1)"	[color=black,
+		pos="e,450.93,1230.7 216.38,2472.2 237.93,2468.5 259.44,2460.5 274.36,2444.4 637.18,2053.1 51.788,1640.2 418.36,1252.4 425.13,1245.2 \
+433.06,1239.5 441.7,1235",
+		style=solid];
+	"cut-out($x1, $y1)" -> "Reward Function"	[pos="e,545.43,5238.5 216.33,2469.8 238.14,2473.4 259.82,2481.6 274.36,2498.4 463.74,2716.4 304.18,4828.1 418.36,5093.4 443.66,5152.2 \
+499.4,5202.8 537.19,5232.2"];
+	"burning($x10, $y1)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,479.96,9231.4 232.23,9200.2 302.1,9209 397.44,9221 469.89,9230.1",
+		style=solid];
+	"burning($x10, $y1)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,449.54,9188.4 261.12,9188.4 316.63,9188.4 382.4,9188.4 439.38,9188.4",
+		style=solid];
+	"burning($x10, $y1)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,522.25,9990.7 245.24,9197.4 256.06,9202 266.08,9208.1 274.36,9216.4 499.79,9442 230.21,9661.9 418.36,9919.4 441.51,9951.1 479.74,\
+9972.9 512.67,9986.8",
+		style=solid];
+	"burning($x10, $y1)" -> "Reward Function"	[pos="e,559.72,5282.9 248.84,9180.4 258.53,9175.8 267.31,9169.6 274.36,9161.4 533,8859 321.57,5969.3 418.36,5583.4 447.01,5469.1 518.53,\
+5347.6 554.3,5291.3"];
+	"burning($x10, $y1)" -> "out-of-fuel'($x10, $y1)"	[color=black,
+		pos="e,474.61,9146.1 232.23,9176.6 300.42,9168 392.87,9156.3 464.63,9147.3",
+		style=solid];
+	"burning($x10, $y1)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,562.58,8666.9 241.32,9178.3 253.15,9174.2 264.49,9168.7 274.36,9161.4 383.83,9080 349.18,9007.9 418.36,8890.4 465.41,8810.4 526.57,\
+8719.5 556.79,8675.3",
+		style=solid];
+	"burning($x10, $y1)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,554.32,8175.7 246.76,9179.8 257.03,9175.4 266.52,9169.4 274.36,9161.4 531.73,8898.6 263.67,8680.1 418.36,8346.4 449.46,8279.3 \
+510.45,8216.4 546.58,8182.8",
+		style=solid];
+	"burning($x10, $y1)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,464.1,9814.8 244.54,9197.7 255.55,9202.1 265.81,9208.2 274.36,9216.4 463.75,9397.6 230.48,9605.6 418.36,9788.4 428.68,9798.4 441.22,\
+9805.9 454.67,9811.3",
+		style=solid];
+	"out-of-fuel($x11, $y2)" -> "out-of-fuel'($x11, $y2)"	[color=black,
+		pos="e,456.43,9661.1 242.81,9942.5 254.06,9938.5 264.85,9933.2 274.36,9926.4 377.57,9852.3 314.18,9752.2 418.36,9679.4 427.13,9673.3 \
+436.84,9668.3 447,9664.4",
+		style=solid];
+	"out-of-fuel($x11, $y2)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,508.66,9839 222.02,9939.9 239.48,9936.1 257.65,9931.6 274.36,9926.4 340.72,9905.7 352.63,9888 418.36,9865.4 444.27,9856.5 473.11,\
+9848.3 498.93,9841.5",
+		style=solid];
+	"cut-out($x3, $y4)" -> "Reward Function"	[pos="e,544.97,5238.3 216.48,1600.7 238.29,1604.3 259.93,1612.5 274.36,1629.4 524.96,1921.9 268.51,4738.5 418.36,5093.4 443.18,5152.2 \
+498.78,5202.6 536.69,5232"];
+	"cut-out($x3, $y4)" -> "out-of-fuel'($x3, $y4)"	[color=black,
+		pos="e,451.56,574.75 216.48,1602.9 237.9,1599.2 259.32,1591.2 274.36,1575.4 577.52,1256.8 112.15,912.06 418.36,596.38 425.37,589.16 433.56,\
+583.42 442.45,578.89",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,454.57,9238.3 244.39,8164.5 255.64,8169.1 266,8175.5 274.36,8184.4 592.07,8520.7 97.428,8882.1 418.36,9215.4 426.08,9223.4 435.24,\
+9229.6 445.21,9234.3",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,454.65,9183.2 244.33,8164.6 255.58,8169.2 265.97,8175.6 274.36,8184.4 576.68,8502 113,8845.7 418.36,9160.4 426.11,9168.4 435.29,\
+9174.5 445.28,9179.3",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,463.4,8419.9 236.05,8167 249.62,8171.1 262.84,8176.7 274.36,8184.4 370.28,8248.5 321.83,8337.2 418.36,8400.4 429.16,8407.5 441.23,\
+8412.9 453.75,8417",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,459.04,7186.1 244.25,8150.1 255.52,8145.5 265.93,8139.2 274.36,8130.4 561.02,7831.9 128.83,7506.1 418.36,7210.4 427.22,7201.3 \
+437.93,7194.6 449.55,7189.7",
+		style=solid];
+	"burning($x9, $y2)" -> "Reward Function"	[pos="e,559.87,5282.9 245.44,8150.7 256.44,8146 266.45,8139.5 274.36,8130.4 460.36,7916.5 347.17,5857.8 418.36,5583.4 447.93,5469.4 519.02,\
+5347.7 554.49,5291.4"];
+	"burning($x9, $y2)" -> "out-of-fuel'($x9, $y2)"	[color=black,
+		pos="e,477.56,8114.7 228.5,8146 297.87,8137.3 393.91,8125.2 467.35,8116",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,461.46,8643.2 241.55,8165.6 253.56,8169.9 264.88,8176 274.36,8184.4 427.27,8319.5 264.15,8486.7 418.36,8620.4 428.19,8628.9 439.71,\
+8635.2 451.96,8639.9",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,542.98,6929.1 244.45,8150.3 255.69,8145.7 266.03,8139.3 274.36,8130.4 607.19,7775.6 185.95,7472.7 418.36,7045.4 445.06,6996.3 \
+497.52,6957.3 534.43,6934.3",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,458.95,7131 244.33,8150.2 255.58,8145.6 265.96,8139.2 274.36,8130.4 576.4,7813.1 113.28,7469.7 418.36,7155.4 427.18,7146.3 437.87,\
+7139.6 449.47,7134.6",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,550.08,7797.5 236.07,8147.8 249.63,8143.7 262.84,8138.1 274.36,8130.4 370.52,8066 341.59,8000 418.36,7913.4 456.48,7870.4 508.47,\
+7828.6 541.98,7803.5",
+		style=solid];
+	"burning($x9, $y2)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,456.84,8157.4 253.33,8157.4 312.76,8157.4 385.45,8157.4 446.72,8157.4",
+		style=solid];
+	"out-of-fuel($x1, $y1)" -> "burning'($x1, $y1)"	[color=black,
+		pos="e,456.65,1004.4 266.69,1004.4 323.37,1004.4 389.84,1004.4 446.55,1004.4",
+		style=solid];
+	"out-of-fuel($x1, $y1)" -> "out-of-fuel'($x1, $y1)"	[color=black,
+		pos="e,464.4,1214.3 235.9,1016.4 249.35,1020.3 262.57,1025.5 274.36,1032.4 358.22,1081.1 333.86,1148.7 418.36,1196.4 429.6,1202.7 441.96,\
+1207.7 454.64,1211.6",
+		style=solid];
+	"out-of-fuel($x10, $y4)" -> "out-of-fuel'($x10, $y4)"	[color=black,
+		pos="e,474.52,8551.1 237.93,8580.8 305.42,8572.3 394.64,8561.1 464.38,8552.3",
+		style=solid];
+	"out-of-fuel($x10, $y4)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,486.3,8496.4 220.06,8578.7 238.07,8574.9 256.96,8570.4 274.36,8565.4 340.03,8546.4 352.44,8529.5 418.36,8511.4 436.89,8506.3 456.91,\
+8501.9 476.25,8498.2",
+		style=solid];
+	"out-of-fuel($x9, $y4)" -> "out-of-fuel'($x9, $y4)"	[color=black,
+		pos="e,542.49,7382.5 223.21,7251.1 240.33,7254.8 258.06,7259.2 274.36,7264.4 370.32,7295.1 476.36,7347.7 533.43,7377.7",
+		style=solid];
+	"out-of-fuel($x9, $y4)" -> "Reward Function"	[pos="e,560.16,5283 248.81,7228 258.43,7223.5 267.21,7217.4 274.36,7209.4 515.77,6938.6 321.68,5933 418.36,5583.4 449.75,5469.9 519.98,\
+5347.9 554.87,5291.5"];
+	"out-of-fuel($x9, $y4)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,456.65,7237.4 266.69,7237.4 323.37,7237.4 389.84,7237.4 446.55,7237.4",
+		style=solid];
+	"burning($x8, $y3)" -> "Reward Function"	[pos="e,560.4,5283 243.63,6849 255.23,6844.3 265.88,6837.6 274.36,6828.4 462.48,6623 340.54,5850.8 418.36,5583.4 451.2,5470.5 520.5,5348.7 \
+554.98,5291.9"];
+	"burning($x8, $y3)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,458.04,4422.2 244.45,6849.3 255.84,6844.5 266.22,6837.8 274.36,6828.4 621.57,6427.9 65.91,4843.3 418.36,4447.4 426.78,4437.9 437.21,\
+4430.9 448.66,4425.9",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,483.27,6899.8 228.5,6867.7 299.66,6876.7 398.89,6889.2 472.99,6898.5",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,544.41,6060.3 242.07,6848.4 254.07,6843.8 265.24,6837.4 274.36,6828.4 485.45,6620.4 266.22,6431.7 418.36,6177.4 447.2,6129.2 499.32,\
+6089.5 535.56,6065.9",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,467.1,7119.9 234.64,6866.4 248.7,6870.6 262.44,6876.4 274.36,6884.4 369.81,6948.5 322.07,7036.5 418.36,7099.4 430.22,7107.1 443.62,\
+7112.9 457.46,7117.2",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,541.17,4926 244.28,6849.2 255.69,6844.4 266.12,6837.7 274.36,6828.4 538.59,6529.6 234.93,5393.5 418.36,5039.4 443.52,4990.8 495.3,\
+4953.2 532.52,4931",
+		style=solid];
+	"burning($x8, $y3)" -> "out-of-fuel'($x8, $y3)"	[color=black,
+		pos="e,443.25,6856.4 253.33,6856.4 308.45,6856.4 374.98,6856.4 433.22,6856.4",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,518.19,7763.3 242.77,6864.1 254.58,6868.8 265.52,6875.3 274.36,6884.4 529.97,7147.1 202.42,7400.2 418.36,7696.4 440.35,7726.5 \
+476.64,7746.7 508.8,7759.6",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,458.63,8154 243.63,6863.8 255.23,6868.5 265.88,6875.1 274.36,6884.4 650.6,7295.1 36.746,7723.6 418.36,8129.4 427.04,8138.6 437.63,\
+8145.4 449.18,8150.4",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,483.27,6813 228.5,6845 299.66,6836.1 398.89,6823.6 472.99,6814.3",
+		style=solid];
+	"burning($x8, $y3)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,463.17,7231.3 238.39,6865.4 251.4,6869.8 263.83,6875.9 274.36,6884.4 397.38,6983.5 294.04,7111.9 418.36,7209.4 428.77,7217.6 440.78,\
+7223.6 453.41,7228.2",
+		style=solid];
+	"out-of-fuel($x12, $y1)" -> "out-of-fuel'($x12, $y1)"	[color=black,
+		pos="e,473.76,10349 238.75,10378 305.92,10370 394.32,10359 463.67,10350",
+		style=solid];
+	"out-of-fuel($x12, $y1)" -> "burning'($x12, $y1)"	[color=black,
+		pos="e,542.49,10245 225.02,10376 241.58,10373 258.63,10368 274.36,10363 370.32,10333 476.36,10280 533.43,10250",
+		style=solid];
+	"cut-out($x1, $y2)" -> "Reward Function"	[pos="e,545.03,5238.3 216.4,2091.8 238.21,2095.4 259.87,2103.6 274.36,2120.4 490.37,2370.8 288.66,4789.2 418.36,5093.4 443.38,5152.1 498.93,\
+5202.5 536.77,5232"];
+	"cut-out($x1, $y2)" -> "out-of-fuel'($x1, $y2)"	[color=black,
+		pos="e,450.92,845.67 216.39,2094.2 237.93,2090.5 259.45,2082.5 274.36,2066.4 639.14,1672.7 49.802,1257.6 418.36,867.38 425.13,860.21 \
+433.06,854.5 441.69,849.97",
+		style=solid];
+	"cut-out($x4, $y2)" -> "Reward Function"	[pos="e,545.73,5238.3 216.38,3393.2 238.05,3396.8 259.64,3405 274.36,3421.4 523.19,3699.2 265.7,4753.1 418.36,5093.4 444.55,5151.8 500.06,\
+5202.5 537.55,5232"];
+	"cut-out($x4, $y2)" -> "out-of-fuel'($x4, $y2)"	[color=black,
+		pos="e,565.63,2032 216.48,3394.9 237.89,3391.2 259.32,3383.2 274.36,3367.4 425.66,3208.4 359.72,2601.9 418.36,2390.4 456.03,2254.5 529.91,\
+2102.2 561.01,2041",
+		style=solid];
+	"put-out($x12, $y2)" -> "Reward Function"	[pos="e,559.69,5282.9 222.21,9517.1 242.05,9513 261.22,9504.8 274.36,9489.4 556.11,9158.9 313.42,6004.8 418.36,5583.4 446.81,5469.1 518.43,\
+5347.5 554.26,5291.3"];
+	"put-out($x12, $y2)" -> "burning'($x12, $y2)"	[color=black,
+		pos="e,456.51,10111 222.49,9518.3 241.51,9522.5 260.22,9530.1 274.36,9543.4 457.24,9715.2 233.83,9919.3 418.36,10089 426.78,10097 436.58,\
+10103 447.1,10108",
+		style=solid];
+	"cut-out($x3, $y1)" -> "Reward Function"	[pos="e,501.16,5273.1 216.34,5325.9 293.71,5311.6 411.79,5289.7 491.19,5275"];
+	"cut-out($x1, $y3)" -> "Reward Function"	[pos="e,544.94,5238.3 216.5,1384.7 238.31,1388.3 259.95,1396.5 274.36,1413.4 540.18,1724.5 259.64,4716.2 418.36,5093.4 443.1,5152.2 498.73,\
+5202.6 536.66,5232"];
+	"cut-out($x1, $y3)" -> "out-of-fuel'($x1, $y3)"	[color=black,
+		pos="e,451.63,409.83 216.4,1386.9 237.82,1383.1 259.26,1375.1 274.36,1359.4 563.26,1058.2 126.57,729.83 418.36,431.38 425.4,424.18 433.61,\
+418.46 442.51,413.95",
+		style=solid];
+	"put-out($x9, $y4)" -> "Reward Function"	[pos="e,560.56,5283.1 216.97,6693 238.27,6689.2 259.51,6681.2 274.36,6665.4 440.35,6488.5 348.58,5815.7 418.36,5583.4 452.16,5470.8 521.01,\
+5348.8 555.18,5292"];
+	"put-out($x9, $y4)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,460.74,7232.4 216.92,6693.5 237.71,6697.4 258.7,6705.1 274.36,6719.4 441.93,6872.5 249.32,7057.9 418.36,7209.4 427.87,7217.9 439.06,\
+7224.3 451.01,7229",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,454.51,9183.3 244.45,8056.5 255.69,8061.1 266.03,8067.5 274.36,8076.4 606.91,8430.8 82.413,8809.2 418.36,9160.4 426.05,9168.4 \
+435.2,9174.6 445.15,9179.4",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,459.56,8421.2 239.74,8058.1 252.25,8062.4 264.19,8068.3 274.36,8076.4 397.47,8174.8 294.31,8303.2 418.36,8400.4 427.81,8407.8 \
+438.56,8413.5 449.9,8417.8",
+		style=solid];
+	"burning($x9, $y3)" -> "Reward Function"	[pos="e,559.89,5282.9 245.42,8042.7 256.42,8038 266.44,8031.5 274.36,8022.4 452.75,7817.8 349.85,5846.1 418.36,5583.4 448.08,5469.4 519.1,\
+5347.7 554.52,5291.4"];
+	"burning($x9, $y3)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,543.12,6929.1 244.33,8042.2 255.59,8037.6 265.97,8031.2 274.36,8022.4 576.96,7704.5 205.89,7429.4 418.36,7045.4 445.42,6996.5 \
+497.79,6957.4 534.59,6934.4",
+		style=solid];
+	"burning($x9, $y3)" -> "out-of-fuel'($x9, $y3)"	[color=black,
+		pos="e,519.07,7957 213.3,8035.5 233.21,8031.5 254.65,8027 274.36,8022.4 355.77,8003.3 448.47,7977.4 509.23,7959.8",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,459.14,7131.2 243.84,8042.2 255.25,8037.6 265.8,8031.2 274.36,8022.4 546.23,7741.9 143.8,7433.2 418.36,7155.4 427.26,7146.4 438,\
+7139.7 449.64,7134.8",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,554.15,7797.5 228.42,8037.9 244.16,8034.1 260.06,8029.1 274.36,8022.4 305.27,8007.9 476.81,7863.3 546.21,7804.3",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,488.78,8144.8 216.81,8062.8 235.79,8066.6 255.91,8071.2 274.36,8076.4 340.01,8094.9 352.53,8111.6 418.36,8129.4 437.68,8134.6 \
+458.6,8139.1 478.69,8142.9",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,458.68,6804.8 244.55,8042.4 255.77,8037.8 266.08,8031.3 274.36,8022.4 637.46,7630.7 51.504,7217.5 418.36,6829.4 427.06,6820.2 \
+437.67,6813.4 449.23,6808.4",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,544.74,7255.3 243.05,8041.8 254.67,8037.3 265.48,8031.1 274.36,8022.4 485.63,7815.8 267.05,7627.2 418.36,7373.4 447.3,7324.8 499.64,\
+7284.8 535.89,7261",
+		style=solid];
+	"burning($x9, $y3)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,458.27,8476.5 240.86,8057.8 253.05,8062.1 264.6,8068.1 274.36,8076.4 411.98,8192.7 279.62,8340.4 418.36,8455.4 427.43,8462.9 437.83,\
+8468.7 448.87,8473.1",
+		style=solid];
+	"out-of-fuel($x10, $y3)" -> "out-of-fuel'($x10, $y3)"	[color=black,
+		pos="e,474.52,8386.1 237.93,8415.8 305.42,8407.3 394.64,8396.1 464.38,8387.3",
+		style=solid];
+	"out-of-fuel($x10, $y3)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,449.73,8428.4 274.41,8428.4 327.02,8428.4 387.1,8428.4 439.66,8428.4",
+		style=solid];
+	"out-of-fuel($x11, $y1)" -> "out-of-fuel'($x11, $y1)"	[color=black,
+		pos="e,473,10050 239.58,10022 306.41,10030 394,10040 462.96,10049",
+		style=solid];
+	"out-of-fuel($x11, $y1)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,449.73,10008 274.41,10009 327.02,10009 387.1,10008 439.66,10008",
+		style=solid];
+	"out-of-fuel($x11, $y1)" -> "Reward Function"	[pos="e,559.65,5282.8 251.82,9999.2 260.34,9994.7 268.06,9988.9 274.36,9981.4 431.91,9794.5 359.78,5820.7 418.36,5583.4 446.58,5469 518.31,\
+5347.5 554.21,5291.3"];
+	"cut-out($x2, $y4)" -> "Reward Function"	[pos="e,530.4,5240.9 216.42,5137.8 235.51,5141.7 255.77,5146.2 274.36,5151.4 362.17,5175.7 461.1,5213.2 520.8,5237"];
+	"cut-out($x4, $y1)" -> "Reward Function"	[pos="e,544.31,5238.6 216.33,5081.7 235.6,5085.7 255.98,5090.8 274.36,5097.4 373.5,5133 479.87,5197.1 535.78,5233.1"];
+	"put-out($x12, $y3)" -> "Reward Function"	[pos="e,559.74,5282.9 222.51,9026.9 242.22,9022.9 261.26,9014.7 274.36,8999.4 521.58,8710.9 325.59,5951.8 418.36,5583.4 447.12,5469.2 \
+518.59,5347.6 554.32,5291.3"];
+	"put-out($x12, $y3)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,455.65,9755.7 222.25,9027.7 241.5,9031.8 260.38,9039.6 274.36,9053.4 494.21,9270.4 196.43,9518.5 418.36,9733.4 426.43,9741.2 435.89,\
+9747.2 446.09,9751.9",
+		style=solid];
+	"cut-out($x3, $y2)" -> "Reward Function"	[pos="e,545.49,5238.4 216.27,2739.9 238.07,2743.5 259.76,2751.7 274.36,2768.4 615.09,3158.1 212.16,4618.6 418.36,5093.4 443.84,5152.1 \
+499.54,5202.7 537.26,5232.1"];
+	"cut-out($x3, $y2)" -> "out-of-fuel'($x3, $y2)"	[color=black,
+		pos="e,557.13,1540.7 216.48,2741.9 237.89,2738.2 259.32,2730.2 274.36,2714.4 576.68,2396.8 252.67,2144.3 418.36,1738.4 449.76,1661.4 \
+514.16,1586.4 549.95,1548.2",
+		style=solid];
+	"put-out($x11, $y4)" -> "Reward Function"	[pos="e,559.92,5282.9 222.3,7941.8 242.02,7937.7 261.11,7929.5 274.36,7914.4 445.15,7719 352.53,5834.4 418.36,5583.4 448.23,5469.5 519.18,\
+5347.7 554.56,5291.4"];
+	"put-out($x11, $y4)" -> "burning'($x11, $y4)"	[color=black,
+		pos="e,454.65,8967.2 222.51,7942 241.86,7946.2 260.73,7954.1 274.36,7968.4 576.68,8286 113,8629.7 418.36,8944.4 426.11,8952.4 435.29,\
+8958.5 445.28,8963.3",
+		style=solid];
+	"cut-out($x1, $y4)" -> "Reward Function"	[pos="e,544.88,5238.3 216.21,620.56 238.15,624.15 259.93,632.39 274.36,649.38 594.03,1026.1 228.26,4637.4 418.36,5093.4 442.91,5152.3 \
+498.58,5202.7 536.58,5232"];
+	"cut-out($x1, $y4)" -> "out-of-fuel'($x1, $y4)"	[color=black,
+		pos="e,454.68,135.82 216.28,621 237.19,617.12 258.39,609.53 274.36,595.38 428.08,459.25 263.33,291.03 418.36,156.38 426.36,149.44 435.47,\
+143.94 445.19,139.62",
+		style=solid];
+	"out-of-fuel($x10, $y2)" -> "out-of-fuel'($x10, $y2)"	[color=black,
+		pos="e,474.52,9311.1 237.93,9340.8 305.42,9332.3 394.64,9321.1 464.38,9312.3",
+		style=solid];
+	"out-of-fuel($x10, $y2)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,474.03,9199.2 231.5,9340 246.19,9336.2 260.95,9331.5 274.36,9325.4 347.47,9292.3 344.81,9248.5 418.36,9216.4 432.75,9210.1 448.47,\
+9205.2 464.23,9201.4",
+		style=solid];
+	"burning($x9, $y4)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,454.83,8423 243.84,7514.6 255.25,7519.2 265.8,7525.6 274.36,7534.4 545.95,7814.5 144.08,8122.9 418.36,8400.4 426.18,8408.3 435.42,\
+8414.4 445.43,8419.1",
+		style=solid];
+	"burning($x9, $y4)" -> "out-of-fuel'($x9, $y4)"	[color=black,
+		pos="e,517.65,7416.9 212.93,7493.5 232.94,7489.5 254.52,7485 274.36,7480.4 355.07,7461.7 446.99,7436.7 507.79,7419.7",
+		style=solid];
+	"burning($x9, $y4)" -> "Reward Function"	[pos="e,560.04,5282.9 245.27,7500.6 256.3,7495.9 266.36,7489.4 274.36,7480.4 554.84,7164.1 308.24,5991.6 418.36,5583.4 449.03,5469.7 519.6,\
+5347.8 554.72,5291.4"];
+	"burning($x9, $y4)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,545.93,6929.3 241.54,7499.2 253.55,7494.8 264.87,7488.8 274.36,7480.4 427,7345.6 304.72,7214.4 418.36,7045.4 449.79,6998.6 501.81,\
+6958.8 537.29,6935",
+		style=solid];
+	"burning($x9, $y4)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,533.26,7762.1 232.99,7517.9 247.42,7521.8 261.7,7527.1 274.36,7534.4 357.96,7582.2 342.57,7636.9 418.36,7696.4 450.7,7721.8 491.94,\
+7743.2 524.04,7758",
+		style=solid];
+	"burning($x9, $y4)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,460.07,6805.6 243.06,7499.8 254.67,7495.3 265.48,7489.1 274.36,7480.4 486.18,7273.2 204.55,7034.6 418.36,6829.4 427.58,6820.5 \
+438.58,6814 450.42,6809.1",
+		style=solid];
+	"burning($x9, $y4)" -> "burning'($x9, $y4)"	[color=black,
+		pos="e,554.15,7255.5 228.42,7495.9 244.16,7492.1 260.06,7487.1 274.36,7480.4 305.27,7465.9 476.81,7321.3 546.21,7262.3",
+		style=solid];
+	"burning($x9, $y4)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,454.73,8478.1 244.25,7514.7 255.52,7519.2 265.93,7525.6 274.36,7534.4 561.3,7833.2 128.55,8159.3 418.36,8455.4 426.14,8463.3 435.35,\
+8469.5 445.35,8474.2",
+		style=solid];
+	"cut-out($x2, $y3)" -> "Reward Function"	[pos="e,544.96,5238.3 216.48,1546.7 238.29,1550.3 259.94,1558.5 274.36,1575.4 528.77,1872.6 266.29,4732.9 418.36,5093.4 443.16,5152.2 \
+498.77,5202.6 536.68,5232"];
+	"cut-out($x2, $y3)" -> "out-of-fuel'($x2, $y3)"	[color=black,
+		pos="e,451.55,519.75 216.48,1548.9 237.9,1545.2 259.32,1537.2 274.36,1521.4 577.8,1202.4 111.86,857.4 418.36,541.38 425.37,534.16 433.56,\
+528.41 442.45,523.89",
+		style=solid];
+	"out-of-fuel($x12, $y4)" -> "out-of-fuel'($x12, $y4)"	[color=black,
+		pos="e,458.11,9363.4 242.74,9612.6 253.94,9608.8 264.74,9603.8 274.36,9597.4 370.28,9533.3 321.83,9444.6 418.36,9381.4 427.58,9375.3 \
+437.73,9370.5 448.3,9366.6",
+		style=solid];
+	"out-of-fuel($x12, $y4)" -> "burning'($x12, $y4)"	[color=black,
+		pos="e,497.52,9557.8 218.36,9609.5 294.6,9595.4 408.99,9574.2 487.63,9559.6",
+		style=solid];
+	"out-of-fuel($x5, $y3)" -> "out-of-fuel'($x5, $y3)"	[color=black,
+		pos="e,443.14,3341.8 266.69,3341 318.87,3341.2 379.36,3341.5 432.88,3341.7",
+		style=solid];
+	"out-of-fuel($x5, $y3)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,482.07,3298.7 236.29,3328.5 306.35,3320 400.43,3308.6 471.72,3299.9",
+		style=solid];
+	"cut-out($x11, $y4)" -> "Reward Function"	[pos="e,559.93,5282.9 221.22,7888 241.32,7884 260.86,7875.8 274.36,7860.4 441.35,7669.6 353.87,5828.6 418.36,5583.4 448.32,5469.5 519.22,\
+5347.7 554.57,5291.4"];
+	"cut-out($x11, $y4)" -> "out-of-fuel'($x11, $y4)"	[color=black,
+		pos="e,559.79,8899 221.4,7888.2 241.01,7892.3 260.27,7900.2 274.36,7914.4 516.7,8158.8 290.28,8355.9 418.36,8675.4 452.69,8761 518.91,\
+8848.7 553.35,8891.2",
+		style=solid];
+	"burning($x1, $y4)" -> "Reward Function"	[pos="e,544.84,5238.3 245.07,135.36 256.27,140.18 266.44,146.96 274.36,156.38 450.83,366.5 313.19,4839.9 418.36,5093.4 442.81,5152.3 498.51,\
+5202.7 536.54,5232.1"];
+	"burning($x1, $y4)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,476.94,283.16 225.73,140.38 242.3,144.31 259.19,149.51 274.36,156.38 347.47,189.51 344.81,233.23 418.36,265.38 433.63,272.06 450.39,\
+277.15 467.11,281.02",
+		style=solid];
+	"burning($x1, $y4)" -> "burning'($x1, $y4)"	[color=black,
+		pos="e,488.76,225.85 215.39,142.08 234.79,146.12 255.46,150.93 274.36,156.38 340.03,175.33 352.44,192.31 418.36,210.38 437.66,215.68 \
+458.58,220.21 478.66,224",
+		style=solid];
+	"burning($x1, $y4)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,464.58,451.76 237.18,137.85 250.51,142.14 263.36,148.12 274.36,156.38 384.3,239.08 307.33,349.15 418.36,430.38 429.33,438.41 441.86,\
+444.39 454.96,448.81",
+		style=solid];
+	"burning($x1, $y4)" -> "burning'($x1, $y3)"	[color=black,
+		pos="e,470.17,339.74 231.62,139.2 246.52,143.26 261.32,148.8 274.36,156.38 358.22,205.13 333.86,272.75 418.36,320.38 431.32,327.69 445.75,\
+333.16 460.47,337.25",
+		style=solid];
+	"burning($x1, $y4)" -> "out-of-fuel'($x1, $y4)"	[color=black,
+		pos="e,443.25,128.38 253.33,128.38 308.45,128.38 374.98,128.38 433.22,128.38",
+		style=solid];
+	"put-out($x11, $y3)" -> "Reward Function"	[pos="e,559.78,5282.9 222.46,8702.9 242.17,8698.8 261.23,8690.6 274.36,8675.4 498.75,8414.7 333.64,5916.7 418.36,5583.4 447.37,5469.2 \
+518.72,5347.6 554.38,5291.3"];
+	"put-out($x11, $y3)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,455.73,9402.7 222.52,8703.8 241.64,8708 260.4,8715.7 274.36,8729.4 486.18,8936.6 204.55,9175.2 418.36,9380.4 426.46,9388.2 435.94,\
+9394.2 446.16,9398.8",
+		style=solid];
+	"cut-out($x7, $y4)" -> "Reward Function"	[pos="e,548.02,5238 216.43,4529.1 237.47,4533 258.7,4540.7 274.36,4555.4 455.05,4724.6 297.62,4877.3 418.36,5093.4 449.75,5149.6 504.4,\
+5201.2 540.23,5231.5"];
+	"cut-out($x7, $y4)" -> "out-of-fuel'($x7, $y4)"	[color=black,
+		pos="e,476.39,4486.6 216.34,4518.7 285.91,4510.1 388.4,4497.5 466.09,4487.9",
+		style=solid];
+	"put-out($x9, $y2)" -> "Reward Function"	[pos="e,560.13,5283 216.74,7292.6 238.29,7288.9 259.73,7280.7 274.36,7264.4 524.46,6985.1 318.95,5944.9 418.36,5583.4 449.58,5469.8 519.89,\
+5347.9 554.84,5291.5"];
+	"put-out($x9, $y2)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,459.25,8153.4 216.9,7291.2 238.07,7295 259.26,7303 274.36,7318.4 530.61,7579.8 159.6,7870.4 418.36,8129.4 427.31,8138.3 438.09,\
+8145 449.74,8149.9",
+		style=solid];
+	"cut-out($x2, $y2)" -> "Reward Function"	[pos="e,545.05,5238.3 216.39,2199.8 238.19,2203.4 259.86,2211.6 274.36,2228.4 482.76,2469.6 293.1,4800.3 418.36,5093.4 443.43,5152.1 498.97,\
+5202.5 536.8,5231.9"];
+	"cut-out($x2, $y2)" -> "out-of-fuel'($x2, $y2)"	[color=black,
+		pos="e,450.92,955.67 216.39,2202.2 237.93,2198.5 259.45,2190.5 274.36,2174.4 638.58,1781.4 50.369,1366.9 418.36,977.38 425.13,970.22 \
+433.06,964.5 441.69,959.97",
+		style=solid];
+	"put-out($x3, $y3)" -> "Reward Function"	[pos="e,545.08,5238.2 216.71,2361.9 238.4,2365.5 259.91,2373.7 274.36,2390.4 471.35,2617.7 299.75,4817 418.36,5093.4 443.52,5152 499.03,\
+5202.5 536.83,5231.9"];
+	"put-out($x3, $y3)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,458.74,1172.8 216.68,2364.1 238.11,2360.4 259.48,2352.3 274.36,2336.4 622.32,1963.2 66.822,1567.2 418.36,1197.4 427.09,1188.2 \
+437.71,1181.4 449.28,1176.4",
+		style=solid];
+	"burning($x2, $y1)" -> "burning'($x1, $y1)"	[color=black,
+		pos="e,483.27,1016 228.5,1048 299.66,1039.1 398.89,1026.6 472.99,1017.3",
+		style=solid];
+	"burning($x2, $y1)" -> "Reward Function"	[pos="e,544.91,5238.3 245.01,1066.4 256.22,1071.2 266.41,1078 274.36,1087.4 561.96,1427.5 246.25,4682.6 418.36,5093.4 443.01,5152.2 498.66,\
+5202.7 536.62,5232"];
+	"burning($x2, $y1)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,539.52,1449.9 237.18,1068.8 250.51,1073.1 263.36,1079.1 274.36,1087.4 384.3,1170.1 326.57,1258.9 418.36,1361.4 450.28,1397 496.63,\
+1426.4 530.7,1445.1",
+		style=solid];
+	"burning($x2, $y1)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,476.94,904.61 225.73,1047.4 242.3,1043.5 259.19,1038.3 274.36,1031.4 347.47,998.26 344.81,954.54 418.36,922.38 433.63,915.71 450.39,\
+910.62 467.11,906.75",
+		style=solid];
+	"burning($x2, $y1)" -> "out-of-fuel'($x2, $y1)"	[color=black,
+		pos="e,464.4,1269.3 231.62,1070.2 246.52,1074.3 261.32,1079.8 274.36,1087.4 358.22,1136.1 333.86,1203.7 418.36,1251.4 429.6,1257.7 441.96,\
+1262.7 454.64,1266.6",
+		style=solid];
+	"burning($x2, $y1)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,466.62,791.87 235.05,1049.4 248.99,1045.2 262.57,1039.4 274.36,1031.4 370.76,966 321.1,876.5 418.36,812.38 429.98,804.72 443.1,\
+798.99 456.67,794.72",
+		style=solid];
+	"burning($x2, $y1)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,465.09,1079.6 245.4,1066 308.89,1069.9 389.47,1074.9 455.1,1079",
+		style=solid];
+	"cut-out($x12, $y2)" -> "Reward Function"	[pos="e,559.69,5282.9 221.5,9571.2 241.59,9567.2 261.07,9559 274.36,9543.4 559.92,9208.3 312.08,6010.7 418.36,5583.4 446.79,5469.1 518.42,\
+5347.5 554.25,5291.3"];
+	"cut-out($x12, $y2)" -> "out-of-fuel'($x12, $y2)"	[color=black,
+		pos="e,450.64,10164 221.44,9572.1 240.81,9576.2 259.96,9583.8 274.36,9597.4 457.52,9769.6 233.55,9974 418.36,10144 425.23,10151 433.03,\
+10156 441.38,10160",
+		style=solid];
+	"burning($x7, $y3)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,551.45,4249.5 242.15,4900.4 253.99,4896 265.1,4889.8 274.36,4881.4 441.65,4728.6 303.9,4587.9 418.36,4392.4 451.22,4336.2 507.83,\
+4285 543.34,4256",
+		style=solid];
+	"burning($x7, $y3)" -> "Reward Function"	[pos="e,553.89,5237 232.56,4918.9 247.12,4922.8 261.55,4928.2 274.36,4935.4 357.1,4982.1 353.71,5023.8 418.36,5093.4 462.83,5141.3 515.1,\
+5196.3 546.71,5229.4"];
+	"burning($x7, $y3)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,461.47,4424.6 241.54,4900.2 253.55,4895.8 264.87,4889.8 274.36,4881.4 426.73,4746.9 264.7,4580.4 418.36,4447.4 428.2,4438.9 439.72,\
+4432.5 451.98,4427.9",
+		style=solid];
+	"burning($x7, $y3)" -> "out-of-fuel'($x7, $y3)"	[color=black,
+		pos="e,477.56,4865.7 228.5,4897 297.87,4888.3 393.91,4876.2 467.35,4867",
+		style=solid];
+	"burning($x7, $y3)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,458.19,6908.4 245.29,4915.2 256.31,4919.8 266.37,4926.4 274.36,4935.4 562.02,5260.5 127.58,6561.1 418.36,6883.4 426.85,6892.8 \
+437.32,6899.7 448.79,6904.8",
+		style=solid];
+	"burning($x7, $y3)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,550.11,4006.5 243.59,4900.9 255.04,4896.4 265.67,4890.1 274.36,4881.4 508.64,4646.8 264.21,4442.9 418.36,4149.4 448.44,4092.1 \
+505.36,4041.5 541.77,4013",
+		style=solid];
+	"burning($x7, $y3)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,458.11,7124.5 245.35,4915.1 256.36,4919.8 266.4,4926.3 274.36,4935.4 592.42,5297.5 96.823,6740.4 418.36,7099.4 426.81,7108.8 437.26,\
+7115.8 448.72,7120.8",
+		style=solid];
+	"burning($x7, $y3)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,456.84,4908.4 253.33,4908.4 312.76,4908.4 385.45,4908.4 446.72,4908.4",
+		style=solid];
+	"burning($x7, $y3)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,458.23,6798.4 245.25,4915.2 256.28,4919.9 266.35,4926.4 274.36,4935.4 546.54,5241.6 143.24,6469.8 418.36,6773.4 426.87,6782.8 \
+437.35,6789.7 448.83,6794.7",
+		style=solid];
+	"out-of-fuel($x5, $y4)" -> "out-of-fuel'($x5, $y4)"	[color=black,
+		pos="e,484.23,3219 218.62,3136.8 237.06,3140.6 256.5,3145.2 274.36,3150.4 340.03,3169.3 352.44,3186.3 418.36,3204.4 436.24,3209.3 455.51,\
+3213.5 474.21,3217.2",
+		style=solid];
+	"out-of-fuel($x5, $y4)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,456.65,3122.4 266.69,3122.4 323.37,3122.4 389.84,3122.4 446.55,3122.4",
+		style=solid];
+	"cut-out($x11, $y3)" -> "out-of-fuel'($x11, $y3)"	[color=black,
+		pos="e,449.32,9698.5 221.33,8919.3 240.94,8923.4 260.22,8931.2 274.36,8945.4 508.91,9180.4 181.55,9445.7 418.36,9678.4 424.81,9684.7 \
+432.18,9689.9 440.12,9694.1",
+		style=solid];
+	"cut-out($x11, $y3)" -> "Reward Function"	[pos="e,559.75,5282.9 221.43,8919.1 241.52,8915.1 261.01,8906.9 274.36,8891.4 513.97,8612.2 328.28,5940.1 418.36,5583.4 447.19,5469.2 \
+518.63,5347.6 554.34,5291.3"];
+	"put-out($x12, $y1)" -> "Reward Function"	[pos="e,559.65,5282.8 222.26,10119 242.1,10115 261.26,10107 274.36,10091 436.45,9900.3 358.41,5826.7 418.36,5583.4 446.53,5469 518.28,\
+5347.5 554.2,5291.3"];
+	"put-out($x12, $y1)" -> "burning'($x12, $y1)"	[color=black,
+		pos="e,486.3,10214 222.23,10133 239.59,10136 257.67,10141 274.36,10145 340.1,10164 352.44,10181 418.36,10199 436.89,10204 456.91,10209 \
+476.25,10213",
+		style=solid];
+	"put-out($x11, $y2)" -> "Reward Function"	[pos="e,559.73,5282.9 222.52,9135 242.23,9130.9 261.27,9122.7 274.36,9107.4 529.19,8809.7 322.91,5963.5 418.36,5583.4 447.04,5469.2 518.55,\
+5347.6 554.31,5291.3"];
+	"put-out($x11, $y2)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,463.48,9814.8 222.44,9135.9 241.57,9140.1 260.35,9147.8 274.36,9161.4 479.55,9360.5 215.53,9586.9 418.36,9788.4 428.4,9798.4 440.62,\
+9805.8 453.77,9811.2",
+		style=solid];
+	"burning($x1, $y3)" -> "Reward Function"	[pos="e,544.85,5238.3 245.06,300.37 256.27,305.18 266.44,311.96 274.36,321.38 615.72,727.42 214.79,4603.5 418.36,5093.4 442.84,5152.3 \
+498.53,5202.7 536.55,5232"];
+	"burning($x1, $y3)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,456.84,293.38 253.33,293.38 312.76,293.38 385.45,293.38 446.72,293.38",
+		style=solid];
+	"burning($x1, $y3)" -> "out-of-fuel'($x1, $y3)"	[color=black,
+		pos="e,484.23,390.03 215.39,307.08 234.79,311.12 255.46,315.93 274.36,321.38 340.03,340.33 352.44,357.31 418.36,375.38 436.24,380.29 \
+455.51,384.54 474.21,388.15",
+		style=solid];
+	"burning($x1, $y3)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,460.48,889.7 241.39,301.57 253.57,306.12 264.98,312.51 274.36,321.38 456.36,493.55 234.1,696.62 418.36,866.38 427.76,875.04 438.87,\
+881.49 450.78,886.24",
+		style=solid];
+	"burning($x1, $y3)" -> "burning'($x1, $y4)"	[color=black,
+		pos="e,483.27,249.97 228.5,282.02 299.66,273.07 398.89,260.59 472.99,251.26",
+		style=solid];
+	"burning($x1, $y3)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,476.94,448.16 225.73,305.38 242.3,309.31 259.19,314.51 274.36,321.38 347.47,354.51 344.81,398.23 418.36,430.38 433.63,437.06 450.39,\
+442.15 467.11,446.02",
+		style=solid];
+	"burning($x1, $y3)" -> "burning'($x1, $y3)"	[color=black,
+		pos="e,483.27,336.8 228.5,304.75 299.66,313.7 398.89,326.18 472.99,335.51",
+		style=solid];
+	"burning($x1, $y3)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,547.3,766.36 238.42,302.38 251.43,306.76 263.85,312.88 274.36,321.38 398.42,421.81 323.24,522.21 418.36,650.38 452.12,695.88 504.06,\
+736.29 538.85,760.54",
+		style=solid];
+	"cut-out($x8, $y2)" -> "Reward Function"	[pos="e,560.94,5283.2 216.19,6421.7 237.6,6417.9 259.09,6410 274.36,6394.4 530.61,6132.9 305.47,5931.6 418.36,5583.4 454.6,5471.6 522.3,\
+5349.2 555.7,5292.1"];
+	"cut-out($x8, $y2)" -> "out-of-fuel'($x8, $y2)"	[color=black,
+		pos="e,545.33,7054.5 216.21,6422.4 237.24,6426.2 258.52,6433.9 274.36,6448.4 441.93,6601.5 294.9,6747.9 418.36,6938.4 448.9,6985.5 500.89,\
+7025.2 536.61,7048.8",
+		style=solid];
+	"cut-out($x7, $y3)" -> "Reward Function"	[pos="e,552.03,5237.1 216.42,4859.3 236.53,4863.3 257.28,4870.1 274.36,4881.4 369.32,4944.3 346.99,5004.6 418.36,5093.4 458.97,5143.9 \
+511.7,5197.6 544.53,5229.8"];
+	"cut-out($x7, $y3)" -> "out-of-fuel'($x7, $y3)"	[color=black,
+		pos="e,443.44,4853.7 216.34,4854.2 276.5,4854.1 361.29,4853.9 433.36,4853.7",
+		style=solid];
+	"cut-out($x8, $y1)" -> "Reward Function"	[pos="e,560.32,5283 216.53,6966.4 238.08,6962.7 259.56,6954.6 274.36,6938.4 478.64,6714.9 335.1,5874.5 418.36,5583.4 450.67,5470.4 520.22,\
+5348.6 554.87,5291.9"];
+	"cut-out($x8, $y1)" -> "out-of-fuel'($x8, $y1)"	[color=black,
+		pos="e,560.99,7650.9 216.25,6966.8 237.16,6970.7 258.37,6978.3 274.36,6992.4 427,7127.2 330.22,7243.8 418.36,7427.4 458.39,7510.8 522.37,\
+7599.8 554.92,7642.9",
+		style=solid];
+	"put-out($x4, $y1)" -> "Reward Function"	[pos="e,545.79,5238.3 217.03,3501.3 238.46,3505.1 259.76,3513.2 274.36,3529.4 508.01,3788.7 274.55,4775.4 418.36,5093.4 444.72,5151.7 \
+500.19,5202.4 537.62,5232"];
+	"put-out($x4, $y1)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,517.53,2757.5 216.85,3502.1 237.9,3498.2 259.03,3490.4 274.36,3475.4 486.73,3267.5 237.14,3057.9 418.36,2822.4 440.65,2793.4 476.2,\
+2773.9 507.85,2761.2",
+		style=solid];
+	"put-out($x3, $y2)" -> "Reward Function"	[pos="e,545.48,5238.5 216.99,2686 238.55,2689.7 259.93,2697.9 274.36,2714.4 448.53,2913.9 313.04,4850.4 418.36,5093.4 443.8,5152.1 499.51,\
+5202.7 537.25,5232.1"];
+	"put-out($x3, $y2)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,458.71,1470.8 216.71,2688.2 238.13,2684.4 259.5,2676.4 274.36,2660.4 629.61,2278.3 59.447,1874 418.36,1495.4 427.07,1486.2 437.69,\
+1479.4 449.25,1474.4",
+		style=solid];
+	"put-out($x10, $y4)" -> "Reward Function"	[pos="e,560.06,5283 222.49,7453.5 242.08,7449.4 261.07,7441.3 274.36,7426.4 547.24,7119.3 310.92,5979.9 418.36,5583.4 449.16,5469.7 519.67,\
+5347.9 554.75,5291.4"];
+	"put-out($x10, $y4)" -> "burning'($x10, $y4)"	[color=black,
+		pos="e,454.65,8478.2 222.51,7454 241.86,7458.2 260.73,7466.1 274.36,7480.4 576.4,7797.6 113.28,8141.1 418.36,8455.4 426.11,8463.4 435.3,\
+8469.5 445.28,8474.3",
+		style=solid];
+	"put-out($x9, $y3)" -> "Reward Function"	[pos="e,560.28,5283 216.92,7020.3 238.35,7016.6 259.67,7008.5 274.36,6992.4 486.23,6759.6 332.42,5886.2 418.36,5583.4 450.45,5470.3 520.1,\
+5348.6 554.82,5291.9"];
+	"put-out($x9, $y3)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,519.44,7763.2 216.84,7019.7 237.89,7023.6 259.02,7031.4 274.36,7046.4 485.9,7253.3 238.99,7461.1 418.36,7696.4 441.15,7726.3 477.86,\
+7746.5 510.05,7759.5",
+		style=solid];
+	"cut-out($x2, $y1)" -> "Reward Function"	[pos="e,545.44,5238.5 216.32,2523.8 238.13,2527.5 259.81,2535.7 274.36,2552.4 459.94,2765.8 306.4,4833.7 418.36,5093.4 443.69,5152.1 499.43,\
+5202.8 537.2,5232.2"];
+	"cut-out($x2, $y1)" -> "out-of-fuel'($x2, $y1)"	[color=black,
+		pos="e,450.93,1285.7 216.38,2526.2 237.93,2522.5 259.44,2514.5 274.36,2498.4 636.9,2107.4 52.071,1694.8 418.36,1307.4 425.13,1300.2 433.06,\
+1294.5 441.7,1290",
+		style=solid];
+	"put-out($x8, $y4)" -> "Reward Function"	[pos="e,561.72,5283 217.01,6204.8 237.94,6200.9 258.96,6193.1 274.36,6178.4 470.72,5990.1 326.51,5839.5 418.36,5583.4 458.13,5472.5 524.46,\
+5349.2 556.67,5291.9"];
+	"put-out($x8, $y4)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,460.49,6796.7 216.8,6206.2 237.72,6210.1 258.8,6217.8 274.36,6232.4 455.87,6402.6 235.21,6605 418.36,6773.4 427.76,6782 438.88,\
+6788.5 450.79,6793.2",
+		style=solid];
+	"cut-out($x12, $y1)" -> "out-of-fuel'($x12, $y1)"	[color=black,
+		pos="e,435.93,10336 221.18,10336 278.89,10336 357.44,10336 425.9,10336",
+		style=solid];
+	"cut-out($x12, $y1)" -> "Reward Function"	[pos="e,559.63,5282.8 221.21,10337 241.43,10333 261.04,10325 274.36,10309 444.13,10109 355.7,5838.5 418.36,5583.4 446.45,5469 518.24,5347.5 \
+554.18,5291.3"];
+	"burning($x2, $y2)" -> "Reward Function"	[pos="e,544.9,5238.3 245.02,901.4 256.23,906.21 266.42,912.98 274.36,922.38 573.54,1276.7 239.47,4665.6 418.36,5093.4 442.97,5152.2 498.63,\
+5202.7 536.6,5232"];
+	"burning($x2, $y2)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,536.02,1450.1 240.22,902.84 252.73,907.33 264.54,913.63 274.36,922.38 427.6,1059.1 294.59,1197.5 418.36,1361.4 446.65,1398.8 492.21,\
+1427.5 526.98,1445.5",
+		style=solid];
+	"burning($x2, $y2)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,456.84,894.38 253.33,894.38 312.76,894.38 385.45,894.38 446.72,894.38",
+		style=solid];
+	"burning($x2, $y2)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,462.27,463.96 239.51,885.63 252.2,881.2 264.25,874.99 274.36,866.38 411.83,749.25 279.35,601.7 418.36,486.38 428.46,478 440.21,\
+471.77 452.64,467.17",
+		style=solid];
+	"burning($x2, $y2)" -> "burning'($x1, $y3)"	[color=black,
+		pos="e,460.74,353.36 240.82,886.08 253.16,881.56 264.77,875.21 274.36,866.38 441.39,712.68 249.32,527.88 418.36,376.38 427.87,367.86 \
+439.06,361.49 451.01,356.79",
+		style=solid];
+	"burning($x2, $y2)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,459.13,1816.5 242.87,902.02 254.66,906.69 265.57,913.25 274.36,922.38 546.07,1204.8 142.95,1513.5 418.36,1792.4 427.26,1801.4 \
+438,1808.1 449.63,1813",
+		style=solid];
+	"burning($x2, $y2)" -> "out-of-fuel'($x2, $y2)"	[color=black,
+		pos="e,477.56,937.08 228.5,905.75 297.87,914.47 393.91,926.56 467.35,935.8",
+		style=solid];
+	"burning($x2, $y2)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,488.76,796.92 215.39,880.69 234.79,876.65 255.46,871.84 274.36,866.38 340.03,847.44 352.44,830.46 418.36,812.38 437.66,807.09 \
+458.58,802.56 478.66,798.77",
+		style=solid];
+	"burning($x2, $y2)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,516.11,1070.4 225.73,906.38 242.3,910.31 259.19,915.51 274.36,922.38 347.47,955.51 347.63,993.44 418.36,1031.4 445.9,1046.2 478.22,\
+1058.3 506.35,1067.3",
+		style=solid];
+	"burning($x7, $y4)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,556.41,4249.6 226.67,4462.6 242.91,4458.8 259.43,4453.9 274.36,4447.4 387.23,4398.4 499.46,4302.1 549,4256.4",
+		style=solid];
+	"burning($x7, $y4)" -> "Reward Function"	[pos="e,547.5,5237.9 242.88,4482.1 254.53,4486.6 265.39,4492.8 274.36,4501.4 469.89,4688.7 288.99,4855.5 418.36,5093.4 449.01,5149.8 503.62,\
+5201.2 539.66,5231.4"];
+	"burning($x7, $y4)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,483.27,4431 228.5,4463 299.66,4454.1 398.89,4441.6 472.99,4432.3",
+		style=solid];
+	"burning($x7, $y4)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,458.04,6908.6 245.41,4481.1 256.41,4485.7 266.43,4492.3 274.36,4501.4 623.12,4900.9 65.767,6487.3 418.36,6883.4 426.78,6892.8 \
+437.21,6899.8 448.66,6904.9",
+		style=solid];
+	"burning($x7, $y4)" -> "out-of-fuel'($x7, $y4)"	[color=black,
+		pos="e,443.25,4474.4 253.33,4474.4 308.45,4474.4 374.98,4474.4 433.22,4474.4",
+		style=solid];
+	"burning($x7, $y4)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,553.54,4006.6 239.16,4465.5 251.83,4461.3 263.97,4455.4 274.36,4447.4 390.73,4357.4 333.91,4269.8 418.36,4149.4 456.02,4095.7 \
+511.88,4043.1 545.82,4013.3",
+		style=solid];
+	"burning($x7, $y4)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,462.28,4902.8 240.86,4482.8 253.05,4487.1 264.6,4493.1 274.36,4501.4 411.98,4617.7 279.62,4765.4 418.36,4880.4 428.46,4888.8 440.21,\
+4895 452.65,4899.6",
+		style=solid];
+	"burning($x7, $y4)" -> "burning'($x8, $y4)"	[color=black,
+		pos="e,458.08,6798.5 245.38,4481.1 256.39,4485.8 266.42,4492.3 274.36,4501.4 607.63,4882 81.439,6396 418.36,6773.4 426.8,6782.8 437.24,\
+6789.8 448.69,6794.9",
+		style=solid];
+	"burning($x6, $y4)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,461.68,4225.9 241.02,3780.6 253.18,3785 264.69,3791 274.36,3799.4 418.66,3923.9 272.86,4080.2 418.36,4203.4 428.29,4211.8 439.87,\
+4218.1 452.16,4222.7",
+		style=solid];
+	"burning($x6, $y4)" -> "Reward Function"	[pos="e,545.97,5238.2 244.63,3779.3 255.84,3783.9 266.12,3790.4 274.36,3799.4 470.08,4012.5 296.64,4830.9 418.36,5093.4 445.27,5151.4 \
+500.6,5202.2 537.85,5231.9"];
+	"burning($x6, $y4)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,551.59,4401.2 241.67,3780.4 253.66,3784.8 264.94,3790.9 274.36,3799.4 433.5,3942.2 308.72,4074.8 418.36,4258.4 451.72,4314.2 508.17,\
+4365.6 543.52,4394.6",
+		style=solid];
+	"burning($x6, $y4)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,461.5,3292.6 241.52,3764.2 253.53,3759.8 264.86,3753.7 274.36,3745.4 425.65,3612.2 265.79,3447.1 418.36,3315.4 428.21,3306.9 439.74,\
+3300.6 452,3295.9",
+		style=solid];
+	"burning($x6, $y4)" -> "out-of-fuel'($x6, $y4)"	[color=black,
+		pos="e,443.25,3772.4 253.33,3772.4 308.45,3772.4 374.98,3772.4 433.22,3772.4",
+		style=solid];
+	"burning($x6, $y4)" -> "burning'($x5, $y4)"	[color=black,
+		pos="e,460.27,3126.8 242.89,3764.7 254.53,3760.2 265.4,3754 274.36,3745.4 470.72,3557.1 220.19,3336.8 418.36,3150.4 427.67,3141.6 438.72,\
+3135.1 450.59,3130.3",
+		style=solid];
+	"burning($x6, $y4)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,553.13,3970.3 224.55,3784.6 241.39,3788.3 258.68,3793.2 274.36,3799.4 381.64,3842 492.87,3923.3 544.99,3963.9",
+		style=solid];
+	"burning($x6, $y4)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,458.81,4904.9 244.45,3779.5 255.68,3784.1 266.03,3790.5 274.36,3799.4 606.07,4152.8 83.263,4530.2 418.36,4880.4 427.12,4889.5 \
+437.76,4896.3 449.34,4901.3",
+		style=solid];
+	"cut-out($x11, $y2)" -> "out-of-fuel'($x11, $y2)"	[color=black,
+		pos="e,515.89,9634.7 221.19,8865.5 240.8,8869.6 260.12,8877.3 274.36,8891.4 493.93,9108.1 231.24,9325.1 418.36,9570.4 440.19,9599 475,\
+9618.4 506.3,9631",
+		style=solid];
+	"cut-out($x11, $y2)" -> "Reward Function"	[pos="e,559.76,5282.9 221.42,8865.1 241.51,8861.1 261.01,8852.9 274.36,8837.4 510.16,8562.8 329.62,5934.2 418.36,5583.4 447.24,5469.2 \
+518.65,5347.6 554.35,5291.3"];
+	"burning($x1, $y2)" -> "burning'($x1, $y1)"	[color=black,
+		pos="e,470.17,995.74 231.62,795.2 246.52,799.26 261.32,804.8 274.36,812.38 358.22,861.13 333.86,928.75 418.36,976.38 431.32,983.69 445.75,\
+989.16 460.47,993.25",
+		style=solid];
+	"burning($x1, $y2)" -> "Reward Function"	[pos="e,544.89,5238.3 245.03,791.39 256.24,796.21 266.42,802.98 274.36,812.38 581.26,1176.1 234.96,4654.2 418.36,5093.4 442.94,5152.3 \
+498.61,5202.7 536.59,5232"];
+	"burning($x1, $y2)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,488.76,881.85 215.39,798.08 234.79,802.12 255.46,806.93 274.36,812.38 340.03,831.33 352.44,848.31 418.36,866.38 437.66,871.68 \
+458.58,876.21 478.66,880",
+		style=solid];
+	"burning($x1, $y2)" -> "out-of-fuel'($x1, $y2)"	[color=black,
+		pos="e,477.56,827.08 228.5,795.75 297.87,804.47 393.91,816.56 467.35,825.8",
+		style=solid];
+	"burning($x1, $y2)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,464.62,465.07 238.17,775.32 251.14,771.15 263.62,765.36 274.36,757.38 383.83,676.04 308.1,566.68 418.36,486.38 429.34,478.38 441.89,\
+472.42 454.99,468.01",
+		style=solid];
+	"burning($x1, $y2)" -> "burning'($x1, $y3)"	[color=black,
+		pos="e,462.26,353.95 240.87,775.95 253.06,771.63 264.61,765.64 274.36,757.38 412.51,640.41 279.09,492.03 418.36,376.38 428.46,368 440.2,\
+361.76 452.63,357.16",
+		style=solid];
+	"burning($x1, $y2)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,456.84,784.38 253.33,784.38 312.76,784.38 385.45,784.38 446.72,784.38",
+		style=solid];
+	"burning($x1, $y2)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,503.26,1071.7 235.05,794.41 248.99,798.6 262.57,804.39 274.36,812.38 370.76,877.77 326.55,959.68 418.36,1031.4 440.16,1048.4 467.62,\
+1060.4 493.45,1068.7",
+		style=solid];
+	"put-out($x11, $y1)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,525.42,9990.5 222.25,9465.1 241.16,9469.2 259.88,9476.6 274.36,9489.4 425.65,9622.5 289.83,9764.1 418.36,9919.4 443.84,9950.2 \
+483.04,9972.1 515.89,9986.4",
+		style=solid];
+	"put-out($x11, $y1)" -> "Reward Function"	[pos="e,559.7,5282.9 222.2,9463.1 242.04,9459 261.22,9450.8 274.36,9435.4 552.31,9109.5 314.76,5999 418.36,5583.4 446.84,5469.1 518.45,\
+5347.5 554.27,5291.3"];
+	"cut-out($x7, $y2)" -> "Reward Function"	[pos="e,544.31,5280.2 216.33,5437 235.6,5433.1 255.98,5428 274.36,5421.4 373.5,5385.8 479.87,5321.7 535.78,5285.7"];
+	"put-out($x10, $y3)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,454.65,8423.2 222.5,7400 241.86,7404.2 260.73,7412.1 274.36,7426.4 576.12,7743.3 113.56,8086.4 418.36,8400.4 426.11,8408.4 435.3,\
+8414.5 445.28,8419.3",
+		style=solid];
+	"put-out($x10, $y3)" -> "Reward Function"	[pos="e,560.09,5283 222.47,7399.5 242.06,7395.4 261.05,7387.3 274.36,7372.4 539.65,7074.6 313.6,5968.2 418.36,5583.4 449.29,5469.7 519.74,\
+5347.9 554.78,5291.4"];
+	"put-out($x8, $y3)" -> "Reward Function"	[pos="e,561.05,5283.3 216.78,6367.4 237.95,6363.6 259.16,6355.7 274.36,6340.4 515.59,6097.3 310.75,5908.5 418.36,5583.4 455.28,5471.8 \
+522.67,5349.3 555.84,5292.2"];
+	"put-out($x8, $y3)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,460.75,6906.4 216.91,6368.5 237.71,6372.4 258.7,6380.1 274.36,6394.4 441.65,6547.2 249.6,6732.2 418.36,6883.4 427.88,6891.9 439.07,\
+6898.3 451.02,6903",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,483.27,7170.8 228.5,7138.7 299.66,7147.7 398.89,7160.2 472.99,7169.5",
+		style=solid];
+	"burning($x8, $y2)" -> "Reward Function"	[pos="e,560.22,5283 245.11,7120.4 256.16,7115.8 266.28,7109.3 274.36,7100.4 501.4,6849.1 327.08,5909.5 418.36,5583.4 450.04,5470.2 519.88,\
+5348.5 554.73,5291.8"];
+	"burning($x8, $y2)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,458.44,8645.2 244.12,7134.8 255.56,7139.5 266.04,7146.1 274.36,7155.4 493.24,7398.5 196.3,8380.2 418.36,8620.4 426.96,8629.7 437.5,\
+8636.6 449.02,8641.6",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,553.13,6929.4 224.55,7115.2 241.39,7111.5 258.68,7106.6 274.36,7100.4 381.64,7057.8 492.87,6976.5 544.99,6935.8",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,543.52,6060.2 244.26,7120.1 255.53,7115.5 265.93,7109.2 274.36,7100.4 561.86,6800.9 216.51,6540.2 418.36,6177.4 445.7,6128.2 498.26,\
+6088.7 535.01,6065.5",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,456.84,7127.4 253.33,7127.4 312.76,7127.4 385.45,7127.4 446.72,7127.4",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,540.73,4926.1 245.32,7120.6 256.34,7116 266.39,7109.4 274.36,7100.4 577.92,6755.9 209.37,5448.2 418.36,5039.4 443.19,4990.8 494.79,\
+4953.3 532.07,4931.2",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x9, $y3)"	[color=black,
+		pos="e,520.66,7763.1 241.38,7135.6 253.56,7140.1 264.97,7146.5 274.36,7155.4 455.27,7326.2 263.4,7501.7 418.36,7696.4 441.95,7726 479.06,\
+7746.3 511.28,7759.4",
+		style=solid];
+	"burning($x8, $y2)" -> "out-of-fuel'($x8, $y2)"	[color=black,
+		pos="e,477.56,7084.7 228.5,7116 297.87,7107.3 393.91,7095.2 467.35,7086",
+		style=solid];
+	"burning($x8, $y2)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,458.96,8153.7 243.36,7135 255,7139.7 265.73,7146.3 274.36,7155.4 575,7473.4 113.56,7815.4 418.36,8129.4 427.18,8138.5 437.87,8145.2 \
+449.47,8150.1",
+		style=solid];
+	"put-out($x3, $y1)" -> "Reward Function"	[pos="e,545.59,5238.4 216.87,3067.1 238.43,3070.8 259.84,3078.9 274.36,3095.4 569.06,3429 238.98,4686 418.36,5093.4 444.14,5151.9 499.76,\
+5202.6 537.38,5232.1"];
+	"put-out($x3, $y1)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,458.68,1823.8 216.74,3069.2 238.16,3065.4 259.53,3057.4 274.36,3041.4 637.46,2649.7 51.504,2236.5 418.36,1848.4 427.06,1839.2 \
+437.67,1832.4 449.23,1827.4",
+		style=solid];
+	"out-of-fuel($x12, $y2)" -> "burning'($x12, $y2)"	[color=black,
+		pos="e,474.03,10128 231.5,10269 246.19,10265 260.95,10260 274.36,10254 347.47,10221 344.81,10178 418.36,10145 432.75,10139 448.47,10134 \
+464.23,10130",
+		style=solid];
+	"out-of-fuel($x12, $y2)" -> "out-of-fuel'($x12, $y2)"	[color=black,
+		pos="e,482.58,10186 220.06,10268 238.07,10264 256.96,10259 274.36,10254 340.03,10235 352.44,10218 418.36,10200 435.7,10196 454.36,10191 \
+472.54,10188",
+		style=solid];
+	"burning($x7, $y1)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,554.81,5628.5 243.52,6521.8 254.99,6517.3 265.64,6511 274.36,6502.4 500.59,6277.6 280.32,6086.9 418.36,5799.4 450.45,5732.5 511.36,\
+5669.3 547.15,5635.6",
+		style=solid];
+	"burning($x7, $y1)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,553.13,6331.4 224.55,6517.2 241.39,6513.5 258.68,6508.6 274.36,6502.4 381.64,6459.8 492.87,6378.5 544.99,6337.8",
+		style=solid];
+	"burning($x7, $y1)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,489.74,5839.2 242.97,6521.8 254.6,6517.3 265.44,6511 274.36,6502.4 478.17,6305 228.39,6091.2 418.36,5880.4 434.57,5862.4 457.04,\
+5850.4 479.93,5842.4",
+		style=solid];
+	"burning($x7, $y1)" -> "out-of-fuel'($x7, $y1)"	[color=black,
+		pos="e,443.25,6529.4 253.33,6529.4 308.45,6529.4 374.98,6529.4 433.22,6529.4",
+		style=solid];
+	"burning($x7, $y1)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,460.26,7177.9 241.91,6537.5 253.93,6542.1 265.16,6548.5 274.36,6557.4 470.6,6747.1 219.64,6967.3 418.36,7154.4 427.66,7163.1 438.72,\
+7169.7 450.59,7174.4",
+		style=solid];
+	"burning($x7, $y1)" -> "Reward Function"	[pos="e,560.76,5283.2 244.25,6522.1 255.52,6517.5 265.93,6511.2 274.36,6502.4 560.75,6204.2 294.87,5977.9 418.36,5583.4 453.46,5471.2 \
+521.7,5349 555.46,5292.1"];
+	"burning($x7, $y1)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,547.65,6060.4 239.75,6520.7 252.26,6516.4 264.19,6510.5 274.36,6502.4 397.73,6403.7 324.15,6304.2 418.36,6177.4 452.34,6131.6 \
+504.46,6090.8 539.21,6066.3",
+		style=solid];
+	"burning($x7, $y1)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,460.49,7122.7 241.38,6537.6 253.56,6542.1 264.97,6548.5 274.36,6557.4 455.54,6728.5 234.94,6930.6 418.36,7099.4 427.76,7108 438.88,\
+7114.5 450.79,7119.2",
+		style=solid];
+	"cut-out($x11, $y1)" -> "Reward Function"	[pos="e,460.9,5266.5 221.18,5281.3 285.99,5277.3 377.07,5271.6 450.64,5267.1"];
+	"burning($x1, $y1)" -> "burning'($x1, $y1)"	[color=black,
+		pos="e,483.27,992.8 228.5,960.75 299.66,969.7 398.89,982.18 472.99,991.51",
+		style=solid];
+	"burning($x1, $y1)" -> "out-of-fuel'($x1, $y1)"	[color=black,
+		pos="e,460.5,1215.2 235.05,959.41 248.99,963.6 262.57,969.39 274.36,977.38 370.76,1042.8 321.1,1132.3 418.36,1196.4 428.29,1202.9 439.31,\
+1208.1 450.78,1212.1",
+		style=solid];
+	"burning($x1, $y1)" -> "Reward Function"	[pos="e,544.9,5238.3 245.01,956.4 256.23,961.21 266.41,967.98 274.36,977.38 569.68,1326.9 241.73,4671.2 418.36,5093.4 442.98,5152.2 498.64,\
+5202.7 536.61,5232"];
+	"burning($x1, $y1)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,483.27,905.97 228.5,938.02 299.66,929.07 398.89,916.59 472.99,907.26",
+		style=solid];
+	"burning($x1, $y1)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,476.94,794.61 225.73,937.39 242.3,933.46 259.19,928.26 274.36,921.38 347.47,888.26 344.81,844.54 418.36,812.38 433.63,805.71 450.39,\
+800.62 467.11,796.75",
+		style=solid];
+	"burning($x1, $y1)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,526.46,1069.6 215.39,963.08 234.79,967.12 255.46,971.93 274.36,977.38 340.03,996.33 354.1,1008.1 418.36,1031.4 450.8,1043.1 487.16,\
+1055.9 516.72,1066.2",
+		style=solid];
+	"out-of-fuel($x12, $y3)" -> "Reward Function"	[pos="e,559.66,5282.8 251.81,9889.1 260.34,9884.7 268.05,9878.9 274.36,9871.4 428.05,9689.2 361.14,5814.8 418.36,5583.4 446.63,5469.1 \
+518.33,5347.5 554.22,5291.3"];
+	"out-of-fuel($x12, $y3)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,493.52,9775.4 225.25,9885.2 241.79,9881.5 258.78,9876.9 274.36,9871.4 342.35,9847.2 350.57,9821.1 418.36,9796.4 439.06,9788.8 \
+461.92,9782.6 483.64,9777.6",
+		style=solid];
+	"out-of-fuel($x12, $y3)" -> "out-of-fuel'($x12, $y3)"	[color=black,
+		pos="e,437.27,9894.6 273.51,9897.2 322.19,9896.4 377.35,9895.6 427.08,9894.8",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,465.09,4224.6 245.4,4211 308.89,4214.9 389.47,4219.9 455.1,4224",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,563.54,5592.1 244.43,4211.5 255.67,4216.1 266.02,4222.5 274.36,4231.4 437.69,4405 348.39,5066.5 418.36,5294.4 453.2,5407.9 525.26,\
+5530.6 558.22,5583.6",
+		style=solid];
+	"burning($x6, $y3)" -> "out-of-fuel'($x6, $y3)"	[color=black,
+		pos="e,455.51,4184.1 244.85,4197.6 305.31,4193.7 381.42,4188.8 445.35,4184.7",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,458.96,3181 244.32,4197.2 255.58,4192.6 265.96,4186.2 274.36,4177.4 575.56,3861.2 114.13,3518.7 418.36,3205.4 427.18,3196.3 437.87,\
+3189.6 449.48,3184.6",
+		style=solid];
+	"burning($x6, $y3)" -> "Reward Function"	[pos="e,546.81,5238.2 243.83,4211.6 255.24,4216.2 265.8,4222.6 274.36,4231.4 544.83,4510.2 245.39,4745.6 418.36,5093.4 446.93,5150.8 502.08,\
+5202 538.81,5231.8"];
+	"burning($x6, $y3)" -> "burning'($x7, $y4)"	[color=black,
+		pos="e,552.75,4401.2 224.54,4216.6 241.38,4220.3 258.67,4225.2 274.36,4231.4 381.26,4273.7 492.25,4354.2 544.57,4394.8",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,459.15,3291.2 243.83,4197.1 255.24,4192.6 265.8,4186.2 274.36,4177.4 544.83,3898.6 145.21,3591.5 418.36,3315.4 427.27,3306.4 438.01,\
+3299.7 449.64,3294.8",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,531.91,6025.3 245.2,4211.2 256.23,4215.9 266.32,4222.4 274.36,4231.4 527.55,4514.5 227.57,5606 418.36,5934.4 441.7,5974.6 486.68,\
+6003.2 522.54,6020.8",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,553.13,4006.4 224.55,4192.2 241.39,4188.5 258.68,4183.6 274.36,4177.4 381.64,4134.8 492.87,4053.5 544.99,4012.8",
+		style=solid];
+	"burning($x6, $y3)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,460.08,4904.1 243.05,4211.9 254.67,4216.4 265.48,4222.7 274.36,4231.4 485.63,4437.9 205.11,4675.9 418.36,4880.4 427.58,4889.2 \
+438.58,4895.8 450.42,4900.6",
+		style=solid];
+	"burning($x8, $y1)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,553.93,6331.5 244.51,7662.3 255.73,7657.7 266.06,7651.3 274.36,7642.4 448.48,7455.6 316.71,6736.6 418.36,6502.4 447.8,6434.5 509.38,\
+6371.9 546.06,6338.5",
+		style=solid];
+	"burning($x8, $y1)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,461.49,7187.6 241.53,7661.2 253.54,7656.8 264.86,7650.8 274.36,7642.4 426.19,7508.6 265.24,7342.7 418.36,7210.4 428.21,7201.9 \
+439.73,7195.5 451.99,7190.9",
+		style=solid];
+	"burning($x8, $y1)" -> "Reward Function"	[pos="e,559.99,5282.9 245.32,7662.6 256.34,7658 266.39,7651.4 274.36,7642.4 426,7470.3 359.28,5805 418.36,5583.4 448.69,5469.6 519.42,\
+5347.8 554.65,5291.4"];
+	"burning($x8, $y1)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,459.04,8644.6 242.95,7676.9 254.73,7681.6 265.61,7688.2 274.36,7697.4 560.8,7997.9 127.98,8323.6 418.36,8620.4 427.22,8629.4 437.93,\
+8636.2 449.55,8641.1",
+		style=solid];
+	"burning($x8, $y1)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,460.76,7132.4 242.14,7661.4 253.98,7657 265.1,7650.8 274.36,7642.4 441.11,7490.3 250.15,7305.9 418.36,7155.4 427.88,7146.9 439.08,\
+7140.5 451.03,7135.8",
+		style=solid];
+	"burning($x8, $y1)" -> "burning'($x9, $y2)"	[color=black,
+		pos="e,461.49,8152.1 240.18,7677.9 252.7,7682.4 264.52,7688.7 274.36,7697.4 425.72,7831.7 265.24,7997 418.36,8129.4 428.21,8137.9 439.73,\
+8144.2 451.99,8148.9",
+		style=solid];
+	"burning($x8, $y1)" -> "out-of-fuel'($x8, $y1)"	[color=black,
+		pos="e,443.25,7669.4 253.33,7669.4 308.45,7669.4 374.98,7669.4 433.22,7669.4",
+		style=solid];
+	"out-of-fuel($x11, $y4)" -> "out-of-fuel'($x11, $y4)"	[color=black,
+		pos="e,474.52,8930.1 237.93,8959.8 305.42,8951.3 394.64,8940.1 464.38,8931.3",
+		style=solid];
+	"out-of-fuel($x11, $y4)" -> "burning'($x11, $y4)"	[color=black,
+		pos="e,449.73,8972.4 274.41,8972.4 327.02,8972.4 387.1,8972.4 439.66,8972.4",
+		style=solid];
+	"cut-out($x7, $y1)" -> "out-of-fuel'($x7, $y1)"	[color=black,
+		pos="e,559.09,6511.1 216.49,6102.2 236.59,6106.2 257.33,6113 274.36,6124.4 370.28,6188.5 349.4,6247.9 418.36,6340.4 463.39,6400.8 521.03,\
+6467.8 552.43,6503.6",
+		style=solid];
+	"cut-out($x7, $y1)" -> "Reward Function"	[pos="e,562.15,5283.2 216.19,6096.4 237.22,6092.5 258.51,6084.8 274.36,6070.4 441.11,5918.3 336.87,5793.9 418.36,5583.4 460.9,5473.5 525.92,\
+5349.8 557.24,5292.2"];
+	"put-out($x10, $y2)" -> "burning'($x10, $y2)"	[color=black,
+		pos="e,454.57,9183.3 222.23,8103.9 241.71,8108 260.7,8115.9 274.36,8130.4 591.79,8466.4 97.711,8827.5 418.36,9160.4 426.08,9168.4 435.24,\
+9174.6 445.21,9179.3",
+		style=solid];
+	"put-out($x10, $y2)" -> "Reward Function"	[pos="e,559.88,5282.9 222.34,8103.8 242.06,8099.7 261.14,8091.6 274.36,8076.4 456.56,7867.1 348.51,5851.9 418.36,5583.4 448,5469.4 519.06,\
+5347.7 554.51,5291.4"];
+	"put-out($x9, $y1)" -> "Reward Function"	[pos="e,559.94,5282.9 216.95,7834.7 238.51,7831.1 259.9,7822.9 274.36,7806.4 437.54,7620.3 355.21,5822.7 418.36,5583.4 448.4,5469.5 519.27,\
+5347.7 554.59,5291.4"];
+	"put-out($x9, $y1)" -> "burning'($x9, $y1)"	[color=black,
+		pos="e,459.37,8644.3 216.79,7833.4 237.96,7837.2 259.17,7845.1 274.36,7860.4 516.42,8104.5 173.96,8378.6 418.36,8620.4 427.37,8629.3 \
+438.17,8635.9 449.84,8640.8",
+		style=solid];
+	"put-out($x8, $y2)" -> "Reward Function"	[pos="e,560.85,5283.2 217,6475.6 238.18,6471.8 259.34,6463.9 274.36,6448.4 545.67,6168.6 300.17,5954.8 418.36,5583.4 454,5471.4 521.98,\
+5349.1 555.57,5292.1"];
+	"put-out($x8, $y2)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,460.26,7122.9 217.02,6476 237.95,6479.8 258.97,6487.6 274.36,6502.4 471.27,6691.4 219.64,6912.3 418.36,7099.4 427.66,7108.1 438.72,\
+7114.7 450.59,7119.4",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,548.48,4249.5 245.27,6306.6 256.29,6301.9 266.36,6295.4 274.36,6286.4 554.42,5970.6 244.56,4777.1 418.36,4392.4 444.96,4333.5 \
+502.77,4283.5 540.33,4255.5",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,555.74,5628.6 242.14,6305.4 253.98,6301 265.1,6294.8 274.36,6286.4 441.11,6134.3 312.07,5998.5 418.36,5799.4 453.37,5733.8 513.5,\
+5669.9 548.3,5635.8",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,456.84,6313.4 253.33,6313.4 312.76,6313.4 385.45,6313.4 446.72,6313.4",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,493.51,5839.7 241.03,6305.1 253.19,6300.8 264.69,6294.7 274.36,6286.4 419.2,6161.2 282.33,6015.1 418.36,5880.4 436.18,5862.7 460.02,\
+5850.8 483.73,5842.8",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,459.25,7178.4 243.75,6320.7 255.18,6325.2 265.76,6331.6 274.36,6340.4 531.45,6602.8 158.75,6894.4 418.36,7154.4 427.31,7163.4 \
+438.08,7170 449.73,7174.9",
+		style=solid];
+	"burning($x7, $y2)" -> "Reward Function"	[pos="e,561.18,5283.3 243.52,6305.8 254.99,6301.3 265.64,6295 274.36,6286.4 500.59,6061.6 316.03,5885.5 418.36,5583.4 456.07,5472.1 523.08,\
+5349.5 556.01,5292.2"];
+	"burning($x7, $y2)" -> "out-of-fuel'($x7, $y2)"	[color=black,
+		pos="e,519.07,6221 213.3,6299.5 233.21,6295.5 254.65,6291 274.36,6286.4 355.77,6267.3 448.47,6241.4 509.23,6223.8",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x8, $y3)"	[color=black,
+		pos="e,460.48,6906.7 242.37,6321.2 254.17,6325.6 265.22,6331.8 274.36,6340.4 456.42,6511.2 234.66,6714.3 418.36,6883.4 427.76,6892 438.88,\
+6898.5 450.78,6903.2",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,554.15,6060.6 228.43,6301.9 244.17,6298.1 260.06,6293.1 274.36,6286.4 305.3,6271.9 476.83,6126.6 546.21,6067.4",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x8, $y2)"	[color=black,
+		pos="e,459.37,7123.3 243.64,6320.8 255.09,6325.3 265.7,6331.7 274.36,6340.4 516.14,6584.2 174.24,6857.9 418.36,7099.4 427.37,7108.3 438.17,\
+7114.9 449.84,7119.8",
+		style=solid];
+	"burning($x7, $y2)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,541.51,4926.2 244.6,6306.4 255.81,6301.8 266.11,6295.3 274.36,6286.4 463.48,6081.3 285.8,5284.8 418.36,5039.4 444.25,4991.4 495.53,\
+4953.9 532.45,4931.5",
+		style=solid];
+	"cut-out($x10, $y3)" -> "out-of-fuel'($x10, $y3)"	[color=black,
+		pos="e,554.33,8355.1 221.51,7346.1 241.12,7350.2 260.36,7358.1 274.36,7372.4 530.89,7634.2 264.12,7851.9 418.36,8184.4 449.48,8251.5 \
+510.47,8314.4 546.58,8348",
+		style=solid];
+	"cut-out($x10, $y3)" -> "Reward Function"	[pos="e,560.11,5283 221.38,7345.7 241.34,7341.7 260.79,7333.6 274.36,7318.4 532.05,7029.8 316.28,5956.6 418.36,5583.4 449.43,5469.8 519.81,\
+5347.9 554.81,5291.5"];
+	"out-of-fuel($x4, $y2)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,456.65,1765.4 266.69,1765.4 323.37,1765.4 389.84,1765.4 446.55,1765.4",
+		style=solid];
+	"out-of-fuel($x4, $y2)" -> "out-of-fuel'($x4, $y2)"	[color=black,
+		pos="e,462.19,2003.8 237.82,1777 250.7,1781 263.25,1786.3 274.36,1793.4 364.44,1850.5 327.53,1929.5 418.36,1985.4 428.87,1991.9 440.48,\
+1996.9 452.49,2000.9",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,552.33,4249.6 239.51,4791.6 252.2,4787.2 264.25,4781 274.36,4772.4 411.83,4655.3 321.27,4544.7 418.36,4392.4 453.43,4337.4 509.61,\
+4285.6 544.4,4256.2",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,564.89,5592 241.71,4808.4 253.69,4812.8 264.96,4818.9 274.36,4827.4 435.67,4972.8 337.77,5092.7 418.36,5294.4 462.42,5404.7 529.78,\
+5529.1 559.89,5583.1",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,515.39,6297.5 245.04,4807.4 256.1,4812 266.24,4818.5 274.36,4827.4 485.52,5059.3 242.34,5971.8 418.36,6231.4 438.77,6261.5 473.83,\
+6281.3 505.64,6293.9",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,554.33,5808.1 243.74,4807.7 255.17,4812.3 265.75,4818.6 274.36,4827.4 530.34,5088.5 264.42,5305.7 418.36,5637.4 449.5,5704.5 510.47,\
+5767.4 546.59,5801",
+		style=solid];
+	"burning($x6, $y2)" -> "out-of-fuel'($x6, $y2)"	[color=black,
+		pos="e,553.69,5048.2 228.01,4811.9 243.88,4815.7 259.92,4820.7 274.36,4827.4 305.05,4841.6 475.94,4983.2 545.7,5041.5",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,458.38,3180.5 244.18,4793.1 255.61,4788.3 266.07,4781.6 274.36,4772.4 507.51,4511.8 181.8,3462.9 418.36,3205.4 426.93,3196.1 437.45,\
+3189.2 448.96,3184.1",
+		style=solid];
+	"burning($x6, $y2)" -> "Reward Function"	[pos="e,550.94,5237.4 238.12,4809.5 251.09,4813.7 263.59,4819.4 274.36,4827.4 382.57,4907.1 339.5,4984.5 418.36,5093.4 456.27,5145.7 509.52,\
+5198.7 543.23,5230.3"];
+	"burning($x6, $y2)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,458.45,3290.6 243.78,4793.1 255.35,4788.4 265.96,4781.7 274.36,4772.4 492.12,4530.6 197.44,3554.2 418.36,3315.4 426.96,3306.1 \
+437.51,3299.2 449.02,3294.2",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x7, $y3)"	[color=black,
+		pos="e,488.78,4895.8 216.81,4813.8 235.79,4817.6 255.91,4822.2 274.36,4827.4 340.01,4845.9 352.53,4862.6 418.36,4880.4 437.68,4885.6 \
+458.6,4890.1 478.69,4893.9",
+		style=solid];
+	"burning($x6, $y2)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,542.45,4655 217.79,4787.1 236.55,4783.1 256.33,4778.2 274.36,4772.4 370.13,4741.5 476.24,4689.4 533.37,4659.8",
+		style=solid];
+	"put-out($x5, $y2)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,460.27,3181.9 217.01,3825.8 237.93,3821.9 258.96,3814.1 274.36,3799.4 470.44,3611.4 220.47,3391.5 418.36,3205.4 427.67,3196.6 \
+438.72,3190.1 450.6,3185.3",
+		style=solid];
+	"put-out($x5, $y2)" -> "Reward Function"	[pos="e,546.02,5238.2 216.79,3825.5 238.21,3829.3 259.56,3837.4 274.36,3853.4 462.5,4057.2 301.06,4842 418.36,5093.4 445.41,5151.4 500.7,\
+5202.2 537.91,5231.8"];
+	"out-of-fuel($x6, $y4)" -> "out-of-fuel'($x6, $y4)"	[color=black,
+		pos="e,542.04,3754.4 223.2,3624.2 240.32,3627.8 258.05,3632.2 274.36,3637.4 369.98,3667.9 475.74,3719.9 532.94,3749.7",
+		style=solid];
+	"out-of-fuel($x6, $y4)" -> "burning'($x6, $y4)"	[color=black,
+		pos="e,559.91,3969.7 237.75,3622 250.56,3625.8 263.12,3630.8 274.36,3637.4 292.71,3648.1 486.7,3881.3 553.16,3961.5",
+		style=solid];
+	"put-out($x2, $y2)" -> "Reward Function"	[pos="e,545.04,5238.3 216.75,2145.8 238.44,2149.5 259.95,2157.7 274.36,2174.4 486.56,2420.2 290.88,4794.7 418.36,5093.4 443.4,5152.1 498.95,\
+5202.5 536.78,5231.9"];
+	"put-out($x2, $y2)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,458.67,897.78 216.74,2148.2 238.17,2144.4 259.53,2136.4 274.36,2120.4 638.86,1727 50.085,1312.2 418.36,922.38 427.06,913.17 437.67,\
+906.36 449.22,901.38",
+		style=solid];
+	"put-out($x10, $y1)" -> "burning'($x10, $y1)"	[color=black,
+		pos="e,454.65,9238.2 222.51,8212 241.86,8216.2 260.73,8224.1 274.36,8238.4 576.96,8556.3 112.71,8900.4 418.36,9215.4 426.11,9223.4 435.29,\
+9229.5 445.28,9234.3",
+		style=solid];
+	"put-out($x10, $y1)" -> "Reward Function"	[pos="e,559.86,5282.9 222.37,8211.8 242.08,8207.7 261.16,8199.6 274.36,8184.4 464.16,7965.9 345.83,5863.6 418.36,5583.4 447.87,5469.4 \
+518.99,5347.7 554.48,5291.4"];
+	"burning($x3, $y2)" -> "Reward Function"	[pos="e,544.95,5238.3 245.91,1501.1 256.75,1505.7 266.6,1512.3 274.36,1521.4 532.57,1823.2 264.07,4727.4 418.36,5093.4 443.14,5152.2 498.75,\
+5202.6 536.67,5232"];
+	"burning($x3, $y2)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,488.01,2729 244.53,1501.4 255.75,1506 266.07,1512.5 274.36,1521.4 629.61,1903.5 90.95,2280.2 418.36,2686.4 433.5,2705.2 455.49,\
+2717.6 478.24,2725.7",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,464.63,1176.1 238.16,1485.3 251.13,1481.1 263.61,1475.4 274.36,1467.4 383.58,1386.4 308.36,1277.4 418.36,1197.4 429.35,1189.4 \
+441.9,1183.4 455,1179",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,465.09,1474.2 245.4,1487.8 308.89,1483.8 389.47,1478.9 455.1,1474.8",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,496.54,1944.5 240.87,1502.8 253.06,1507.1 264.61,1513.1 274.36,1521.4 412.51,1638.4 289.16,1775.6 418.36,1902.4 437.05,1920.7 \
+462.14,1933.1 486.77,1941.4",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,559.15,1747.2 228.43,1505.9 244.17,1509.6 260.06,1514.7 274.36,1521.4 392.88,1577 505.13,1689 552.17,1739.6",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,460.48,899.07 242.38,1486.6 254.18,1482.2 265.22,1476 274.36,1467.4 456.97,1295.9 234.1,1092.1 418.36,922.38 427.76,913.72 438.87,\
+907.28 450.78,902.53",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,458.94,462.04 244.33,1487.2 255.59,1482.6 265.97,1476.2 274.36,1467.4 578.08,1148.1 111.58,802.74 418.36,486.38 427.18,477.29 \
+437.86,470.55 449.46,465.62",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,464.62,1813.7 238.17,1503.4 251.14,1507.6 263.62,1513.4 274.36,1521.4 383.83,1602.7 308.1,1712.1 418.36,1792.4 429.34,1800.4 441.89,\
+1806.3 454.99,1810.8",
+		style=solid];
+	"burning($x3, $y2)" -> "out-of-fuel'($x3, $y2)"	[color=black,
+		pos="e,455.51,1514.7 244.85,1501.2 305.31,1505.1 381.42,1510 445.35,1514.1",
+		style=solid];
+	"burning($x3, $y2)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,498.77,1100.4 239.75,1485.7 252.26,1481.4 264.19,1475.5 274.36,1467.4 397.73,1368.7 302.56,1249.9 418.36,1142.4 438.01,1124.1 \
+464.01,1111.8 489.18,1103.4",
+		style=solid];
+	"cut-out($x9, $y1)" -> "Reward Function"	[pos="e,560.01,5282.9 216.52,7616.7 238.2,7613.1 259.76,7604.9 274.36,7588.4 422.2,7421 360.62,5799.1 418.36,5583.4 448.8,5469.6 519.48,\
+5347.8 554.68,5291.4"];
+	"cut-out($x9, $y1)" -> "out-of-fuel'($x9, $y1)"	[color=black,
+		pos="e,451.64,8586.9 216.4,7614.9 237.81,7618.7 259.25,7626.6 274.36,7642.4 561.86,7941.9 127.98,8268.6 418.36,8565.4 425.4,8572.6 433.61,\
+8578.3 442.52,8582.8",
+		style=solid];
+	"out-of-fuel($x3, $y4)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,470.17,614.74 235.9,415.41 249.35,419.34 262.57,424.53 274.36,431.38 358.22,480.13 333.86,547.75 418.36,595.38 431.32,602.69 445.75,\
+608.16 460.47,612.25",
+		style=solid];
+	"out-of-fuel($x3, $y4)" -> "out-of-fuel'($x3, $y4)"	[color=black,
+		pos="e,471.53,557.02 229.7,416.34 244.98,420.15 260.4,425.06 274.36,431.38 347.47,464.51 344.81,508.23 418.36,540.38 431.99,546.34 446.81,\
+551.04 461.73,554.73",
+		style=solid];
+	"cut-out($x6, $y3)" -> "out-of-fuel'($x6, $y3)"	[color=black,
+		pos="e,493.43,4190.8 216.32,4243 272.49,4232.1 350.05,4217.1 418.36,4204.4 439.39,4200.5 462.03,4196.4 483.39,4192.6",
+		style=solid];
+	"cut-out($x6, $y3)" -> "Reward Function"	[pos="e,546.92,5238.2 216.18,4258.1 237.59,4261.9 259.08,4269.8 274.36,4285.4 529.78,4545.8 254.15,4767.7 418.36,5093.4 447.24,5150.7 \
+502.31,5201.9 538.94,5231.8"];
+	"out-of-fuel($x7, $y1)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,558.79,6331.8 230.59,6571.6 245.62,6567.8 260.72,6562.8 274.36,6556.4 392.25,6500.7 504.42,6389.8 551.76,6339.4",
+		style=solid];
+	"out-of-fuel($x7, $y1)" -> "out-of-fuel'($x7, $y1)"	[color=black,
+		pos="e,477.23,6541.7 234.66,6572.2 303.33,6563.6 395.66,6552 466.88,6543",
+		style=solid];
+	"put-out($x4, $y4)" -> "Reward Function"	[pos="e,545.82,5238.3 216.99,3555.4 238.42,3559.1 259.73,3567.2 274.36,3583.4 500.42,3833.4 278.97,4786.5 418.36,5093.4 444.82,5151.6 \
+500.26,5202.4 537.66,5232"];
+	"put-out($x4, $y4)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,546.05,2867.3 216.8,3555.6 237.72,3551.7 258.8,3544 274.36,3529.4 456.15,3358.9 287.08,3199.3 418.36,2987.4 448.58,2938.6 501.35,\
+2897.4 537.3,2873.1",
+		style=solid];
+	"put-out($x8, $y1)" -> "burning'($x8, $y1)"	[color=black,
+		pos="e,460.75,7177.4 216.91,6639.5 237.71,6643.4 258.7,6651.1 274.36,6665.4 441.65,6818.2 249.6,7003.2 418.36,7154.4 427.88,7162.9 439.07,\
+7169.3 451.02,7174",
+		style=solid];
+	"put-out($x8, $y1)" -> "Reward Function"	[pos="e,560.62,5283.1 216.9,6638.9 238.2,6635.2 259.46,6627.2 274.36,6611.4 432.79,6443.7 351.25,5804.1 418.36,5583.4 452.55,5470.9 521.21,\
+5348.9 555.26,5292"];
+	"burning($x12, $y2)" -> "burning'($x11, $y1)"	[color=black,
+		pos="e,473.59,10018 230.08,10160 245.24,10156 260.52,10152 274.36,10145 347.76,10112 344.64,10068 418.36,10035 432.49,10029 447.92,10024 \
+463.41,10021",
+		style=solid];
+	"burning($x12, $y2)" -> "Reward Function"	[pos="e,559.64,5282.8 248.92,10164 258.59,10160 267.34,10154 274.36,10145 438.35,9952 357.74,5829.6 418.36,5583.4 446.51,5469 518.27,5347.5 \
+554.2,5291.3"];
+	"burning($x12, $y2)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,467.59,9771 243.06,10163 254.39,10159 265.14,10153 274.36,10145 404.03,10039 289.96,9904.4 418.36,9796.4 429.93,9786.7 443.63,\
+9779.5 458.03,9774.2",
+		style=solid];
+	"burning($x12, $y2)" -> "burning'($x12, $y2)"	[color=black,
+		pos="e,479.96,10129 232.23,10161 302.1,10152 397.44,10140 469.89,10131",
+		style=solid];
+	"burning($x12, $y2)" -> "burning'($x12, $y1)"	[color=black,
+		pos="e,479.96,10215 232.23,10184 302.1,10193 397.44,10205 469.89,10214",
+		style=solid];
+	"burning($x12, $y2)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,480.1,9835.4 241.41,10162 253.23,10158 264.54,10153 274.36,10145 386.12,10061 309.42,9953.2 418.36,9865.4 433.41,9853.2 451.66,\
+9844.6 470.32,9838.4",
+		style=solid];
+	"burning($x12, $y2)" -> "out-of-fuel'($x12, $y2)"	[color=black,
+		pos="e,436.02,10172 261.12,10172 312.25,10172 372.08,10172 425.73,10172",
+		style=solid];
+	"cut-out($x10, $y4)" -> "out-of-fuel'($x10, $y4)"	[color=black,
+		pos="e,448.59,8530.7 221.36,7561.9 241.09,7565.9 260.42,7573.9 274.36,7588.4 561.58,7887.6 128.27,8214 418.36,8510.4 424.62,8516.8 431.8,\
+8522 439.58,8526.3",
+		style=solid];
+	"cut-out($x10, $y4)" -> "Reward Function"	[pos="e,560.03,5282.9 221.47,7561.8 241.44,7557.8 260.86,7549.6 274.36,7534.4 562.44,7208.8 305.57,6003.2 418.36,5583.4 448.91,5469.6 \
+519.54,5347.8 554.7,5291.4"];
+	"put-out($x1, $y4)" -> "Reward Function"	[pos="e,544.88,5238.3 216.92,674.68 238.62,678.33 260.08,686.57 274.36,703.38 590.23,1075.4 230.48,4643 418.36,5093.4 442.92,5152.3 498.59,\
+5202.7 536.58,5232"];
+	"put-out($x1, $y4)" -> "burning'($x1, $y4)"	[color=black,
+		pos="e,462.24,243.93 216.96,674.35 237.52,670.41 258.37,662.95 274.36,649.38 413.04,531.75 278.55,382.68 418.36,266.38 428.45,257.99 \
+440.19,251.74 452.62,247.14",
+		style=solid];
+	"burning($x6, $y1)" -> "out-of-fuel'($x6, $y1)"	[color=black,
+		pos="e,454.62,5914.8 245.4,5927.8 305.52,5924.1 380.96,5919.4 444.53,5915.5",
+		style=solid];
+	"burning($x6, $y1)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,562.89,5628.7 231.16,5923.5 246.12,5919.7 261.05,5914.4 274.36,5907.4 403.93,5838.7 514.55,5696.4 556.91,5637.2",
+		style=solid];
+	"burning($x6, $y1)" -> "burning'($x7, $y1)"	[color=black,
+		pos="e,526.35,6296.6 236.77,5943.8 250.24,5948.1 263.23,5954.1 274.36,5962.4 383.04,6043.5 321.98,6136 418.36,6231.4 446.11,6258.9 484.95,\
+6279.2 517.06,6292.8",
+		style=solid];
+	"burning($x6, $y1)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,519.61,5842.6 213.29,5920.4 233.2,5916.5 254.64,5912 274.36,5907.4 355.98,5888.3 449.01,5862.7 509.77,5845.4",
+		style=solid];
+	"burning($x6, $y1)" -> "Reward Function"	[pos="e,563.26,5283.6 239.74,5925.7 252.25,5921.4 264.19,5915.5 274.36,5907.4 397.47,5809 351.99,5726.3 418.36,5583.4 467.98,5476.5 529.65,\
+5351.4 558.72,5292.8"];
+	"burning($x6, $y1)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,518.46,6026.2 211.14,5948.6 231.64,5952.8 253.92,5957.6 274.36,5962.4 355.37,5981.5 447.79,6006.5 508.6,6023.5",
+		style=solid];
+	"burning($x6, $y1)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,553.98,4655.5 244.45,5927.3 255.68,5922.7 266.03,5916.3 274.36,5907.4 606.07,5554 223.91,5270.4 418.36,4826.4 448.03,4758.6 509.53,\
+4696 546.13,4662.6",
+		style=solid];
+	"out-of-fuel($x4, $y1)" -> "Reward Function"	[pos="e,545.54,5238.4 249.31,2913.7 258.77,2918.3 267.38,2924.4 274.36,2932.4 590.72,3295.1 225.61,4652.4 418.36,5093.4 443.98,5152 499.64,\
+5202.7 537.32,5232.1"];
+	"out-of-fuel($x4, $y1)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,542.45,2759 221.03,2890.4 238.81,2886.5 257.36,2881.9 274.36,2876.4 370.13,2845.5 476.24,2793.4 533.37,2763.8",
+		style=solid];
+	"out-of-fuel($x4, $y1)" -> "out-of-fuel'($x4, $y1)"	[color=black,
+		pos="e,506.94,2675.2 235.51,2892.4 249.08,2888.5 262.44,2883.3 274.36,2876.4 357.79,2828.2 338.34,2768 418.36,2714.4 442.07,2698.5 470.89,\
+2686.7 497.32,2678.1",
+		style=solid];
+	"put-out($x2, $y3)" -> "Reward Function"	[pos="e,544.95,5238.3 216.85,1438.7 238.54,1442.4 260.03,1450.6 274.36,1467.4 536.38,1773.8 261.86,4721.8 418.36,5093.4 443.12,5152.2 \
+498.74,5202.6 536.67,5232"];
+	"put-out($x2, $y3)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,459.03,462.12 216.76,1440.8 238.05,1437 259.34,1429 274.36,1413.4 562.98,1112.5 126.85,784.49 418.36,486.38 427.22,477.33 437.93,\
+470.61 449.54,465.69",
+		style=solid];
+	"put-out($x5, $y3)" -> "Reward Function"	[pos="e,546.12,5238.2 217.03,3933.7 238.33,3937.5 259.56,3945.5 274.36,3961.4 620.36,4332.2 201.4,4635 418.36,5093.4 445.73,5151.2 500.94,\
+5202.1 538.04,5231.8"];
+	"put-out($x5, $y3)" -> "burning'($x5, $y3)"	[color=black,
+		pos="e,460.28,3291.9 217,3933.8 237.93,3929.9 258.95,3922.1 274.36,3907.4 469.89,3720.1 221.03,3500.8 418.36,3315.4 427.67,3306.6 438.73,\
+3300.1 450.6,3295.3",
+		style=solid];
+	"burning($x11, $y4)" -> "burning'($x10, $y3)"	[color=black,
+		pos="e,455.91,8434.3 245.93,9071.5 256.42,9067.1 266.18,9061.2 274.36,9053.4 471.27,8864.4 219.64,8643.5 418.36,8456.4 426.54,8448.7 \
+436.07,8442.7 446.32,8438.1",
+		style=solid];
+	"burning($x11, $y4)" -> "Reward Function"	[pos="e,559.73,5282.9 248.83,9072.4 258.52,9067.8 267.3,9061.6 274.36,9053.4 525.39,8760.3 324.25,5957.6 418.36,5583.4 447.08,5469.2 518.57,\
+5347.6 554.32,5291.3"];
+	"burning($x11, $y4)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,455.81,9755.6 246.01,9089.2 256.49,9093.6 266.23,9099.5 274.36,9107.4 479.27,9306.2 211.54,9536.6 418.36,9733.4 426.5,9741.1 436,\
+9747.1 446.23,9751.7",
+		style=solid];
+	"burning($x11, $y4)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,460.94,9400.7 241.34,9090.5 253.17,9094.5 264.5,9100 274.36,9107.4 384.34,9189.4 307.59,9299.5 418.36,9380.4 428.32,9387.7 439.58,\
+9393.3 451.38,9397.5",
+		style=solid];
+	"burning($x11, $y4)" -> "out-of-fuel'($x11, $y4)"	[color=black,
+		pos="e,469.48,8929.3 229.67,9068.1 244.96,9064.4 260.38,9059.6 274.36,9053.4 347.42,9020.8 344.99,8977.3 418.36,8945.4 431.36,8939.7 \
+445.43,8935.2 459.64,8931.6",
+		style=solid];
+	"burning($x11, $y4)" -> "burning'($x11, $y4)"	[color=black,
+		pos="e,518.78,8988.8 215.07,9066.1 234.48,9062.2 255.23,9057.8 274.36,9053.4 355.6,9034.4 448.16,9008.9 508.93,8991.6",
+		style=solid];
+	"burning($x11, $y4)" -> "burning'($x12, $y4)"	[color=black,
+		pos="e,538.59,9525.7 242.55,9090 254.04,9094.2 264.96,9099.8 274.36,9107.4 398.51,9207 316.9,9312.7 418.36,9435.4 448.94,9472.4 495.26,\
+9502.1 529.67,9520.9",
+		style=solid];
+	"out-of-fuel($x6, $y3)" -> "burning'($x6, $y3)"	[color=black,
+		pos="e,482.3,4220 226.46,4109.7 242.64,4113.3 259.2,4117.8 274.36,4123.4 343.1,4148.6 349.38,4178.8 418.36,4203.4 435.49,4209.5 454.17,\
+4214.3 472.48,4218.1",
+		style=solid];
+	"out-of-fuel($x6, $y3)" -> "out-of-fuel'($x6, $y3)"	[color=black,
+		pos="e,495.3,4161.7 217.35,4110.9 292.86,4124.7 406.46,4145.5 485.37,4159.9",
+		style=solid];
+	"burning($x3, $y1)" -> "Reward Function"	[pos="e,544.98,5238.3 244.61,1717.3 255.97,1722.1 266.3,1728.9 274.36,1738.4 516.28,2022.4 272.98,4749.7 418.36,5093.4 443.21,5152.1 498.81,\
+5202.6 536.71,5232"];
+	"burning($x3, $y1)" -> "out-of-fuel'($x3, $y1)"	[color=black,
+		pos="e,471.53,1864 225.73,1722.4 242.3,1726.3 259.19,1731.5 274.36,1738.4 347.47,1771.5 344.81,1815.2 418.36,1847.4 431.99,1853.3 446.81,\
+1858 461.73,1861.7",
+		style=solid];
+	"burning($x3, $y1)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,488.77,2728.8 242.99,1717.9 254.76,1722.6 265.63,1729.2 274.36,1738.4 567.76,2047.5 146.33,2358.3 418.36,2686.4 433.91,2705.1 \
+456.27,2717.5 479.25,2725.7",
+		style=solid];
+	"burning($x3, $y1)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,468.43,1475.5 234.54,1700.4 248.54,1696.4 262.28,1690.9 274.36,1683.4 363.73,1627.8 328.46,1550.1 418.36,1495.4 430.66,1487.9 \
+444.43,1482.3 458.59,1478.1",
+		style=solid];
+	"burning($x3, $y1)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,483.27,1753.8 228.5,1721.7 299.66,1730.7 398.89,1743.2 472.99,1752.5",
+		style=solid];
+	"burning($x3, $y1)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,459.37,898.45 243.65,1703 255.09,1698.4 265.7,1692.1 274.36,1683.4 516.7,1438.9 173.68,1164.5 418.36,922.38 427.36,913.47 438.17,\
+906.85 449.84,901.99",
+		style=solid];
+	"burning($x3, $y1)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,488.76,1807.9 215.39,1724.1 234.79,1728.1 255.46,1732.9 274.36,1738.4 340.03,1757.3 352.44,1774.3 418.36,1792.4 437.66,1797.7 \
+458.58,1802.2 478.66,1806",
+		style=solid];
+	"burning($x3, $y1)" -> "burning'($x2, $y1)"	[color=black,
+		pos="e,493.35,1099.7 242.37,1702.6 254.17,1698.2 265.21,1692 274.36,1683.4 455.87,1513.2 249.82,1325.4 418.36,1142.4 435.66,1123.6 459.7,\
+1111.1 483.77,1102.8",
+		style=solid];
+	"out-of-fuel($x3, $y3)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,456.65,1169.4 266.69,1169.4 323.37,1169.4 389.84,1169.4 446.55,1169.4",
+		style=solid];
+	"out-of-fuel($x3, $y3)" -> "out-of-fuel'($x3, $y3)"	[color=black,
+		pos="e,471.53,1323 229.7,1182.3 244.98,1186.2 260.4,1191.1 274.36,1197.4 347.47,1230.5 344.81,1274.2 418.36,1306.4 431.99,1312.3 446.81,\
+1317 461.73,1320.7",
+		style=solid];
+	"out-of-fuel($x7, $y2)" -> "Reward Function"	[pos="e,562.81,5283.4 243.97,5979 255.01,5974.7 265.44,5969 274.36,5961.4 411.3,5844.9 347.09,5748.4 418.36,5583.4 465.07,5475.2 528.11,\
+5350.7 558.11,5292.5"];
+	"out-of-fuel($x7, $y2)" -> "out-of-fuel'($x7, $y2)"	[color=black,
+		pos="e,552.75,6186.2 228.51,6002.5 244.09,6006.1 259.9,6010.7 274.36,6016.4 381.26,6058.7 492.25,6139.2 544.57,6179.8",
+		style=solid];
+	"out-of-fuel($x7, $y2)" -> "burning'($x7, $y2)"	[color=black,
+		pos="e,482.07,6031.1 236.29,6001.3 306.35,6009.8 400.43,6021.2 471.72,6029.8",
+		style=solid];
+	"cut-out($x6, $y4)" -> "Reward Function"	[pos="e,546.25,5238.1 216.19,4041.7 237.73,4045.4 259.29,4053.4 274.36,4069.4 590.11,4403.3 219.02,4679.3 418.36,5093.4 446.11,5151 501.22,\
+5201.9 538.19,5231.7"];
+	"cut-out($x6, $y4)" -> "out-of-fuel'($x6, $y4)"	[color=black,
+		pos="e,558.82,3790.9 216.22,4033.6 235.8,4029.6 256.35,4023.8 274.36,4015.4 392.45,3960.2 504.52,3849 551.8,3798.4",
+		style=solid];
+	"burning($x12, $y3)" -> "Reward Function"	[pos="e,559.67,5282.9 247.97,9836.1 258.02,9831.3 267.12,9825 274.36,9816.4 426.12,9636.6 361.83,5811.8 418.36,5583.4 446.65,5469.1 518.35,\
+5347.5 554.23,5291.3"];
+	"burning($x12, $y3)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,498.61,9776 214.33,9829.9 290.81,9815.4 408.5,9793.1 488.55,9777.9",
+		style=solid];
+	"burning($x12, $y3)" -> "burning'($x11, $y2)"	[color=black,
+		pos="e,455.83,9829.1 255.05,9838.8 313.87,9835.9 385.34,9832.5 445.83,9829.6",
+		style=solid];
+	"burning($x12, $y3)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,539.22,9426.1 240.59,9834.2 252.75,9830 264.37,9824.2 274.36,9816.4 390.92,9725.4 322.19,9628.7 418.36,9516.4 449.66,9479.8 496.09,\
+9449.9 530.35,9430.9",
+		style=solid];
+	"burning($x12, $y3)" -> "out-of-fuel'($x12, $y3)"	[color=black,
+		pos="e,468.39,9880.6 237.11,9855.2 302.77,9862.5 389.25,9872 458.33,9879.5",
+		style=solid];
+	"burning($x12, $y3)" -> "burning'($x11, $y4)"	[color=black,
+		pos="e,543.93,8990.2 245.25,9835.4 256.07,9830.8 266.09,9824.7 274.36,9816.4 501.73,9588.4 254.98,9383.8 418.36,9106.4 446.69,9058.3 \
+498.68,9019.1 535.05,8995.8",
+		style=solid];
+	"burning($x12, $y3)" -> "burning'($x12, $y4)"	[color=black,
+		pos="e,529.47,9560.5 236.05,9833.3 249.54,9829.2 262.74,9823.8 274.36,9816.4 364.44,9759.3 336.9,9693.2 418.36,9624.4 448.63,9598.8 488.35,\
+9578.4 520.27,9564.5",
+		style=solid];
+	"out-of-fuel($x5, $y1)" -> "Reward Function"	[pos="e,548.28,5237.9 245.55,4592.6 256.11,4596.9 265.99,4602.7 274.36,4610.4 439.49,4761.7 306.35,4899.4 418.36,5093.4 450.54,5149.1 \
+504.98,5200.9 540.55,5231.3"];
+	"out-of-fuel($x5, $y1)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,483.24,4625.8 234.66,4594.5 305.39,4603.4 401.23,4615.5 473.24,4624.5",
+		style=solid];
+	"out-of-fuel($x5, $y1)" -> "out-of-fuel'($x5, $y1)"	[color=black,
+		pos="e,443.14,4582.4 266.69,4582.4 318.87,4582.4 379.36,4582.4 432.88,4582.4",
+		style=solid];
+	"out-of-fuel($x4, $y4)" -> "out-of-fuel'($x4, $y4)"	[color=black,
+		pos="e,537.14,2556 239.19,2838 251.57,2834.2 263.63,2829.1 274.36,2822.4 364.19,2766.2 339.46,2703.1 418.36,2632.4 451.44,2602.7 495.23,\
+2577.4 528.16,2560.6",
+		style=solid];
+	"out-of-fuel($x4, $y4)" -> "Reward Function"	[pos="e,545.52,5238.4 249.32,2858.7 258.78,2863.3 267.38,2869.4 274.36,2877.4 598.43,3249.5 221.1,4641 418.36,5093.4 443.93,5152 499.61,\
+5202.7 537.3,5232.1"];
+	"out-of-fuel($x4, $y4)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,456.65,2849.4 266.69,2849.4 323.37,2849.4 389.84,2849.4 446.55,2849.4",
+		style=solid];
+	"cut-out($x9, $y4)" -> "Reward Function"	[pos="e,460.88,5252.3 216.34,5237.2 281.45,5241.2 375.38,5247 450.83,5251.7"];
+	"put-out($x2, $y4)" -> "Reward Function"	[pos="e,544.88,5238.3 216.92,728.68 238.61,732.33 260.08,740.58 274.36,757.38 586.42,1124.8 232.7,4648.5 418.36,5093.4 442.93,5152.3 498.6,\
+5202.7 536.59,5232"];
+	"put-out($x2, $y4)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,462.25,298.94 216.95,728.34 237.51,724.4 258.36,716.94 274.36,703.38 412.78,586.08 278.82,437.35 418.36,321.38 428.45,312.99 440.2,\
+306.75 452.63,302.15",
+		style=solid];
+	"out-of-fuel($x6, $y2)" -> "burning'($x6, $y2)"	[color=black,
+		pos="e,519.61,5594.2 216.51,5517 235.49,5520.8 255.7,5525 274.36,5529.4 355.98,5548.4 449.01,5574.1 509.77,5591.4",
+		style=solid];
+	"out-of-fuel($x6, $y2)" -> "out-of-fuel'($x6, $y2)"	[color=black,
+		pos="e,554.02,5084.6 242.14,5491.6 253.63,5487.6 264.67,5482.3 274.36,5475.4 378.82,5400.4 340.37,5326.6 418.36,5224.4 457.76,5172.7 \
+513.08,5120.8 546.44,5091.2",
+		style=solid];
+	"out-of-fuel($x6, $y2)" -> "Reward Function"	[pos="e,552.2,5281.5 230.64,5489.6 245.59,5486 260.65,5481.3 274.36,5475.4 384.09,5427.8 493.23,5335.4 544.73,5288.4"];
+	"cut-out($x8, $y3)" -> "Reward Function"	[pos="e,561.32,5283.3 216.49,6259.1 237.65,6255.3 258.93,6247.5 274.36,6232.4 485.63,6025.8 321.28,5862.4 418.36,5583.4 456.97,5472.4 \
+523.56,5349.6 556.2,5292.3"];
+	"cut-out($x8, $y3)" -> "out-of-fuel'($x8, $y3)"	[color=black,
+		pos="e,453.38,6849.2 216.45,6260.1 237.49,6264 258.71,6271.7 274.36,6286.4 456.15,6456.9 234.94,6659.6 418.36,6828.4 425.92,6835.3 434.59,\
+6840.9 443.89,6845.2",
+		style=solid];
+	"put-out($x6, $y1)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,482.54,5814.9 216.84,5782.1 288.25,5790.9 394.02,5804 472.18,5813.6",
+		style=solid];
+	"put-out($x6, $y1)" -> "Reward Function"	[pos="e,563.76,5283.3 216.75,5768 236.85,5764 257.52,5757.1 274.36,5745.4 360.79,5685.5 510.38,5391.7 559.34,5292.3"];
+	"burning($x3, $y4)" -> "Reward Function"	[pos="e,544.87,5238.3 245.04,520.38 256.25,525.19 266.43,531.97 274.36,541.38 600.28,928.48 223.83,4626.2 418.36,5093.4 442.88,5152.3 \
+498.56,5202.7 536.57,5232"];
+	"burning($x3, $y4)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,492.78,1156.1 241.49,521.47 253.65,526.04 265.03,532.46 274.36,541.38 463.75,722.65 242.09,919.33 418.36,1113.4 435.45,1132.2 \
+459.3,1144.7 483.25,1153",
+		style=solid];
+	"burning($x3, $y4)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,488.58,1945.8 243.72,520.68 255.3,525.41 265.92,532.09 274.36,541.38 683.02,991.92 42.164,1424.4 418.36,1902.4 433.54,1921.7 455.89,\
+1934.3 479,1942.6",
+		style=solid];
+	"burning($x3, $y4)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,470.17,302.03 231.62,502.57 246.52,498.51 261.32,492.97 274.36,485.38 358.22,436.64 333.86,369.02 418.36,321.38 431.32,314.08 \
+445.75,308.61 460.47,304.52",
+		style=solid];
+	"burning($x3, $y4)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,488.76,610.85 215.39,527.08 234.79,531.12 255.46,535.93 274.36,541.38 340.03,560.33 352.44,577.31 418.36,595.38 437.66,600.68 \
+458.58,605.21 478.66,609",
+		style=solid];
+	"burning($x3, $y4)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,483.27,469.97 228.5,502.02 299.66,493.07 398.89,480.59 472.99,471.26",
+		style=solid];
+	"burning($x3, $y4)" -> "out-of-fuel'($x3, $y4)"	[color=black,
+		pos="e,477.56,556.08 228.5,524.75 297.87,533.47 393.91,545.56 467.35,554.8",
+		style=solid];
+	"put-out($x4, $y2)" -> "Reward Function"	[pos="e,545.51,5238.4 216.96,2794 238.52,2797.7 259.91,2805.9 274.36,2822.4 607.49,3202.8 216.59,4629.7 418.36,5093.4 443.89,5152.1 499.57,\
+5202.7 537.28,5232.1"];
+	"put-out($x4, $y2)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,458.95,1769 216.83,2795.9 238.13,2792.1 259.4,2784.1 274.36,2768.4 576.4,2451.1 113.28,2107.7 418.36,1793.4 427.18,1784.3 437.87,\
+1777.6 449.47,1772.6",
+		style=solid];
+	"burning($x4, $y1)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,460.75,3172.4 242.15,2641.4 253.99,2645.8 265.1,2651.9 274.36,2660.4 441.65,2813.2 249.6,2998.2 418.36,3149.4 427.88,3157.9 439.07,\
+3164.3 451.02,3169",
+		style=solid];
+	"burning($x4, $y1)" -> "Reward Function"	[pos="e,545.47,5238.5 245.42,2640.1 256.42,2644.7 266.44,2651.3 274.36,2660.4 452.33,2864.5 310.83,4844.8 418.36,5093.4 443.76,5152.1 \
+499.48,5202.7 537.23,5232.2"];
+	"burning($x4, $y1)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,519.61,2725.2 213.29,2647.3 233.2,2651.3 254.64,2655.8 274.36,2660.4 355.98,2679.4 449.01,2705.1 509.77,2722.4",
+		style=solid];
+	"burning($x4, $y1)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,458.77,1470.9 244.48,2626.3 255.71,2621.7 266.04,2615.3 274.36,2606.4 614.47,2242.7 74.76,1855.7 418.36,1495.4 427.1,1486.2 437.74,\
+1479.4 449.31,1474.5",
+		style=solid];
+	"burning($x4, $y1)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,458.19,4634.4 245.29,2640.2 256.31,2644.8 266.37,2651.4 274.36,2660.4 562.16,2985.6 127.44,4286.9 418.36,4609.4 426.85,4618.8 \
+437.32,4625.7 448.79,4630.8",
+		style=solid];
+	"burning($x4, $y1)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,459.37,1824.5 243.64,2626 255.09,2621.4 265.7,2615.1 274.36,2606.4 515.86,2362.9 174.52,2089.5 418.36,1848.4 427.37,1839.5 438.17,\
+1832.9 449.85,1828",
+		style=solid];
+	"burning($x4, $y1)" -> "out-of-fuel'($x4, $y1)"	[color=black,
+		pos="e,453.74,2652.2 245.96,2639.8 305.72,2643.3 380.51,2647.8 443.7,2651.6",
+		style=solid];
+	"cut-out($x12, $y4)" -> "Reward Function"	[pos="e,559.84,5282.9 221.33,8320.1 241.42,8316 260.94,8307.9 274.36,8292.4 471.77,8064.6 343.15,5875.3 418.36,5583.4 447.74,5469.3 518.92,\
+5347.7 554.45,5291.4"];
+	"cut-out($x12, $y4)" -> "out-of-fuel'($x12, $y4)"	[color=black,
+		pos="e,448.51,9345.7 221.45,8319.8 241.17,8323.9 260.48,8331.8 274.36,8346.4 577.52,8665 112.15,9009.7 418.36,9325.4 424.59,9331.8 431.75,\
+9337.1 439.51,9341.3",
+		style=solid];
+	"burning($x2, $y3)" -> "Reward Function"	[pos="e,544.86,5238.3 245.05,465.38 256.26,470.19 266.43,476.97 274.36,486.38 604.14,878.21 221.57,4620.6 418.36,5093.4 442.87,5152.3 \
+498.55,5202.7 536.56,5232"];
+	"burning($x2, $y3)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,492.12,1156.2 242.01,466.41 254.01,471 265.21,477.44 274.36,486.38 478.84,686.23 228.33,899.75 418.36,1113.4 435.09,1132.2 458.59,\
+1144.7 482.32,1153",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,532.39,1450.1 242.88,466.02 254.67,470.68 265.58,477.25 274.36,486.38 547.46,770.54 205.67,1029.6 418.36,1361.4 443.2,1400.1 487.82,\
+1428.2 523.16,1445.7",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,476.94,303.61 225.73,446.39 242.3,442.46 259.19,437.26 274.36,430.38 347.47,397.26 344.81,353.54 418.36,321.38 433.63,314.71 450.39,\
+309.62 467.11,305.75",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,476.94,613.16 225.73,470.38 242.3,474.31 259.19,479.51 274.36,486.38 347.47,519.51 344.81,563.23 418.36,595.38 433.63,602.06 450.39,\
+607.15 467.11,611.02",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,462.27,888.81 239.51,467.14 252.2,471.57 264.25,477.78 274.36,486.38 411.83,603.52 279.35,751.07 418.36,866.38 428.46,874.77 440.21,\
+881 452.64,885.6",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x1, $y4)"	[color=black,
+		pos="e,470.17,247.03 231.62,447.57 246.52,443.51 261.32,437.97 274.36,430.38 358.22,381.64 333.86,314.02 418.36,266.38 431.32,259.08 \
+445.75,253.61 460.47,249.52",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,456.84,458.38 253.33,458.38 312.76,458.38 385.45,458.38 446.72,458.38",
+		style=solid];
+	"burning($x2, $y3)" -> "out-of-fuel'($x2, $y3)"	[color=black,
+		pos="e,477.56,501.08 228.5,469.75 297.87,478.47 393.91,490.56 467.35,499.8",
+		style=solid];
+	"burning($x2, $y3)" -> "burning'($x1, $y2)"	[color=black,
+		pos="e,552.1,766.28 231.62,469.2 246.52,473.26 261.32,478.8 274.36,486.38 358.22,535.13 349.29,582.28 418.36,650.38 459.76,691.21 511.74,\
+734.11 544.27,760.06",
+		style=solid];
+	"burning($x12, $y4)" -> "Reward Function"	[pos="e,559.7,5282.9 247.93,9400 257.99,9395.3 267.1,9388.9 274.36,9380.4 547.3,9058.3 316.13,5993 418.36,5583.4 446.87,5469.1 518.46,\
+5347.5 554.27,5291.3"];
+	"burning($x12, $y4)" -> "burning'($x12, $y3)"	[color=black,
+		pos="e,460.23,9754 241.94,9418.3 253.6,9422.4 264.73,9427.9 274.36,9435.4 390.73,9525.4 301.13,9644.5 418.36,9733.4 428.01,9740.7 438.95,\
+9746.3 450.45,9750.6",
+		style=solid];
+	"burning($x12, $y4)" -> "burning'($x11, $y3)"	[color=black,
+		pos="e,449.54,9408.4 261.12,9408.4 316.63,9408.4 382.4,9408.4 439.38,9408.4",
+		style=solid];
+	"burning($x12, $y4)" -> "out-of-fuel'($x12, $y4)"	[color=black,
+		pos="e,474.61,9366.1 232.23,9396.6 300.42,9388 392.87,9376.3 464.63,9367.3",
+		style=solid];
+	"burning($x12, $y4)" -> "burning'($x12, $y4)"	[color=black,
+		pos="e,533.13,9526 218.58,9422.3 237.03,9426 256.47,9430.4 274.36,9435.4 363.56,9460.1 464.24,9498.4 523.61,9522.2",
+		style=solid];
+	"out-of-fuel($x5, $y2)" -> "out-of-fuel'($x5, $y2)"	[color=black,
+		pos="e,477.23,3002 234.66,2971.5 303.33,2980.2 395.66,2991.8 466.88,3000.7",
+		style=solid];
+	"out-of-fuel($x5, $y2)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,470.63,3168.8 235.51,2971.4 249.08,2975.3 262.44,2980.5 274.36,2987.4 357.79,3035.5 334.3,3102.3 418.36,3149.4 431.44,3156.7 446.01,\
+3162.2 460.85,3166.3",
+		style=solid];
+	"out-of-fuel($x4, $y3)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,465.77,1951.4 255.33,1937.9 317.27,1941.9 393.16,1946.7 455.49,1950.7",
+		style=solid];
+	"out-of-fuel($x4, $y3)" -> "out-of-fuel'($x4, $y3)"	[color=black,
+		pos="e,569.13,2398.7 239.3,1941.7 251.74,1945.8 263.77,1951.2 274.36,1958.4 439.92,2070.8 536.41,2307.7 565.74,2389.2",
+		style=solid];
+	"out-of-fuel($x6, $y1)" -> "out-of-fuel'($x6, $y1)"	[color=black,
+		pos="e,496.13,5892.7 216.59,5840.9 292.35,5854.9 406.96,5876.2 486.16,5890.9",
+		style=solid];
+	"out-of-fuel($x6, $y1)" -> "burning'($x6, $y1)"	[color=black,
+		pos="e,456.65,5826.4 266.69,5826.4 323.37,5826.4 389.84,5826.4 446.55,5826.4",
+		style=solid];
+	"out-of-fuel($x6, $y1)" -> "Reward Function"	[pos="e,563.39,5283.6 242.57,5815.6 253.92,5811.6 264.81,5806.3 274.36,5799.4 321.16,5765.3 502.81,5405.3 558.82,5292.8"];
+	"cut-out($x9, $y3)" -> "Reward Function"	[pos="e,501.16,5245.6 216.34,5192.9 293.71,5207.2 411.79,5229.1 491.19,5243.8"];
+	"put-out($x5, $y1)" -> "Reward Function"	[pos="e,549.26,5237.7 216.89,4693.5 237.45,4697.4 258.32,4704.9 274.36,4718.4 410.91,4833.4 323.21,4942.3 418.36,5093.4 452.75,5148 506.84,\
+5200.2 541.7,5231.1"];
+	"put-out($x5, $y1)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,482.54,4648.8 216.84,4681.7 288.25,4672.8 394.02,4659.8 472.18,4650.1",
+		style=solid];
+	"cut-out($x8, $y4)" -> "Reward Function"	[pos="e,561.92,5283.1 216.45,6150.6 237.48,6146.8 258.71,6139.1 274.36,6124.4 455.87,5954.2 331.71,5816.6 418.36,5583.4 459.39,5472.9 \
+525.12,5349.5 556.93,5292"];
+	"cut-out($x8, $y4)" -> "out-of-fuel'($x8, $y4)"	[color=black,
+		pos="e,556.58,6728 216.21,6153.3 237,6157.2 258.15,6164.7 274.36,6178.4 411.71,6294.4 327.9,6401 418.36,6556.4 455.99,6621 515.42,6686 \
+549.34,6720.7",
+		style=solid];
+	"burning($x3, $y3)" -> "Reward Function"	[pos="e,544.93,5238.3 245.94,1231 256.77,1235.7 266.61,1242.3 274.36,1251.4 551.6,1576.4 252.99,4699.5 418.36,5093.4 443.06,5152.2 498.69,\
+5202.6 536.64,5232"];
+	"burning($x3, $y3)" -> "burning'($x4, $y4)"	[color=black,
+		pos="e,514.14,2833.6 245.11,1231.3 256.16,1236 266.28,1242.4 274.36,1251.4 501.4,1502.6 228.68,2487.9 418.36,2768.4 438.44,2798.1 472.92,\
+2817.6 504.47,2829.9",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,483.27,1181 228.5,1213 299.66,1204.1 398.89,1191.6 472.99,1182.3",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,547.8,1449.5 227.55,1236 243.54,1239.8 259.75,1244.8 274.36,1251.4 347.76,1284.5 352.96,1314.4 418.36,1361.4 459.13,1390.7 507.1,\
+1422.7 539.19,1443.8",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,492.02,1945.3 243.06,1231.9 254.67,1236.4 265.48,1242.7 274.36,1251.4 486.18,1458.6 222.31,1680.2 418.36,1902.4 435.02,1921.3 \
+458.49,1933.8 482.22,1942.1",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,459.12,297.21 242.88,1216.8 254.67,1212.1 265.58,1205.5 274.36,1196.4 547.46,912.23 141.54,601.93 418.36,321.38 427.26,312.37 \
+437.99,305.68 449.62,300.77",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,560.32,1747.1 239.16,1233.3 251.83,1237.5 263.97,1243.3 274.36,1251.4 390.73,1341.4 342.81,1423.2 418.36,1549.4 461.48,1621.4 \
+522.17,1699.7 553.98,1739.2",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,545.9,641.26 240.22,1215.9 252.73,1211.4 264.54,1205.1 274.36,1196.4 427.6,1059.7 304.01,927.94 418.36,757.38 449.72,710.6 501.76,\
+670.75 537.26,646.96",
+		style=solid];
+	"burning($x3, $y3)" -> "burning'($x2, $y2)"	[color=black,
+		pos="e,464.58,901.01 237.18,1214.9 250.51,1210.6 263.36,1204.7 274.36,1196.4 384.3,1113.7 307.33,1003.6 418.36,922.38 429.33,914.36 441.86,\
+908.38 454.96,903.96",
+		style=solid];
+	"burning($x3, $y3)" -> "out-of-fuel'($x3, $y3)"	[color=black,
+		pos="e,484.21,1321.1 217.21,1237.7 236.09,1241.5 256.06,1246.1 274.36,1251.4 340.19,1270.3 352.34,1288.1 418.36,1306.4 436.22,1311.3 \
+455.48,1315.6 474.19,1319.2",
+		style=solid];
+	"burning($x2, $y4)" -> "Reward Function"	[pos="e,544.85,5238.3 245.06,245.37 256.27,250.18 266.44,256.96 274.36,266.38 446.97,471.77 315.45,4845.6 418.36,5093.4 442.83,5152.3 \
+498.52,5202.7 536.55,5232"];
+	"burning($x2, $y4)" -> "out-of-fuel'($x2, $y4)"	[color=black,
+		pos="e,477.56,195.69 228.5,227.02 297.87,218.29 393.91,206.21 467.35,196.97",
+		style=solid];
+	"burning($x2, $y4)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,490.6,1156.5 242.83,246.06 254.63,250.72 265.55,257.27 274.36,266.38 539.68,540.99 172.87,820.91 418.36,1113.4 434.38,1132.5 457.4,\
+1145.1 480.88,1153.4",
+		style=solid];
+	"burning($x2, $y4)" -> "burning'($x2, $y4)"	[color=black,
+		pos="e,483.27,281.8 228.5,249.75 299.66,258.7 398.89,271.18 472.99,280.51",
+		style=solid];
+	"burning($x2, $y4)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,463.13,617.36 238.42,247.38 251.43,251.76 263.85,257.88 274.36,266.38 398.42,366.81 292.99,496.6 418.36,595.38 428.76,603.58 440.75,\
+609.69 453.37,614.21",
+		style=solid];
+	"burning($x2, $y4)" -> "burning'($x1, $y4)"	[color=black,
+		pos="e,456.84,238.38 253.33,238.38 312.76,238.38 385.45,238.38 446.72,238.38",
+		style=solid];
+	"burning($x2, $y4)" -> "burning'($x2, $y3)"	[color=black,
+		pos="e,470.17,449.74 231.62,249.2 246.52,253.26 261.32,258.8 274.36,266.38 358.22,315.13 333.86,382.75 418.36,430.38 431.32,437.69 445.75,\
+443.16 460.47,447.25",
+		style=solid];
+	"burning($x4, $y2)" -> "burning'($x5, $y2)"	[color=black,
+		pos="e,458.57,3174.1 243.68,1827.7 255.26,1832.4 265.9,1839.1 274.36,1848.4 666.25,2278.3 20.846,2724.6 418.36,3149.4 427.02,3158.6 437.6,\
+3165.5 449.13,3170.5",
+		style=solid];
+	"burning($x4, $y2)" -> "Reward Function"	[pos="e,544.99,5238.3 244.6,1827.3 255.96,1832.1 266.29,1838.9 274.36,1848.4 508.56,2123 277.5,4761.1 418.36,5093.4 443.26,5152.1 498.84,\
+5202.6 536.72,5232"];
+	"burning($x4, $y2)" -> "burning'($x4, $y1)"	[color=black,
+		pos="e,489.42,2728.7 242.82,1828.1 254.62,1832.7 265.54,1839.3 274.36,1848.4 537.18,2119.9 174.33,2397.8 418.36,2686.4 434.18,2705.1 \
+456.75,2717.4 479.86,2725.6",
+		style=solid];
+	"burning($x4, $y2)" -> "burning'($x3, $y3)"	[color=black,
+		pos="e,460.27,1173.8 241.91,1812.3 253.93,1807.7 265.16,1801.3 274.36,1792.4 470.05,1603.4 220.19,1383.8 418.36,1197.4 427.67,1188.6 \
+438.72,1182.1 450.59,1177.3",
+		style=solid];
+	"burning($x4, $y2)" -> "burning'($x3, $y2)"	[color=black,
+		pos="e,463.89,1473.7 237.77,1811.1 250.95,1806.8 263.59,1800.8 274.36,1792.4 390.15,1702.3 301.39,1583.9 418.36,1495.4 429,1487.3 441.2,\
+1481.3 454,1476.9",
+		style=solid];
+	"burning($x4, $y2)" -> "burning'($x5, $y1)"	[color=black,
+		pos="e,457.95,4634.7 244.53,1827.4 255.9,1832.2 266.25,1839 274.36,1848.4 674.86,2314.3 11.759,4148.8 418.36,4609.4 426.74,4618.9 437.15,\
+4625.9 448.58,4631",
+		style=solid];
+	"burning($x4, $y2)" -> "burning'($x4, $y2)"	[color=black,
+		pos="e,483.27,1777 228.5,1809 299.66,1800.1 398.89,1787.6 472.99,1778.3",
+		style=solid];
+	"burning($x4, $y2)" -> "out-of-fuel'($x4, $y2)"	[color=black,
+		pos="e,467.5,2002.8 228.9,1831.7 244.59,1835.7 260.35,1841.1 274.36,1848.4 352.65,1889.3 339.54,1945.5 418.36,1985.4 430.58,1991.6 443.95,\
+1996.4 457.56,2000.2",
+		style=solid];
+	"burning($x4, $y2)" -> "burning'($x3, $y1)"	[color=black,
+		pos="e,456.84,1820.4 253.33,1820.4 312.76,1820.4 385.45,1820.4 446.72,1820.4",
+		style=solid];
+	"put-out($x3, $y4)" -> "Reward Function"	[pos="e,544.97,5238.3 216.82,1654.8 238.52,1658.4 260,1666.6 274.36,1683.4 521.16,1971.3 270.72,4744.1 418.36,5093.4 443.19,5152.2 498.79,\
+5202.6 536.7,5232"];
+	"put-out($x3, $y4)" -> "burning'($x3, $y4)"	[color=black,
+		pos="e,543.28,641.22 217.02,1656.6 238.19,1652.8 259.35,1644.9 274.36,1629.4 547.62,1347.2 225.24,1099.4 418.36,757.38 445.72,708.91 \
+497.68,669.93 534.32,646.76",
+		style=solid];
+	"cut-out($x12, $y3)" -> "Reward Function"	[pos="e,530.4,5277.9 221.46,5379.9 239.04,5376.3 257.4,5372.1 274.36,5367.4 362.17,5343.1 461.1,5305.5 520.8,5281.7"];
+	"cut-out($x9, $y2)" -> "Reward Function"	[pos="e,560.25,5283 216.25,7074.5 237.92,7070.8 259.54,7062.7 274.36,7046.4 493.81,6804.4 329.75,5897.8 418.36,5583.4 450.24,5470.3 519.98,\
+5348.5 554.77,5291.9"];
+	"cut-out($x9, $y2)" -> "out-of-fuel'($x9, $y2)"	[color=black,
+		pos="e,543.61,8084.6 216.3,7073 237.71,7076.8 259.18,7084.7 274.36,7100.4 546.23,7380.9 226.79,7627 418.36,7967.4 445.94,8016.4 498.45,\
+8055.9 535.12,8079.3",
+		style=solid];
+	"put-out($x4, $y3)" -> "Reward Function"	[pos="e,545.68,5238.4 216.78,3285.2 238.34,3288.9 259.77,3297 274.36,3313.4 538.38,3609.7 256.85,4730.9 418.36,5093.4 444.4,5151.8 499.95,\
+5202.5 537.49,5232"];
+	"put-out($x4, $y3)" -> "burning'($x4, $y3)"	[color=black,
+		pos="e,458.6,1961.7 216.82,3287.2 238.24,3283.5 259.59,3275.4 274.36,3259.4 659.9,2840.4 28.797,2401.6 418.36,1986.4 427.03,1977.1 437.61,\
+1970.3 449.16,1965.3",
+		style=solid];
+}

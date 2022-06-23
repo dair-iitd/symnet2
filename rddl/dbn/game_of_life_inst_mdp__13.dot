@@ -1,0 +1,3687 @@
+digraph G {
+	graph [bb="0,0,693,6980.4",
+		fontname=Helvetica,
+		fontsize=16,
+		rankdir=LR,
+		ranksep=2.00,
+		ratio=auto,
+		size="7.5,10"
+	];
+	node [fontsize=16,
+		label="\N"
+	];
+	{
+		graph [rank=same];
+		"set($x2, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4734.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x6, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6527.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x1, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3975.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x7, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3812.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x3, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4191.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x2, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,236.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x8, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,2190.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,6854.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x4, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1866.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x6, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6146.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x1, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3109.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x1, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1107.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x5, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1539.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x7, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5710.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x2, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,562.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x3, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4788.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x4, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1377.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x5, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6256.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"Current State and Actions"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="116.5,6962.4",
+			shape=plaintext,
+			style=bold,
+			width=3.2361];
+		"alive($x1, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,4680.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x3, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4896.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x7, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6364.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x2, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1215.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x4, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1323.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x2, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,4137.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x1, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,4625.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x6, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6582.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x7, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6690.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x2, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3164.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x7, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5656.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x2, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,4950.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x6, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,2406.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x5, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5820.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x8, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5765.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3758.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,6092.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x7, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,6310.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x5, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6201.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x6, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1593.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x2, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5276.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5004.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x8, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3867.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x7, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1648.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x4, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5875.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x6, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5166.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,127.38",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x7, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,6636.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x5, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3272.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x8, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,2947.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5984.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x4, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5930.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x7, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1974.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x4, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5221.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x5, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,4515.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x6, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3542.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x7, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,2785.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x8, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,2298.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,6473.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x4, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3650.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1161.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5386.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x7, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2623.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4407.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x5, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,997.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x5, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5602.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x4, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,2461.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,508.38",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x2, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,345.38",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,5331.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x7, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2893.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x5, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1703.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x6, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3488.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,4570.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2569.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x8, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6908.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3055.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x7, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3704.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x2, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,616.38",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,6038.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x4, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1052.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x6, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1485.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x8, $y7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6745.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x5, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5058.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,3380.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x8, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2677.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x1, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1920.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x7, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4842.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x4, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,725.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x2, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1269.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5494.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x5, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,942.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x4, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5440.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x5, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5548.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x8, $y6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6419.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x3, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,834.38",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x8, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3001.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,1758.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x4, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,670.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4245.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2028.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x2, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2082.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x4, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,5112.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x1, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,18.385",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x7, $y8)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,6800.4",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x5, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3326.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x3, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,888.38",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,780.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3921.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x2, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3218.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x4, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4461.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x5, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4083.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x3, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1431.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,399.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x2, $y6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4029.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2731.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x4, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3596.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x1, $y3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,454.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x5, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,1812.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x3, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2515.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x3, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,291.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x1, $y8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4353.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x7, $y1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2244.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x2, $y7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,4299.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x6, $y2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2136.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"alive($x2, $y1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,73.385",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"alive($x1, $y2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="116.5,181.38",
+			shape=ellipse,
+			style=filled,
+			width=2.7106];
+		"set($x5, $y3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2352.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x3, $y5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,3434.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+		"set($x4, $y4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="116.5,2839.4",
+			shape=box,
+			style=filled,
+			width=1.7222];
+	}
+	{
+		graph [rank=same];
+		"alive'($x1, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,616.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4762.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2244.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6106.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"Next State and Reward"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="535,6962.4",
+			shape=plaintext,
+			style=bold,
+			width=2.9167];
+		"alive'($x1, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1215.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5971.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1974.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6201.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4299.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x1, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,127.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2406.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3731.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,331.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5875.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2189.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x1, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,250.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3537.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2839.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5765.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,195.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5820.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2299.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6256.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"Reward Function"	[color=black,
+			fillcolor=firebrick1,
+			height=0.72222,
+			pos="535,3470.4",
+			shape=diamond,
+			style=filled,
+			width=4.3889];
+		"alive'($x8, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2947.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5276.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3812.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6719.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6366.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5710.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6527.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x7, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6582.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6311.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3389.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4950.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,809.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6664.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4638.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4448.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,726.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x8, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,6800.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5221.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,5331.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1648.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x1, $y7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4583.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2043.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1593.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4869.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,399.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,671.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x1, $y8)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4693.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3308.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x6, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1703.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3623.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,561.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,4083.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2622.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x1, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3109.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,997.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,916.38",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x3, $y4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,2122.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x2, $y5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3191.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x4, $y3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1147.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x1, $y6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,3975.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+		"alive'($x5, $y2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="535,1066.4",
+			shape=ellipse,
+			style=filled,
+			width=2.8088];
+	}
+	"set($x2, $y8)" -> "Reward Function"	[pos="e,428.38,3479 178.59,4733.6 198.63,4730.2 219.26,4722.7 233,4707.4 590.51,4308.3 23.466,3913 377,3510.4 388.25,3497.6 402.97,3488.6 \
+418.89,3482.3"];
+	"set($x2, $y8)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,472.86,4935.9 178.7,4742.5 196.89,4746.5 216.39,4752.5 233,4761.4 310.35,4802.8 301.86,4851.1 377,4896.4 403.39,4912.3 435.12,\
+4924.3 463.12,4932.9",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,473.44,6121 200.51,6517.9 212.28,6513.8 223.57,6508.2 233,6500.4 354.93,6399.3 264.59,6286 377,6174.4 400.78,6150.8 434.08,6134.8 \
+463.9,6124.3",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,496.48,5988.4 201.71,6518.4 213.19,6514.3 224.07,6508.5 233,6500.4 379.64,6367.7 257.49,6236.9 377,6079.4 406,6041.2 452.53,6011.6 \
+487.43,5993.1",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,435.52,6205.1 199.12,6517.6 211.28,6513.6 223.05,6508 233,6500.4 341.08,6417.2 266.75,6309.7 377,6229.4 391.22,6219 408.05,6212.1 \
+425.32,6207.5",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,433.85,5765.4 203.54,6519.1 214.56,6514.8 224.82,6508.8 233,6500.4 456.47,6270.4 147.5,6017.3 377,5793.4 389.96,5780.7 406.54,\
+5772.7 424.05,5767.8",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,437.23,6261.2 197.58,6517 210.13,6513.1 222.42,6507.7 233,6500.4 327.82,6434.6 280.47,6347.6 377,6284.4 392.05,6274.5 409.57,6267.9 \
+427.34,6263.4",
+		style=solid];
+	"alive($x6, $y7)" -> "Reward Function"	[pos="e,426.32,3478.6 205.61,6519.8 216.11,6515.4 225.68,6509.2 233,6500.4 658.81,5989.3 -43.722,4025.7 377,3510.4 387.46,3497.6 401.4,\
+3488.5 416.66,3482.2"];
+	"alive($x6, $y7)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,441.87,6712.1 191.41,6539.3 205.71,6543.2 220.22,6548.4 233,6555.4 310.37,6597.4 298.38,6651.8 377,6691.4 393.95,6699.9 413.08,\
+6705.9 432.01,6710.1",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,500.53,6383.8 184.07,6514.1 200.25,6510.2 217.38,6505.6 233,6500.4 328.02,6468.4 434,6417.4 491.41,6388.4",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,433.58,6527.4 214.1,6527.4 276.6,6527.4 358.15,6527.4 423.27,6527.4",
+		style=solid];
+	"alive($x6, $y7)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,452.49,6571.6 196.82,6537.9 266.81,6547.1 368.84,6560.6 442.31,6570.3",
+		style=solid];
+	"alive($x1, $y6)" -> "Reward Function"	[pos="e,434.69,3479.9 202.09,3966.4 213.45,3962.2 224.19,3956.5 233,3948.4 384.13,3810 227.25,3650.3 377,3510.4 390.44,3497.8 407.26,3489.1 \
+424.85,3483"];
+	"alive($x1, $y6)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,433.79,4637.9 203.3,3983.9 214.35,3988.2 224.69,3994.1 233,4002.4 429.65,4198.5 175.21,4419.6 377,4610.4 390.07,4622.7 406.62,\
+4630.6 424.04,4635.5",
+		style=solid];
+	"alive($x1, $y6)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,495.83,4566.4 202.25,3984.2 213.58,3988.4 224.28,3994.2 233,4002.4 393.42,4152.6 247.2,4298.1 377,4475.4 405.25,4514 451.67,4543.4 \
+486.72,4561.8",
+		style=solid];
+	"alive($x1, $y6)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,478.94,4068 179.63,3989.5 196.94,3993.6 215.72,3998 233,4002.4 314.66,4022.9 408.24,4048.4 469.09,4065.2",
+		style=solid];
+	"alive($x1, $y6)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,453.93,3120.5 203.98,3967.1 214.86,3962.8 224.97,3956.8 233,3948.4 477.43,3691.9 146.68,3433.6 377,3164.4 394.23,3144.2 419.29,\
+3131.5 444.34,3123.4",
+		style=solid];
+	"alive($x1, $y6)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,484.37,3207.5 203.45,3967 214.48,3962.7 224.77,3956.8 233,3948.4 445.62,3732.1 197.97,3526.2 377,3281.4 401.16,3248.4 441.38,3225.6 \
+475.06,3211.3",
+		style=solid];
+	"alive($x1, $y6)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,433.58,3975.4 214.1,3975.4 276.6,3975.4 358.15,3975.4 423.27,3975.4",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,441.02,4755.5 203.3,3821 214.49,3825.4 224.86,3831.6 233,3840.4 502.44,4131 111,4426.6 377,4720.4 391.3,4736.2 410.84,4746.3 431.27,\
+4752.8",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,512.53,2424.5 204.74,3804.4 215.45,3800.1 225.3,3794 233,3785.4 410.79,3587 271.6,2840 377,2595.4 406.26,2527.5 467.91,2464.8 \
+504.65,2431.5",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,465.14,3744.8 185.34,3799.2 259.14,3784.8 376.95,3761.9 454.89,3746.8",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,472.27,3551.9 196.29,3801.7 209.19,3797.8 221.94,3792.5 233,3785.4 321.64,3728 292.27,3659.4 377,3596.4 402.18,3577.7 433.99,3564.2 \
+462.39,3555",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,477.12,2854.5 204.11,3804.2 214.97,3799.9 225.04,3793.9 233,3785.4 499.53,3501 147.48,3235.4 377,2920.4 398.95,2890.3 435.43,2870.5 \
+467.7,2858",
+		style=solid];
+	"alive($x7, $y4)" -> "Reward Function"	[pos="e,440.08,3480.9 199.46,3802.5 211.51,3798.5 223.15,3793 233,3785.4 342.07,3700.9 268.77,3595.9 377,3510.4 392.48,3498.1 411.26,3489.6 \
+430.38,3483.7"];
+	"alive($x7, $y4)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,503.23,2965 203.53,3804.1 214.55,3799.8 224.82,3793.8 233,3785.4 455.39,3556.8 215.41,3357.3 377,3082.4 405.54,3033.8 457.98,2994.1 \
+494.36,2970.6",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,433.96,5277.7 204.07,3820.7 215.08,3825.1 225.2,3831.4 233,3840.4 439.78,4077.4 163.04,5017.8 377,5248.4 389.55,5261.9 406.21,\
+5270.3 423.99,5275.3",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,433.58,3812.4 214.1,3812.4 276.6,3812.4 358.15,3812.4 423.27,3812.4",
+		style=solid];
+	"alive($x7, $y4)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,523.24,5692.1 204.13,3820.6 215.13,3825.1 225.23,3831.4 233,3840.4 454.84,4096.5 290.85,5030.7 377,5358.4 410.52,5485.9 485.44,\
+5625.6 518.18,5683.3",
+		style=solid];
+	"set($x3, $y6)" -> "Reward Function"	[pos="e,431.53,3479.4 178.68,4189.7 198.37,4186.1 218.75,4178.8 233,4164.4 442.09,3952.6 170.02,3724.3 377,3510.4 389.26,3497.7 404.94,\
+3488.8 421.61,3482.7"];
+	"set($x3, $y6)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,510.59,4430.3 178.77,4200.7 196.78,4204.7 216.15,4210.4 233,4218.4 240.57,4222 426.58,4365.4 502.34,4423.9",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,434.86,613.57 199.33,246.24 211.53,250.42 223.26,256.26 233,264.38 354.01,365.32 252.95,491.21 377,588.38 390.85,599.23 407.49,\
+606.42 424.69,611.1",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x1, $y1)"	[color=black,
+		pos="e,475.79,142.36 178.14,222.08 195.85,217.8 215.23,213.01 233,208.38 297.29,191.67 312.86,185.67 377,168.38 406.07,160.55 438.23,\
+152.11 465.84,144.94",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,471.07,317.03 179.4,250.5 254.6,267.66 381.25,296.54 461.09,314.76",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,435.52,247.07 212.79,239.59 276.17,241.72 359.57,244.52 425.5,246.74",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,445.81,204.07 203.29,227.94 270.82,221.29 364.98,212.02 435.57,205.07",
+		style=solid];
+	"alive($x2, $y2)" -> "Reward Function"	[pos="e,444.88,3459.1 204.81,244.39 215.65,248.89 225.52,255.31 233,264.38 455.97,534.93 166.9,3135.7 377,3416.4 391.28,3435.5 412.72,\
+3447.9 435.2,3455.9"];
+	"alive($x2, $y2)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,463.97,386.2 186.85,249.14 202.37,253.1 218.51,258.12 233,264.38 303.15,294.72 307.12,327.44 377,358.38 401.22,369.11 428.82,377.49 \
+454.06,383.79",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,434.32,669.24 200.32,245.99 212.25,250.21 223.64,256.13 233,264.38 368.14,383.58 238.27,528.39 377,643.38 390.54,654.61 407.03,\
+661.99 424.17,666.74",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,511.33,543.5 193.42,247.82 207.19,251.8 220.97,257.16 233,264.38 315.58,314 308.32,358.83 377,426.38 418.82,467.52 471.11,511.06 \
+503.54,537.23",
+		style=solid];
+	"alive($x2, $y2)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,478.43,901.03 202.06,245.38 213.56,249.71 224.35,255.81 233,264.38 419.18,448.94 213.57,631.4 377,836.38 400.16,865.43 436.67,\
+884.92 468.66,897.39",
+		style=solid];
+	"alive($x8, $y1)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,452.32,2233.8 197.31,2200.7 267.25,2209.8 368.89,2223 442.18,2232.5",
+		style=solid];
+	"alive($x8, $y1)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,457.3,1986.3 193.75,2179 207.34,2175.2 220.98,2170.2 233,2163.4 312.7,2118.5 298.02,2062.5 377,2016.4 398.41,2003.9 423.63,1995 \
+447.51,1988.8",
+		style=solid];
+	"alive($x8, $y1)" -> "alive'($x8, $y1)"	[color=black,
+		pos="e,433.58,2189.6 214.1,2190.2 276.6,2190 358.15,2189.8 423.27,2189.7",
+		style=solid];
+	"alive($x8, $y1)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,454.71,2288.1 182.34,2204 198.97,2207.9 216.74,2212.5 233,2217.4 298.42,2237.2 311.08,2253.3 377,2271.4 398.65,2277.3 422.34,2282.3 \
+444.59,2286.3",
+		style=solid];
+	"alive($x8, $y1)" -> "Reward Function"	[pos="e,447.05,3458.7 204.75,2198.3 215.45,2202.7 225.31,2208.8 233,2217.4 591.06,2617.2 39.714,2998.9 377,3416.4 392.28,3435.3 414.55,\
+3447.6 437.53,3455.6"];
+	"set($x8, $y8)" -> "Reward Function"	[pos="e,426.26,3478.6 178.65,6854.3 198.95,6851 219.72,6843.4 233,6827.4 468.47,6543.4 144.36,3796.7 377,3510.4 387.43,3497.5 401.35,3488.5 \
+416.61,3482.2"];
+	"set($x8, $y8)" -> "alive'($x8, $y8)"	[color=black,
+		pos="e,452.02,6811 178.51,6846.5 247.85,6837.5 361.77,6822.7 441.93,6812.3",
+		style=solid];
+	"set($x4, $y3)" -> "Reward Function"	[pos="e,446.32,3458.8 178.51,1866.9 198.66,1870.3 219.39,1877.8 233,1893.4 456.58,2149.5 166.72,3149.3 377,3416.4 391.9,3435.3 413.8,3447.6 \
+436.54,3455.6"];
+	"set($x4, $y3)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,441.3,1154.3 178.67,1864.7 198.36,1861.1 218.74,1853.8 233,1839.4 441.28,1628.6 171.46,1401.8 377,1188.4 391.68,1173.1 411.25,\
+1163.3 431.59,1157",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,474.97,4777.3 204.81,6138.5 215.5,6134.1 225.34,6128 233,6119.4 612.49,5692.5 51.722,5311.9 377,4842.4 397.76,4812.4 433.22,4793 \
+465.19,4780.8",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,445.3,6114.9 203.8,6138.1 271.14,6131.6 364.74,6122.6 435.09,6115.9",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,503.81,5989.1 185.13,6133.3 201.03,6129.5 217.78,6124.8 233,6119.4 330.91,6084.4 438.67,6026.2 494.91,5994.2",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,497.18,4316.6 205.31,6138.6 215.86,6134.2 225.53,6128 233,6119.4 480.67,5832.9 196.31,4754.2 377,4421.4 401.67,4375.9 451.23,4341.9 \
+488.1,4321.5",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,434.84,5768.2 200.51,6136.9 212.28,6132.8 223.57,6127.2 233,6119.4 354.93,6018.3 252.42,5891.2 377,5793.4 390.83,5782.5 407.47,\
+5775.3 424.67,5770.6",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,454.71,6245.1 180.82,6160.3 197.87,6164.4 216.24,6169.2 233,6174.4 298.33,6194.5 311.08,6210.3 377,6228.4 398.65,6234.3 422.34,\
+6239.3 444.59,6243.3",
+		style=solid];
+	"alive($x6, $y6)" -> "Reward Function"	[pos="e,426.4,3478.7 205.55,6138.8 216.06,6134.4 225.65,6128.1 233,6119.4 606.25,5674.6 8.1805,3958.9 377,3510.4 387.5,3497.6 401.47,3488.6 \
+416.74,3482.3"];
+	"alive($x6, $y6)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,433.57,5276.1 204.03,6138.1 214.91,6133.9 225,6127.8 233,6119.4 485.88,5852.3 117.11,5564.7 377,5304.4 389.79,5291.6 406.29,5283.5 \
+423.77,5278.5",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,439.54,6360.1 193.46,6157.8 207.22,6161.7 221,6167.1 233,6174.4 315.99,6224.6 292.5,6290.7 377,6338.4 393.05,6347.4 411.36,6353.7 \
+429.68,6357.9",
+		style=solid];
+	"alive($x6, $y6)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,434.31,6580.2 200.32,6156 212.26,6160.2 223.64,6166.1 233,6174.4 368.4,6293.9 238,6439.1 377,6554.4 390.54,6565.6 407.03,6573 \
+424.17,6577.7",
+		style=solid];
+	"alive($x1, $y5)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,523.03,1234 204.95,3101.6 215.62,3097.2 225.41,3091.1 233,3082.4 455.61,2827.5 290.77,1893.6 377,1566.4 410.43,1439.5 485.08,1300.5 \
+517.94,1242.8",
+		style=solid];
+	"alive($x1, $y5)" -> "Reward Function"	[pos="e,458.47,3456.8 198.33,3119.5 210.79,3123.7 222.86,3129.4 233,3137.4 342.71,3223.6 271.43,3325.1 377,3416.4 397.3,3433.9 423.6,3445.9 \
+448.86,3453.9"];
+	"alive($x1, $y5)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,433.97,1647 204.89,3101.5 215.57,3097.2 225.38,3091 233,3082.4 440.48,2846.6 163.33,1906.6 377,1676.4 389.56,1662.9 406.22,1654.5 \
+423.99,1649.5",
+		style=solid];
+	"alive($x1, $y5)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,477.12,4068.2 203.28,3118 214.47,3122.4 224.85,3128.6 233,3137.4 498.36,3422.8 147.48,3687.4 377,4002.4 398.95,4032.5 435.43,4052.3 \
+467.7,4064.7",
+		style=solid];
+	"alive($x1, $y5)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,433.58,3109.4 214.1,3109.4 276.6,3109.4 358.15,3109.4 423.27,3109.4",
+		style=solid];
+	"alive($x1, $y5)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,465.68,3177.9 184.88,3122.7 258.8,3137.2 377.31,3160.5 455.41,3175.9",
+		style=solid];
+	"alive($x1, $y5)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,503.55,3957.8 202.7,3118.2 214.04,3122.5 224.62,3128.7 233,3137.4 454.18,3366.6 216.09,3564.5 377,3839.4 405.64,3888.3 458.29,\
+3928.4 494.68,3952.1",
+		style=solid];
+	"alive($x1, $y4)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,433.89,618.01 200.93,1098 212.71,1093.8 223.9,1087.8 233,1079.4 382.77,941.39 223.06,777.72 377,644.38 390.3,632.87 406.66,625.34 \
+423.76,620.54",
+		style=solid];
+	"alive($x1, $y4)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,475.79,1200.4 179.65,1121.4 196.96,1125.5 215.74,1130 233,1134.4 297.35,1150.8 312.86,1157.1 377,1174.4 406.07,1182.2 438.23,1190.7 \
+465.84,1197.8",
+		style=solid];
+	"alive($x1, $y4)" -> "Reward Function"	[pos="e,445.51,3459 205.49,1115.1 216.01,1119.4 225.62,1125.7 233,1134.4 561.15,1522.3 68.979,3012.3 377,3416.4 391.52,3435.4 413.17,3447.8 \
+435.78,3455.8"];
+	"alive($x1, $y4)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,433.97,1647.2 202.31,1116.1 213.63,1120.3 224.31,1126.2 233,1134.4 396.88,1289 209.07,1470.2 377,1620.4 390.2,1632.2 406.6,1639.8 \
+423.78,1644.7",
+		style=solid];
+	"alive($x1, $y4)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,434.31,673.52 200.32,1097.8 212.26,1093.6 223.64,1087.6 233,1079.4 368.4,959.86 238,814.7 377,699.38 390.54,688.15 407.03,680.77 \
+424.17,676.02",
+		style=solid];
+	"alive($x1, $y4)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,501.45,3092 205.36,1115.2 215.91,1119.5 225.55,1125.7 233,1134.4 500.23,1445.5 191.49,2608.6 377,2974.4 402.44,3024.5 455.43,3063.8 \
+492.79,3086.8",
+		style=solid];
+	"alive($x1, $y4)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,451.34,3181 205.42,1115.1 215.95,1119.5 225.58,1125.7 233,1134.4 522.55,1473.7 106.06,2782.1 377,3136.4 392.8,3157 416.91,3170 \
+441.52,3178.1",
+		style=solid];
+	"set($x5, $y1)" -> "Reward Function"	[pos="e,446.11,3459 178.65,1539.8 198.82,1543.1 219.52,1550.7 233,1566.4 501.6,1879.3 124.63,3090.3 377,3416.4 391.74,3435.4 413.59,3447.8 \
+436.33,3455.8"];
+	"set($x5, $y1)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,443.79,1005.4 178.64,1536.9 198.1,1533.3 218.34,1526.1 233,1512.4 393.42,1362.2 218.99,1192.1 377,1039.4 392.66,1024.3 413.15,\
+1014.4 434.13,1008.1",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,476.42,4777.5 204.07,5702.2 214.94,5697.9 225.02,5691.9 233,5683.4 492.97,5407.3 152.19,5147.8 377,4842.4 398.78,4812.8 434.67,\
+4793.4 466.64,4781.1",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,483.31,5955.5 193.46,5721.8 207.22,5725.7 221,5731.1 233,5738.4 315.99,5788.6 298.75,5845.1 377,5902.4 406.15,5923.7 442.95,5940.4 \
+473.59,5951.9",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,450.19,3741.6 205.38,5702.6 215.92,5698.2 225.56,5692.1 233,5683.4 508.22,5362.2 118.45,4120.2 377,3785.4 392.63,3765.1 416.29,\
+3752.4 440.52,3744.5",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,454.86,3548.8 205.44,5702.7 215.97,5698.3 225.59,5692.1 233,5683.4 534.27,5329.3 99.335,3969.2 377,3596.4 393.5,3574.2 419.32,\
+3560.4 445.3,3551.8",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,433.94,6255.2 201.47,5719.6 213.12,5723.9 224.11,5729.9 233,5738.4 397.31,5895 207.97,6076.9 377,6228.4 390.19,6240.2 406.58,6247.9 \
+423.76,6252.7",
+		style=solid];
+	"alive($x7, $y5)" -> "Reward Function"	[pos="e,426.94,3478.7 205.46,5702.7 215.99,5698.3 225.61,5692.1 233,5683.4 546.12,5314.4 67.552,3882.5 377,3510.4 387.65,3497.6 401.77,\
+3488.6 417.19,3482.3"];
+	"alive($x7, $y5)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,434.32,5278.5 201.18,5701.2 212.79,5697.1 223.86,5691.4 233,5683.4 368.63,5564.7 238.27,5419.4 377,5304.4 390.54,5293.2 407.03,\
+5285.8 424.17,5281",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,501.82,3829.8 205.33,5702.6 215.88,5698.2 225.53,5692 233,5683.4 485.76,5390.5 201.83,4293.3 377,3948.4 402.62,3897.9 455.82,3858.2 \
+493.17,3835.1",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,433.58,5710.4 214.1,5710.4 276.6,5710.4 358.15,5710.4 423.27,5710.4",
+		style=solid];
+	"alive($x7, $y5)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,433.66,6310.6 201.68,5719.4 213.3,5723.7 224.23,5729.8 233,5738.4 411.96,5913.7 192.75,6113.6 377,6283.4 390.02,6295.4 406.33,\
+6303.1 423.48,6308",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,452.32,605.8 197.31,572.73 267.25,581.8 368.89,594.98 442.18,604.48",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,441.57,1208.2 203.24,571.01 214.29,575.22 224.65,581.13 233,589.38 423.44,777.61 189,983.72 377,1174.4 391.86,1189.5 411.51,1199.2 \
+431.86,1205.5",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,454.48,342.62 194.65,551.36 208,547.52 221.33,542.35 233,535.38 315.99,485.82 294.66,423.02 377,372.38 397.37,359.86 421.49,351.13 \
+444.63,345.06",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,464.05,263.55 198.07,552.18 210.49,548.24 222.62,542.82 233,535.38 331.36,464.94 282.35,379.73 377,304.38 399.29,286.64 427.78,\
+274.54 454.36,266.39",
+		style=solid];
+	"alive($x2, $y3)" -> "Reward Function"	[pos="e,445.35,3459.1 205.58,569.99 216.09,574.38 225.67,580.61 233,589.38 636.32,1072.1 -1.2803,2913.8 377,3416.4 391.41,3435.5 413.01,\
+3447.9 435.62,3456"];
+	"alive($x2, $y3)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,433.98,1649.2 204.6,570.48 215.32,574.79 225.22,580.87 233,589.38 544.96,931.06 56.07,1287.1 377,1620.4 389.72,1633.6 406.37,1641.8 \
+424.06,1646.8",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,454.71,660.14 182.34,575.99 198.97,579.9 216.74,584.46 233,589.38 298.42,609.21 311.08,625.31 377,643.38 398.65,649.32 422.34,\
+654.31 444.59,658.35",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,433.58,561.63 214.1,562.15 276.6,562 358.15,561.81 423.27,561.65",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,486.04,900.25 198.57,572.43 210.86,576.39 222.81,581.86 233,589.38 335.2,664.89 284.64,749.11 377,836.38 405.43,863.25 444.63,\
+883.24 476.75,896.52",
+		style=solid];
+	"alive($x2, $y3)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,448.89,2112.6 204.93,570.19 215.6,574.53 225.4,580.71 233,589.38 450.8,838.19 170.64,1812 377,2070.4 392.51,2089.8 415.49,2102 \
+439.11,2109.7",
+		style=solid];
+	"set($x3, $y7)" -> "Reward Function"	[pos="e,428.32,3478.9 178.63,4787.7 198.68,4784.2 219.3,4776.8 233,4761.4 605.34,4343.5 8.8183,3931.9 377,3510.4 388.21,3497.5 402.92,\
+3488.5 418.83,3482.3"];
+	"set($x3, $y7)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,522.6,5202.7 178.58,4794.4 197.16,4798.4 216.91,4804.8 233,4815.4 310.75,4866.5 466.22,5111.5 517.31,5194.1",
+		style=solid];
+	"set($x4, $y2)" -> "Reward Function"	[pos="e,445.62,3458.9 178.71,1377.7 198.88,1381.1 219.57,1388.6 233,1404.4 523.93,1745.4 103.77,3061 377,3416.4 391.6,3435.4 413.28,3447.7 \
+435.89,3455.8"];
+	"set($x4, $y2)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,479.79,824.96 178.59,1374.9 198.04,1371.2 218.29,1364.1 233,1350.4 390.23,1204.3 238.53,1053.4 377,889.38 401.14,860.79 438.07,\
+841.25 470.04,828.65",
+		style=solid];
+	"alive($x5, $y8)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,494.46,6123.3 181.51,6242.6 198.4,6238.5 216.5,6233.7 233,6228.4 281.8,6212.7 413.14,6157.7 485.14,6127.2",
+		style=solid];
+	"alive($x5, $y8)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,452.49,6212.1 196.82,6245.9 266.81,6236.7 368.84,6223.2 442.31,6213.5",
+		style=solid];
+	"alive($x5, $y8)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,475.88,5890.4 198.38,6246.3 210.83,6242.2 222.89,6236.4 233,6228.4 343.95,6140.5 274.21,6041.7 377,5944.4 401.88,5920.8 436.11,\
+5904.5 466.25,5893.7",
+		style=solid];
+	"alive($x5, $y8)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,434.31,5822.5 200.32,6246.8 212.26,6242.6 223.64,6236.6 233,6228.4 368.4,6108.9 238,5963.7 377,5848.4 390.54,5837.2 407.03,5829.8 \
+424.17,5825",
+		style=solid];
+	"alive($x5, $y8)" -> "Reward Function"	[pos="e,426.38,3478.7 204.75,6248.3 215.59,6243.8 225.49,6237.4 233,6228.4 619.38,5763 -6.6666,3978 377,3510.4 387.49,3497.6 401.44,3488.6 \
+416.72,3482.3"];
+	"alive($x5, $y8)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,454.28,6355.2 182.66,6270 199.2,6273.9 216.85,6278.4 233,6283.4 298.51,6303.5 310.98,6320.1 377,6338.4 398.52,6344.4 422.06,6349.3 \
+444.21,6353.4",
+		style=solid];
+	"alive($x5, $y8)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,512.77,6509.2 191.01,6268.3 205.35,6272.1 219.96,6277 233,6283.4 263.7,6298.4 435.37,6443.4 504.82,6502.5",
+		style=solid];
+	"Current State and Actions" -> "Next State and Reward"	[color=black,
+		pos="e,429.84,6962.4 233.24,6962.4 291.38,6962.4 361.58,6962.4 419.54,6962.4",
+		style=invis];
+	"alive($x1, $y8)" -> "Reward Function"	[pos="e,428.45,3479 203.59,4672.1 214.74,4667.6 225.03,4661.3 233,4652.4 573.85,4270.9 38.378,3893.8 377,3510.4 388.28,3497.6 403.02,3488.6 \
+418.95,3482.4"];
+	"alive($x1, $y8)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,467.26,4936.7 196.29,4691.1 209.19,4695 221.94,4700.2 233,4707.4 321.64,4764.8 291.39,4834.6 377,4896.4 400.72,4913.5 430.33,4925.6 \
+457.41,4933.8",
+		style=solid];
+	"alive($x1, $y8)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,446.31,4647.2 202.79,4671.8 270.5,4665 365.23,4655.4 436.05,4648.3",
+		style=solid];
+	"alive($x1, $y8)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,457.82,4595.4 178.46,4666.1 196.09,4661.8 215.34,4657 233,4652.4 297.35,4635.4 312.16,4626.4 377,4611.4 399.79,4606.1 424.65,4601.3 \
+447.71,4597.2",
+		style=solid];
+	"alive($x1, $y8)" -> "alive'($x1, $y8)"	[color=black,
+		pos="e,435.27,4690.3 213.05,4683.4 276.2,4685.3 359.13,4687.9 424.87,4690",
+		style=solid];
+	"set($x3, $y8)" -> "Reward Function"	[pos="e,427.81,3478.9 178.71,4895.7 198.76,4892.3 219.37,4884.8 233,4869.4 635.03,4414.1 -20.497,3969.6 377,3510.4 388.08,3497.6 402.63,\
+3488.6 418.4,3482.3"];
+	"set($x3, $y8)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,434.31,5329.2 178.73,4899.5 197.96,4903.2 218.05,4910.3 233,4923.4 368.89,5042.4 238,5188.1 377,5303.4 390.54,5314.6 407.03,5322 \
+424.17,5326.7",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,474.39,4777.3 204.94,6356.6 215.61,6352.2 225.41,6346.1 233,6337.4 452.72,6086.2 189.16,5118.3 377,4842.4 397.44,4812.4 432.69,\
+4793 464.61,4780.8",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,500,5988.7 198.99,6354.4 211.16,6350.4 222.97,6344.9 233,6337.4 337.88,6258.4 288.58,6176.5 377,6079.4 409.92,6043.2 457.16,6012.8 \
+491.21,5993.6",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,454.73,6267.7 182.32,6350.7 198.95,6346.8 216.73,6342.3 233,6337.4 298.33,6317.8 311.18,6302.2 377,6284.4 398.67,6278.5 422.36,\
+6273.6 444.62,6269.5",
+		style=solid];
+	"alive($x7, $y6)" -> "Reward Function"	[pos="e,426.35,3478.7 205.58,6356.8 216.09,6352.4 225.67,6346.2 233,6337.4 636.32,5854.7 -21.515,3997.1 377,3510.4 387.48,3497.6 401.42,\
+3488.6 416.69,3482.2"];
+	"alive($x7, $y6)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,433.97,5275.5 204.6,6356.3 215.33,6352 225.23,6345.9 233,6337.4 545.51,5995 55.504,5638.3 377,5304.4 389.72,5291.2 406.37,5282.9 \
+424.06,5278",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,433.58,6365.9 214.1,6364.8 276.6,6365.1 358.15,6365.5 423.27,6365.9",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,433.82,5710.9 203.28,6355.8 214.33,6351.6 224.67,6345.7 233,6337.4 427.22,6144.4 177.72,5926.2 377,5738.4 390.09,5726 406.65,5718.2 \
+424.07,5713.3",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,440,6576.1 193.42,6375.8 207.19,6379.8 220.97,6385.2 233,6392.4 315.58,6442 292.94,6507.3 377,6554.4 393.18,6563.4 411.64,6569.7 \
+430.07,6573.9",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,451.81,6321.8 197.81,6354.2 267.57,6345.3 368.61,6332.4 441.69,6323.1",
+		style=solid];
+	"alive($x7, $y6)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,465.88,6650.8 196.1,6375 209.17,6379.1 222.02,6384.7 233,6392.4 327.78,6458.8 285.63,6538.3 377,6609.4 399.95,6627.2 429.11,6639.5 \
+456.07,6647.9",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,433.66,617.22 202.82,1206.7 214,1202.5 224.51,1196.6 233,1188.4 412.41,1014.1 193.02,813.81 377,644.38 390.02,632.39 406.34,624.64 \
+423.49,619.77",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,433.58,1215.4 214.1,1215.4 276.6,1215.4 358.15,1215.4 423.27,1215.4",
+		style=solid];
+	"alive($x2, $y4)" -> "Reward Function"	[pos="e,445.55,3459 205.46,1223.1 215.99,1227.5 225.61,1233.7 233,1242.4 546.26,1611.6 82.897,3031.8 377,3416.4 391.55,3435.4 413.21,3447.8 \
+435.82,3455.8"];
+	"alive($x2, $y4)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,450.1,3379.3 205.44,1223.1 215.97,1227.5 225.59,1233.7 233,1242.4 535.09,1597.5 93.334,2965.4 377,3335.4 392.56,3355.7 416.19,\
+3368.4 440.43,3376.3",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,434.33,1646.2 201.17,1224.5 212.79,1228.6 223.85,1234.4 233,1242.4 368.37,1360.7 238.54,1505.7 377,1620.4 390.55,1631.6 407.04,\
+1639 424.18,1643.7",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,433.95,672.53 202.61,1206.5 213.83,1202.4 224.39,1196.5 233,1188.4 397.68,1032.8 208.24,850.55 377,699.38 390.19,687.57 406.58,\
+679.91 423.76,675.07",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,501.49,3092 205.33,1223.2 215.87,1227.6 225.53,1233.7 233,1242.4 485.35,1534.8 201.48,2630.4 377,2974.4 402.56,3024.5 455.52,3063.8 \
+492.84,3086.7",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,464.69,929.76 197.61,1205 210.15,1201.1 222.44,1195.7 233,1188.4 328.29,1122 285.21,1041.5 377,970.38 399.63,952.85 428.32,940.8 \
+454.98,932.61",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,450.63,2112.1 204.05,1223.6 214.92,1227.9 225.01,1233.9 233,1242.4 489.43,1514 133.08,1787.5 377,2070.4 393.4,2089.4 416.91,2101.5 \
+440.77,2109.2",
+		style=solid];
+	"alive($x2, $y4)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,451.39,3181 205.38,1223.2 215.92,1227.5 225.56,1233.7 233,1242.4 507.67,1562.9 119.92,2801.6 377,3136.4 392.84,3157 416.96,3169.9 \
+441.58,3178",
+		style=solid];
+	"set($x4, $y1)" -> "Reward Function"	[pos="e,445.6,3459 178.72,1323.7 198.9,1327.1 219.58,1334.6 233,1350.4 531.37,1700.8 96.812,3051.3 377,3416.4 391.59,3435.4 413.25,3447.8 \
+435.87,3455.8"];
+	"set($x4, $y1)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,457.42,738.32 178.52,1321.2 198.08,1317.6 218.42,1310.3 233,1296.4 404.36,1132.3 215.17,955.86 377,782.38 395.64,762.4 421.89,\
+749.54 447.61,741.27",
+		style=solid];
+	"alive($x2, $y6)" -> "Reward Function"	[pos="e,431.74,3479.6 203.28,4128.8 214.33,4124.6 224.68,4118.7 233,4110.4 427.49,3917 184.44,3705.6 377,3510.4 389.38,3497.8 405.12,3489 \
+421.82,3482.9"];
+	"alive($x2, $y6)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,445.55,3398.1 203.47,4129 214.5,4124.8 224.78,4118.8 233,4110.4 447.78,3891.4 168.36,3660.3 377,3435.4 392.57,3418.6 413.89,3407.8 \
+435.8,3400.9",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,433.81,4636.8 202.13,4146.3 213.48,4150.5 224.21,4156.3 233,4164.4 386.25,4305.5 220.06,4473.4 377,4610.4 390.25,4622 406.6,4629.5 \
+423.68,4634.3",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,508.1,4430.5 194.63,4148.4 207.99,4152.3 221.32,4157.4 233,4164.4 315.78,4213.7 306.67,4260.6 377,4326.4 416.67,4363.5 466.93,\
+4401.1 499.74,4424.6",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,518.6,5203.2 204.03,4145.6 214.9,4149.9 225,4155.9 233,4164.4 485.33,4430.8 243.1,4635.7 377,4977.4 410.95,5064 477.63,5152.6 \
+512.14,5195.3",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,498.4,4566.1 200.09,4146.9 211.98,4151 223.42,4156.6 233,4164.4 351.11,4260.6 278.76,4359 377,4475.4 408.24,4512.4 455.1,4542.4 \
+489.5,4561.3",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,452.32,4094 197.31,4127 267.25,4118 368.89,4104.8 442.18,4095.3",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,453.15,3120.3 204.22,4129.3 215.06,4125 225.1,4118.9 233,4110.4 521.68,3798.1 105.49,3491.7 377,3164.4 393.77,3144.2 418.43,3131.4 \
+443.26,3123.3",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,483.56,3207.3 204.05,4129.2 214.93,4124.9 225.01,4118.8 233,4110.4 489.7,3838.4 162.42,3587.7 377,3281.4 400.4,3248 440.43,3225.3 \
+474.21,3211.1",
+		style=solid];
+	"alive($x2, $y6)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,500.99,3992.7 184.08,4124.1 200.26,4120.3 217.39,4115.7 233,4110.4 328.35,4078.2 434.62,4026.6 491.89,3997.4",
+		style=solid];
+	"alive($x1, $y7)" -> "Reward Function"	[pos="e,428.93,3479 203.54,4617 214.69,4612.6 225,4606.3 233,4597.4 558.83,4235 53.28,3874.7 377,3510.4 388.4,3497.6 403.29,3488.6 419.35,\
+3482.3"];
+	"alive($x1, $y7)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,463.43,4937.4 197.34,4635.9 210.05,4639.9 222.47,4645.6 233,4653.4 333.93,4728 279.67,4817.1 377,4896.4 398.99,4914.3 427.28,4926.4 \
+453.77,4934.6",
+		style=solid];
+	"alive($x1, $y7)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,435.27,4635.3 213.05,4628.4 276.2,4630.3 359.13,4632.9 424.87,4635",
+		style=solid];
+	"alive($x1, $y7)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,446.31,4592.2 202.79,4616.8 270.5,4610 365.23,4600.4 436.05,4593.3",
+		style=solid];
+	"alive($x1, $y7)" -> "alive'($x1, $y8)"	[color=black,
+		pos="e,459.13,4681.2 191,4637.4 263.19,4649.2 373.24,4667.1 449.12,4679.5",
+		style=solid];
+	"alive($x1, $y7)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,515.85,4101.6 199.34,4615.5 211.53,4611.4 223.26,4605.5 233,4597.4 354.26,4496.1 293.73,4406.6 377,4272.4 416.4,4208.9 475.43,\
+4143.7 508.75,4109",
+		style=solid];
+	"alive($x1, $y7)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,479.7,3990.8 201.67,4616.4 213.29,4612.1 224.22,4606 233,4597.4 410.89,4423.4 221.07,4250.3 377,4056.4 400.71,4026.9 438.01,4007 \
+470.3,3994.4",
+		style=solid];
+	"alive($x6, $y8)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,471.72,6120.9 200.32,6572.8 212.26,6568.6 223.64,6562.6 233,6554.4 368.4,6434.9 252.29,6305 377,6174.4 399.86,6150.4 432.56,6134.5 \
+462.22,6124",
+		style=solid];
+	"alive($x6, $y8)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,434.85,6204.2 199.34,6572.5 211.53,6568.4 223.26,6562.5 233,6554.4 354.26,6453.1 252.69,6326.9 377,6229.4 390.84,6218.5 407.48,\
+6211.3 424.68,6206.7",
+		style=solid];
+	"alive($x6, $y8)" -> "Reward Function"	[pos="e,426.31,3478.6 204.8,6574.4 215.63,6569.9 225.51,6563.5 233,6554.4 448.56,6293.3 162.96,3772.8 377,3510.4 387.45,3497.6 401.39,\
+3488.5 416.65,3482.2"];
+	"alive($x6, $y8)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,449.1,6709.7 186.89,6595.2 202.33,6599 218.43,6603.7 233,6609.4 301.57,6636.3 307.74,6666.3 377,6691.4 396.67,6698.5 418.4,6703.9 \
+439.26,6707.9",
+		style=solid];
+	"alive($x6, $y8)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,510.86,6384.5 186.46,6569.5 202.07,6565.5 218.35,6560.5 233,6554.4 338.72,6509.9 449.83,6430.7 502.6,6390.8",
+		style=solid];
+	"alive($x6, $y8)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,452.49,6538.1 196.82,6571.9 266.81,6562.7 368.84,6549.2 442.31,6539.5",
+		style=solid];
+	"alive($x6, $y8)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,433.58,6582.4 214.1,6582.4 276.6,6582.4 358.15,6582.4 423.27,6582.4",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,494.63,5988.3 203.24,6681.8 214.29,6677.5 224.65,6671.6 233,6663.4 423.17,6475.5 224.95,6299.3 377,6079.4 404.03,6040.3 450.17,\
+6011.1 485.45,5992.9",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,434.32,6258.5 201.18,6681.2 212.79,6677.1 223.86,6671.4 233,6663.4 368.63,6544.7 238.27,6399.4 377,6284.4 390.54,6273.2 407.03,\
+6265.8 424.17,6261",
+		style=solid];
+	"alive($x7, $y7)" -> "Reward Function"	[pos="e,426.29,3478.6 205.63,6682.8 216.13,6678.4 225.7,6672.2 233,6663.4 457.15,6393.7 155.53,3782.3 377,3510.4 387.44,3497.6 401.37,\
+3488.5 416.63,3482.2"];
+	"alive($x7, $y7)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,440.42,6712.9 208.39,6696.7 273.73,6701.3 361.96,6707.4 430.09,6712.1",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,511.03,6384.3 194.65,6679.4 208,6675.5 221.33,6670.4 233,6663.4 315.99,6613.8 308.07,6568.2 377,6500.4 418.4,6459.7 470.29,6416.8 \
+502.8,6390.8",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,445.09,6535.8 190.21,6678.2 204.76,6674.5 219.66,6669.6 233,6663.4 305.5,6629.6 303.63,6587.3 377,6555.4 395.14,6547.5 415.38,\
+6541.8 435.13,6537.8",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,478.94,6597.8 179.63,6676.3 196.94,6672.2 215.72,6667.7 233,6663.4 314.66,6642.9 408.24,6617.4 469.09,6600.5",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,434.86,6314.2 200.49,6680.9 212.27,6676.8 223.56,6671.2 233,6663.4 354.42,6562.9 252.95,6436.6 377,6339.4 390.85,6328.5 407.49,\
+6321.3 424.69,6316.7",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,439.07,6670.3 209.42,6684.6 274.25,6680.6 361.22,6675.2 428.82,6671",
+		style=solid];
+	"alive($x7, $y7)" -> "alive'($x8, $y8)"	[color=black,
+		pos="e,479.2,6785 178.12,6704.7 195.84,6709 215.22,6713.8 233,6718.4 314.73,6739.4 408.49,6765.2 469.35,6782.2",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,523.01,1234 204.15,3156.2 215.15,3151.7 225.25,3145.4 233,3136.4 461.96,2871.2 288.28,1905.3 377,1566.4 410.23,1439.4 484.99,1300.5 \
+517.91,1242.8",
+		style=solid];
+	"alive($x2, $y5)" -> "Reward Function"	[pos="e,461.79,3456.4 197.7,3174.6 210.23,3178.5 222.49,3184 233,3191.4 329.93,3259.9 283.67,3343 377,3416.4 398.7,3433.4 426.13,3445.3 \
+451.98,3453.5"];
+	"alive($x2, $y5)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,471.47,3374.9 193.39,3175.8 207.08,3179.6 220.85,3184.6 233,3191.4 312.1,3235.4 300.24,3287.4 377,3335.4 402.8,3351.5 434.02,3363.5 \
+461.8,3372.1",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,497.93,4431.1 204.7,3172.4 215.41,3176.7 225.28,3182.8 233,3191.4 573.49,3569 125.14,3884.7 377,4326.4 402.69,4371.4 452.32,4405.6 \
+488.92,4426.2",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,433.92,1647 204.1,3156.1 215.1,3151.7 225.22,3145.3 233,3136.4 446.9,2890.3 155.65,1915.7 377,1676.4 389.53,1662.8 406.18,1654.4 \
+423.95,1649.4",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,477.24,4068.1 204.03,3172.6 214.9,3176.9 225,3182.9 233,3191.4 484.79,3457.1 159.82,3707.7 377,4002.4 399.11,4032.4 435.6,4052.2 \
+467.84,4064.6",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,452.49,3120.1 196.82,3153.9 266.81,3144.7 368.84,3131.2 442.31,3121.5",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,438.87,2128.3 203.42,3155.9 214.59,3151.5 224.93,3145.2 233,3136.4 528.02,2813.2 83.862,2487.3 377,2162.4 390.76,2147.1 409.46,\
+2137.3 429.14,2131.1",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,439.56,3185.3 208.9,3170.3 273.93,3174.5 361.43,3180.2 429.27,3184.6",
+		style=solid];
+	"alive($x2, $y5)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,504.02,3957.9 203.41,3172.8 214.44,3177.1 224.75,3183 233,3191.4 440.47,3401.1 225.87,3586 377,3839.4 406.12,3888.2 458.91,3928.5 \
+495.18,3952.2",
+		style=solid];
+	"set($x7, $y6)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,433.66,6255.6 178.64,5658.5 198.21,5662.1 218.53,5669.3 233,5683.4 412.68,5858 192.75,6058.6 377,6228.4 390.02,6240.4 406.33,6248.1 \
+423.48,6253",
+		style=solid];
+	"set($x7, $y6)" -> "Reward Function"	[pos="e,426.96,3478.7 178.74,5656.1 198.92,5652.7 219.6,5645.2 233,5629.4 538.68,5269.8 74.903,3873 377,3510.4 387.66,3497.6 401.79,3488.6 \
+417.21,3482.3"];
+	"alive($x2, $y7)" -> "Reward Function"	[pos="e,427.76,3478.9 204.89,4942.6 215.57,4938.2 225.38,4932 233,4923.4 649.88,4449.4 -35.162,3988.5 377,3510.4 387.95,3497.7 402.32,\
+3488.7 417.91,3482.5"];
+	"alive($x2, $y7)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,433.58,4950.4 214.1,4950.4 276.6,4950.4 358.15,4950.4 423.27,4950.4",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,436.14,4642.3 198.98,4940.4 211.15,4936.4 222.96,4930.9 233,4923.4 337.64,4844.7 270.31,4742.3 377,4666.4 391.56,4656 408.76,4649.1 \
+426.34,4644.6",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,497.22,4465.6 201.1,4941.1 212.72,4937.1 223.81,4931.3 233,4923.4 365.5,4808.7 268.04,4693.6 377,4556.4 406.93,4518.7 453.55,4489 \
+488.23,4470.3",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,517.36,5203.1 191.01,4962.3 205.35,4966.1 219.96,4971 233,4977.4 350.27,5034.8 462.76,5145.4 510.29,5195.6",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,434.84,5328.6 200.51,4959.9 212.28,4963.9 223.57,4969.6 233,4977.4 354.93,5078.5 252.42,5205.6 377,5303.4 390.83,5314.2 407.47,\
+5321.4 424.67,5326.1",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,435,4586.4 200.1,4940.9 211.99,4936.8 223.42,4931.2 233,4923.4 351.37,4826.9 256.11,4704.7 377,4611.4 390.92,4600.6 407.61,4593.5 \
+424.82,4588.8",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x1, $y8)"	[color=black,
+		pos="e,453.47,4704.4 196.27,4939.7 209.17,4935.8 221.93,4930.5 233,4923.4 321.42,4866.3 289.5,4793.9 377,4735.4 396.81,4722.1 420.63,\
+4713.1 443.66,4706.9",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,513.58,4101.6 203.42,4941.9 214.45,4937.7 224.75,4931.7 233,4923.4 441.28,4712.6 246.66,4538.5 377,4272.4 409.62,4205.8 470.34,\
+4142.5 505.95,4108.7",
+		style=solid];
+	"alive($x2, $y7)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,477.12,3990.5 204.11,4942.2 214.98,4937.9 225.04,4931.9 233,4923.4 500.08,4638.3 147.02,4372.1 377,4056.4 398.94,4026.3 435.42,\
+4006.5 467.7,3994",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,445.12,2252.9 189.89,2394.3 204.53,2390.5 219.55,2385.6 233,2379.4 305.33,2345.8 303.8,2304 377,2272.4 395.16,2264.5 415.4,2258.9 \
+435.16,2254.8",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,433.58,2406.4 214.1,2406.4 276.6,2406.4 358.15,2406.4 423.27,2406.4",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,475.8,3716.3 203.65,2414.7 214.79,2419.1 225.06,2425.4 233,2434.4 594.06,2841.6 66.939,3203.1 377,3650.4 398.07,3680.8 434.13,\
+3700.5 466.38,3712.9",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,434.15,3535.7 203.53,2414.8 214.68,2419.2 224.99,2425.5 233,2434.4 554.47,2791.2 49.027,3154.5 377,3505.4 389.66,3518.9 406.37,\
+3527.6 424.17,3533",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,517.76,2821 196.08,2417.1 209.14,2421.1 222,2426.7 233,2434.4 327.32,2500.2 308.28,2557.2 377,2649.4 422.16,2710 479.75,2777.4 \
+511.11,2813.4",
+		style=solid];
+	"alive($x6, $y3)" -> "Reward Function"	[pos="e,447.79,3458.5 203.43,2414.9 214.6,2419.3 224.94,2425.5 233,2434.4 530.2,2760.3 95.345,3076.9 377,3416.4 392.61,3435.2 415.11,3447.5 \
+438.22,3455.5"];
+	"alive($x6, $y3)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,459.22,2055.6 199.55,2396.7 211.58,2392.6 223.2,2387.1 233,2379.4 344.31,2292 269.74,2187.7 377,2095.4 397.45,2077.8 424.05,2066.1 \
+449.53,2058.3",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,483.66,3292.4 202.86,2415 214.17,2419.4 224.71,2425.6 233,2434.4 476.37,2691.8 172.32,2929.2 377,3218.4 400.56,3251.7 440.59,3274.3 \
+474.33,3288.6",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,519.89,1721.7 202.06,2397.4 213.42,2393.2 224.17,2387.4 233,2379.4 382.55,2243 289.56,2129.9 377,1947.4 417.3,1863.3 481.43,1773.2 \
+513.84,1729.8",
+		style=solid];
+	"alive($x6, $y3)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,451.08,1076.8 204.8,2398.5 215.49,2394.1 225.33,2388 233,2379.4 607.54,1958.8 24.308,1559.5 377,1120.4 393.09,1100.3 417.02,1087.7 \
+441.38,1079.8",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,475.81,4777.5 203.39,5811.9 214.57,5807.5 224.92,5801.2 233,5792.4 521.49,5477.5 127.14,5188.7 377,4842.4 398.41,4812.7 434.09,\
+4793.3 466.04,4781",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,504.66,6088.7 192.59,5832 206.58,5836 220.66,5841.3 233,5848.4 313.12,5894.4 306.57,5938.6 377,5998.4 415.14,6030.8 463.03,6062.6 \
+495.83,6083.2",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,494.74,5954.5 181.52,5834.1 198.41,5838.2 216.51,5843.1 233,5848.4 281.9,5864.2 413.5,5919.7 485.43,5950.5",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,497.72,4316.5 204.05,5812.1 215.06,5807.6 225.19,5801.3 233,5792.4 434.72,5561.8 228.14,4689.1 377,4421.4 402.2,4376.1 451.91,\
+4341.9 488.68,4321.4",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,452.49,5776.1 196.82,5809.9 266.81,5800.7 368.84,5787.2 442.31,5777.5",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,433.58,5820.4 214.1,5820.4 276.6,5820.4 358.15,5820.4 423.27,5820.4",
+		style=solid];
+	"alive($x5, $y6)" -> "Reward Function"	[pos="e,426.9,3478.6 204.38,5812.4 215.35,5807.9 225.38,5801.5 233,5792.4 559.56,5403.1 52.712,3901.6 377,3510.4 387.63,3497.6 401.74,\
+3488.5 417.15,3482.2"];
+	"alive($x5, $y6)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,433.94,6365.2 201.47,5829.6 213.12,5833.9 224.11,5839.9 233,5848.4 397.31,6005 207.97,6186.9 377,6338.4 390.19,6350.2 406.58,6357.9 \
+423.76,6362.7",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,452.52,4880.1 203.28,5811.8 214.47,5807.4 224.86,5801.2 233,5792.4 499.45,5505.6 124.24,5222.3 377,4923.4 393.76,4903.6 418.15,\
+4891 442.74,4883.1",
+		style=solid];
+	"alive($x5, $y6)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,474.83,3638.2 204.34,5812.3 215.31,5807.9 225.35,5801.5 233,5792.4 532.95,5436.9 121.46,4093 377,3704.4 397.25,3673.6 433.07,3653.9 \
+465.38,3641.6",
+		style=solid];
+	"alive($x8, $y5)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,450.16,3741.6 204.3,5757.3 215.27,5752.8 225.33,5746.4 233,5737.4 514.3,5405.6 111.5,4129.9 377,3785.4 392.61,3765.1 416.26,3752.4 \
+440.5,3744.5",
+		style=solid];
+	"alive($x8, $y5)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,433.89,6254.8 200.93,5774.7 212.71,5779 223.9,5785 233,5793.4 382.77,5931.4 223.06,6095.1 377,6228.4 390.3,6239.9 406.66,6247.4 \
+423.76,6252.2",
+		style=solid];
+	"alive($x8, $y5)" -> "Reward Function"	[pos="e,426.92,3478.7 204.37,5757.4 215.34,5752.9 225.37,5746.5 233,5737.4 552.01,5357.7 60.2,3891.9 377,3510.4 387.64,3497.6 401.76,3488.5 \
+417.17,3482.2"];
+	"alive($x8, $y5)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,433.9,5278 200.92,5756 212.71,5751.8 223.89,5745.8 233,5737.4 382.25,5600.1 223.61,5437.1 377,5304.4 390.3,5292.9 406.67,5285.4 \
+423.77,5280.6",
+		style=solid];
+	"alive($x8, $y5)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,501.8,3829.8 204.24,5757.3 215.23,5752.8 225.3,5746.4 233,5737.4 491.96,5434 196.86,4304.2 377,3948.4 402.56,3897.9 455.77,3858.2 \
+493.14,3835",
+		style=solid];
+	"alive($x8, $y5)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,452.49,5721.1 196.82,5754.9 266.81,5745.7 368.84,5732.2 442.31,5722.5",
+		style=solid];
+	"alive($x8, $y5)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,433.94,6310.2 201.47,5774.6 213.12,5778.9 224.11,5784.9 233,5793.4 397.31,5950 207.97,6131.9 377,6283.4 390.19,6295.2 406.58,6302.9 \
+423.76,6307.7",
+		style=solid];
+	"set($x8, $y4)" -> "Reward Function"	[pos="e,443.45,3481.5 178.68,3753 197.37,3749.1 217.15,3742.5 233,3731.4 328.99,3664.1 281.68,3578.6 377,3510.4 393.71,3498.4 413.66,3490 \
+433.65,3484.1"];
+	"set($x8, $y4)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,452.02,3801.8 178.51,3766.3 247.85,3775.3 361.77,3790.1 441.93,3800.4",
+		style=solid];
+	"set($x6, $y8)" -> "Reward Function"	[pos="e,426.42,3478.7 178.54,6092.2 198.82,6088.9 219.62,6081.3 233,6065.4 598.8,5630 15.535,3949.4 377,3510.4 387.51,3497.6 401.48,3488.6 \
+416.75,3482.3"];
+	"set($x6, $y8)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,507.39,6509.5 178.73,6096.8 197.63,6100.6 217.52,6107.4 233,6119.4 341.82,6203.5 291.13,6285.9 377,6393.4 412.67,6438 464.83,6479.1 \
+499.09,6503.6",
+		style=solid];
+	"set($x7, $y7)" -> "Reward Function"	[pos="e,426.36,3478.7 178.58,6310.2 198.86,6306.9 219.66,6299.3 233,6283.4 628.87,5810.1 -14.159,3987.6 377,3510.4 387.48,3497.6 401.43,\
+3488.6 416.7,3482.3"];
+	"set($x7, $y7)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,437.21,6577.6 178.62,6315.9 197.31,6319.8 217.1,6326.3 233,6337.4 328.05,6403.4 280.23,6490.9 377,6554.4 392.04,6564.3 409.56,\
+6570.9 427.33,6575.4",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,471.07,6120.7 179.4,6187.3 254.6,6170.1 381.25,6141.2 461.09,6123",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,508.06,5989.2 187.22,6188.7 202.64,6184.7 218.65,6179.7 233,6173.4 247.44,6167 423.93,6046.7 499.75,5994.8",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,433.58,6201.4 214.1,6201.4 276.6,6201.4 358.15,6201.4 423.27,6201.4",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,478.64,5890.7 196.56,6190.9 209.51,6186.8 222.2,6181.2 233,6173.4 330.6,6103.2 285.96,6022.9 377,5944.4 403.45,5921.6 438.62,5905.2 \
+468.97,5894.1",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,434.31,5767.5 200.32,6191.8 212.26,6187.6 223.64,6181.6 233,6173.4 368.4,6053.9 238,5908.7 377,5793.4 390.54,5782.2 407.03,5774.8 \
+424.17,5770",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,434.85,5823.2 199.34,6191.5 211.53,6187.4 223.26,6181.5 233,6173.4 354.26,6072.1 252.69,5945.9 377,5848.4 390.84,5837.5 407.48,\
+5830.3 424.68,5825.7",
+		style=solid];
+	"alive($x5, $y7)" -> "Reward Function"	[pos="e,426.39,3478.7 204.74,6193.3 215.59,6188.8 225.48,6182.4 233,6173.4 611.83,5717.6 0.82519,3968.3 377,3510.4 387.5,3497.6 401.45,\
+3488.6 416.73,3482.3"];
+	"alive($x5, $y7)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,444.66,6357.9 188.71,6213.8 203.73,6217.7 219.2,6222.8 233,6229.4 305.52,6263.8 303.46,6306.2 377,6338.4 395.01,6346.3 415.11,\
+6351.9 434.75,6356",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,511.01,6509.5 193.46,6212.8 207.22,6216.7 221,6222.1 233,6229.4 315.99,6279.6 307.93,6325.3 377,6393.4 418.34,6434.2 470.24,6477 \
+502.77,6502.9",
+		style=solid];
+	"alive($x5, $y7)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,451.09,4879.8 203.97,6193 214.99,6188.6 225.14,6182.3 233,6173.4 603.35,5754.4 26.619,5359.2 377,4923.4 393.1,4903.4 417.03,4890.7 \
+441.39,4882.8",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,433.84,2243.9 202.13,1602.3 213.62,1606.6 224.39,1612.8 233,1621.4 425.35,1813.8 178.84,2029.9 377,2216.4 390.1,2228.7 406.66,\
+2236.6 424.09,2241.5",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,523.98,1955.9 193.85,1604.7 207.5,1608.7 221.14,1614.1 233,1621.4 372.61,1707.2 480.46,1879.6 518.83,1946.8",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,477.16,2391.2 202.7,1602.2 214.04,1606.5 224.62,1612.7 233,1621.4 454.99,1851.6 183.33,2071.9 377,2326.4 399.33,2355.7 435.44,\
+2375.2 467.4,2387.5",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,512.96,2821.4 203.48,1601.8 214.64,1606.2 224.97,1612.5 233,1621.4 542.74,1963.3 191.04,2227.2 377,2649.4 406.99,2717.5 468.65,\
+2780.7 505.14,2814.3",
+		style=solid];
+	"alive($x6, $y2)" -> "Reward Function"	[pos="e,446.14,3459 204.25,1601.5 215.23,1606 225.3,1612.4 233,1621.4 492.78,1925.8 131.72,3100.2 377,3416.4 391.76,3435.4 413.62,3447.8 \
+436.36,3455.8"];
+	"alive($x6, $y2)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,445.33,2034.8 200.32,1603 212.26,1607.2 223.64,1613.1 233,1621.4 368.4,1740.9 243.02,1880.3 377,2001.4 393.34,2016.2 414.3,2025.8 \
+435.56,2032.1",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,433.58,1593.4 214.1,1593.4 276.6,1593.4 358.15,1593.4 423.27,1593.4",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,454.71,1692.1 180.82,1607.3 197.87,1611.4 216.24,1616.2 233,1621.4 298.33,1641.5 311.08,1657.3 377,1675.4 398.65,1681.3 422.34,\
+1686.3 444.59,1690.3",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,443.05,1005.2 202.76,1584.7 213.95,1580.5 224.47,1574.6 233,1566.4 407.85,1397.9 204.85,1210.6 377,1039.4 392.28,1024.2 412.43,\
+1014.3 433.17,1007.9",
+		style=solid];
+	"alive($x6, $y2)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,456.69,1078 202.13,1584.4 213.48,1580.3 224.21,1574.5 233,1566.4 386.25,1425.3 231.11,1269.1 377,1120.4 395.8,1101.2 421.69,1088.9 \
+447.03,1080.9",
+		style=solid];
+	"alive($x2, $y8)" -> "Reward Function"	[pos="e,427.54,3478.7 204.22,5268.2 215.21,5263.8 225.29,5257.4 233,5248.4 484.97,4953.9 126.75,3806.3 377,3510.4 387.83,3497.6 402.13,\
+3488.6 417.7,3482.3"];
+	"alive($x2, $y8)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,521.13,4968.9 191.84,5264.7 206.04,5260.7 220.39,5255.4 233,5248.4 360.95,5177 472.09,5036.2 515.06,4977.3",
+		style=solid];
+	"alive($x2, $y8)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,433.9,4638.9 202.09,5267.4 213.59,5263.1 224.37,5257 233,5248.4 421.86,5060.4 182.46,4848.5 377,4666.4 390.13,4654.1 406.71,4646.2 \
+424.14,4641.4",
+		style=solid];
+	"alive($x2, $y8)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,452.49,5232.1 196.82,5265.9 266.81,5256.7 368.84,5243.2 442.31,5233.5",
+		style=solid];
+	"alive($x2, $y8)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,452.49,5320.6 196.82,5286.9 266.81,5296.1 368.84,5309.6 442.31,5319.3",
+		style=solid];
+	"alive($x2, $y8)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,433.68,4583.7 202.25,5267.6 213.72,5263.2 224.46,5257.1 233,5248.4 436.64,5041.6 167.11,4811.9 377,4611.4 390.01,4599 406.52,4591 \
+423.93,4586.1",
+		style=solid];
+	"alive($x2, $y8)" -> "alive'($x1, $y8)"	[color=black,
+		pos="e,443.13,4701.3 201.57,5267.3 213.2,5263 224.17,5256.9 233,5248.4 403.42,5084 208.52,4901.8 377,4735.4 392.34,4720.2 412.5,4710.4 \
+433.25,4704",
+		style=solid];
+	"set($x8, $y5)" -> "Reward Function"	[pos="e,427.72,3478.9 178.78,5003.8 198.84,5000.4 219.43,4992.9 233,4977.4 448.87,4731 163.58,3758.9 377,3510.4 387.93,3497.7 402.28,3488.7 \
+417.87,3482.4"];
+	"set($x8, $y5)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,525.8,5692.1 178.63,5008 197.74,5011.8 217.79,5018.8 233,5031.4 355.19,5132.8 312.66,5213.2 377,5358.4 430.57,5479.2 494.96,5623.2 \
+521.57,5682.6",
+		style=solid];
+	"alive($x8, $y4)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,485.78,3747.6 180.82,3853.5 197.87,3849.4 216.24,3844.5 233,3839.4 298.33,3819.3 312.68,3808.5 377,3785.4 409.66,3773.6 446.32,\
+3761 476,3750.9",
+		style=solid];
+	"alive($x8, $y4)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,477.01,2854.5 203.35,3858.8 214.53,3854.4 224.89,3848.2 233,3839.4 513.05,3535.3 135.12,3255.7 377,2920.4 398.8,2890.2 435.28,\
+2870.4 467.59,2857.9",
+		style=solid];
+	"alive($x8, $y4)" -> "Reward Function"	[pos="e,437.74,3480.5 199.37,3857.6 211.56,3853.4 223.28,3847.5 233,3839.4 355.28,3736.8 255.32,3613.7 377,3510.4 391.61,3498 409.56,3489.4 \
+428.04,3483.4"];
+	"alive($x8, $y4)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,503.11,2964.9 202.81,3858.7 214.13,3854.3 224.68,3848.1 233,3839.4 469.06,3591.3 205.56,3378.9 377,3082.4 405.2,3033.6 457.71,\
+2994 494.2,2970.5",
+		style=solid];
+	"alive($x8, $y4)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,434.01,5277.7 204.86,3875.2 215.54,3879.6 225.37,3885.7 233,3894.4 633.66,4347.9 -35.566,4805.6 377,5248.4 389.58,5261.9 406.26,\
+5270.3 424.04,5275.2",
+		style=solid];
+	"alive($x8, $y4)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,452.49,3823.1 196.82,3856.9 266.81,3847.7 368.84,3834.2 442.31,3824.5",
+		style=solid];
+	"alive($x8, $y4)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,523.27,5692.1 204.92,3875.2 215.6,3879.5 225.4,3885.7 233,3894.4 448.46,4140.2 293.34,5042.4 377,5358.4 410.74,5485.8 485.55,5625.6 \
+518.22,5683.2",
+		style=solid];
+	"alive($x7, $y1)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,433.68,2243.5 201.67,1657.4 213.28,1661.7 224.22,1667.8 233,1676.4 410.62,1850 194.13,2048.3 377,2216.4 390.04,2228.4 406.35,2236.1 \
+423.5,2241",
+		style=solid];
+	"alive($x7, $y1)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,521.13,1955.9 191.84,1660.1 206.04,1664.1 220.39,1669.3 233,1676.4 360.95,1747.8 472.09,1888.6 515.06,1947.5",
+		style=solid];
+	"alive($x7, $y1)" -> "alive'($x8, $y1)"	[color=black,
+		pos="e,441.8,2182.1 201.11,1657.5 212.87,1661.8 224,1667.9 233,1676.4 392.8,1827.2 218.08,1997.6 377,2149.4 392.19,2163.9 411.88,2173.3 \
+432.14,2179.4",
+		style=solid];
+	"alive($x7, $y1)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,433.84,2298.9 202.13,1657.3 213.62,1661.6 224.39,1667.8 233,1676.4 425.35,1868.8 178.84,2084.9 377,2271.4 390.1,2283.7 406.66,\
+2291.6 424.09,2296.5",
+		style=solid];
+	"alive($x7, $y1)" -> "Reward Function"	[pos="e,446.17,3458.9 204.22,1656.5 215.21,1661 225.29,1667.4 233,1676.4 485.25,1971.2 138.8,3110.1 377,3416.4 391.79,3435.4 413.65,3447.8 \
+436.39,3455.8"];
+	"alive($x7, $y1)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,452.49,1604.1 196.82,1637.9 266.81,1628.7 368.84,1615.2 442.31,1605.5",
+		style=solid];
+	"alive($x7, $y1)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,452.49,1692.6 196.82,1658.9 266.81,1668.1 368.84,1681.6 442.31,1691.3",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,508.06,6088.5 187.23,5888.1 202.65,5892 218.65,5897.1 233,5903.4 247.45,5909.8 423.94,6030.7 499.76,6082.8",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,477.5,6186.1 196.88,5886 209.71,5890.1 222.29,5895.7 233,5903.4 330.83,5973.9 285.54,6054.8 377,6133.4 403.12,6155.8 437.78,6171.9 \
+467.9,6182.8",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,433.58,5875.4 214.1,5875.4 276.6,5875.4 358.15,5875.4 423.27,5875.4",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,454.71,5776.6 180.82,5861.5 197.87,5857.4 216.24,5852.5 233,5847.4 298.33,5827.3 311.08,5811.5 377,5793.4 398.65,5787.4 422.34,\
+5782.5 444.59,5778.4",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,452.49,5831.1 196.82,5864.9 266.81,5855.7 368.84,5842.2 442.31,5832.5",
+		style=solid];
+	"alive($x4, $y7)" -> "Reward Function"	[pos="e,426.88,3478.6 204.4,5867.4 215.36,5862.9 225.38,5856.5 233,5847.4 567.1,5448.5 45.223,3911.2 377,3510.4 387.62,3497.6 401.73,3488.5 \
+417.14,3482.2"];
+	"alive($x4, $y7)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,491.92,4465.2 203.99,5867 215.01,5862.6 225.16,5856.3 233,5847.4 614.56,5414.1 80.339,5051.7 377,4556.4 401.11,4516.1 446.69,4487.3 \
+482.56,4469.6",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,433.83,5221.9 202.14,5866.5 213.63,5862.1 224.4,5856 233,5847.4 426.16,5653.9 178,5436.8 377,5249.4 390.09,5237.1 406.65,5229.2 \
+424.08,5224.3",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,525.69,5349.7 197.38,5865 210.09,5860.9 222.49,5855.2 233,5847.4 323.26,5780.1 476.83,5456 521.48,5358.9",
+		style=solid];
+	"alive($x4, $y7)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,452.4,4880 203.36,5866.9 214.54,5862.4 224.9,5856.2 233,5847.4 514.41,5541.5 110.18,5242.1 377,4923.4 393.66,4903.5 418.03,4890.9 \
+442.62,4883",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,483.88,4778.4 199.97,5156.7 211.88,5152.7 223.35,5147.1 233,5139.4 347.57,5047.8 274.3,4947.1 377,4842.4 403.88,4815 442.14,4795.2 \
+474.17,4782.2",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,467.93,5957.5 202.71,5175.1 214.05,5179.5 224.63,5185.7 233,5194.4 455.8,5425.6 175.42,5652.4 377,5902.4 397.32,5927.6 428.69,\
+5943.8 458.07,5954.2",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,499.28,4316.7 203.86,5158 214.76,5153.7 224.9,5147.7 233,5139.4 459.46,4905.6 205.76,4698.2 377,4421.4 404.46,4377 454.24,4342.5 \
+490.41,4321.7",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,450.98,3741.8 204.86,5158.5 215.54,5154.2 225.37,5148 233,5139.4 633.66,4685.8 -0.10024,4258.7 377,3785.4 393.01,3765.3 416.92,\
+3752.6 441.28,3744.7",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,455.57,3548.9 204.96,5158.6 215.63,5154.3 225.42,5148.1 233,5139.4 459.33,4879.8 167.99,3870.1 377,3596.4 393.84,3574.3 419.9,\
+3560.5 445.98,3551.9",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,433.66,5764.5 201.68,5175.4 213.29,5179.7 224.23,5185.8 233,5194.4 411.43,5369 193.3,5568.3 377,5737.4 390.03,5749.4 406.34,5757.1 \
+423.49,5762",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,433.97,6257.3 203.49,5174.8 214.65,5179.2 224.97,5185.5 233,5194.4 544.38,5538.4 55.221,5894.1 377,6228.4 389.72,6241.6 406.36,\
+6249.8 424.06,6254.8",
+		style=solid];
+	"alive($x6, $y5)" -> "Reward Function"	[pos="e,427.6,3478.8 205.28,5158.5 215.84,5154.2 225.51,5148 233,5139.4 471.17,4864.9 141.57,3787.2 377,3510.4 387.87,3497.6 402.19,3488.6 \
+417.76,3482.3"];
+	"alive($x6, $y5)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,454.71,5265.1 180.82,5180.3 197.87,5184.4 216.24,5189.2 233,5194.4 298.33,5214.5 311.08,5230.3 377,5248.4 398.65,5254.3 422.34,\
+5259.3 444.59,5263.3",
+		style=solid];
+	"alive($x6, $y5)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,450.26,3318.6 205.34,5158.6 215.89,5154.2 225.54,5148 233,5139.4 491.55,4839.2 134.03,3675.3 377,3362.4 392.68,3342.2 416.35,3329.5 \
+440.59,3321.5",
+		style=solid];
+	"set($x1, $y1)" -> "alive'($x1, $y1)"	[color=black,
+		pos="e,433.69,127.38 178.51,127.38 242.62,127.38 344.86,127.38 423.28,127.38",
+		style=solid];
+	"set($x1, $y1)" -> "Reward Function"	[pos="e,444.86,3459.1 178.64,127.49 198.94,130.8 219.72,138.38 233,154.38 464.67,433.58 159.81,3125.8 377,3416.4 391.27,3435.5 412.7,3447.9 \
+435.18,3455.9"];
+	"set($x7, $y8)" -> "Reward Function"	[pos="e,426.3,3478.6 178.62,6636.3 198.92,6633 219.7,6625.4 233,6609.4 453.42,6344.4 159.21,3777.6 377,3510.4 387.45,3497.6 401.38,3488.5 \
+416.64,3482.2"];
+	"set($x7, $y8)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,460.82,6706.8 178.73,6649.9 231.24,6661.4 308.97,6678.1 377,6691.4 400.9,6696 426.9,6700.8 450.75,6705.1",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,439.88,4756.1 204.9,3280.2 215.58,3284.6 225.39,3290.7 233,3299.4 652.08,3776.2 -34.461,4237 377,4720.4 390.74,4736.5 409.93,4746.8 \
+430.19,4753.3",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,513.25,4281.4 204.03,3280.6 214.9,3284.9 225,3290.9 233,3299.4 484.79,3565.1 222.91,3778.3 377,4110.4 408.21,4177.7 469.44,4240.7 \
+505.52,4274.3",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,513.58,2424.6 203.41,3263.9 214.45,3259.7 224.75,3253.7 233,3245.4 441.01,3034.9 246.81,2861.1 377,2595.4 409.63,2528.8 470.35,\
+2465.5 505.96,2431.7",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,441.02,3530.4 197.14,3282.9 209.81,3286.8 222.26,3292.1 233,3299.4 325.5,3362 283.62,3444.1 377,3505.4 393.14,3516 412.07,3523.2 \
+431.08,3528.1",
+		style=solid];
+	"alive($x5, $y4)" -> "Reward Function"	[pos="e,472.24,3454.6 191.01,3284.3 205.35,3288.1 219.97,3293 233,3299.4 307.04,3335.7 304.9,3376.4 377,3416.4 403.6,3431.2 434.96,3442.9 \
+462.62,3451.7"];
+	"alive($x5, $y4)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,449.64,2053.3 204.71,3264.4 215.42,3260.1 225.29,3254 233,3245.4 577.6,2862.5 50.007,2493.4 377,2095.4 392.86,2076.1 416.08,2063.9 \
+439.82,2056.2",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,443.17,3300.5 205.57,3280 272.13,3285.8 363.58,3293.7 433.08,3299.7",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,467.35,3609.6 199.06,3282.3 211.22,3286.3 223.01,3291.8 233,3299.4 339.6,3380.6 275.9,3476.4 377,3564.4 399.79,3584.2 429.9,3597.7 \
+457.65,3606.7",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,514.9,2640.6 202.07,3263.4 213.42,3259.2 224.18,3253.4 233,3245.4 382.81,3108.7 278.73,2989.8 377,2812.4 413.24,2747 473.18,2682.3 \
+507.56,2647.9",
+		style=solid];
+	"alive($x5, $y4)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,438.31,1153.1 205.43,3264.7 215.96,3260.3 225.59,3254.1 233,3245.4 530.13,2896.5 84.394,1541 377,1188.4 390.22,1172.5 408.78,1162.3 \
+428.53,1155.9",
+		style=solid];
+	"alive($x8, $y3)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,433.64,2244.7 203.41,2938.9 214.44,2934.7 224.75,2928.7 233,2920.4 440.47,2710.6 164.03,2476.6 377,2272.4 389.98,2259.9 406.49,\
+2252 423.89,2247.1",
+		style=solid];
+	"alive($x8, $y3)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,478.39,3716.1 203.48,2955.8 214.5,2960 224.78,2966 233,2974.4 448.06,3193.7 190.56,3406.2 377,3650.4 399.79,3680.2 436.68,3700 \
+468.98,3712.6",
+		style=solid];
+	"alive($x8, $y3)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,478.94,2854.8 179.63,2933.3 196.94,2929.2 215.72,2924.7 233,2920.4 314.66,2899.9 408.24,2874.4 469.09,2857.5",
+		style=solid];
+	"alive($x8, $y3)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,478.95,2314.7 202.81,2938.7 213.99,2934.5 224.5,2928.6 233,2920.4 411.6,2747.1 220.58,2572.9 377,2379.4 400.44,2350.4 437.15,2330.9 \
+469.18,2318.4",
+		style=solid];
+	"alive($x8, $y3)" -> "Reward Function"	[pos="e,453.48,3457.8 202.11,2956.4 213.46,2960.5 224.2,2966.3 233,2974.4 385.19,3114.1 232.1,3269.1 377,3416.4 395.02,3434.7 419.54,3446.8 \
+443.84,3454.8"];
+	"alive($x8, $y3)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,433.58,2947.4 214.1,2947.4 276.6,2947.4 358.15,2947.4 423.27,2947.4",
+		style=solid];
+	"alive($x8, $y3)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,453.14,3801.6 203.98,2955.7 214.86,2959.9 224.97,2966 233,2974.4 477.43,3230.8 145.92,3489.9 377,3758.4 394.01,3778.2 418.61,3790.7 \
+443.31,3798.6",
+		style=solid];
+	"set($x8, $y6)" -> "Reward Function"	[pos="e,426.85,3478.6 178.52,5984.2 198.8,5980.9 219.6,5973.3 233,5957.4 583.9,5540.7 30.244,3930.5 377,3510.4 387.6,3497.5 401.7,3488.5 \
+417.11,3482.2"];
+	"set($x8, $y6)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,435.51,6307.7 178.7,5988.8 197.61,5992.6 217.51,5999.4 233,6011.4 341.33,6094.9 266.49,6202.8 377,6283.4 391.21,6293.8 408.04,\
+6300.7 425.31,6305.3",
+		style=solid];
+	"alive($x4, $y8)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,504.25,6088.8 185.44,5943.5 201.25,5947.3 217.88,5952 233,5957.4 331.25,5992.7 439.3,6051.5 495.38,6083.6",
+		style=solid];
+	"alive($x4, $y8)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,481.57,6185.7 195.47,5941.2 208.6,5945.1 221.64,5950.3 233,5957.4 318.77,6010.8 296.35,6072.5 377,6133.4 405.34,6154.8 441.45,\
+6171 471.9,6182.3",
+		style=solid];
+	"alive($x4, $y8)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,452.49,5886.1 196.82,5919.9 266.81,5910.7 368.84,5897.2 442.31,5887.5",
+		style=solid];
+	"alive($x4, $y8)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,454.71,5831.6 180.82,5916.5 197.87,5912.4 216.24,5907.5 233,5902.4 298.33,5882.3 311.08,5866.5 377,5848.4 398.65,5842.4 422.34,\
+5837.5 444.59,5833.4",
+		style=solid];
+	"alive($x4, $y8)" -> "Reward Function"	[pos="e,426.87,3478.6 204.41,5922.4 215.37,5917.9 225.39,5911.5 233,5902.4 574.65,5493.9 37.734,3920.8 377,3510.4 387.61,3497.5 401.71,\
+3488.5 417.12,3482.2"];
+	"alive($x4, $y8)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,433.62,5221.7 202.29,5921.6 213.76,5917.3 224.48,5911.1 233,5902.4 440.95,5690.1 162.63,5455.2 377,5249.4 389.97,5236.9 406.48,\
+5229 423.88,5224.1",
+		style=solid];
+	"alive($x4, $y8)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,525.36,5349.9 197.97,5920.3 210.54,5916.1 222.75,5910.4 233,5902.4 281.76,5864.4 469.98,5467.9 521.12,5359",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,437.25,2239.6 197.57,1984.8 210.11,1988.7 222.42,1994.1 233,2001.4 327.58,2066.8 280.71,2153.5 377,2216.4 392.06,2226.2 409.59,\
+2232.9 427.36,2237.3",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,433.58,1974.4 214.1,1974.4 276.6,1974.4 358.15,1974.4 423.27,1974.4",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,482.82,2390.5 200.5,1983.9 212.27,1987.9 223.56,1993.6 233,2001.4 354.68,2102.2 268.35,2211.7 377,2326.4 403.21,2354.1 441.11,\
+2373.7 473.1,2386.7",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x8, $y1)"	[color=black,
+		pos="e,454.87,2178.1 193.77,1985.7 207.35,1989.5 220.99,1994.6 233,2001.4 312.9,2046.5 297.55,2103.4 377,2149.4 397.67,2161.3 421.89,\
+2169.8 445.03,2175.7",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,513.86,2821.3 203.41,1982.8 214.44,1987.1 224.75,1993 233,2001.4 440.47,2211.1 247.45,2384.3 377,2649.4 409.75,2716.4 470.7,2780.2 \
+506.25,2814.2",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,435.54,2295.7 199.11,1984.2 211.27,1988.2 223.04,1993.7 233,2001.4 340.83,2084.3 267,2191.4 377,2271.4 391.23,2281.7 408.06,2288.7 \
+425.33,2293.2",
+		style=solid];
+	"alive($x7, $y2)" -> "Reward Function"	[pos="e,446.82,3458.9 204.89,1982.2 215.57,1986.6 225.38,1992.7 233,2001.4 650.43,2476.1 -15.781,2921.1 377,3416.4 392.11,3435.4 414.32,\
+3447.8 437.3,3455.8"];
+	"alive($x7, $y2)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,477.12,2932.2 204.11,1982.6 214.97,1986.8 225.04,1992.9 233,2001.4 499.53,2285.7 147.48,2551.4 377,2866.4 398.95,2896.5 435.43,\
+2916.3 467.7,2928.7",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,434.84,1596.2 200.51,1964.9 212.28,1960.8 223.57,1955.2 233,1947.4 354.93,1846.3 252.42,1719.2 377,1621.4 390.83,1610.5 407.47,\
+1603.3 424.67,1598.6",
+		style=solid];
+	"alive($x7, $y2)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,517.36,1721.7 191.01,1962.5 205.35,1958.7 219.96,1953.8 233,1947.4 350.27,1890 462.76,1779.3 510.29,1729.2",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,493.78,6089.6 202.79,5230.1 214.12,5234.4 224.67,5240.6 233,5249.4 466.89,5494.8 191.49,5714.7 377,5998.4 402.93,6038 448.98,6067.1 \
+484.52,6085.1",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,499.16,4316.6 202.84,5212.7 214.16,5208.4 224.7,5202.1 233,5193.4 473.12,4940.1 195.37,4719.4 377,4421.4 404.16,4376.8 454,4342.3 \
+490.25,4321.6",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,433.96,5764.2 201.47,5230.6 213.11,5234.9 224.11,5240.9 233,5249.4 396.78,5405.3 208.52,5586.6 377,5737.4 390.19,5749.2 406.59,\
+5756.9 423.77,5761.7",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,433.66,5819.5 201.68,5230.4 213.29,5234.7 224.23,5240.8 233,5249.4 411.43,5424 193.3,5623.3 377,5792.4 390.03,5804.4 406.34,5812.1 \
+423.49,5817",
+		style=solid];
+	"alive($x4, $y6)" -> "Reward Function"	[pos="e,427.57,3478.7 204.2,5213.2 215.19,5208.8 225.27,5202.4 233,5193.4 477.44,4908.5 134.22,3796.7 377,3510.4 387.85,3497.6 402.16,\
+3488.6 417.73,3482.3"];
+	"alive($x4, $y6)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,442.76,3397.1 204.23,5213.3 215.22,5208.8 225.29,5202.4 233,5193.4 487.71,4895.4 129.39,3739.2 377,3435.4 391.16,3418 411.51,3407 \
+432.88,3400",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,494.09,4465.4 202.25,5212.6 213.72,5208.2 224.46,5202.1 233,5193.4 436.64,4986.6 214.24,4796.7 377,4556.4 403.57,4517.2 449.54,\
+4488 484.89,4470",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,433.58,5221.4 214.1,5221.4 276.6,5221.4 358.15,5221.4 423.27,5221.4",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,461.8,4882.2 197.94,5211.2 210.51,5207.1 222.73,5201.3 233,5193.4 340.49,5110.1 273.51,5011.6 377,4923.4 398.2,4905.3 425.77,4893.2 \
+451.88,4885.1",
+		style=solid];
+	"alive($x4, $y6)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,475.55,3638.3 204.11,5213.2 215.12,5208.7 225.22,5202.3 233,5193.4 450.87,4942.3 190.54,3979.6 377,3704.4 397.75,3673.8 433.79,\
+3654 466.11,3641.7",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,454.53,4751.2 194.29,4526.6 207.83,4530.6 221.31,4536 233,4543.4 318.77,4597.5 291.87,4665.3 377,4720.4 397.21,4733.5 421.38,4742.5 \
+444.63,4748.7",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,465.6,5958 204.04,4523.7 215.05,4528.1 225.18,4534.5 233,4543.4 633.16,5000.3 18.605,5412 377,5902.4 395.86,5928.2 426.52,5944.5 \
+455.76,5954.7",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,511.28,4317.4 188,4502.8 203.14,4499 218.84,4494.3 233,4488.4 339.27,4444.1 450.55,4363.9 503.07,4323.7",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,457.62,3549.2 204.15,4507.3 215.01,4503 225.06,4496.9 233,4488.4 506.91,4194.7 122.72,3907.2 377,3596.4 394.82,3574.6 421.55,3560.9 \
+447.94,3552.2",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,433.76,5766.5 203.63,4523.7 214.77,4528.1 225.05,4534.4 233,4543.4 588.05,4942.9 9.8628,5348.9 377,5737.4 389.6,5750.7 406.18,\
+5759 423.85,5764",
+		style=solid];
+	"alive($x5, $y5)" -> "Reward Function"	[pos="e,429.1,3479.1 204.54,4507.2 215.27,4502.9 225.19,4496.9 233,4488.4 530.44,4165 82.781,3836.7 377,3510.4 388.49,3497.6 403.43,3488.7 \
+419.51,3482.5"];
+	"alive($x5, $y5)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,486.06,4853.2 197.37,4525.8 210.08,4529.9 222.49,4535.6 233,4543.4 334.65,4619 284.84,4702.5 377,4789.4 405.46,4816.2 444.66,4836.2 \
+476.77,4849.5",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,451.66,3318.9 204.69,4507.4 215.4,4503.1 225.27,4496.9 233,4488.4 571.02,4113.8 58.445,3753.6 377,3362.4 393.31,3342.4 417.43,\
+3329.7 441.91,3321.8",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,477.69,3638.5 203.98,4507.1 214.86,4502.8 224.97,4496.8 233,4488.4 477.43,4231.9 165.98,3989 377,3704.4 399.28,3674.3 435.97,3654.5 \
+468.27,3642",
+		style=solid];
+	"alive($x5, $y5)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,512.25,2640.5 205.3,4507.5 215.86,4503.2 225.52,4497 233,4488.4 477.64,4205.7 235.52,3158.4 377,2812.4 405.2,2743.4 467.67,2680.4 \
+504.74,2647.1",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,440.16,4755.8 204.71,3550.4 215.42,3554.7 225.29,3560.8 233,3569.4 577.88,3952.6 38.249,4331.8 377,4720.4 390.92,4736.4 410.19,\
+4746.6 430.47,4753",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,514.18,4281.3 202.81,3551 213.99,3555.2 224.5,3561.1 233,3569.4 411.6,3742.6 262.84,3889.3 377,4110.4 411.12,4176.5 471.57,4240.2 \
+506.67,4274.1",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,512.81,2424.6 204.18,3534.3 215.04,3530 225.08,3523.9 233,3515.4 514.56,3212.1 206.65,2972.6 377,2595.4 407.44,2528 468.67,2465.2 \
+505.01,2431.7",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,499.51,3714 186.87,3555.2 202.31,3559 218.41,3563.7 233,3569.4 301.43,3596 312.36,3615.5 377,3650.4 415.09,3670.9 458.88,3693.4 \
+490.51,3709.5",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,433.94,3538.6 214.1,3541.2 276.72,3540.5 358.45,3539.5 423.63,3538.7",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,479.08,2854.7 203.27,3533.8 214.32,3529.6 224.67,3523.7 233,3515.4 426.14,3323.7 208.9,3134.3 377,2920.4 400.28,2890.8 437.38,\
+2870.9 469.67,2858.3",
+		style=solid];
+	"alive($x6, $y4)" -> "Reward Function"	[pos="e,457.35,3483.6 189.1,3530 260.66,3517.6 370.77,3498.6 447.25,3485.4"];
+	"alive($x6, $y4)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,434.18,5278 205.31,3550.2 215.86,3554.6 225.52,3560.7 233,3569.4 478.05,3852.6 124.51,4971.8 377,5248.4 389.52,5262.1 406.26,5270.6 \
+424.15,5275.6",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,448.94,2053.2 204.9,3534.6 215.58,3530.2 225.39,3524 233,3515.4 651.81,3038.9 -19.902,2590.2 377,2095.4 392.55,2076 415.54,2063.8 \
+439.16,2056.1",
+		style=solid];
+	"alive($x6, $y4)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,470.46,3322.7 194.16,3531.1 207.64,3527.3 221.13,3522.2 233,3515.4 313.91,3468.8 298.56,3413 377,3362.4 402.34,3346 433.2,3334 \
+460.84,3325.5",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,433.97,2245.6 202.31,2776.6 213.63,2772.4 224.31,2766.6 233,2758.4 396.88,2603.8 209.07,2422.6 377,2272.4 390.2,2260.6 406.6,2252.9 \
+423.78,2248.1",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,518.94,2424.6 195.04,2774.4 208.29,2770.6 221.48,2765.4 233,2758.4 251.23,2747.3 446.17,2512.6 512.24,2432.7",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,477.18,3716.2 204.07,2793.6 214.94,2797.9 225.02,2803.9 233,2812.4 492.16,3087.4 153.65,3345.5 377,3650.4 399.03,3680.4 435.51,\
+3700.2 467.77,3712.7",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,434.55,3534.8 203.51,2793.7 214.53,2798 224.8,2804 233,2812.4 452.67,3037.6 154.14,3283.4 377,3505.4 390.05,3518.4 406.86,3526.8 \
+424.61,3532.1",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,452.32,2828.8 197.31,2795.7 267.25,2804.8 368.89,2818 442.18,2827.5",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,481.54,2315.1 201.18,2776.2 212.79,2772.1 223.86,2766.4 233,2758.4 368.63,2639.7 256.66,2513.5 377,2379.4 402.27,2351.2 439.78,\
+2331.6 471.8,2318.8",
+		style=solid];
+	"alive($x7, $y3)" -> "Reward Function"	[pos="e,450.91,3458.2 203.29,2794 214.34,2798.2 224.68,2804.1 233,2812.4 428.57,3007.1 191.57,3212 377,3416.4 393.85,3435 417.39,3447.1 \
+441.11,3455.1"];
+	"alive($x7, $y3)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,500.99,2930 184.08,2798.6 200.26,2802.5 217.39,2807.1 233,2812.4 328.35,2844.6 434.62,2896.2 491.89,2925.4",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x8, $y4)"	[color=black,
+		pos="e,452.36,3801.8 204.22,2793.5 215.06,2797.8 225.1,2803.8 233,2812.4 521.68,3124.7 104.56,3431.8 377,3758.4 393.63,3778.3 417.98,\
+3790.9 442.57,3798.9",
+		style=solid];
+	"alive($x7, $y3)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,518.6,1721.6 204.03,2777.1 214.9,2772.9 225,2766.8 233,2758.4 484.79,2492.6 243.34,2288.2 377,1947.4 410.97,1860.8 477.64,1772.1 \
+512.15,1729.5",
+		style=solid];
+	"alive($x8, $y2)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,452.32,2255 197.31,2288 267.25,2279 368.89,2265.8 442.18,2256.3",
+		style=solid];
+	"alive($x8, $y2)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,449.34,1984.2 198.66,2288.5 210.94,2284.5 222.87,2279 233,2271.4 337.15,2193.3 274.1,2096.1 377,2016.4 395.07,2002.4 417.43,1993 \
+439.55,1986.8",
+		style=solid];
+	"alive($x8, $y2)" -> "alive'($x8, $y1)"	[color=black,
+		pos="e,454.71,2200.6 182.34,2284.8 198.97,2280.9 216.74,2276.3 233,2271.4 298.42,2251.6 311.08,2235.5 377,2217.4 398.65,2211.4 422.34,\
+2206.5 444.59,2202.4",
+		style=solid];
+	"alive($x8, $y2)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,516.12,2821.3 200.49,2307.9 212.27,2311.9 223.56,2317.6 233,2325.4 354.42,2425.8 294.04,2515.4 377,2649.4 416.58,2713.3 475.79,\
+2779 509.04,2813.9",
+		style=solid];
+	"alive($x8, $y2)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,433.58,2299.1 214.1,2298.6 276.6,2298.8 358.15,2299 423.27,2299.1",
+		style=solid];
+	"alive($x8, $y2)" -> "Reward Function"	[pos="e,447.61,3458.7 204.66,2306.4 215.37,2310.7 225.26,2316.8 233,2325.4 561.41,2687.8 67.421,3037.7 377,3416.4 392.47,3435.3 414.93,\
+3447.6 438.04,3455.6"];
+	"alive($x8, $y2)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,479.7,2932 202.81,2307 213.99,2311.2 224.5,2317.1 233,2325.4 411.6,2498.6 221.07,2672.5 377,2866.4 400.71,2895.9 438.01,2915.7 \
+470.3,2928.4",
+		style=solid];
+	"set($x8, $y7)" -> "Reward Function"	[pos="e,426.33,3478.6 178.6,6473.2 198.89,6469.9 219.68,6462.4 233,6446.4 651.36,5944.7 -36.365,4016.2 377,3510.4 387.47,3497.6 401.41,\
+3488.5 416.67,3482.2"];
+	"set($x8, $y7)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,477.36,6649.2 178.75,6482.7 196.75,6486.8 216.13,6492.5 233,6500.4 305.66,6534.5 306.27,6571.4 377,6609.4 405.47,6624.7 439.03,\
+6637.1 467.8,6646.2",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,514.9,4281.3 202.07,3659.4 213.42,3663.5 224.18,3669.3 233,3677.4 382.81,3814.1 278.5,3933.1 377,4110.4 413.21,4175.6 473.16,4239.8 \
+507.55,4274.1",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,434,5767.2 205.43,3658.1 215.96,3662.5 225.59,3668.7 233,3677.4 530.54,4026.7 70.277,5396.1 377,5737.4 389.41,5751.2 406.1,5759.7 \
+423.97,5764.7",
+		style=solid];
+	"alive($x4, $y5)" -> "Reward Function"	[pos="e,456.27,3483.5 190.62,3638.4 205.06,3634.6 219.82,3629.7 233,3623.4 306.34,3588.2 304.01,3546.3 377,3510.4 398.53,3499.8 423.15,\
+3491.8 446.4,3485.9"];
+	"alive($x4, $y5)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,458.25,3401.4 196.27,3639.7 209.17,3635.8 221.93,3630.5 233,3623.4 321.42,3566.3 290.2,3494.9 377,3435.4 398.2,3420.8 424.02,3410.8 \
+448.56,3404",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,499.47,4431 203.41,3658.8 214.44,3663.1 224.75,3669 233,3677.4 440.74,3887.5 218.99,4076.7 377,4326.4 404.91,4370.5 454.61,4405 \
+490.63,4426",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,475.56,4854.5 204.68,3658.4 215.39,3662.7 225.27,3668.8 233,3677.4 567.17,4047.1 89.817,4382.1 377,4789.4 398.09,4819.3 433.75,\
+4838.7 465.76,4850.9",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,462.34,3321.2 199.02,3640.5 211.19,3636.5 222.99,3631 233,3623.4 338.62,3543.4 275.58,3447.6 377,3362.4 398.52,3344.3 426.43,3332.2 \
+452.73,3324.1",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,439.56,3629.5 208.9,3644.5 273.93,3640.2 361.43,3634.6 429.27,3630.2",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,513.25,2640.5 204.03,3642.1 214.9,3637.9 225,3631.8 233,3623.4 484.79,3357.6 223.34,3144.7 377,2812.4 408.22,2744.9 469.45,2681.4 \
+505.52,2647.7",
+		style=solid];
+	"alive($x4, $y5)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,438.29,2127.8 204.92,3642.6 215.6,3638.2 225.4,3632.1 233,3623.4 448.04,3378.1 164.4,2409.8 377,2162.4 390.39,2146.8 408.92,2136.9 \
+428.57,2130.6",
+		style=solid];
+	"set($x1, $y3)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,433.94,617.53 178.72,1159 198.18,1155.4 218.41,1148.2 233,1134.4 397.95,978.45 207.97,795.88 377,644.38 390.19,632.57 406.58,624.91 \
+423.76,620.06",
+		style=solid];
+	"set($x1, $y3)" -> "Reward Function"	[pos="e,445.53,3459 178.77,1161.7 198.95,1165 219.62,1172.6 233,1188.4 553.7,1566.9 75.938,3022 377,3416.4 391.54,3435.4 413.19,3447.8 \
+435.8,3455.8"];
+	"alive($x3, $y8)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,433.89,5873.7 202.07,5395.4 213.43,5399.5 224.18,5405.3 233,5413.4 383.07,5550.4 223.34,5714.4 377,5847.4 390.3,5858.9 406.67,\
+5866.4 423.76,5871.2",
+		style=solid];
+	"alive($x3, $y8)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,434.32,5818.2 201.18,5395.5 212.79,5399.6 223.86,5405.4 233,5413.4 368.63,5532 238.27,5677.4 377,5792.4 390.54,5803.6 407.03,5811 \
+424.17,5815.7",
+		style=solid];
+	"alive($x3, $y8)" -> "Reward Function"	[pos="e,427.08,3478.8 204.26,5378.3 215.25,5373.8 225.31,5367.4 233,5358.4 500.05,5044.8 111.78,3825.6 377,3510.4 387.72,3497.6 401.89,\
+3488.7 417.32,3482.4"];
+	"alive($x3, $y8)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,522.9,4968.6 195.18,5375.5 208.49,5371.4 221.66,5365.9 233,5358.4 310.91,5306.6 466.92,5059.6 517.65,4977.2",
+		style=solid];
+	"alive($x3, $y8)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,433.49,4638.5 202.67,5377.6 214.02,5373.2 224.61,5367.1 233,5358.4 451.48,5132.7 151.7,4885.3 377,4666.4 389.9,4653.8 406.36,4645.9 \
+423.75,4640.9",
+		style=solid];
+	"alive($x3, $y8)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,444.66,5229.8 188.71,5374 203.73,5370 219.2,5364.9 233,5358.4 305.52,5324 303.46,5281.5 377,5249.4 395.01,5241.5 415.11,5235.8 \
+434.75,5231.8",
+		style=solid];
+	"alive($x3, $y8)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,452.49,5342.1 196.82,5375.9 266.81,5366.7 368.84,5353.2 442.31,5343.5",
+		style=solid];
+	"set($x7, $y2)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,434.86,2247.2 178.6,2619.7 197.72,2615.9 217.77,2609 233,2596.4 354.42,2495.9 252.95,2369.6 377,2272.4 390.85,2261.5 407.49,2254.3 \
+424.69,2249.7",
+		style=solid];
+	"set($x7, $y2)" -> "Reward Function"	[pos="e,449.11,3458.4 178.63,2624.8 198.44,2628.3 218.9,2635.7 233,2650.4 472.52,2900.6 150.5,3154.3 377,3416.4 393.15,3435.1 416.08,3447.3 \
+439.44,3455.3"];
+	"set($x6, $y5)" -> "alive'($x6, $y5)"	[color=black,
+		pos="e,448.05,4752.9 178.55,4411.6 197.55,4415.4 217.55,4422.2 233,4434.4 344.81,4522.4 266.6,4630.6 377,4720.4 394.54,4734.7 416.49,\
+4744.1 438.36,4750.4",
+		style=solid];
+	"set($x6, $y5)" -> "Reward Function"	[pos="e,429.71,3479.2 178.52,4406.2 198.43,4402.7 218.99,4395.3 233,4380.4 500.9,4094.3 111.95,3799.1 377,3510.4 388.69,3497.7 403.81,\
+3488.7 420.04,3482.5"];
+	"alive($x5, $y2)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,474.95,2391.5 204,1005.7 215.02,1010.2 225.16,1016.5 233,1025.4 617.3,1462.1 46.176,1847.9 377,2326.4 397.73,2356.4 433.18,2375.8 \
+465.16,2388",
+		style=solid];
+	"alive($x5, $y2)" -> "Reward Function"	[pos="e,445.47,3459 204.41,1005.4 215.37,1009.9 225.39,1016.3 233,1025.4 574.51,1433.7 54.93,2992.6 377,3416.4 391.5,3435.5 413.13,3447.8 \
+435.74,3455.9"];
+	"alive($x5, $y2)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,499.21,826.67 185.02,984.25 201.01,980.25 217.82,975.32 233,969.38 301.19,942.74 312.37,923.79 377,889.38 414.97,869.17 458.6,\
+847.03 490.21,831.17",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,469.24,740.49 194.75,986.36 208.17,982.34 221.49,976.86 233,969.38 320.96,912.23 292.15,844.07 377,782.38 401.39,764.65 431.94,\
+752.08 459.6,743.4",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,440.43,2036.6 203.42,1005.9 214.59,1010.3 224.93,1016.5 233,1025.4 528.57,1349.3 85.268,1674 377,2001.4 391.1,2017.2 410.44,2027.4 \
+430.73,2033.8",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,525.36,1575 197.96,1007.5 210.53,1011.7 222.74,1017.4 233,1025.4 281.55,1063.1 469.56,1456.8 520.95,1565.6",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,433.63,1703.1 202.28,1006.2 213.75,1010.5 224.48,1016.7 233,1025.4 440.14,1236.7 163.47,1470.5 377,1675.4 389.98,1687.8 406.48,\
+1695.8 423.89,1700.7",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,433.58,997.38 214.1,997.38 276.6,997.38 358.15,997.38 423.27,997.38",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,483.28,1131.5 183.23,1010.9 199.68,1014.9 217.14,1019.8 233,1025.4 299.74,1049 311.44,1066.7 377,1093.4 408.43,1106.2 444.14,1118.6 \
+473.56,1128.3",
+		style=solid];
+	"alive($x5, $y2)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,459.65,1054.1 190.53,1009.5 262.87,1021.5 373.56,1039.8 449.63,1052.4",
+		style=solid];
+	"set($x5, $y8)" -> "alive'($x5, $y8)"	[color=black,
+		pos="e,469.24,6187.3 178.78,5604.7 198.24,5608.3 218.46,5615.5 233,5629.4 401.69,5790.1 223.36,5958.3 377,6133.4 398.38,6157.8 430.08,\
+6173.7 459.4,6184",
+		style=solid];
+	"set($x5, $y8)" -> "Reward Function"	[pos="e,426.98,3478.7 178.72,5602 198.9,5598.7 219.58,5591.1 233,5575.4 531.23,5225.2 82.253,3863.6 377,3510.4 387.67,3497.6 401.81,3488.6 \
+417.23,3482.3"];
+	"alive($x4, $y4)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,512.27,4281.4 205.28,2469.2 215.84,2473.6 225.51,2479.8 233,2488.4 470.2,2761.7 239.14,3775.8 377,4110.4 405.18,4178.8 467.21,\
+4241.2 504.31,4274.4",
+		style=solid];
+	"alive($x4, $y4)" -> "Reward Function"	[pos="e,448.3,3458.6 204.19,2469.5 215.05,2473.8 225.09,2479.9 233,2488.4 516.75,2794.5 109.16,3096.3 377,3416.4 392.77,3435.2 415.45,\
+3447.5 438.68,3455.5"];
+	"alive($x4, $y4)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,452.57,3378.6 204.08,2469.6 214.95,2473.9 225.03,2479.9 233,2488.4 494.61,2766.5 129.85,3044.3 377,3335.4 393.8,3355.2 418.21,\
+3367.7 442.79,3375.7",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,456.92,2055.2 199.44,2451.7 211.62,2447.5 223.32,2441.6 233,2433.4 357.58,2327.8 256.85,2206 377,2095.4 396.4,2077.5 422.08,2065.8 \
+447.03,2058.1",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,484.18,3292.4 203.88,2469.8 214.78,2474 224.92,2480 233,2488.4 462.72,2726.3 184.18,2949.7 377,3218.4 400.86,3251.6 441.09,3274.3 \
+474.84,3288.6",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,456.89,3611.7 204.64,2469.4 215.36,2473.8 225.25,2479.8 233,2488.4 557.3,2845.6 76.558,3186.9 377,3564.4 394.44,3586.3 420.94,\
+3600.1 447.23,3608.7",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,500.53,2605 184.07,2474.7 200.25,2478.5 217.38,2483.1 233,2488.4 328.02,2520.3 434,2571.3 491.41,2600.3",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,450.88,926.68 204.1,2453.1 215.1,2448.7 225.22,2442.3 233,2433.4 447.31,2186.8 174.44,1226.7 377,970.38 392.94,950.22 416.82,937.55 \
+441.18,929.6",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,446.27,2131.4 197.95,2451.2 210.52,2447.1 222.73,2441.4 233,2433.4 340.74,2349.7 269.75,2246.6 377,2162.4 394.17,2148.9 415.36,\
+2139.9 436.55,2133.9",
+		style=solid];
+	"alive($x4, $y4)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,439.27,1153.4 203.96,2453 214.99,2448.6 225.14,2442.3 233,2433.4 601.99,2016.1 11.7,1608.9 377,1188.4 390.65,1172.7 409.51,1162.6 \
+429.43,1156.2",
+		style=solid];
+	"set($x1, $y2)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,468.32,264.21 178.6,501.83 197.08,497.88 216.76,491.54 233,481.38 318.99,427.62 293.85,362.44 377,304.38 401.21,287.48 431.17,\
+275.46 458.42,267.12",
+		style=solid];
+	"set($x1, $y2)" -> "Reward Function"	[pos="e,444.93,3459 178.59,508.53 198.88,511.85 219.67,519.42 233,535.38 643.77,1027.5 -8.2436,2904 377,3416.4 391.32,3435.4 412.77,3447.8 \
+435.25,3455.8"];
+	"set($x2, $y1)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,446.69,204.49 178.74,335.29 196.65,331.22 215.98,325.71 233,318.38 303.43,288.07 305.79,251.81 377,223.38 395.78,215.89 416.63,\
+210.39 436.83,206.36",
+		style=solid];
+	"set($x2, $y1)" -> "Reward Function"	[pos="e,444.9,3459 178.62,345.51 198.91,348.83 219.69,356.4 233,372.38 449.63,632.62 173.87,3145.5 377,3416.4 391.3,3435.5 412.74,3447.8 \
+435.22,3455.9"];
+	"alive($x3, $y7)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,433.96,5874.2 201.47,5340.6 213.11,5344.9 224.11,5350.9 233,5359.4 396.78,5515.3 208.52,5696.6 377,5847.4 390.19,5859.2 406.59,\
+5866.9 423.77,5871.7",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,433.9,5818.7 200.92,5340.8 212.71,5345 223.89,5351 233,5359.4 382.25,5496.7 223.61,5659.7 377,5792.4 390.3,5803.9 406.67,5811.4 \
+423.77,5816.2",
+		style=solid];
+	"alive($x3, $y7)" -> "Reward Function"	[pos="e,427.11,3478.8 204.24,5323.3 215.23,5318.8 225.3,5312.4 233,5303.4 492.51,4999.3 119.26,3815.9 377,3510.4 387.74,3497.7 401.91,\
+3488.7 417.35,3482.4"];
+	"alive($x3, $y7)" -> "alive'($x2, $y8)"	[color=black,
+		pos="e,523.98,4968.9 193.85,5320.1 207.5,5316.1 221.14,5310.7 233,5303.4 372.61,5217.5 480.46,5045.1 518.83,4978",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,433.68,4638.7 202.25,5322.6 213.72,5318.2 224.46,5312.1 233,5303.4 436.64,5096.6 167.11,4866.9 377,4666.4 390.01,4654 406.52,4646 \
+423.93,4641.1",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,493.78,4465.2 202.79,5322.7 214.12,5318.3 224.67,5312.1 233,5303.4 466.35,5058.7 191.89,4839.3 377,4556.4 402.94,4516.7 448.98,\
+4487.7 484.53,4469.7",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,454.71,5232.6 180.82,5317.5 197.87,5313.4 216.24,5308.5 233,5303.4 298.33,5283.3 311.08,5267.5 377,5249.4 398.65,5243.4 422.34,\
+5238.5 444.59,5234.4",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x3, $y8)"	[color=black,
+		pos="e,433.58,5331.4 214.1,5331.4 276.6,5331.4 358.15,5331.4 423.27,5331.4",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,458.05,4881.4 200.32,5321.8 212.26,5317.6 223.64,5311.6 233,5303.4 368.4,5183.9 247.33,5049.1 377,4923.4 396.45,4904.5 422.78,\
+4892.2 448.32,4884.2",
+		style=solid];
+	"alive($x3, $y7)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,512.68,4101.5 203.48,5323 214.65,5318.5 224.97,5312.3 233,5303.4 543.56,4960.4 190.04,4695.6 377,4272.4 406.89,4204.7 468.31,4142 \
+504.84,4108.6",
+		style=solid];
+	"set($x7, $y3)" -> "alive'($x7, $y3)"	[color=black,
+		pos="e,452.02,2850 178.51,2885.5 247.85,2876.5 361.77,2861.7 441.93,2851.3",
+		style=solid];
+	"set($x7, $y3)" -> "Reward Function"	[pos="e,452.3,3457.9 178.75,2895.7 198.21,2899.4 218.43,2906.6 233,2920.4 399.55,3078.3 218.69,3250.2 377,3416.4 394.55,3434.8 418.67,\
+3447 442.73,3454.9"];
+	"alive($x5, $y3)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,478.33,2391.1 202.13,1712.3 213.62,1716.6 224.39,1722.8 233,1731.4 425.35,1923.8 208.36,2112.9 377,2326.4 400.03,2355.5 436.53,\
+2375 468.55,2387.5",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,433.94,3536.3 204.24,1711.5 215.22,1716 225.29,1722.4 233,1731.4 489.9,2032.1 114.61,3209.4 377,3505.4 389.38,3519.3 406.05,3528.2 \
+423.91,3533.6",
+		style=solid];
+	"alive($x5, $y3)" -> "Reward Function"	[pos="e,446.21,3458.9 204.2,1711.5 215.19,1716 225.27,1722.4 233,1731.4 477.71,2016.6 145.88,3120 377,3416.4 391.81,3435.4 413.68,3447.7 \
+436.43,3455.7"];
+	"alive($x5, $y3)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,476.93,824.45 202.86,1694.8 214.18,1690.4 224.71,1684.2 233,1675.4 476.92,1417.2 164.8,1174.2 377,889.38 399.03,859.82 435.12,\
+840.36 467.14,828.04",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,448.69,2033.7 197.94,1713.6 210.51,1717.7 222.73,1723.4 233,1731.4 340.49,1814.7 270.49,1916.8 377,2001.4 394.8,2015.5 416.95,\
+2024.9 438.95,2031.2",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,481.59,3292.6 204.11,1711.6 215.11,1716.1 225.22,1722.4 233,1731.4 450.6,1982.1 196.9,2939.5 377,3218.4 398.89,3252.3 438.33,3274.8 \
+472.2,3288.9",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,433.58,1703.4 214.1,1703.4 276.6,1703.4 358.15,1703.4 423.27,1703.4",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,513.46,2604.3 202.7,1712.2 214.04,1716.5 224.62,1722.7 233,1731.4 454.18,1960.6 239.11,2146.3 377,2433.4 409.11,2500.2 470.01,\
+2563.5 505.79,2597.1",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,442.5,1155 201.46,1694.2 213.11,1689.9 224.11,1683.8 233,1675.4 396.51,1519.8 214.86,1345.4 377,1188.4 392.29,1173.6 412.22,1163.9 \
+432.73,1157.7",
+		style=solid];
+	"alive($x5, $y3)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,454.81,1077.7 202.01,1694.3 213.51,1690 224.32,1683.9 233,1675.4 414.63,1496.6 203.91,1307.4 377,1120.4 394.89,1101.1 420.01,1088.6 \
+444.92,1080.7",
+		style=solid];
+	"set($x6, $y4)" -> "alive'($x6, $y4)"	[color=black,
+		pos="e,449.75,3527.5 178.51,3495.6 247.2,3503.6 359.64,3516.9 439.67,3526.3",
+		style=solid];
+	"set($x6, $y4)" -> "Reward Function"	[pos="e,409.57,3475.8 178.51,3485.7 236.24,3483.3 324.87,3479.4 399.19,3476.2"];
+	"alive($x3, $y6)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,433.76,5821.5 203.63,4578.7 214.77,4583.1 225.05,4589.4 233,4598.4 588.05,4997.9 9.8628,5403.9 377,5792.4 389.6,5805.7 406.18,\
+5814 423.85,5819",
+		style=solid];
+	"alive($x3, $y6)" -> "Reward Function"	[pos="e,429.01,3479 203.49,4562 214.65,4557.5 224.97,4551.3 233,4542.4 543.83,4199.1 68.172,3855.5 377,3510.4 388.45,3497.6 403.36,3488.6 \
+419.43,3482.4"];
+	"alive($x3, $y6)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,443.76,3397.5 203.56,4562 214.71,4557.6 225.01,4551.3 233,4542.4 564.29,4173.1 54.512,3812.4 377,3435.4 391.71,3418.2 412.49,3407.2 \
+434.12,3400.3",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,459.13,4626.2 191,4582.4 263.19,4594.2 373.24,4612.1 449.12,4624.5",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,485.8,4464.5 179.13,4556.2 196.6,4552 215.6,4547.2 233,4542.4 318.21,4518.8 415.71,4487.5 476.08,4467.7",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x3, $y7)"	[color=black,
+		pos="e,520.17,5202.9 200.32,4580 212.25,4584.2 223.64,4590.1 233,4598.4 368.14,4717.6 295.81,4816.5 377,4977.4 419.03,5060.6 482.39,5151.1 \
+514.24,5194.8",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,489.17,4853 195.12,4581.4 208.43,4585.4 221.62,4590.9 233,4598.4 321.85,4656.8 295.55,4721.1 377,4789.4 407.61,4815.1 447.85,4835.4 \
+479.93,4849.1",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,477.18,3638.6 202.95,4561.8 214.25,4557.5 224.76,4551.2 233,4542.4 491.03,4266.3 153.65,4009.2 377,3704.4 399.03,3674.3 435.51,\
+3654.6 467.77,3642.1",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,516.61,4101.7 197.94,4560.2 210.51,4556.1 222.73,4550.3 233,4542.4 340.49,4459.1 301.16,4385.3 377,4272.4 418.8,4210.2 477.18,\
+4144.3 509.69,4109.1",
+		style=solid];
+	"alive($x3, $y6)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,482.16,3207.1 203.97,4562 215,4557.6 225.15,4551.3 233,4542.4 606.36,4119.5 66.928,3752.6 377,3281.4 399.26,3247.6 438.9,3225 \
+472.78,3210.9",
+		style=solid];
+	"set($x8, $y1)" -> "alive'($x8, $y1)"	[color=black,
+		pos="e,434.85,2192.2 178.61,2565.7 197.73,2561.9 217.77,2555 233,2542.4 354.68,2441.6 252.69,2314.9 377,2217.4 390.84,2206.5 407.48,2199.3 \
+424.68,2194.7",
+		style=solid];
+	"set($x8, $y1)" -> "Reward Function"	[pos="e,448.96,3458.5 178.73,2570.7 198.55,2574.2 218.99,2581.6 233,2596.4 487.24,2865.2 136.74,3135 377,3416.4 393.04,3435.2 415.93,3447.4 \
+439.29,3455.4"];
+	"alive($x8, $y8)" -> "Reward Function"	[pos="e,426.25,3478.6 205.65,6900.8 216.15,6896.4 225.71,6890.2 233,6881.4 472.19,6592.7 140.68,3801.4 377,3510.4 387.42,3497.5 401.34,\
+3488.5 416.6,3482.2"];
+	"alive($x8, $y8)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,476.64,6734.4 190.21,6896.2 204.76,6892.5 219.66,6887.6 233,6881.4 305.5,6847.6 306.32,6810.9 377,6773.4 405.14,6758.5 438.23,\
+6746.4 466.75,6737.4",
+		style=solid];
+	"alive($x8, $y8)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,464.2,6595.6 198.53,6898.3 210.83,6894.3 222.79,6888.9 233,6881.4 334.48,6806.8 279.67,6717.3 377,6637.4 399.17,6619.2 427.76,\
+6606.8 454.46,6598.5",
+		style=solid];
+	"alive($x8, $y8)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,438.17,6669.9 196.29,6897.7 209.19,6893.8 221.94,6888.5 233,6881.4 321.64,6824 286.87,6747.4 377,6692.4 392.45,6683 410.25,6676.5 \
+428.2,6672.1",
+		style=solid];
+	"alive($x8, $y8)" -> "alive'($x8, $y8)"	[color=black,
+		pos="e,478.94,6815.8 179.63,6894.3 196.94,6890.2 215.72,6885.7 233,6881.4 314.66,6860.9 408.24,6835.4 469.09,6818.5",
+		style=solid];
+	"set($x1, $y5)" -> "Reward Function"	[pos="e,456.13,3457.2 178.69,3059 197.81,3062.7 217.84,3069.7 233,3082.4 356.98,3186.1 258.45,3306.5 377,3416.4 396.22,3434.2 421.6,3446.2 \
+446.33,3454.2"];
+	"set($x1, $y5)" -> "alive'($x1, $y5)"	[color=black,
+		pos="e,452.02,3098.8 178.51,3063.3 247.85,3072.3 361.77,3087.1 441.93,3097.4",
+		style=solid];
+	"set($x7, $y4)" -> "alive'($x7, $y4)"	[color=black,
+		pos="e,439.27,3725.2 178.51,3708.3 244.27,3712.6 350.14,3719.5 429.27,3724.6",
+		style=solid];
+	"set($x7, $y4)" -> "Reward Function"	[pos="e,448.72,3482.2 178.72,3697.5 197.11,3693.5 216.71,3687.3 233,3677.4 316.84,3626.6 293.67,3562 377,3510.4 395.67,3498.8 417.54,3490.6 \
+438.94,3484.7"];
+	"set($x2, $y2)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,450.44,341.47 178.62,610.9 197.31,607.01 217.1,600.43 233,589.38 328.05,523.33 282.81,439.66 377,372.38 395.67,359.05 418.35,350.05 \
+440.61,343.98",
+		style=solid];
+	"set($x2, $y2)" -> "Reward Function"	[pos="e,445.37,3459.1 178.58,616.55 198.86,619.86 219.66,627.43 233,643.38 628.87,1116.7 5.6827,2923.6 377,3416.4 391.42,3435.5 413.03,\
+3447.9 435.63,3455.9"];
+	"set($x6, $y7)" -> "Reward Function"	[pos="e,426.83,3478.6 178.53,6038.2 198.81,6034.9 219.61,6027.3 233,6011.4 591.35,5585.4 22.89,3939.9 377,3510.4 387.59,3497.5 401.69,\
+3488.5 417.09,3482.2"];
+	"set($x6, $y7)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,435.5,6362.7 178.72,6042.8 197.62,6046.6 217.52,6053.4 233,6065.4 341.58,6149.2 266.23,6257.5 377,6338.4 391.2,6348.8 408.03,6355.7 \
+425.29,6360.3",
+		style=solid];
+	"alive($x4, $y3)" -> "Reward Function"	[pos="e,445.49,3459 204.4,1060.4 215.36,1064.9 225.38,1071.3 233,1080.4 566.97,1479.1 62.019,3002.5 377,3416.4 391.51,3435.5 413.15,3447.8 \
+435.76,3455.9"];
+	"alive($x4, $y3)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,493.53,826.19 191.39,1040.5 205.7,1036.5 220.2,1031.3 233,1024.4 310.18,982.67 305.21,939.8 377,889.38 410.72,865.7 452.43,844.79 \
+484.37,830.3",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,440.94,2036.6 203.36,1060.9 214.53,1065.3 224.9,1071.6 233,1080.4 513.59,1385.2 100.02,1693.3 377,2001.4 391.25,2017.2 410.76,\
+2027.4 431.18,2033.8",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,481.25,3292.8 204.35,1060.4 215.32,1064.9 225.36,1071.3 233,1080.4 539.81,1444.6 124.55,2814.6 377,3218.4 398.39,3252.6 437.83,\
+3275.1 471.83,3289.1",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,433.89,563.01 200.93,1043 212.71,1038.8 223.9,1032.8 233,1024.4 382.77,886.39 223.06,722.72 377,589.38 390.3,577.87 406.66,570.34 \
+423.76,565.54",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,512.41,2604.4 204.03,1060.7 215.05,1065.1 225.18,1071.5 233,1080.4 432.26,1307.8 259.36,2154.8 377,2433.4 405.77,2501.5 467.59,\
+2564.1 504.49,2597.3",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,485.78,932.59 180.82,1038.5 197.87,1034.4 216.24,1029.5 233,1024.4 298.33,1004.3 312.68,993.5 377,970.38 409.66,958.65 446.32,\
+946.01 476,935.91",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,449.89,2112.3 203.44,1060.8 214.61,1065.3 224.94,1071.5 233,1080.4 532.38,1409.1 91.344,1729.7 377,2070.4 393.05,2089.5 416.33,\
+2101.7 440.07,2109.4",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,471.07,1133 179.4,1066.5 254.6,1083.7 381.25,1112.5 461.09,1130.8",
+		style=solid];
+	"alive($x4, $y3)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,435.52,1063.1 212.79,1055.6 276.17,1057.7 359.57,1060.5 425.5,1062.7",
+		style=solid];
+	"alive($x6, $y1)" -> "alive'($x7, $y2)"	[color=black,
+		pos="e,433.86,2244.4 203.54,1493.7 214.55,1498 224.82,1504 233,1512.4 455.66,1741.3 148.34,1993.4 377,2216.4 389.96,2229 406.55,2237 \
+424.06,2242",
+		style=solid];
+	"alive($x6, $y1)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,522.07,1955.9 197.65,1495.7 210.18,1499.6 222.46,1505 233,1512.4 238.34,1516.1 453.23,1849.1 516.59,1947.4",
+		style=solid];
+	"alive($x6, $y1)" -> "Reward Function"	[pos="e,446.08,3459 205.39,1493.2 215.92,1497.5 225.56,1503.7 233,1512.4 509.04,1834.6 117.68,3080.5 377,3416.4 391.72,3435.4 413.56,3447.8 \
+436.3,3455.8"];
+	"alive($x6, $y1)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,478.94,1578 179.63,1499.5 196.94,1503.6 215.72,1508 233,1512.4 314.66,1532.9 408.24,1558.4 469.09,1575.2",
+		style=solid];
+	"alive($x6, $y1)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,439.56,1697 194.65,1496.4 208,1500.2 221.33,1505.4 233,1512.4 315.99,1562 292.72,1628 377,1675.4 393.06,1684.4 411.38,1690.6 429.7,\
+1694.9",
+		style=solid];
+	"alive($x6, $y1)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,444.59,1005.7 201.7,1476.4 213.18,1472.3 224.06,1466.5 233,1458.4 379.12,1326.4 233,1173.7 377,1039.4 393.01,1024.4 413.75,1014.7 \
+434.87,1008.4",
+		style=solid];
+	"alive($x6, $y1)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,459.3,1078.6 200.6,1476 212.36,1471.9 223.62,1466.3 233,1458.4 358.01,1353.3 257.49,1231.6 377,1120.4 397.02,1101.8 423.76,1089.5 \
+449.5,1081.5",
+		style=solid];
+	"alive($x8, $y7)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,433.9,6258 200.92,6736 212.71,6731.8 223.89,6725.8 233,6717.4 382.25,6580.1 223.61,6417.1 377,6284.4 390.3,6272.9 406.67,6265.4 \
+423.77,6260.6",
+		style=solid];
+	"alive($x8, $y7)" -> "Reward Function"	[pos="e,426.28,3478.6 204.82,6737.4 215.65,6732.9 225.52,6726.5 233,6717.4 459.75,6442 151.86,3787 377,3510.4 387.44,3497.6 401.36,3488.5 \
+416.62,3482.2"];
+	"alive($x8, $y7)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,439.07,6725.3 209.42,6739.6 274.25,6735.6 361.22,6730.2 428.82,6726",
+		style=solid];
+	"alive($x8, $y7)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,481.87,6598.2 185.02,6732.2 201.01,6728.3 217.82,6723.3 233,6717.4 301.19,6690.7 310.21,6667.4 377,6637.4 407.65,6623.6 442.87,\
+6611 472.18,6601.3",
+		style=solid];
+	"alive($x8, $y7)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,434.33,6313.5 200.31,6735.8 212.24,6731.6 223.63,6725.6 233,6717.4 367.88,6598.5 238.54,6454 377,6339.4 390.55,6328.2 407.04,6320.8 \
+424.18,6316",
+		style=solid];
+	"alive($x8, $y7)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,461.24,6677 182.2,6731.7 234.64,6720.7 310.5,6705.1 377,6692.4 401.03,6687.8 427.18,6683 451.12,6678.8",
+		style=solid];
+	"alive($x8, $y7)" -> "alive'($x8, $y8)"	[color=black,
+		pos="e,452.49,6789.6 196.82,6755.9 266.81,6765.1 368.84,6778.6 442.31,6788.3",
+		style=solid];
+	"set($x5, $y6)" -> "alive'($x5, $y6)"	[color=black,
+		pos="e,433.62,5765.1 178.67,5060.1 198.36,5063.6 218.75,5071 233,5085.4 441.55,5296.5 162.91,5531.9 377,5737.4 389.98,5749.8 406.48,5757.8 \
+423.88,5762.7",
+		style=solid];
+	"set($x5, $y6)" -> "Reward Function"	[pos="e,427.68,3478.8 178.51,5057.9 198.66,5054.5 219.39,5047 233,5031.4 456.3,4775.6 156.25,3768.3 377,3510.4 387.9,3497.6 402.25,3488.7 \
+417.83,3482.4"];
+	"alive($x3, $y5)" -> "Reward Function"	[pos="e,465.8,3455.6 181.21,3394.2 254.97,3410.1 376.45,3436.3 455.85,3453.5"];
+	"alive($x3, $y5)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,434.42,3387.2 213.58,3382.5 276.4,3383.8 358.64,3385.6 424.07,3387",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x3, $y6)"	[color=black,
+		pos="e,498.55,4431.2 204.18,3388.5 215.04,3392.8 225.08,3398.9 233,3407.4 514.29,3710.4 167,3970.3 377,4326.4 403.43,4371.2 453.16,4405.5 \
+489.59,4426.2",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,434.18,1646.8 205.3,3372.5 215.86,3368.2 225.52,3362 233,3353.4 477.78,3070.6 124.8,1952.6 377,1676.4 389.52,1662.7 406.26,1654.2 \
+424.15,1649.2",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,474.88,4854.6 204.87,3388.2 215.56,3392.6 225.37,3398.7 233,3407.4 437.18,3639 202.23,4534.8 377,4789.4 397.64,4819.4 433.08,4838.8 \
+465.08,4851",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,475.31,3608.5 194.24,3391.5 207.7,3395.3 221.18,3400.5 233,3407.4 314.74,3455.2 298.54,3511.4 377,3564.4 403.77,3582.5 436.83,\
+3596 465.7,3605.4",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,479.08,4068 203.27,3389 214.32,3393.2 224.67,3399.1 233,3407.4 426.14,3599 208.9,3788.4 377,4002.4 400.28,4032 437.38,4051.9 469.67,\
+4064.5",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,514.18,2640.6 202.81,3371.7 213.99,3367.5 224.5,3361.6 233,3353.4 411.6,3180.1 263.13,3033.6 377,2812.4 411.14,2746.1 471.58,2682 \
+506.67,2647.8",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,438.55,2128 204.74,3372.4 215.45,3368.1 225.3,3362 233,3353.4 588.86,2956.3 25.093,2562.9 377,2162.4 390.56,2146.9 409.17,2137.1 \
+428.83,2130.8",
+		style=solid];
+	"alive($x3, $y5)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,503.6,3209.1 186.19,3367.5 201.81,3363.7 218.17,3359 233,3353.4 285.72,3333.4 425.95,3253.9 494.78,3214.2",
+		style=solid];
+	"set($x8, $y2)" -> "alive'($x8, $y2)"	[color=black,
+		pos="e,484.96,2315.4 178.69,2672.9 197.6,2669.1 217.5,2662.3 233,2650.4 341.08,2567.2 279.73,2475 377,2379.4 404.7,2352.2 443.54,2332.3 \
+475.66,2319.1",
+		style=solid];
+	"set($x8, $y2)" -> "Reward Function"	[pos="e,449.68,3458.3 178.52,2678.9 198.31,2682.4 218.8,2689.8 233,2704.4 457.83,2936.1 164.23,3173.6 377,3416.4 393.36,3435.1 416.49,\
+3447.3 439.97,3455.3"];
+	"set($x1, $y4)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,525.62,1234 178.63,1916.7 197.74,1913 217.79,1906 233,1893.4 355.19,1792 312.58,1711.5 377,1566.4 430.38,1446.1 494.63,1303 521.37,\
+1243.5",
+		style=solid];
+	"set($x1, $y4)" -> "Reward Function"	[pos="e,446.37,3458.8 178.78,1921 198.84,1924.4 219.43,1931.9 233,1947.4 449.14,2194.1 173.67,3159 377,3416.4 391.93,3435.3 413.84,3447.6 \
+436.59,3455.6"];
+	"set($x7, $y5)" -> "Reward Function"	[pos="e,428.27,3478.9 178.68,4841.7 198.72,4838.3 219.34,4830.8 233,4815.4 620.18,4378.8 -5.8363,3950.8 377,3510.4 388.18,3497.5 402.87,\
+3488.5 418.78,3482.2"];
+	"set($x7, $y5)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,434.32,5274.2 178.72,4845.5 197.95,4849.2 218.04,4856.3 233,4869.4 368.63,4988 238.27,5133.4 377,5248.4 390.54,5259.6 407.03,5267 \
+424.17,5271.7",
+		style=solid];
+	"alive($x4, $y2)" -> "Reward Function"	[pos="e,445.4,3459.1 204.74,733.44 215.59,737.94 225.48,744.34 233,753.38 611.83,1209.1 19.866,2943.4 377,3416.4 391.44,3435.5 413.05,\
+3447.9 435.66,3455.9"];
+	"alive($x4, $y2)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,466.4,795.75 183.96,738.79 258.18,753.76 378.17,777.96 456.57,793.77",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,433.58,726.14 214.1,725.62 276.6,725.77 358.15,725.96 423.27,726.12",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,440.04,2036.9 203.96,733.75 214.99,738.19 225.14,744.5 233,753.38 602.81,1171.7 12.146,1578.7 377,2001.4 390.85,2017.4 410.08,\
+2027.7 430.35,2034.1",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,511.05,417.46 193.44,713.98 207.2,710 220.98,704.63 233,697.38 315.79,647.48 308.19,602.28 377,534.38 418.64,493.3 470.77,449.91 \
+503.24,423.73",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,445.09,569.84 188.69,712.93 203.71,708.98 219.19,703.9 233,697.38 305.36,663.26 303.63,621.27 377,589.38 395.14,581.5 415.38,575.84 \
+435.13,571.77",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,466.85,983.65 195.1,736.43 208.42,740.45 221.61,745.92 233,753.38 321.63,811.46 291.18,881.24 377,943.38 400.6,960.47 430.04,972.49 \
+457.03,980.77",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,498.81,899.1 185.39,738.43 201.28,742.41 217.96,747.37 233,753.38 301.59,780.81 312.07,801.16 377,836.38 414.69,856.83 458.17,\
+878.87 489.81,894.63",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,459.27,1135.2 199.46,735.09 211.64,739.29 223.33,745.17 233,753.38 358.09,859.61 257.01,981.44 377,1093.4 397,1112 423.74,1124.3 \
+449.47,1132.3",
+		style=solid];
+	"alive($x4, $y2)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,448.68,1056.8 197.95,735.54 210.52,739.67 222.73,745.41 233,753.38 340.74,837.02 270.25,939.49 377,1024.4 394.79,1038.5 416.94,\
+1047.9 438.94,1054.2",
+		style=solid];
+	"set($x2, $y3)" -> "Reward Function"	[pos="e,445.57,3459 178.74,1269.7 198.92,1273.1 219.6,1280.6 233,1296.4 538.81,1656.2 89.855,3041.5 377,3416.4 391.57,3435.4 413.23,3447.8 \
+435.84,3455.8"];
+	"set($x2, $y3)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,433.66,672.22 178.63,1267.3 198.2,1263.7 218.52,1256.4 233,1242.4 412.14,1068.5 193.3,868.48 377,699.38 390.03,687.39 406.34,679.65 \
+423.49,674.77",
+		style=solid];
+	"set($x6, $y6)" -> "alive'($x6, $y6)"	[color=black,
+		pos="e,472.47,5956.8 178.73,5497.5 197.96,5501.2 218.05,5508.3 233,5521.4 369.15,5640.7 252.41,5771.1 377,5902.4 400.02,5926.7 433.07,\
+5942.9 462.91,5953.5",
+		style=solid];
+	"set($x6, $y6)" -> "Reward Function"	[pos="e,427.03,3478.7 178.69,5494 198.86,5490.7 219.55,5483.1 233,5467.4 516.35,5135.9 96.952,3844.6 377,3510.4 387.7,3497.6 401.84,3488.6 \
+417.27,3482.3"];
+	"alive($x5, $y1)" -> "Reward Function"	[pos="e,445.46,3459.1 204.7,950.48 215.55,954.96 225.46,961.36 233,970.38 582.06,1388.3 47.841,2982.6 377,3416.4 391.48,3435.5 413.12,\
+3447.9 435.73,3455.9"];
+	"alive($x5, $y1)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,491.12,826.15 181.67,928.69 198.47,924.75 216.49,920.2 233,915.38 321.41,889.57 421.93,852.58 481.55,829.82",
+		style=solid];
+	"alive($x5, $y1)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,475.19,741.22 192.56,930.79 206.48,927 220.54,921.99 233,915.38 309.97,874.56 302.46,827.49 377,782.38 404.13,765.97 436.8,753.34 \
+465.3,744.28",
+		style=solid];
+	"alive($x5, $y1)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,525.55,1574.8 198.81,952.41 211.14,956.56 223.05,962.35 233,970.38 259.02,991.4 467.63,1447.5 521.39,1565.6",
+		style=solid];
+	"alive($x5, $y1)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,433.86,1703.4 202.7,951.15 214.04,955.52 224.62,961.7 233,970.38 454.99,1200.6 148.06,1452.1 377,1675.4 389.96,1688 406.54,1696 \
+424.05,1701",
+		style=solid];
+	"alive($x5, $y1)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,452.49,986.62 196.82,952.86 266.81,962.1 368.84,975.58 442.31,985.28",
+		style=solid];
+	"alive($x5, $y1)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,473.59,1051.7 180.82,956.27 197.87,960.41 216.24,965.23 233,970.38 298.33,990.47 311.91,1003.5 377,1024.4 405.12,1033.4 436.48,\
+1042.1 463.74,1049.1",
+		style=solid];
+	"set($x4, $y8)" -> "alive'($x4, $y8)"	[color=black,
+		pos="e,434.31,5873.2 178.73,5443.5 197.96,5447.2 218.05,5454.3 233,5467.4 368.89,5586.4 238,5732.1 377,5847.4 390.54,5858.6 407.03,5866 \
+424.17,5870.7",
+		style=solid];
+	"set($x4, $y8)" -> "Reward Function"	[pos="e,427.05,3478.8 178.67,5440 198.84,5436.6 219.54,5429.1 233,5413.4 508.91,5091.3 104.3,3835.2 377,3510.4 387.71,3497.6 401.86,3488.6 \
+417.3,3482.3"];
+	"set($x5, $y7)" -> "alive'($x5, $y7)"	[color=black,
+		pos="e,496.47,6089.3 178.69,5551.2 198.03,5554.8 218.2,5562 233,5575.4 380.17,5708.7 257.1,5840.1 377,5998.4 405.97,6036.6 452.51,6066.2 \
+487.41,6084.7",
+		style=solid];
+	"set($x5, $y7)" -> "Reward Function"	[pos="e,427,3478.7 178.71,5548 198.88,5544.7 219.57,5537.1 233,5521.4 523.79,5180.5 89.603,3854.1 377,3510.4 387.68,3497.6 401.82,3488.6 \
+417.25,3482.3"];
+	"alive($x8, $y6)" -> "alive'($x7, $y6)"	[color=black,
+		pos="e,445.12,6264.9 188.67,6406.9 203.69,6402.9 219.18,6397.9 233,6391.4 305.19,6357.5 303.8,6316 377,6284.4 395.16,6276.5 415.4,6270.9 \
+435.16,6266.8",
+		style=solid];
+	"alive($x8, $y6)" -> "Reward Function"	[pos="e,426.34,3478.6 204.78,6411.4 215.61,6406.9 225.5,6400.4 233,6391.4 641.75,5897.6 -28.872,4006.5 377,3510.4 387.47,3497.6 401.41,\
+3488.6 416.68,3482.2"];
+	"alive($x8, $y6)" -> "alive'($x7, $y5)"	[color=black,
+		pos="e,433.9,5275.4 203.54,6411 214.69,6406.6 225,6400.3 233,6391.4 558.83,6029 40.206,5656.6 377,5304.4 389.67,5291.1 406.3,5282.9 423.98,\
+5277.9",
+		style=solid];
+	"alive($x8, $y6)" -> "alive'($x8, $y5)"	[color=black,
+		pos="e,433.62,5710.7 202.29,6410.6 213.76,6406.3 224.48,6400.1 233,6391.4 440.95,6179.1 162.63,5944.2 377,5738.4 389.97,5725.9 406.48,\
+5718 423.88,5713.1",
+		style=solid];
+	"alive($x8, $y6)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,445.09,6573.9 190.21,6431.5 204.76,6435.3 219.66,6440.2 233,6446.4 305.5,6480.2 303.63,6522.5 377,6554.4 395.14,6562.3 415.38,\
+6567.9 435.13,6572",
+		style=solid];
+	"alive($x8, $y6)" -> "alive'($x8, $y6)"	[color=black,
+		pos="e,455.16,6322.7 180.47,6405.4 197.61,6401.3 216.11,6396.5 233,6391.4 298.16,6371.8 311.27,6357 377,6339.4 398.9,6333.5 422.85,6328.5 \
+445.3,6324.5",
+		style=solid];
+	"alive($x8, $y6)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,470.59,6650.1 194.65,6430.4 208,6434.2 221.33,6439.4 233,6446.4 315.99,6496 296.79,6555.4 377,6609.4 402.19,6626.3 433.16,6638.6 \
+460.92,6647.2",
+		style=solid];
+	"set($x3, $y1)" -> "Reward Function"	[pos="e,445.42,3459.1 178.54,834.58 198.82,837.9 219.62,845.46 233,861.38 598.8,1296.8 33.79,2963 377,3416.4 391.46,3435.5 413.08,3447.9 \
+435.69,3455.9"];
+	"set($x3, $y1)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,507.71,417.21 178.72,829.97 197.62,826.14 217.52,819.34 233,807.38 341.58,723.55 291.49,641.65 377,534.38 412.84,489.42 465.18,\
+447.95 499.41,423.15",
+		style=solid];
+	"set($x8, $y3)" -> "Reward Function"	[pos="e,454.75,3457.6 178.78,3004.5 198.01,3008.2 218.09,3015.2 233,3028.4 370.98,3150 245.38,3287.9 377,3416.4 395.57,3434.5 420.5,3446.6 \
+445.02,3454.6"];
+	"set($x8, $y3)" -> "alive'($x8, $y3)"	[color=black,
+		pos="e,452.02,2958 178.51,2993.5 247.85,2984.5 361.77,2969.7 441.93,2959.3",
+		style=solid];
+	"alive($x3, $y4)" -> "Reward Function"	[pos="e,446.24,3458.9 205.29,1766.2 215.84,1770.6 225.51,1776.8 233,1785.4 471.44,2060.2 152.83,3129.8 377,3416.4 391.84,3435.4 413.72,\
+3447.7 436.46,3455.7"];
+	"alive($x3, $y4)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,450.81,3379.1 204.96,1766.2 215.63,1770.5 225.42,1776.7 233,1785.4 460.29,2046.2 163.25,3063.4 377,3335.4 392.88,3355.6 416.74,\
+3368.3 441.1,3376.2",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,454.71,1659.6 180.82,1744.5 197.87,1740.4 216.24,1735.5 233,1730.4 298.33,1710.3 311.08,1694.5 377,1676.4 398.65,1670.4 422.34,\
+1665.5 444.59,1661.4",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,433.98,670.52 203.48,1750 214.65,1745.5 224.97,1739.3 233,1730.4 543.56,1387.4 56.07,1032.7 377,699.38 389.72,686.18 406.37,677.93 \
+424.06,672.96",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,455.42,3612 205.34,1766.2 215.89,1770.6 225.54,1776.7 233,1785.4 491.82,2085.9 138.22,3247.7 377,3564.4 393.71,3586.5 419.73,3600.4 \
+445.82,3609",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,513.59,2604.2 203.41,1766.8 214.44,1771.1 224.75,1777 233,1785.4 440.47,1995.1 247.1,2168.5 377,2433.4 409.65,2500 470.36,2563.3 \
+505.96,2597.1",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,453.21,927.25 202.81,1749.7 214.14,1745.3 224.68,1739.1 233,1730.4 469.87,1481.2 152.03,1230.3 377,970.38 394.07,950.66 418.69,\
+938.14 443.38,930.18",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,459.21,2110.2 199.56,1768.1 211.59,1772.1 223.21,1777.7 233,1785.4 344.56,1873.1 269.5,1977.7 377,2070.4 397.44,2088 424.04,2099.7 \
+449.51,2107.4",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,452.18,3180.8 204.86,1766.3 215.54,1770.6 225.36,1776.7 233,1785.4 632.83,2237.9 2.0145,2663.1 377,3136.4 393.23,3156.9 417.6,\
+3169.7 442.33,3177.8",
+		style=solid];
+	"alive($x3, $y4)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,442.19,1154.7 201.67,1749.4 213.29,1745.1 224.22,1739 233,1730.4 411.16,1556.1 200.38,1364.3 377,1188.4 392.08,1173.4 411.93,1163.6 \
+432.42,1157.4",
+		style=solid];
+	"alive($x4, $y1)" -> "Reward Function"	[pos="e,445.38,3459.1 204.75,678.44 215.59,682.93 225.49,689.34 233,698.38 619.38,1163.7 12.774,2933.5 377,3416.4 391.43,3435.5 413.04,\
+3447.9 435.65,3455.9"];
+	"alive($x4, $y1)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,487.53,793.11 181.14,684.28 198.11,688.4 216.35,693.21 233,698.38 298.42,718.72 312.73,729.65 377,753.38 410.44,765.73 448.04,\
+779.16 478.07,789.77",
+		style=solid];
+	"alive($x4, $y1)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,453.01,715.49 196.33,680.98 266.49,690.42 369.13,704.22 442.81,714.12",
+		style=solid];
+	"alive($x4, $y1)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,512.77,417.52 191.01,658.46 205.35,654.69 219.96,649.77 233,643.38 263.7,628.35 435.37,483.4 504.82,424.29",
+		style=solid];
+	"alive($x4, $y1)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,454.71,572.63 182.34,656.78 198.97,652.87 216.74,648.31 233,643.38 298.42,623.56 311.08,607.46 377,589.38 398.65,583.45 422.34,\
+578.46 444.59,574.42",
+		style=solid];
+	"alive($x4, $y1)" -> "alive'($x5, $y1)"	[color=black,
+		pos="e,463,984.31 197.36,680.82 210.07,684.92 222.48,690.57 233,698.38 334.41,773.67 279.22,863.44 377,943.38 398.86,961.26 426.98,973.36 \
+453.37,981.49",
+		style=solid];
+	"alive($x4, $y1)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,446.72,1057.3 199.35,680.22 211.54,684.4 223.26,690.25 233,698.38 354.52,799.98 256.69,921.36 377,1024.4 393.91,1038.9 415.32,\
+1048.4 436.84,1054.7",
+		style=solid];
+	"set($x1, $y7)" -> "Reward Function"	[pos="e,430.94,3479.3 178.51,4243.9 198.3,4240.4 218.79,4233 233,4218.4 456.74,3988.1 155.55,3742.9 377,3510.4 389.08,3497.7 404.57,3488.8 \
+421.11,3482.6"];
+	"set($x1, $y7)" -> "alive'($x1, $y7)"	[color=black,
+		pos="e,502.1,4566 178.72,4251.2 197.3,4255.1 217.02,4261.6 233,4272.4 324.81,4334.1 298.22,4397.7 377,4475.4 412.1,4510 459.53,4540.9 \
+493.04,4560.7",
+		style=solid];
+	"set($x6, $y1)" -> "Reward Function"	[pos="e,446.88,3458.8 178.71,2029 198.77,2032.5 219.37,2039.9 233,2055.4 635.58,2511.4 -1.8994,2940.5 377,3416.4 392.15,3435.4 414.37,\
+3447.8 437.35,3455.8"];
+	"set($x6, $y1)" -> "alive'($x6, $y1)"	[color=black,
+		pos="e,434.31,1595.5 178.73,2025.2 197.96,2021.5 218.05,2014.5 233,2001.4 368.89,1882.4 238,1736.7 377,1621.4 390.54,1610.2 407.03,1602.8 \
+424.17,1598",
+		style=solid];
+	"set($x2, $y4)" -> "Reward Function"	[pos="e,446.93,3458.8 178.68,2083.1 198.72,2086.5 219.34,2094 233,2109.4 620.73,2546.6 11.977,2960 377,3416.4 392.19,3435.4 414.42,3447.7 \
+437.4,3455.7"];
+	"set($x2, $y4)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,434.32,1650.5 178.72,2079.2 197.95,2075.5 218.04,2068.5 233,2055.4 368.63,1936.7 238.27,1791.4 377,1676.4 390.54,1665.2 407.03,\
+1657.8 424.17,1653",
+		style=solid];
+	"set($x4, $y7)" -> "alive'($x4, $y7)"	[color=black,
+		pos="e,433.62,5820.1 178.68,5114.1 198.36,5117.6 218.75,5125 233,5139.4 441.82,5350.9 162.63,5586.5 377,5792.4 389.97,5804.8 406.48,5812.8 \
+423.88,5817.7",
+		style=solid];
+	"set($x4, $y7)" -> "Reward Function"	[pos="e,427.64,3478.8 178.54,5111.9 198.69,5108.5 219.41,5101 233,5085.4 463.73,4820.3 148.91,3777.8 377,3510.4 387.88,3497.6 402.22,3488.6 \
+417.8,3482.4"];
+	"alive($x1, $y1)" -> "alive'($x1, $y1)"	[color=black,
+		pos="e,478.63,112.04 177.82,32.705 195.61,37.011 215.11,41.81 233,46.385 314.45,67.213 407.89,92.591 468.77,109.33",
+		style=solid];
+	"alive($x1, $y1)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,464.05,318.22 196.89,28.961 209.72,33.036 222.3,38.652 233,46.385 331.07,117.23 282.35,202.04 377,277.38 399.29,295.13 427.78,\
+307.22 454.36,315.38",
+		style=solid];
+	"alive($x1, $y1)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,438.86,244.45 194.27,29.6 207.81,33.599 221.3,39.025 233,46.385 318.55,100.19 289.84,171.22 377,222.38 392.79,231.65 410.89,238 \
+429.06,242.32",
+		style=solid];
+	"alive($x1, $y1)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,461.59,182.65 188.69,30.843 203.71,34.785 219.19,39.872 233,46.385 305.36,80.508 304.95,119.63 377,154.38 400.3,165.62 427.08,\
+174.07 451.84,180.29",
+		style=solid];
+	"alive($x1, $y1)" -> "Reward Function"	[pos="e,444.84,3459.1 204.84,26.366 215.67,30.87 225.53,37.298 233,46.385 470.94,335.95 152.84,3116 377,3416.4 391.25,3435.5 412.68,3447.9 \
+435.16,3455.9"];
+	"alive($x7, $y8)" -> "Reward Function"	[pos="e,426.27,3478.6 204.83,6792.4 215.66,6787.9 225.53,6781.5 233,6772.4 463.52,6492.2 148.11,3791.9 377,3510.4 387.43,3497.6 401.36,\
+3488.5 416.62,3482.2"];
+	"alive($x7, $y8)" -> "alive'($x7, $y8)"	[color=black,
+		pos="e,465.14,6732.8 185.34,6787.2 259.14,6772.8 376.95,6749.9 454.89,6734.8",
+		style=solid];
+	"alive($x7, $y8)" -> "alive'($x6, $y7)"	[color=black,
+		pos="e,507.42,6384.3 197.96,6790.2 210.53,6786.1 222.74,6780.4 233,6772.4 340.99,6688.4 291.46,6607.1 377,6500.4 412.74,6455.8 464.88,\
+6414.8 499.12,6390.1",
+		style=solid];
+	"alive($x7, $y8)" -> "alive'($x6, $y8)"	[color=black,
+		pos="e,437.21,6532.2 196.1,6789.7 209.17,6785.7 222.02,6780.1 233,6772.4 327.78,6705.9 280.23,6618.9 377,6555.4 392.04,6545.5 409.56,\
+6538.9 427.33,6534.4",
+		style=solid];
+	"alive($x7, $y8)" -> "alive'($x7, $y7)"	[color=black,
+		pos="e,473.62,6597.1 191.39,6788.5 205.7,6784.5 220.2,6779.3 233,6772.4 310.18,6730.7 301.98,6682.9 377,6637.4 403.62,6621.2 435.66,6608.9 \
+463.83,6600.1",
+		style=solid];
+	"alive($x7, $y8)" -> "alive'($x8, $y7)"	[color=black,
+		pos="e,449.15,6674.3 185.02,6787.2 201.01,6783.3 217.82,6778.3 233,6772.4 301.19,6745.7 308.02,6716.9 377,6692.4 396.7,6685.4 418.45,\
+6680.1 439.32,6676.1",
+		style=solid];
+	"alive($x7, $y8)" -> "alive'($x8, $y8)"	[color=black,
+		pos="e,433.58,6800.4 214.1,6800.4 276.6,6800.4 358.15,6800.4 423.27,6800.4",
+		style=solid];
+	"set($x5, $y4)" -> "Reward Function"	[pos="e,480.56,3453.2 178.62,3338.5 196.35,3342.6 215.61,3347.6 233,3353.4 299.29,3375.4 311.92,3391 377,3416.4 407.64,3428.3 442.16,3440.4 \
+471.01,3450"];
+	"set($x5, $y4)" -> "alive'($x5, $y4)"	[color=black,
+		pos="e,436.49,3312.6 178.51,3323.7 243.38,3320.9 347.28,3316.5 426.04,3313.1",
+		style=solid];
+	"set($x3, $y2)" -> "Reward Function"	[pos="e,445.44,3459.1 178.53,888.59 198.81,891.91 219.61,899.47 233,915.38 591.35,1341.4 40.751,2972.7 377,3416.4 391.47,3435.5 413.1,\
+3447.9 435.71,3455.9"];
+	"set($x3, $y2)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,435.51,565.06 178.7,883.95 197.61,880.13 217.51,873.33 233,861.38 341.33,777.87 266.49,669.99 377,589.38 391.21,579.02 408.04,\
+572.07 425.31,567.49",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,444.13,339.67 200.32,770.79 212.26,766.57 223.64,760.65 233,752.38 368.4,632.86 242.66,493.1 377,372.38 393.01,358 413.45,348.55 \
+434.24,342.37",
+		style=solid];
+	"alive($x3, $y3)" -> "Reward Function"	[pos="e,445.41,3459.1 205.55,788.02 216.06,792.4 225.65,798.63 233,807.38 606.25,1252.2 26.828,2953.2 377,3416.4 391.45,3435.5 413.07,\
+3447.9 435.68,3455.9"];
+	"alive($x3, $y3)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,440.42,802.87 208.39,786.71 273.73,791.26 361.96,797.41 430.09,802.15",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,433.57,1648.7 204.03,788.63 214.9,792.9 225,798.94 233,807.38 485.33,1073.8 117.68,1360.8 377,1620.4 389.79,1633.2 406.3,1641.3 \
+423.78,1646.2",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,454.73,682.72 180.5,766.5 197.63,762.35 216.12,757.52 233,752.38 298.25,732.54 311.18,717.22 377,699.38 398.67,693.51 422.36,688.55 \
+444.62,684.52",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,439.56,567.75 193.44,768.98 207.2,765 220.98,759.63 233,752.38 315.79,702.48 292.72,636.73 377,589.38 393.06,580.36 411.38,574.14 \
+429.7,569.87",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,512.27,2604.4 205.28,788.24 215.84,792.59 225.51,798.75 233,807.38 470.75,1081.4 238.84,2098 377,2433.4 405.17,2501.8 467.2,2564.2 \
+504.3,2597.4",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,492.64,899.65 182,794.05 198.71,797.97 216.61,802.52 233,807.38 322.33,833.9 423.76,872.44 483.13,895.88",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,449.09,2112.5 204.8,788.3 215.49,792.63 225.33,798.77 233,807.38 608.64,1229.4 20.767,1631.9 377,2070.4 392.67,2089.7 415.7,2101.9 \
+439.32,2109.6",
+		style=solid];
+	"alive($x3, $y3)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,461.16,1134.7 199.57,790.09 211.6,794.11 223.21,799.68 233,807.38 344.81,895.42 269.8,999.78 377,1093.4 397.89,1111.6 425.25,1123.8 \
+451.27,1131.9",
+		style=solid];
+	"set($x1, $y6)" -> "Reward Function"	[pos="e,435.95,3480.2 178.75,3918.3 197.99,3914.6 218.07,3907.5 233,3894.4 369.93,3774.1 241.27,3632 377,3510.4 390.87,3498 408.08,3489.3 \
+425.96,3483.2"];
+	"set($x1, $y6)" -> "alive'($x1, $y6)"	[color=black,
+		pos="e,452.02,3964.8 178.51,3929.3 247.85,3938.3 361.77,3953.1 441.93,3963.4",
+		style=solid];
+	"set($x2, $y5)" -> "Reward Function"	[pos="e,466.13,3455.7 178.79,3225.2 197.18,3229.1 216.76,3235.4 233,3245.4 317.69,3297.3 295.06,3360.2 377,3416.4 400.71,3432.6 429.78,\
+3444.4 456.43,3452.8"];
+	"set($x2, $y5)" -> "alive'($x2, $y5)"	[color=black,
+		pos="e,439.27,3197.5 178.51,3214.4 244.27,3210.2 350.14,3203.3 429.27,3198.2",
+		style=solid];
+	"set($x4, $y6)" -> "Reward Function"	[pos="e,429.6,3479.1 178.6,4460.3 198.51,4456.8 219.07,4449.4 233,4434.4 515.66,4129.7 97.376,3817.9 377,3510.4 388.63,3497.6 403.72,3488.6 \
+419.94,3482.4"];
+	"set($x4, $y6)" -> "alive'($x4, $y6)"	[color=black,
+		pos="e,483.83,4853.5 178.7,4465.4 197.71,4469.2 217.67,4476.1 233,4488.4 348.58,4581.3 273.46,4683.2 377,4789.4 403.92,4817 442.4,4836.8 \
+474.52,4849.8",
+		style=solid];
+	"set($x5, $y5)" -> "alive'($x5, $y5)"	[color=black,
+		pos="e,511.28,4281.4 178.63,4093.7 196.54,4097.8 215.89,4103.3 233,4110.4 339.27,4154.7 450.55,4234.8 503.07,4275",
+		style=solid];
+	"set($x5, $y5)" -> "Reward Function"	[pos="e,432.81,3479.6 178.65,4081.3 198.21,4077.7 218.53,4070.5 233,4056.4 412.94,3881.4 198.8,3687.1 377,3510.4 389.81,3497.7 406.05,\
+3488.8 423.2,3482.7"];
+	"set($x3, $y3)" -> "Reward Function"	[pos="e,445.65,3458.9 178.69,1431.8 198.86,1435.1 219.55,1442.7 233,1458.4 516.49,1790 110.72,3070.8 377,3416.4 391.62,3435.4 413.3,3447.7 \
+435.92,3455.7"];
+	"set($x3, $y3)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,456.78,928.13 178.75,1428.7 198.09,1425 218.25,1417.9 233,1404.4 383.07,1267.3 234.08,1114.9 377,970.38 395.87,951.31 421.78,938.96 \
+447.12,930.98",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,459.13,343.61 191,387.38 263.19,375.6 373.24,357.63 449.12,345.24",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,440.72,202.2 193.78,388.1 207.37,384.29 221,379.19 233,372.38 313.1,326.94 295.72,266.68 377,223.38 393.47,214.61 412.14,208.52 \
+430.73,204.3",
+		style=solid];
+	"alive($x3, $y2)" -> "Reward Function"	[pos="e,444.91,3459 204.79,407.4 215.63,411.9 225.51,418.32 233,427.38 444.79,683.7 177.41,3150.5 377,3416.4 391.31,3435.4 412.75,3447.8 \
+435.23,3455.9"];
+	"alive($x3, $y2)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,461.8,796.66 199.35,409.22 211.54,413.4 223.26,419.25 233,427.38 354.52,528.98 260.97,645.56 377,753.38 397.77,772.68 425.63,785.41 \
+452.12,793.77",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,435.52,722.69 197.95,409.54 210.52,413.67 222.73,419.41 233,427.38 340.74,511.02 266.75,618.09 377,698.38 391.22,708.74 408.05,\
+715.68 425.32,720.26",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,433.58,399.38 214.1,399.38 276.6,399.38 358.15,399.38 423.27,399.38",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,437.23,666.59 196.09,410.05 209.15,414.11 222.01,419.7 233,427.38 327.55,493.51 280.47,580.19 377,643.38 392.05,653.24 409.57,\
+659.89 427.34,664.34",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,500.5,544.05 182.54,412.97 199.16,417.04 216.89,421.9 233,427.38 327.89,459.71 433.91,510.57 491.37,539.44",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x3, $y3)"	[color=black,
+		pos="e,480.91,900.77 200.5,408.79 212.41,413.03 223.74,419.01 233,427.38 375.96,556.62 250.07,691.38 377,836.38 401.83,864.76 439.15,\
+884.35 471.17,897.05",
+		style=solid];
+	"alive($x3, $y2)" -> "alive'($x4, $y3)"	[color=black,
+		pos="e,453.92,1136.4 202.61,408.24 213.96,412.59 224.57,418.74 233,427.38 444.46,644.17 175.9,866.96 377,1093.4 394.4,1113 419.25,1125.5 \
+444.06,1133.4",
+		style=solid];
+	"set($x2, $y6)" -> "Reward Function"	[pos="e,433.51,3479.8 178.73,4027 198.19,4023.4 218.42,4016.2 233,4002.4 398.48,3845.8 213.08,3668.6 377,3510.4 390.06,3497.8 406.52,3489 \
+423.83,3482.9"];
+	"set($x2, $y6)" -> "alive'($x2, $y6)"	[color=black,
+		pos="e,452.02,4072.8 178.51,4037.3 247.85,4046.3 361.77,4061.1 441.93,4071.4",
+		style=solid];
+	"set($x6, $y3)" -> "alive'($x6, $y3)"	[color=black,
+		pos="e,521.16,2424.9 178.56,2723.6 196.84,2719.6 216.42,2713.6 233,2704.4 361.24,2633.5 472.21,2492.4 515.1,2433.4",
+		style=solid];
+	"set($x6, $y3)" -> "Reward Function"	[pos="e,450.28,3458.3 178.69,2733.1 198.38,2736.6 218.76,2743.9 233,2758.4 443.18,2971.6 177.92,3192.8 377,3416.4 393.59,3435 416.92,3447.2 \
+440.53,3455.2"];
+	"set($x4, $y5)" -> "Reward Function"	[pos="e,466.95,3485.3 178.54,3584 196.26,3579.9 215.54,3575 233,3569.4 298.88,3548.3 311.33,3532.1 377,3510.4 402.7,3501.9 431.26,3494.1 \
+456.9,3487.8"];
+	"set($x4, $y5)" -> "alive'($x4, $y5)"	[color=black,
+		pos="e,439.27,3617.2 178.51,3600.3 244.27,3604.6 350.14,3611.5 429.27,3616.6",
+		style=solid];
+	"alive($x1, $y3)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,445.12,607.87 189.89,466.51 204.53,470.28 219.55,475.15 233,481.38 305.33,514.94 303.8,556.77 377,588.38 395.16,596.23 415.4,601.87 \
+435.16,605.94",
+		style=solid];
+	"alive($x1, $y3)" -> "alive'($x1, $y4)"	[color=black,
+		pos="e,440.74,1208.5 203.51,462.73 214.53,466.98 224.8,472.98 233,481.38 452.67,706.56 160.25,946.39 377,1174.4 391.49,1189.6 410.89,\
+1199.5 431.1,1205.8",
+		style=solid];
+	"alive($x1, $y3)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,472.44,345.9 180.82,440.49 197.87,436.36 216.24,431.54 233,426.38 298.33,406.3 311.85,393.05 377,372.38 404.74,363.59 435.66,355.21 \
+462.68,348.35",
+		style=solid];
+	"alive($x1, $y3)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,474.36,265.21 190.21,442.22 204.83,438.28 219.76,433.12 233,426.38 307.77,388.37 304.08,345.85 377,304.38 404.12,288.96 436.37,\
+276.93 464.57,268.17",
+		style=solid];
+	"alive($x1, $y3)" -> "Reward Function"	[pos="e,444.92,3459 205.6,461.98 216.11,466.37 225.68,472.61 233,481.38 651.22,982.89 -15.207,2894.3 377,3416.4 391.32,3435.4 412.76,3447.8 \
+435.24,3455.8"];
+	"alive($x1, $y3)" -> "alive'($x2, $y4)"	[color=black,
+		pos="e,433.83,1649.4 204.7,462.39 215.41,466.71 225.28,472.82 233,481.38 574.58,860.43 25.464,1250.5 377,1620.4 389.63,1633.7 406.24,\
+1642 423.92,1646.9",
+		style=solid];
+	"alive($x1, $y3)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,440,665.06 194.63,465.44 207.99,469.27 221.32,474.43 233,481.38 315.78,530.66 292.94,596.33 377,643.38 393.18,652.44 411.64,658.68 \
+430.07,662.94",
+		style=solid];
+	"set($x5, $y2)" -> "Reward Function"	[pos="e,446.28,3458.9 178.54,1812.9 198.69,1816.3 219.41,1823.8 233,1839.4 464.01,2104.8 159.77,3139.5 377,3416.4 391.87,3435.3 413.76,\
+3447.7 436.5,3455.7"];
+	"set($x5, $y2)" -> "alive'($x5, $y2)"	[color=black,
+		pos="e,453.92,1077.4 178.71,1810.7 198.4,1807.2 218.78,1799.8 233,1785.4 445.07,1569.8 176.15,1346.5 377,1120.4 394.41,1100.8 419.26,\
+1088.3 444.06,1080.3",
+		style=solid];
+	"set($x3, $y4)" -> "Reward Function"	[pos="e,448.42,3458.5 178.52,2516.5 198.43,2520 219,2527.4 233,2542.4 501.99,2829.8 122.96,3115.6 377,3416.4 392.86,3435.2 415.56,3447.4 \
+438.8,3455.4"];
+	"set($x3, $y4)" -> "alive'($x3, $y4)"	[color=black,
+		pos="e,444.72,2130.7 178.62,2511.7 197.73,2508 217.78,2501 233,2488.4 354.93,2387.3 256.07,2264.7 377,2162.4 393.41,2148.5 414,2139.3 \
+434.83,2133.3",
+		style=solid];
+	"alive($x3, $y1)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,445.3,322.87 203.8,299.67 271.14,306.14 364.74,315.13 435.09,321.89",
+		style=solid];
+	"alive($x3, $y1)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,458.24,207.41 178.14,277.08 195.85,272.8 215.23,268.01 233,263.38 297.29,246.67 312.23,238.12 377,223.38 399.93,218.17 424.92,\
+213.33 448.09,209.2",
+		style=solid];
+	"alive($x3, $y1)" -> "Reward Function"	[pos="e,444.89,3459.1 205.62,298.96 216.12,303.35 225.69,309.6 233,318.38 453.36,583.32 170.39,3140.6 377,3416.4 391.29,3435.5 412.73,\
+3447.8 435.21,3455.9"];
+	"alive($x3, $y1)" -> "alive'($x4, $y2)"	[color=black,
+		pos="e,458.75,797.17 202.08,300.4 213.43,304.54 224.18,310.33 233,318.38 383.34,455.76 234.66,607.74 377,753.38 396.28,773.11 422.97,\
+785.91 448.88,794.21",
+		style=solid];
+	"alive($x3, $y1)" -> "alive'($x4, $y1)"	[color=black,
+		pos="e,434.31,724.25 201.18,300.53 212.8,304.63 223.86,310.38 233,318.38 368.89,437.35 238,583.07 377,698.38 390.54,709.62 407.03,717 \
+424.17,721.75",
+		style=solid];
+	"alive($x3, $y1)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,475.79,384.41 179.65,305.42 196.96,309.46 215.74,313.97 233,318.38 297.35,334.84 312.86,341.1 377,358.38 406.07,366.22 438.23,\
+374.66 465.84,381.83",
+		style=solid];
+	"alive($x3, $y1)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,512.77,543.32 191,303.33 205.34,307.1 219.96,312.01 233,318.38 263.66,333.36 435.35,477.72 504.82,536.58",
+		style=solid];
+	"set($x1, $y8)" -> "Reward Function"	[pos="e,430.24,3479.2 178.73,4352.1 198.54,4348.6 218.99,4341.2 233,4326.4 486.15,4058.9 126.51,3780.3 377,3510.4 388.83,3497.6 404.12,\
+3488.7 420.49,3482.5"];
+	"set($x1, $y8)" -> "alive'($x1, $y8)"	[color=black,
+		pos="e,435.33,4690 178.54,4357.6 197.54,4361.4 217.54,4368.2 233,4380.4 344.56,4468.1 263.15,4580.7 377,4665.4 391.11,4675.9 407.89,4682.9 \
+425.14,4687.5",
+		style=solid];
+	"set($x7, $y1)" -> "alive'($x7, $y1)"	[color=black,
+		pos="e,452.37,1985.1 178.69,2238.5 197.27,2234.6 216.99,2228.1 233,2217.4 324.35,2156.3 286.63,2078.9 377,2016.4 396.39,2003 419.85,1993.8 \
+442.65,1987.6",
+		style=solid];
+	"set($x7, $y1)" -> "Reward Function"	[pos="e,447.53,3458.8 178.55,2245.2 198.58,2248.6 219.22,2256.1 233,2271.4 576.23,2652.5 53.571,3018.3 377,3416.4 392.42,3435.4 414.85,\
+3447.7 437.96,3455.7"];
+	"set($x2, $y7)" -> "Reward Function"	[pos="e,430.38,3479.3 178.63,4298 198.43,4294.5 218.9,4287.1 233,4272.4 471.43,4023.5 141.05,3761.6 377,3510.4 388.91,3497.7 404.23,3488.8 \
+420.62,3482.6"];
+	"set($x2, $y7)" -> "alive'($x2, $y7)"	[color=black,
+		pos="e,435.35,4634.9 178.53,4303.6 197.53,4307.4 217.53,4314.2 233,4326.4 344.31,4413.8 263.4,4526 377,4610.4 391.12,4620.9 407.9,4627.9 \
+425.15,4632.5",
+		style=solid];
+	"set($x6, $y2)" -> "Reward Function"	[pos="e,446.99,3458.7 178.64,2137.1 198.68,2140.5 219.3,2148 233,2163.4 605.89,2581.9 25.849,2979.4 377,3416.4 392.24,3435.3 414.48,3447.7 \
+437.46,3455.7"];
+	"set($x6, $y2)" -> "alive'($x6, $y2)"	[color=black,
+		pos="e,522.6,1722.1 178.58,2130.3 197.16,2126.4 216.91,2120 233,2109.4 310.75,2058.3 466.22,1813.3 517.31,1730.7",
+		style=solid];
+	"alive($x2, $y1)" -> "alive'($x1, $y1)"	[color=black,
+		pos="e,452.32,116.8 197.31,83.733 267.25,92.8 368.89,105.98 442.18,115.48",
+		style=solid];
+	"alive($x2, $y1)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,468.32,317.56 195.49,84.197 208.62,88.056 221.65,93.289 233,100.38 318.99,154.15 293.85,219.33 377,277.38 401.21,294.29 431.17,\
+306.31 458.42,314.65",
+		style=solid];
+	"alive($x2, $y1)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,443.48,242.56 191.42,85.17 205.65,88.949 220.12,93.905 233,100.38 307.93,138.09 301.1,186.68 377,222.38 394.49,230.61 414.13,236.44 \
+433.43,240.55",
+		style=solid];
+	"alive($x2, $y1)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,472.44,180.87 182.34,86.991 198.97,90.903 216.74,95.458 233,100.38 298.42,120.21 311.85,133.72 377,154.38 404.74,163.18 435.66,\
+171.56 462.68,178.42",
+		style=solid];
+	"alive($x2, $y1)" -> "Reward Function"	[pos="e,444.85,3459.1 205.64,80.938 216.14,85.335 225.71,91.587 233,100.38 468.4,384.28 156.33,3120.9 377,3416.4 391.26,3435.5 412.69,\
+3447.9 435.17,3455.9"];
+	"alive($x2, $y1)" -> "alive'($x3, $y1)"	[color=black,
+		pos="e,448.09,389.89 198.99,83.359 211.16,87.336 222.97,92.826 233,100.38 337.88,179.4 273.15,278.02 377,358.38 394.68,372.06 416.48,\
+381.2 438.15,387.3",
+		style=solid];
+	"alive($x2, $y1)" -> "alive'($x3, $y2)"	[color=black,
+		pos="e,506.58,543.56 200.51,82.864 212.28,86.921 223.57,92.564 233,100.38 354.93,201.48 282.63,299.17 377,426.38 411.06,472.3 463.39,\
+513.26 498.14,537.71",
+		style=solid];
+	"alive($x1, $y2)" -> "alive'($x1, $y3)"	[color=black,
+		pos="e,434.32,614.24 200.32,190.99 212.25,195.21 223.64,201.13 233,209.38 368.14,328.58 238.27,473.39 377,588.38 390.54,599.61 407.03,\
+606.99 424.17,611.74",
+		style=solid];
+	"alive($x1, $y2)" -> "alive'($x1, $y1)"	[color=black,
+		pos="e,452.32,137.97 197.31,171.04 267.25,161.97 368.89,148.79 442.18,139.29",
+		style=solid];
+	"alive($x1, $y2)" -> "alive'($x2, $y2)"	[color=black,
+		pos="e,483.28,315.51 183.23,194.87 199.68,198.91 217.14,203.78 233,209.38 299.74,232.96 311.44,250.72 377,277.38 408.43,290.16 444.14,\
+302.61 473.56,312.32",
+		style=solid];
+	"alive($x1, $y2)" -> "alive'($x1, $y2)"	[color=black,
+		pos="e,459.65,238.07 190.53,193.48 262.87,205.47 373.56,223.81 449.63,236.41",
+		style=solid];
+	"alive($x1, $y2)" -> "alive'($x2, $y1)"	[color=black,
+		pos="e,435.52,192.07 212.79,184.59 276.17,186.72 359.57,189.52 425.5,191.74",
+		style=solid];
+	"alive($x1, $y2)" -> "Reward Function"	[pos="e,444.87,3459.1 204.82,189.38 215.65,193.88 225.52,200.31 233,209.38 459.75,484.73 163.36,3130.8 377,3416.4 391.28,3435.5 412.71,\
+3447.9 435.19,3455.9"];
+	"alive($x1, $y2)" -> "alive'($x2, $y3)"	[color=black,
+		pos="e,433.89,669.75 200.92,190.75 212.71,195.01 223.89,201 233,209.38 382.51,347.04 223.34,510.38 377,643.38 390.3,654.9 406.67,662.42 \
+423.76,667.22",
+		style=solid];
+	"set($x5, $y3)" -> "Reward Function"	[pos="e,447.7,3458.6 178.74,2353.3 198.67,2356.8 219.19,2364.2 233,2379.4 546.6,2723.1 81.261,3057.1 377,3416.4 392.54,3435.3 415.01,3447.6 \
+438.12,3455.6"];
+	"set($x5, $y3)" -> "alive'($x5, $y3)"	[color=black,
+		pos="e,461.71,2056.2 178.5,2347.2 197.29,2343.3 217.17,2336.7 233,2325.4 331.12,2255.3 282.14,2169.9 377,2095.4 398.63,2078.4 426.04,\
+2066.9 451.89,2059",
+		style=solid];
+	"set($x3, $y5)" -> "Reward Function"	[pos="e,430.86,3461.5 178.51,3439.7 241.87,3445.1 342.46,3453.8 420.49,3460.6"];
+	"set($x3, $y5)" -> "alive'($x3, $y5)"	[color=black,
+		pos="e,447.46,3398.7 178.51,3427.8 246.55,3420.4 357.52,3408.5 437.39,3399.8",
+		style=solid];
+	"set($x4, $y4)" -> "Reward Function"	[pos="e,451.58,3458.1 178.66,2841.5 198.23,2845 218.54,2852.3 233,2866.4 414.02,3042.7 205.17,3231.1 377,3416.4 394.14,3434.9 417.89,3447 \
+441.74,3455"];
+	"set($x4, $y4)" -> "alive'($x4, $y4)"	[color=black,
+		pos="e,511.3,2640.5 178.65,2829.1 196.55,2825 215.9,2819.5 233,2812.4 339.38,2767.9 450.61,2687.3 503.09,2646.9",
+		style=solid];
+}

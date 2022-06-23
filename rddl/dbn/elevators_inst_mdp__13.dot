@@ -1,0 +1,1804 @@
+digraph G {
+	graph [bb="0,0,1029.3,2667",
+		fontname=Helvetica,
+		fontsize=16,
+		rankdir=LR,
+		ranksep=2.00,
+		ratio=auto,
+		size="7.5,10"
+	];
+	node [fontsize=16,
+		label="\N"
+	];
+	{
+		graph [rank=same];
+		"elevator-at-floor($e1, $f3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2431",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-up($f0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1661",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"person-waiting-down($f5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1166",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"elevator-at-floor($e1, $f7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2156",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-down($f1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1386",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"person-in-elevator-going-up($e1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2101",
+			shape=ellipse,
+			style=filled,
+			width=5.6372];
+		"close-door($e1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,180",
+			shape=box,
+			style=filled,
+			width=2];
+		"elevator-at-floor($e0, $f1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,726",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"elevator-at-floor($e0, $f5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,506",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-up($f4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1716",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"elevator-at-floor($e1, $f2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2541",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-down($f4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1276",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"elevator-at-floor($e1, $f6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2211",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-down($f0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1221",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"open-door-going-down($e1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,288",
+			shape=box,
+			style=filled,
+			width=3.3889];
+		"person-in-elevator-going-down($e0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,946",
+			shape=ellipse,
+			style=filled,
+			width=6.1086];
+		"close-door($e0)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,18",
+			shape=box,
+			style=filled,
+			width=2];
+		"elevator-at-floor($e0, $f0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,781",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-up($f7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1496",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"elevator-at-floor($e0, $f4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,561",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-up($f3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1771",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"person-waiting-down($f7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1056",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"elevator-at-floor($e1, $f1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2486",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"elevator-dir-up($e1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1991",
+			shape=ellipse,
+			style=filled,
+			width=3.5748];
+		"person-waiting-down($f3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1331",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"elevator-at-floor($e1, $f5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2266",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"Current State and Actions"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="219.91,2649",
+			shape=plaintext,
+			style=bold,
+			width=3.2361];
+		"move-current-dir($e1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,2595",
+			shape=box,
+			style=filled,
+			width=2.75];
+		"open-door-going-down($e0)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,126",
+			shape=box,
+			style=filled,
+			width=3.3889];
+		"person-in-elevator-going-down($e1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2046",
+			shape=ellipse,
+			style=filled,
+			width=6.1086];
+		"elevator-closed($e0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,836",
+			shape=ellipse,
+			style=filled,
+			width=3.6337];
+		"person-waiting-up($f6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1551",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"open-door-going-up($e0)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,72",
+			shape=box,
+			style=filled,
+			width=3.0694];
+		"elevator-at-floor($e0, $f3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,616",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-up($f2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1881",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"elevator-at-floor($e0, $f7)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,396",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"elevator-at-floor($e1, $f4)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2376",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-down($f6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1111",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"person-waiting-down($f2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1441",
+			shape=ellipse,
+			style=filled,
+			width=4.4783];
+		"elevator-dir-up($e0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,891",
+			shape=ellipse,
+			style=filled,
+			width=3.5748];
+		"move-current-dir($e0)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,342",
+			shape=box,
+			style=filled,
+			width=2.75];
+		"elevator-at-floor($e1, $f0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,2321",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-in-elevator-going-up($e0)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1001",
+			shape=ellipse,
+			style=filled,
+			width=5.6372];
+		"open-door-going-up($e1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="219.91,234",
+			shape=box,
+			style=filled,
+			width=3.0694];
+		"elevator-closed($e1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1936",
+			shape=ellipse,
+			style=filled,
+			width=3.6337];
+		"person-waiting-up($f5)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1606",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"elevator-at-floor($e0, $f2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,671",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+		"person-waiting-up($f1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,1826",
+			shape=ellipse,
+			style=filled,
+			width=4.0266];
+		"elevator-at-floor($e0, $f6)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="219.91,451",
+			shape=ellipse,
+			style=filled,
+			width=4.498];
+	}
+	{
+		graph [rank=same];
+		"elevator-at-floor'($e0, $f2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,671",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1881",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"elevator-at-floor'($e0, $f6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,451",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-down'($f1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1441",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1111",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"person-waiting-down'($f5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1166",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e1, $f7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2101",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-closed'($e0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,72",
+			shape=ellipse,
+			style=filled,
+			width=3.7123];
+		"Next State and Reward"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="806.56,2649",
+			shape=plaintext,
+			style=bold,
+			width=2.9167];
+		"Reward Function"	[color=black,
+			fillcolor=firebrick1,
+			height=0.72222,
+			pos="806.56,1668",
+			shape=diamond,
+			style=filled,
+			width=4.3889];
+		"elevator-at-floor'($e1, $f3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2376",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-in-elevator-going-down'($e1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1963",
+			shape=ellipse,
+			style=filled,
+			width=6.1872];
+		"elevator-at-floor'($e0, $f1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,726",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e0, $f5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,506",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-down'($f2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1496",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1826",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"elevator-dir-up'($e0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,127",
+			shape=ellipse,
+			style=filled,
+			width=3.6534];
+		"person-waiting-down'($f6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1056",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1221",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"elevator-closed'($e1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,234",
+			shape=ellipse,
+			style=filled,
+			width=3.7123];
+		"person-in-elevator-going-up'($e0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,891",
+			shape=ellipse,
+			style=filled,
+			width=5.7354];
+		"elevator-at-floor'($e1, $f0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2321",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e1, $f4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2266",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e0, $f0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,781",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e0, $f4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,561",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1551",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"elevator-dir-up'($e1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,289",
+			shape=ellipse,
+			style=filled,
+			width=3.6534];
+		"person-waiting-down'($f3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1386",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1606",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"person-waiting-down'($f7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,946",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-in-elevator-going-up'($e1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2018",
+			shape=ellipse,
+			style=filled,
+			width=5.7354];
+		"elevator-at-floor'($e1, $f1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2431",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e1, $f5)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2211",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e0, $f3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,616",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-down'($f0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1276",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1771",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"elevator-at-floor'($e0, $f7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,396",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-down'($f4)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1331",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-waiting-up'($f7)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,1001",
+			shape=ellipse,
+			style=filled,
+			width=4.1051];
+		"elevator-at-floor'($e1, $f6)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2156",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"elevator-at-floor'($e1, $f2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,2486",
+			shape=ellipse,
+			style=filled,
+			width=4.5766];
+		"person-in-elevator-going-down'($e0)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="806.56,836",
+			shape=ellipse,
+			style=filled,
+			width=6.1872];
+	}
+	"elevator-at-floor($e1, $f3)" -> "elevator-at-floor'($e1, $f3)"	[color=black,
+		pos="e,680.14,2387.8 345.26,2419.3 440.64,2410.3 572.13,2398 670.16,2388.7",
+		style=solid];
+	"elevator-at-floor($e1, $f3)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,614.46,1972.3 381.89,2431.3 402.94,2425.6 423,2416.6 439.82,2403 590.54,2280.9 433,2113 583.82,1991 590.54,1985.6 597.77,1980.9 \
+605.38,1976.8",
+		style=solid];
+	"elevator-at-floor($e1, $f3)" -> "elevator-at-floor'($e1, $f4)"	[color=black,
+		pos="e,657.28,2273.8 366.43,2423.2 391.5,2418.8 416.85,2412.4 439.82,2403 514.13,2372.7 509.48,2324.3 583.82,2294 603.76,2285.9 625.48,\
+2280 647.27,2275.7",
+		style=solid];
+	"elevator-at-floor($e1, $f3)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,655.19,1378.7 371.91,2437.4 397.26,2431.7 421.31,2421.2 439.82,2403 756.63,2091.6 266.76,1725.1 583.82,1414 600.78,1397.4 622.32,\
+1387.1 645.28,1381.1",
+		style=solid];
+	"elevator-at-floor($e1, $f3)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,669.91,2031.8 381.81,2429.9 402.69,2424.4 422.72,2415.8 439.82,2403 567.59,2307.3 462.03,2177.2 583.82,2074 605.57,2055.6 632.56,\
+2043.1 660.13,2034.6",
+		style=solid];
+	"elevator-at-floor($e1, $f3)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,678.98,1761.7 380.15,2433.7 402.14,2427.8 422.93,2418.2 439.82,2403 645.1,2218.6 378.39,1983.3 583.82,1799 607.15,1778.1 637.82,\
+1767.6 668.89,1763",
+		style=solid];
+	"elevator-at-floor($e1, $f3)" -> "elevator-at-floor'($e1, $f2)"	[color=black,
+		pos="e,680.14,2474.2 345.26,2442.7 440.64,2451.7 572.13,2464 670.16,2473.3",
+		style=solid];
+	"person-waiting-up($f0)" -> "Reward Function"	[pos="e,659.11,1666.2 364.31,1662.7 450.57,1663.7 560.45,1665.1 648.98,1666.1"];
+	"person-waiting-up($f0)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,615.02,898.01 341.56,1671 377.13,1667.8 413.53,1657.5 439.82,1633 676.79,1412.5 346.67,1139.4 583.82,919 590.66,912.65 598.17,\
+907.24 606.16,902.66",
+		style=solid];
+	"person-waiting-up($f0)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,683.49,1561.2 340.56,1650.8 373.05,1646.6 408.02,1640.9 439.82,1633 506.16,1616.6 517.46,1595.4 583.82,1579 612.5,1571.9 643.74,\
+1566.6 673.47,1562.5",
+		style=solid];
+	"person-waiting-up($f0)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,621.39,2009.8 363.82,1658.7 390.93,1663.7 417.7,1673 439.82,1689 560.01,1775.9 463.56,1903.2 583.82,1990 592.61,1996.3 602.13,\
+2001.6 612.1,2006",
+		style=solid];
+	"person-waiting-down($f5)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,641.57,1166 381.44,1166 459,1166 552.22,1166 631.48,1166",
+		style=solid];
+	"person-waiting-down($f5)" -> "Reward Function"	[pos="e,655.09,1666.9 381.02,1165.1 402.44,1170.8 422.84,1180 439.82,1194 598.12,1324.8 427.46,1499.9 583.82,1633 601.48,1648 622.91,1658 \
+645.4,1664.4"];
+	"person-waiting-down($f5)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,654.03,1949.6 377,1161.8 400.27,1167.7 422.29,1177.7 439.82,1194 676.79,1414.5 360.02,1674.1 583.82,1908 600.51,1925.4 621.8,1937.7 \
+644.55,1946.3",
+		style=solid];
+	"person-waiting-down($f5)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,618.43,845.9 380.43,1163.9 401.63,1158.5 422.12,1150.3 439.82,1138 552.81,1059.5 470.77,942.39 583.82,864 591.75,858.5 600.23,\
+853.81 609.08,849.82",
+		style=solid];
+	"elevator-at-floor($e1, $f7)" -> "elevator-at-floor'($e1, $f7)"	[color=black,
+		pos="e,680.14,2112.8 345.26,2144.3 440.64,2135.3 572.13,2123 670.16,2113.7",
+		style=solid];
+	"elevator-at-floor($e1, $f7)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,630.63,1974.3 371.72,2149.5 395.24,2144.9 418.71,2138 439.82,2128 519.6,2090.1 504.01,2028.9 583.82,1991 595.55,1985.4 608.01,\
+1980.8 620.8,1977.1",
+		style=solid];
+	"elevator-at-floor($e1, $f7)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,665.77,936.45 365.45,2164.1 393.25,2158.8 419.87,2148 439.82,2128 804.74,1762 218.61,1339.7 583.82,974 603.23,954.56 628.87,943.73 \
+655.8,938.24",
+		style=solid];
+	"elevator-at-floor($e1, $f7)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,729.03,2035.1 348.3,2144.8 378.55,2140.7 410.53,2135.3 439.82,2128 506.16,2111.6 518.58,2094.4 583.82,2074 628.02,2060.2 677.98,\
+2047.3 719.27,2037.4",
+		style=solid];
+	"elevator-at-floor($e1, $f7)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,696.7,988.68 367.9,2163.5 394.78,2158.1 420.42,2147.3 439.82,2128 788.69,1780.2 234.67,1376.5 583.82,1029 610.64,1002.3 649.21,\
+991.88 686.69,989.21",
+		style=solid];
+	"elevator-at-floor($e1, $f7)" -> "elevator-at-floor'($e1, $f6)"	[color=black,
+		pos="e,641.73,2156 382.22,2156 459.68,2156 552.63,2156 631.67,2156",
+		style=solid];
+	"person-waiting-down($f1)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,679.99,1429.2 344.9,1397.7 440.25,1406.6 571.86,1419 670,1428.2",
+		style=solid];
+	"person-waiting-down($f1)" -> "Reward Function"	[pos="e,669.21,1664.5 378.51,1389.5 400.17,1394.6 421.3,1402.4 439.82,1414 538.63,1475.7 485.93,1569.9 583.82,1633 606.35,1647.5 632.79,\
+1656.8 659.41,1662.5"];
+	"person-waiting-down($f1)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,658.5,1949.3 380.61,1384.4 402.27,1390.1 422.85,1399.5 439.82,1414 613.67,1562.6 418.87,1749.6 583.82,1908 602,1925.5 624.83,1937.6 \
+648.87,1946.1",
+		style=solid];
+	"person-waiting-down($f1)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,613.21,845.15 380.61,1387.6 402.27,1381.9 422.85,1372.5 439.82,1358 613.67,1209.4 409.85,1012.4 583.82,864 590.1,858.64 596.86,\
+853.98 603.99,849.94",
+		style=solid];
+	"person-in-elevator-going-up($e1)" -> "Reward Function"	[pos="e,721.27,1680 403.05,2093 416.17,2087.9 428.63,2081.4 439.82,2073 567.59,1977.3 466.4,1852.1 583.82,1744 618.81,1711.8 668.08,1693.1 \
+711.29,1682.4"];
+	"person-in-elevator-going-up($e1)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,703.57,2034 340.55,2086.2 372.8,2082.1 407.66,2077.5 439.82,2073 525.01,2061.1 621.18,2046.6 693.52,2035.5",
+		style=solid];
+	"close-door($e1)" -> "elevator-closed'($e1)"	[color=black,
+		pos="e,695.09,223.8 292.02,186.57 389.6,195.58 566.38,211.91 684.88,222.85",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "elevator-at-floor'($e0, $f2)"	[color=black,
+		pos="e,680.14,682.8 345.26,714.3 440.64,705.33 572.13,692.96 670.16,683.74",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,644.59,1444.4 379.29,722.73 401.66,728.61 422.8,738.41 439.82,754 660.92,956.47 362.56,1210.7 583.82,1413 598.46,1426.4 616.09,\
+1435.5 634.94,1441.6",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "elevator-at-floor'($e0, $f1)"	[color=black,
+		pos="e,641.73,726 382.22,726 459.68,726 552.63,726 631.67,726",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,695.66,1838.2 370.05,719.1 396.12,724.64 420.9,735.26 439.82,754 772.65,1083.6 250.72,1468.7 583.82,1798 610.37,1824.2 648.28,\
+1834.7 685.26,1837.6",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,640.8,880 366.43,733.83 391.5,738.2 416.85,744.62 439.82,754 514.13,784.34 509.48,832.72 583.82,863 598.7,869.06 614.57,873.89 \
+630.71,877.74",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "elevator-at-floor'($e0, $f0)"	[color=black,
+		pos="e,680.14,769.2 345.26,737.7 440.64,746.67 572.13,759.04 670.16,768.26",
+		style=solid];
+	"elevator-at-floor($e0, $f1)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,657.96,822.25 348.3,737.24 378.55,741.3 410.53,746.74 439.82,754 506.16,770.45 517.46,791.61 583.82,808 604.4,813.08 626.3,817.27 \
+648.01,820.72",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "elevator-at-floor'($e0, $f6)"	[color=black,
+		pos="e,680.14,462.8 345.26,494.3 440.64,485.33 572.13,472.96 670.16,463.74",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,643.72,1168.9 380.15,503.31 402.14,509.18 422.93,518.83 439.82,534 645.1,718.44 378.39,953.72 583.82,1138 598.27,1151 615.54,1159.9 \
+633.98,1166",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "elevator-at-floor'($e0, $f5)"	[color=black,
+		pos="e,641.73,506 382.22,506 459.68,506 552.63,506 631.67,506",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,682.45,1231 379.29,502.73 401.66,508.61 422.8,518.41 439.82,534 660.92,736.47 362.56,990.71 583.82,1193 607.89,1215 640.06,1225.6 \
+672.41,1229.9",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,620.26,882.93 381.81,507.09 402.69,512.64 422.72,521.2 439.82,534 567.59,629.67 455.98,767.43 583.82,863 592.24,869.29 601.36,\
+874.57 610.94,878.97",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "elevator-at-floor'($e0, $f4)"	[color=black,
+		pos="e,680.14,549.2 345.26,517.7 440.64,526.67 572.13,539.04 670.16,548.26",
+		style=solid];
+	"elevator-at-floor($e0, $f5)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,618.43,826.1 380.99,508.23 401.99,513.61 422.28,521.81 439.82,534 552.81,612.48 470.77,729.61 583.82,808 591.75,813.5 600.23,818.19 \
+609.08,822.18",
+		style=solid];
+	"person-waiting-up($f4)" -> "Reward Function"	[pos="e,700.73,1676.6 342.05,1706.1 444.39,1697.7 589.96,1685.7 690.53,1677.4"];
+	"person-waiting-up($f4)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,614.88,897.86 339.49,1726.4 375.79,1723.4 413.14,1713.2 439.82,1688 692.71,1449.3 330.74,1157.5 583.82,919 590.54,912.67 597.93,\
+907.27 605.8,902.69",
+		style=solid];
+	"person-waiting-up($f4)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,681.15,1615.8 340.88,1705.9 373.28,1701.7 408.14,1696 439.82,1688 506.27,1671.3 517.32,1649.5 583.82,1633 611.68,1626.1 641.97,\
+1620.9 670.95,1617.1",
+		style=solid];
+	"person-waiting-up($f4)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,623.8,2009.3 365.1,1715.6 391.51,1720.6 417.69,1729.4 439.82,1744 545.5,1813.9 478.09,1920.2 583.82,1990 593.34,1996.3 603.59,\
+2001.5 614.29,2005.8",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,674.88,1889.5 380.56,2543.4 402.37,2537.5 423,2528 439.82,2513 637.35,2337.4 396.79,2122.8 583.82,1936 605.79,1914.1 635.06,1900.4 \
+665.1,1892",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "elevator-at-floor'($e1, $f3)"	[color=black,
+		pos="e,657.28,2383.8 366.43,2533.2 391.5,2528.8 416.85,2522.4 439.82,2513 514.13,2482.7 509.48,2434.3 583.82,2404 603.76,2395.9 625.48,\
+2390 647.27,2385.7",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,612.82,1972.1 381.07,2542.8 402.61,2537 423.03,2527.6 439.82,2513 621.64,2355.3 401.88,2148.5 583.82,1991 590.01,1985.6 596.68,\
+1981 603.72,1976.9",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,655.19,1488.7 371.91,2547.4 397.26,2541.7 421.31,2531.2 439.82,2513 756.63,2201.6 266.76,1835.1 583.82,1524 600.78,1507.4 622.32,\
+1497.1 645.28,1491.1",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,664.44,2031.3 381.85,2541.7 402.97,2535.9 423.06,2526.8 439.82,2513 598.12,2382.2 433.66,2214.1 583.82,2074 603.67,2055.5 628.72,\
+2042.9 654.8,2034.3",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "elevator-at-floor'($e1, $f1)"	[color=black,
+		pos="e,675.94,2442.2 348.3,2529.8 378.55,2525.7 410.53,2520.3 439.82,2513 506.16,2496.6 517.46,2475.4 583.82,2459 610.07,2452.5 638.46,\
+2447.5 665.89,2443.6",
+		style=solid];
+	"elevator-at-floor($e1, $f2)" -> "elevator-at-floor'($e1, $f2)"	[color=black,
+		pos="e,680.14,2497.8 345.26,2529.3 440.64,2520.3 572.13,2508 670.16,2498.7",
+		style=solid];
+	"person-waiting-down($f4)" -> "Reward Function"	[pos="e,659.84,1666.1 380.97,1276.9 402.15,1282.4 422.49,1291 439.82,1304 567.59,1399.7 457.47,1535.5 583.82,1633 603.07,1647.9 626.11,\
+1657.6 649.95,1663.7"];
+	"person-waiting-down($f4)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,655.73,1949.4 379.03,1273 401.43,1278.9 422.65,1288.6 439.82,1304 645.1,1488.4 389.57,1712 583.82,1908 601.06,1925.4 622.88,1937.6 \
+646.07,1946.1",
+		style=solid];
+	"person-waiting-down($f4)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,679.99,1319.2 344.9,1287.7 440.25,1296.6 571.86,1309 670,1318.2",
+		style=solid];
+	"person-waiting-down($f4)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,614.92,845.47 381.33,1276 402.52,1270.4 422.77,1261.5 439.82,1248 582.73,1134.9 440.82,977.02 583.82,864 590.66,858.6 598,853.92 \
+605.71,849.9",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,695.66,1098.8 370.05,2217.9 396.12,2212.4 420.9,2201.7 439.82,2183 772.65,1853.4 250.72,1468.3 583.82,1139 610.37,1112.8 648.28,\
+1102.3 685.26,1099.4",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "elevator-at-floor'($e1, $f7)"	[color=black,
+		pos="e,675.94,2112.2 348.3,2199.8 378.55,2195.7 410.53,2190.3 439.82,2183 506.16,2166.6 517.46,2145.4 583.82,2129 610.07,2122.5 638.46,\
+2117.5 665.89,2113.6",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,623.63,1973.6 377.31,2206.6 399.25,2201.6 420.78,2194.1 439.82,2183 532,2129.3 491.6,2044.6 583.82,1991 593.32,1985.5 603.44,1980.8 \
+613.91,1976.9",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,661.84,1047.2 367.9,2218.5 394.78,2213.1 420.42,2202.3 439.82,2183 788.69,1835.2 234.67,1431.5 583.82,1084 602.35,1065.6 626.5,\
+1054.9 652.01,1049.2",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,706.57,2034.1 366.43,2203.2 391.5,2198.8 416.85,2192.4 439.82,2183 514.13,2152.7 511.46,2108.7 583.82,2074 618.98,2057.1 659.8,\
+2044.9 696.76,2036.4",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "elevator-at-floor'($e1, $f5)"	[color=black,
+		pos="e,641.73,2211 382.22,2211 459.68,2211 552.63,2211 631.67,2211",
+		style=solid];
+	"elevator-at-floor($e1, $f6)" -> "elevator-at-floor'($e1, $f6)"	[color=black,
+		pos="e,680.14,2167.8 345.26,2199.3 440.64,2190.3 572.13,2178 670.16,2168.7",
+		style=solid];
+	"person-waiting-down($f0)" -> "Reward Function"	[pos="e,657.11,1666.5 381.33,1221 402.52,1226.6 422.77,1235.5 439.82,1249 582.73,1362.1 442.58,1517.8 583.82,1633 602.12,1647.9 624.18,\
+1657.7 647.19,1664"];
+	"person-waiting-down($f0)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,654.86,1949.5 378.17,1217.4 400.96,1223.3 422.51,1233.2 439.82,1249 660.92,1451.5 374.82,1693.1 583.82,1908 600.77,1925.4 622.32,\
+1937.7 645.29,1946.2",
+		style=solid];
+	"person-waiting-down($f0)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,679.99,1264.2 344.9,1232.7 440.25,1241.6 571.86,1254 670,1263.2",
+		style=solid];
+	"person-waiting-down($f0)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,616.46,845.61 380.97,1220.1 402.15,1214.6 422.49,1206 439.82,1193 567.59,1097.3 455.98,959.57 583.82,864 591.18,858.5 599.08,853.77 \
+607.35,849.73",
+		style=solid];
+	"open-door-going-down($e1)" -> "elevator-closed'($e1)"	[color=black,
+		pos="e,694.95,244.22 342.05,276.81 442.45,267.54 584.46,254.42 684.77,245.16",
+		style=solid];
+	"open-door-going-down($e1)" -> "elevator-dir-up'($e1)"	[color=black,
+		pos="e,674.92,288.78 342.05,288.21 435.99,288.37 566.34,288.59 664.89,288.76",
+		style=solid];
+	"person-in-elevator-going-down($e0)" -> "Reward Function"	[pos="e,685.88,1674.2 412.19,955.04 422.16,960.12 431.48,966.37 439.82,974 660.92,1176.5 365.71,1427.3 583.82,1633 608.59,1656.4 642.29,\
+1667.9 675.93,1672.9"];
+	"person-in-elevator-going-down($e0)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,657.96,849.75 366.04,932.24 390.84,928.53 416.21,923.85 439.82,918 506.16,901.55 517.46,880.39 583.82,864 604.4,858.92 626.3,854.73 \
+648.01,851.28",
+		style=solid];
+	"close-door($e0)" -> "elevator-closed'($e0)"	[color=black,
+		pos="e,695.09,61.797 292.02,24.567 389.6,33.58 566.38,49.908 684.88,60.854",
+		style=solid];
+	"elevator-at-floor($e0, $f0)" -> "elevator-at-floor'($e0, $f1)"	[color=black,
+		pos="e,680.14,737.8 345.26,769.3 440.64,760.33 572.13,747.96 670.16,738.74",
+		style=solid];
+	"elevator-at-floor($e0, $f0)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,662.11,877.86 348.3,792.24 378.55,796.3 410.53,801.74 439.82,809 506.16,825.45 517.46,846.61 583.82,863 605.64,868.39 628.94,872.78 \
+651.93,876.33",
+		style=solid];
+	"elevator-at-floor($e0, $f0)" -> "elevator-at-floor'($e0, $f0)"	[color=black,
+		pos="e,641.73,781 382.22,781 459.68,781 552.63,781 631.67,781",
+		style=solid];
+	"elevator-at-floor($e0, $f0)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,685.38,1561.5 378.4,777.2 401.15,783.07 422.64,793.01 439.82,809 676.79,1029.5 346.67,1302.6 583.82,1523 608.42,1545.9 641.73,\
+1556.5 675.05,1560.5",
+		style=solid];
+	"elevator-at-floor($e0, $f0)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,641.7,1276.8 381.85,780.31 402.97,786.07 423.06,795.15 439.82,809 598.12,939.79 425.42,1117.3 583.82,1248 597.96,1259.7 614.44,\
+1268 631.91,1273.8",
+		style=solid];
+	"elevator-at-floor($e0, $f0)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,658.93,822.21 345.26,792.7 433.9,801.04 553.74,812.31 648.92,821.26",
+		style=solid];
+	"person-waiting-up($f7)" -> "Reward Function"	[pos="e,691.77,1660.9 356.58,1502.2 384.8,1506.6 413.84,1513.4 439.82,1524 514.13,1554.3 509.96,1601.6 583.82,1633 614.29,1646 648.96,\
+1654.2 681.68,1659.4"];
+	"person-waiting-up($f7)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,616.37,898.26 350.41,1504 382.81,1499.9 415.28,1489.6 439.82,1468 629.34,1301.5 394.17,1085.3 583.82,919 591,912.71 598.84,907.36 \
+607.16,902.85",
+		style=solid];
+	"person-waiting-up($f7)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,617.31,2010.5 355.5,1489.5 386,1494.1 416.29,1504.2 439.82,1524 605.74,1663.5 417.79,1850.6 583.82,1990 591.32,1996.3 599.5,2001.6 \
+608.14,2006.1",
+		style=solid];
+	"person-waiting-up($f7)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,667.47,994.76 357.25,1501.9 387.08,1497.2 416.63,1487.2 439.82,1468 598.12,1337.2 425.42,1159.7 583.82,1029 604.75,1011.7 630.78,\
+1001.8 657.57,996.51",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "elevator-at-floor'($e0, $f5)"	[color=black,
+		pos="e,680.14,517.8 345.26,549.3 440.64,540.33 572.13,527.96 670.16,518.74",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,622.56,882.65 380.99,563.23 401.99,568.61 422.28,576.81 439.82,589 552.81,667.48 470.77,784.61 583.82,863 592.91,869.31 602.73,\
+874.55 613.01,878.9",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "elevator-at-floor'($e0, $f4)"	[color=black,
+		pos="e,641.73,561 382.22,561 459.68,561 552.63,561 631.67,561",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,694.62,1618 371.91,554.64 397.26,560.28 421.31,570.8 439.82,589 756.63,900.35 266.76,1266.9 583.82,1578 610.21,1603.9 647.68,1614.4 \
+684.32,1617.4",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "elevator-at-floor'($e0, $f3)"	[color=black,
+		pos="e,680.14,604.2 345.26,572.7 440.64,581.67 572.13,594.04 670.16,603.26",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,645.77,1335.1 378.4,557.2 401.15,563.07 422.64,573.01 439.82,589 676.79,809.54 346.67,1082.6 583.82,1303 598.65,1316.8 616.65,\
+1326.1 635.91,1332.2",
+		style=solid];
+	"elevator-at-floor($e0, $f4)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,621.45,825.68 378.8,564.55 400.35,569.7 421.38,577.48 439.82,589 538.63,650.7 484.96,746.38 583.82,808 592.68,813.52 602.12,818.19 \
+611.94,822.13",
+		style=solid];
+	"person-waiting-up($f3)" -> "Reward Function"	[pos="e,739.77,1683 328.87,1758.8 364.3,1754.4 403.82,1749 439.82,1743 540.58,1726.2 655.88,1701.7 729.64,1685.3"];
+	"person-waiting-up($f3)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,614.5,897.86 337.4,1781.8 374.42,1779.1 412.74,1768.9 439.82,1743 708.65,1486.2 314.78,1175.6 583.82,919 590.45,912.68 597.74,\
+907.28 605.52,902.7",
+		style=solid];
+	"person-waiting-up($f3)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,627.9,2008.7 364.37,1772.8 390.71,1777.6 417.04,1785.8 439.82,1799 531.76,1852.4 491.84,1936.7 583.82,1990 594.62,1996.3 606.2,\
+2001.4 618.2,2005.6",
+		style=solid];
+	"person-waiting-up($f3)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,658.71,1771 365.06,1771 451.09,1771 560.4,1771 648.61,1771",
+		style=solid];
+	"person-waiting-down($f7)" -> "Reward Function"	[pos="e,652.24,1667.4 379.85,1053.6 401.88,1059.5 422.76,1069 439.82,1084 629.34,1250.5 396.76,1463.8 583.82,1633 600.5,1648.1 620.93,\
+1658.2 642.56,1664.7"];
+	"person-waiting-down($f7)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,652.77,1949.7 374.57,1050.8 398.84,1056.5 421.81,1066.8 439.82,1084 708.65,1340.8 330.31,1636.1 583.82,1908 600.03,1925.4 620.81,\
+1937.7 643.12,1946.2",
+		style=solid];
+	"person-waiting-down($f7)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,675.94,957.22 348.01,1044.8 378.35,1040.7 410.44,1035.3 439.82,1028 506.16,1011.6 517.46,990.39 583.82,974 610.07,967.51 638.46,\
+962.49 665.89,958.6",
+		style=solid];
+	"person-waiting-down($f7)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,626.79,846.87 374.55,1050.7 397.28,1045.9 419.78,1038.7 439.82,1028 525.46,982.46 498.14,909.47 583.82,864 594.33,858.42 605.5,\
+853.78 617.03,849.93",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,655.19,1433.7 371.91,2492.4 397.26,2486.7 421.31,2476.2 439.82,2458 756.63,2146.6 266.76,1780.1 583.82,1469 600.78,1452.4 622.32,\
+1442.1 645.28,1436.1",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,613.34,1972.3 381.8,2487 402.99,2481.2 423.11,2472.1 439.82,2458 606.02,2318.2 417.51,2130.7 583.82,1991 590.14,1985.7 596.94,\
+1981.1 604.1,1977.1",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,678.98,1816.7 380.15,2488.7 402.14,2482.8 422.93,2473.2 439.82,2458 645.1,2273.6 378.39,2038.3 583.82,1854 607.15,1833.1 637.82,\
+1822.6 668.89,1818",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "elevator-at-floor'($e1, $f0)"	[color=black,
+		pos="e,657.28,2328.8 366.43,2478.2 391.5,2473.8 416.85,2467.4 439.82,2458 514.13,2427.7 509.48,2379.3 583.82,2349 603.76,2340.9 625.48,\
+2335 647.27,2330.7",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,666.8,2031.5 381.89,2485.9 402.88,2480.2 422.92,2471.4 439.82,2458 582.73,2344.9 447.96,2195.5 583.82,2074 604.45,2055.6 630.27,\
+2043 656.94,2034.5",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "elevator-at-floor'($e1, $f1)"	[color=black,
+		pos="e,680.14,2442.8 345.26,2474.3 440.64,2465.3 572.13,2453 670.16,2443.7",
+		style=solid];
+	"elevator-at-floor($e1, $f1)" -> "elevator-at-floor'($e1, $f2)"	[color=black,
+		pos="e,641.73,2486 382.22,2486 459.68,2486 552.63,2486 631.67,2486",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,740.52,1897.5 323.12,1979.9 360.01,1975.4 401.89,1969.7 439.82,1963 541.13,1945.2 656.76,1918.1 730.41,1900",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,642.4,1439.4 330.72,2000.4 369.12,1998 410.04,1988.5 439.82,1963 613.67,1814.4 409.85,1617.4 583.82,1469 598.02,1456.9 614.7,1448.3 \
+632.45,1442.4",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,689.88,1099.7 320.21,2002.5 362.19,2001.9 408.51,1992.9 439.82,1963 708.65,1706.2 314.78,1395.6 583.82,1139 609.31,1114.7 644.61,\
+1104.1 679.56,1100.6",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,646.99,1161.4 321.44,2002.3 363.01,2001.5 408.68,1992.4 439.82,1963 692.71,1724.3 330.74,1432.5 583.82,1194 598.93,1179.8 617.4,\
+1170.3 637.18,1164.1",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f7)"	[color=black,
+		pos="e,739.2,2084.2 323.12,2002.1 360.01,2006.6 401.89,2012.3 439.82,2019 540.51,2036.7 655.37,2063.5 729.07,2081.7",
+		style=solid];
+	"elevator-dir-up($e1)" -> "Reward Function"	[pos="e,728.98,1681.2 347.9,1993.1 379.76,1988.9 412.6,1980 439.82,1963 538.63,1901.3 491.77,1815.4 583.82,1744 623.06,1713.6 675.27,1694.9 \
+719.17,1683.7"];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f3)"	[color=black,
+		pos="e,642.02,2375 341.15,1984.8 375.79,1988.4 411.76,1998 439.82,2019 567.59,2114.7 455.98,2252.4 583.82,2348 598.31,2358.8 614.87,2366.6 \
+632.28,2372.2",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,613.51,1972.2 342.05,1985.2 417.49,1981.6 516.42,1976.8 603.5,1972.7",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,641.7,1495.2 333.65,1999.6 371.02,1996.9 410.5,1987.2 439.82,1963 598.12,1832.2 425.42,1654.7 583.82,1524 597.96,1512.3 614.44,\
+1504 631.91,1498.2",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,667.26,1832.2 344.8,1986.5 376.61,1982.3 410.2,1975.1 439.82,1963 514.13,1932.7 509.48,1884.3 583.82,1854 606.82,1844.6 632.18,\
+1838.2 657.28,1833.8",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,650.34,1050.1 319.25,2002.7 361.55,2002.2 408.4,1993.3 439.82,1963 724.62,1688 298.8,1358.7 583.82,1084 599.69,1068.7 619.43,1058.8 \
+640.55,1052.7",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,685.38,1210.5 322.64,2002.1 363.8,2001 408.83,1991.8 439.82,1963 676.79,1742.5 346.67,1469.4 583.82,1249 608.42,1226.1 641.73,\
+1215.5 675.05,1211.5",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f0)"	[color=black,
+		pos="e,642.85,2318.9 345.08,1986.6 378.19,1990.6 412.36,1999.9 439.82,2019 552.81,2097.5 470.77,2214.6 583.82,2293 598.69,2303.3 615.49,\
+2310.8 633.03,2316.1",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f4)"	[color=black,
+		pos="e,644.78,2262.5 347.9,1988.9 379.76,1993.1 412.6,2002 439.82,2019 538.63,2080.7 484.96,2176.4 583.82,2238 599.38,2247.7 616.75,2254.8 \
+634.73,2259.9",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,664.01,1546.1 337.33,1998.6 373.38,1995.4 411.13,1985.7 439.82,1963 582.73,1849.9 440.82,1692 583.82,1579 603.98,1563.1 628.54,\
+1553.5 653.88,1548.1",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-dir-up'($e1)"	[color=black,
+		pos="e,705.45,300.82 313.05,2003.7 357.41,2004.4 407.79,1996.2 439.82,1963 686.6,1706.9 366.51,650.56 583.82,369 610.73,334.13 654.2,\
+314.44 695.56,303.33",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,642.89,1383.8 328,2001 367.34,1999 409.59,1989.6 439.82,1963 629.34,1796.5 394.17,1580.3 583.82,1414 598.04,1401.5 614.87,1392.8 \
+632.82,1386.8",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,662.72,1601.7 341.17,1997.2 375.8,1993.6 411.77,1984 439.82,1963 567.86,1867 455.49,1728.6 583.82,1633 603.93,1618 628.03,1608.9 \
+652.82,1603.6",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,655.19,938.74 317.55,2003 360.41,2002.8 408.19,1994.1 439.82,1963 756.63,1651.6 266.76,1285.1 583.82,974 600.78,957.35 622.32,\
+947.07 645.28,941.06",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,623.04,2009.6 342.76,1996.6 420.82,2000.2 523.81,2005 612.82,2009.1",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f1)"	[color=black,
+		pos="e,641.66,2430.9 337.33,1983.4 373.38,1986.6 411.13,1996.3 439.82,2019 582.73,2132.1 440.82,2290 583.82,2403 598.08,2414.3 614.54,\
+2422.3 631.92,2428",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f5)"	[color=black,
+		pos="e,648.78,2205.7 348.67,1991.8 379.85,1996.1 412.16,2004.3 439.82,2019 525.46,2064.5 498.14,2137.5 583.82,2183 600.9,2192.1 619.73,\
+2198.7 638.99,2203.4",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,644.59,1272.6 324.09,2001.8 364.76,2000.5 409.02,1991.2 439.82,1963 660.92,1760.5 362.56,1506.3 583.82,1304 598.46,1290.6 616.09,\
+1281.5 634.94,1275.4",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,660.74,1774 348.67,1990.2 379.85,1985.9 412.16,1977.7 439.82,1963 525.46,1917.5 498.14,1844.5 583.82,1799 604.36,1788.1 627.44,\
+1780.8 650.74,1775.9",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,643.72,1328.1 326.07,2001.4 366.08,1999.8 409.32,1990.4 439.82,1963 645.1,1778.6 378.39,1543.3 583.82,1359 598.27,1346 615.54,\
+1337.1 633.98,1331",
+		style=solid];
+	"elevator-dir-up($e1)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,693.32,989.18 318.26,2002.9 360.88,2002.5 408.27,1993.8 439.82,1963 740.62,1669.9 282.79,1321.9 583.82,1029 610,1003.5 646.92,\
+993 683.13,989.87",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f6)"	[color=black,
+		pos="e,657.28,2148.2 344.8,1995.5 376.61,1999.7 410.2,2006.9 439.82,2019 514.13,2049.3 509.48,2097.7 583.82,2128 603.76,2136.1 625.48,\
+2142 647.27,2146.3",
+		style=solid];
+	"elevator-dir-up($e1)" -> "elevator-at-floor'($e1, $f2)"	[color=black,
+		pos="e,641.7,2486.8 333.65,1982.4 371.02,1985.1 410.5,1994.8 439.82,2019 598.12,2149.8 425.42,2327.3 583.82,2458 597.96,2469.7 614.44,\
+2478 631.91,2483.8",
+		style=solid];
+	"person-waiting-down($f3)" -> "Reward Function"	[pos="e,663.66,1665.4 380.43,1333.1 401.63,1338.5 422.12,1346.7 439.82,1359 552.81,1437.5 471.99,1552.9 583.82,1633 604.38,1647.7 628.76,\
+1657.2 653.7,1663.2"];
+	"person-waiting-down($f3)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,656.93,1949.3 379.85,1328.6 401.88,1334.5 422.76,1344 439.82,1359 629.34,1525.5 404.26,1730.8 583.82,1908 601.44,1925.4 623.64,\
+1937.6 647.15,1946",
+		style=solid];
+	"person-waiting-down($f3)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,679.99,1374.2 344.9,1342.7 440.25,1351.6 571.86,1364 670,1373.2",
+		style=solid];
+	"person-waiting-down($f3)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,614.03,845.25 381.02,1331.9 402.44,1326.2 422.84,1317 439.82,1303 598.12,1172.2 425.42,994.66 583.82,864 590.44,858.54 597.56,\
+853.82 605.06,849.74",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,658.22,1158 370.05,2272.9 396.12,2267.4 420.9,2256.7 439.82,2238 772.65,1908.4 250.72,1523.3 583.82,1194 601.46,1176.6 624.13,\
+1166.1 648.2,1160.2",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,619.62,1973.1 380.23,2263.1 401.4,2257.9 421.93,2249.8 439.82,2238 545.75,2167.8 477.83,2061.1 583.82,1991 592.13,1985.5 601.01,\
+1980.8 610.26,1976.9",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,694.62,1209 371.91,2272.4 397.26,2266.7 421.31,2256.2 439.82,2238 756.63,1926.6 266.76,1560.1 583.82,1249 610.21,1223.1 647.68,\
+1212.6 684.32,1209.6",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "elevator-at-floor'($e1, $f4)"	[color=black,
+		pos="e,641.73,2266 382.22,2266 459.68,2266 552.63,2266 631.67,2266",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,690.95,2033.2 374.84,2260.6 397.47,2255.8 419.86,2248.6 439.82,2238 525.46,2192.5 501.07,2124.6 583.82,2074 613.11,2056.1 647.91,\
+2043.9 681.16,2035.6",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "elevator-at-floor'($e1, $f5)"	[color=black,
+		pos="e,680.14,2222.8 345.26,2254.3 440.64,2245.3 572.13,2233 670.16,2223.7",
+		style=solid];
+	"elevator-at-floor($e1, $f5)" -> "elevator-at-floor'($e1, $f6)"	[color=black,
+		pos="e,675.94,2167.2 348.3,2254.8 378.55,2250.7 410.53,2245.3 439.82,2238 506.16,2221.6 517.46,2200.4 583.82,2184 610.07,2177.5 638.46,\
+2172.5 665.89,2168.6",
+		style=solid];
+	"Current State and Actions" -> "Next State and Reward"	[color=black,
+		pos="e,701.08,2649 336.42,2649 439.15,2649 588.56,2649 691.01,2649",
+		style=invis];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f7)"	[color=black,
+		pos="e,641.7,2100.2 319.06,2604.8 360.45,2603.9 406.62,2595.3 439.82,2568 598.41,2437.6 425.42,2259.7 583.82,2129 597.96,2117.3 614.44,\
+2109 631.91,2103.2",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f3)"	[color=black,
+		pos="e,648.78,2381.3 319.15,2597.7 358.59,2595.2 403.26,2587.3 439.82,2568 525.57,2522.7 498.14,2449.5 583.82,2404 600.9,2394.9 619.73,\
+2388.3 638.99,2383.6",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f0)"	[color=black,
+		pos="e,644.78,2324.5 318.94,2600.3 359,2598.3 404.2,2590.1 439.82,2568 538.77,2506.5 484.96,2410.6 583.82,2349 599.38,2339.3 616.75,2332.2 \
+634.73,2327.1",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f4)"	[color=black,
+		pos="e,642.85,2268.1 318.94,2602.1 359.47,2600.4 405.01,2592.1 439.82,2568 552.99,2489.8 470.77,2372.4 583.82,2294 598.69,2283.7 615.49,\
+2276.2 633.03,2270.9",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f1)"	[color=black,
+		pos="e,657.28,2438.8 319.02,2593.8 357.79,2590.6 402.03,2583.3 439.82,2568 514.2,2537.8 509.48,2489.3 583.82,2459 603.76,2450.9 625.48,\
+2445 647.27,2440.7",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f5)"	[color=black,
+		pos="e,642.02,2212 318.97,2603.3 359.85,2601.9 405.66,2593.5 439.82,2568 567.8,2472.6 455.98,2334.6 583.82,2239 598.31,2228.2 614.87,\
+2220.4 632.28,2214.8",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f6)"	[color=black,
+		pos="e,641.66,2156.1 319.08,2604.2 360.23,2603 406.21,2594.5 439.82,2568 582.99,2455.2 440.82,2297 583.82,2184 598.08,2172.7 614.54,2164.7 \
+631.92,2159",
+		style=solid];
+	"move-current-dir($e1)" -> "elevator-at-floor'($e1, $f2)"	[color=black,
+		pos="e,739.54,2502.8 319.02,2585 356.89,2580.6 400.49,2574.8 439.82,2568 540.71,2550.5 655.75,2523.5 729.43,2505.4",
+		style=solid];
+	"open-door-going-down($e0)" -> "elevator-closed'($e0)"	[color=black,
+		pos="e,694.95,82.216 342.05,114.81 442.45,105.54 584.46,92.422 684.77,83.157",
+		style=solid];
+	"open-door-going-down($e0)" -> "elevator-dir-up'($e0)"	[color=black,
+		pos="e,674.92,126.78 342.05,126.21 435.99,126.37 566.34,126.59 664.89,126.76",
+		style=solid];
+	"person-in-elevator-going-down($e1)" -> "Reward Function"	[pos="e,724.35,1680.6 405.39,2036 417.57,2031.3 429.2,2025.4 439.82,2018 552.81,1939.5 479.36,1833.5 583.82,1744 620.59,1712.5 671.09,\
+1693.8 714.61,1682.9"];
+	"person-in-elevator-going-down($e1)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,676.69,1978 347.84,2031 378.04,2027.1 410.11,2022.7 439.82,2018 504.14,2007.9 519.49,2001.1 583.82,1991 610.54,1986.8 639.14,1982.8 \
+666.62,1979.3",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f2)"	[color=black,
+		pos="e,657.28,678.82 346.51,831.23 377.82,827.01 410.73,819.87 439.82,808 514.13,777.66 509.48,729.28 583.82,699 603.76,690.88 625.48,\
+684.96 647.27,680.67",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,694.62,1893 319.22,824.02 361.64,824.44 408.6,833.32 439.82,864 756.63,1175.4 266.76,1541.9 583.82,1853 610.21,1878.9 647.68,1889.4 \
+684.32,1892.4",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f6)"	[color=black,
+		pos="e,642.02,451.97 343.99,841.89 377.75,838.05 412.52,828.44 439.82,808 567.59,712.33 455.98,574.57 583.82,479 598.31,468.17 614.87,\
+460.36 632.28,454.82",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,642.89,1443.2 330.53,826.16 369.14,828.38 410.24,838.02 439.82,864 629.34,1030.5 394.17,1246.7 583.82,1413 598.04,1425.5 614.87,\
+1434.2 632.82,1440.2",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,658.67,1110.5 350.18,834.2 381.33,838.56 413.25,847.41 439.82,864 538.63,925.7 484.96,1021.4 583.82,1083 603.41,1095.2 625.88,\
+1103.3 648.82,1108.4",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,642.85,1163.9 347.64,831.92 379.95,836.09 413.07,845.42 439.82,864 552.81,942.48 470.77,1059.6 583.82,1138 598.69,1148.3 615.49,\
+1155.8 633.03,1161.1",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-closed'($e0)"	[color=black,
+		pos="e,701.42,60.625 324.85,847.01 365.4,845.64 409.37,836.3 439.82,808 675.06,589.43 348.4,318.38 583.82,100 612.41,73.475 652.74,63.463 \
+691.18,61.086",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f1)"	[color=black,
+		pos="e,675.94,737.22 332.92,826.73 367.51,822.52 405.51,816.5 439.82,808 506.16,791.55 517.46,770.39 583.82,754 610.07,747.51 638.46,\
+742.49 665.89,738.6",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f5)"	[color=black,
+		pos="e,642.85,508.12 347.64,840.08 379.95,835.91 413.07,826.58 439.82,808 552.81,729.52 470.77,612.39 583.82,534 598.69,523.69 615.49,\
+516.21 633.03,510.87",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,643.72,1498.9 328.31,825.67 367.69,827.57 409.89,837.11 439.82,864 645.1,1048.4 378.39,1283.7 583.82,1468 598.27,1481 615.54,1489.9 \
+633.98,1496",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,693.32,1837.8 320.21,824.16 362.32,824.75 408.75,833.72 439.82,864 740.62,1157.1 282.79,1505.1 583.82,1798 610,1823.5 646.92,1834 \
+683.13,1837.1",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,648.78,1050.7 350.67,837.1 381.23,841.48 412.76,849.61 439.82,864 525.46,909.54 498.14,982.53 583.82,1028 600.9,1037.1 619.73,\
+1043.7 638.99,1048.4",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,660.96,1224.3 343.99,830.11 377.75,833.95 412.52,843.56 439.82,864 567.59,959.67 455.98,1097.4 583.82,1193 603.42,1207.7 626.82,\
+1216.8 650.95,1222.2",
+		style=solid];
+	"elevator-closed($e0)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,663.95,877.68 329.17,846.18 420.45,854.77 552.1,867.16 653.89,876.73",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f0)"	[color=black,
+		pos="e,680.14,792.8 329.17,825.82 425.32,816.77 566.27,803.51 669.92,793.76",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f4)"	[color=black,
+		pos="e,644.78,564.52 350.18,837.8 381.33,833.44 413.25,824.59 439.82,808 538.63,746.3 484.96,650.62 583.82,589 599.38,579.3 616.75,572.23 \
+634.73,567.15",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,682.45,1561 326.33,825.28 366.38,826.88 409.59,836.31 439.82,864 660.92,1066.5 362.56,1320.7 583.82,1523 607.89,1545 640.06,1555.6 \
+672.41,1559.9",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,642.4,1387.6 333.26,826.79 370.92,829.39 410.69,839.11 439.82,864 613.67,1012.6 409.85,1209.6 583.82,1358 598.02,1370.1 614.7,\
+1378.7 632.45,1384.6",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,685.38,1616.5 324.6,824.96 365.23,826.29 409.32,835.61 439.82,864 676.79,1084.5 346.67,1357.6 583.82,1578 608.42,1600.9 641.73,\
+1611.5 675.05,1615.5",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,675.94,934.78 332.92,845.27 367.51,849.48 405.51,855.5 439.82,864 506.16,880.45 517.46,901.61 583.82,918 610.07,924.49 638.46,\
+929.51 665.89,933.4",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f3)"	[color=black,
+		pos="e,648.78,621.34 350.67,834.9 381.23,830.52 412.76,822.39 439.82,808 525.46,762.46 498.14,689.47 583.82,644 600.9,634.94 619.73,628.34 \
+638.99,623.59",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,641.66,1275.9 340.16,828.7 375.35,832.14 411.88,841.88 439.82,864 582.73,977.13 440.82,1135 583.82,1248 598.08,1259.3 614.54,1267.3 \
+631.92,1273",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,689.1,1759.8 321.65,824.44 363.27,825.28 408.9,834.38 439.82,864 713.01,1125.7 333.89,1419 583.82,1703 608.26,1730.8 643.71,1747.4 \
+679.12,1757.2",
+		style=solid];
+	"elevator-closed($e0)" -> "elevator-at-floor'($e0, $f7)"	[color=black,
+		pos="e,641.66,396.05 340.16,843.3 375.35,839.86 411.88,830.12 439.82,808 582.73,694.87 440.82,537.02 583.82,424 598.08,412.73 614.54,\
+404.65 631.92,398.97",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,641.7,1331.8 336.48,827.61 373,830.63 411.24,840.39 439.82,864 598.12,994.79 425.42,1172.3 583.82,1303 597.96,1314.7 614.44,1323 \
+631.91,1328.8",
+		style=solid];
+	"elevator-closed($e0)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,667.26,994.82 346.51,840.77 377.82,844.99 410.73,852.13 439.82,864 514.13,894.34 509.48,942.72 583.82,973 606.82,982.37 632.18,\
+988.8 657.28,993.18",
+		style=solid];
+	"elevator-closed($e0)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,583.65,836 351.03,836 416.48,836 497.8,836 573.49,836",
+		style=solid];
+	"person-waiting-up($f6)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,664.01,1106.1 360.39,1555.6 388.98,1550.7 417.21,1540.9 439.82,1523 582.73,1409.9 440.82,1252 583.82,1139 603.98,1123.1 628.54,\
+1113.5 653.88,1108.1",
+		style=solid];
+	"person-waiting-up($f6)" -> "Reward Function"	[pos="e,712.18,1657.5 340.56,1561.2 373.05,1565.4 408.02,1571.1 439.82,1579 506.16,1595.4 517.72,1615.6 583.82,1633 621.96,1643.1 664.6,\
+1650.6 702.22,1656.1"];
+	"person-waiting-up($f6)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,615.88,898.14 347.31,1559.8 380.84,1555.9 414.67,1545.6 439.82,1523 645.1,1338.6 378.39,1103.3 583.82,919 590.87,912.67 598.6,\
+907.3 606.8,902.75",
+		style=solid];
+	"person-waiting-up($f6)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,618.47,2010.4 358.97,1545.7 388.14,1550.6 416.96,1560.5 439.82,1579 590.26,1700.8 433.28,1868.3 583.82,1990 591.69,1996.4 600.25,\
+2001.7 609.28,2006.2",
+		style=solid];
+	"open-door-going-up($e0)" -> "elevator-closed'($e0)"	[color=black,
+		pos="e,672.88,72 330.54,72 424.45,72 560.36,72 662.77,72",
+		style=solid];
+	"open-door-going-up($e0)" -> "elevator-dir-up'($e0)"	[color=black,
+		pos="e,696.94,116.78 330.54,82.313 431.97,91.855 582.39,106.01 686.68,115.82",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "elevator-at-floor'($e0, $f2)"	[color=black,
+		pos="e,680.14,659.2 345.26,627.7 440.64,636.67 572.13,649.04 670.16,658.26",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,625.66,882.1 378.8,619.55 400.35,624.7 421.38,632.48 439.82,644 538.63,705.7 484.96,801.38 583.82,863 593.92,869.29 604.78,874.48 \
+616.07,878.74",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "elevator-at-floor'($e0, $f4)"	[color=black,
+		pos="e,680.14,572.8 345.26,604.3 440.64,595.33 572.13,582.96 670.16,573.74",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,645.77,1390.1 378.4,612.2 401.15,618.07 422.64,628.01 439.82,644 676.79,864.54 346.67,1137.6 583.82,1358 598.65,1371.8 616.65,\
+1381.1 635.91,1387.2",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "elevator-at-floor'($e0, $f3)"	[color=black,
+		pos="e,641.73,616 382.22,616 459.68,616 552.63,616 631.67,616",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,687.35,1760.1 369.52,608.95 395.79,614.46 420.78,625.11 439.82,644 777.02,978.54 276.3,1341 583.82,1703 607.53,1730.9 642.38,1747.6 \
+677.46,1757.5",
+		style=solid];
+	"elevator-at-floor($e0, $f3)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,626.79,825.13 374.84,621.37 397.47,626.18 419.86,633.39 439.82,644 525.46,689.54 498.14,762.53 583.82,808 594.33,813.58 605.5,\
+818.22 617.03,822.07",
+		style=solid];
+	"person-waiting-up($f2)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,658.71,1881 365.06,1881 451.09,1881 560.4,1881 648.61,1881",
+		style=solid];
+	"person-waiting-up($f2)" -> "Reward Function"	[pos="e,743.15,1683.6 356.58,1874.8 384.8,1870.4 413.84,1863.6 439.82,1853 514.13,1822.7 512.96,1781.7 583.82,1744 631.25,1718.8 688.73,\
+1699.3 733.28,1686.5"];
+	"person-waiting-up($f2)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,614.04,897.78 334.29,1892.3 372.38,1890 412.18,1879.9 439.82,1853 740.62,1559.9 282.79,1211.9 583.82,919 590.27,912.73 597.36,\
+907.36 604.94,902.79",
+		style=solid];
+	"person-waiting-up($f2)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,649.38,2006 350.09,1889.2 380.05,1893.3 411.45,1899.6 439.82,1909 509.53,1932.1 514.09,1967 583.82,1990 601.55,1995.9 620.44,2000.5 \
+639.44,2004.2",
+		style=solid];
+	"elevator-at-floor($e0, $f7)" -> "elevator-at-floor'($e0, $f6)"	[color=black,
+		pos="e,680.14,439.2 345.26,407.7 440.64,416.67 572.13,429.04 670.16,438.26",
+		style=solid];
+	"elevator-at-floor($e0, $f7)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,617.74,883.4 381.85,395.31 402.97,401.07 423.06,410.15 439.82,424 598.12,554.79 425.42,732.34 583.82,863 591.43,869.28 599.71,\
+874.58 608.46,879.05",
+		style=solid];
+	"elevator-at-floor($e0, $f7)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,642.4,947.57 381.44,394.58 402.8,400.39 423.07,409.69 439.82,424 613.67,572.58 409.85,769.56 583.82,918 598.02,930.11 614.7,938.66 \
+632.45,944.56",
+		style=solid];
+	"elevator-at-floor($e0, $f7)" -> "elevator-at-floor'($e0, $f7)"	[color=black,
+		pos="e,641.73,396 382.22,396 459.68,396 552.63,396 631.67,396",
+		style=solid];
+	"elevator-at-floor($e0, $f7)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,675.27,1009.5 380.96,393.94 402.58,399.8 423.05,409.27 439.82,424 629.34,590.47 394.17,806.68 583.82,973 606.36,992.77 635.49,\
+1003.2 665.19,1008",
+		style=solid];
+	"elevator-at-floor($e0, $f7)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,614.92,826.53 381.89,396.11 402.88,401.77 422.92,410.62 439.82,424 582.73,537.13 440.82,694.98 583.82,808 590.66,813.4 598,818.08 \
+605.71,822.1",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "elevator-at-floor'($e1, $f3)"	[color=black,
+		pos="e,641.73,2376 382.22,2376 459.68,2376 552.63,2376 631.67,2376",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,615.67,1972.5 381.88,2375.4 402.81,2369.8 422.83,2361.1 439.82,2348 575.26,2243.5 448.3,2095.4 583.82,1991 590.91,1985.5 598.52,\
+1980.8 606.51,1976.8",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "elevator-at-floor'($e1, $f4)"	[color=black,
+		pos="e,675.94,2277.2 348.3,2364.8 378.55,2360.7 410.53,2355.3 439.82,2348 506.16,2331.6 517.46,2310.4 583.82,2294 610.07,2287.5 638.46,\
+2282.5 665.89,2278.6",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,691.17,1594.5 378.4,2379.8 401.15,2373.9 422.64,2364 439.82,2348 677.08,2127.1 345.89,1853.2 583.82,1633 609.86,1608.9 645.6,1598.6 \
+680.78,1595.3",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,674.39,2032.1 380.99,2373.8 401.99,2368.4 422.28,2360.2 439.82,2348 552.81,2269.5 475.75,2159.1 583.82,2074 607.15,2055.6 635.78,\
+2043.2 664.61,2034.8",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "elevator-at-floor'($e1, $f5)"	[color=black,
+		pos="e,657.28,2218.8 366.43,2368.2 391.5,2363.8 416.85,2357.4 439.82,2348 514.13,2317.7 509.48,2269.3 583.82,2239 603.76,2230.9 625.48,\
+2225 647.27,2220.7",
+		style=solid];
+	"elevator-at-floor($e1, $f4)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,655.19,1323.7 371.91,2382.4 397.26,2376.7 421.31,2366.2 439.82,2348 756.63,2036.6 266.76,1670.1 583.82,1359 600.78,1342.4 622.32,\
+1332.1 645.28,1326.1",
+		style=solid];
+	"person-waiting-down($f6)" -> "Reward Function"	[pos="e,653.48,1667.2 380.61,1109.4 402.27,1115.1 422.85,1124.5 439.82,1139 613.67,1287.6 412.17,1481.9 583.82,1633 600.89,1648 621.71,\
+1658 643.67,1664.5"];
+	"person-waiting-down($f6)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,653.24,1949.6 375.8,1106.3 399.56,1112.1 422.06,1122.2 439.82,1139 692.71,1377.7 345.18,1655.1 583.82,1908 600.2,1925.4 621.12,\
+1937.6 643.55,1946.2",
+		style=solid];
+	"person-waiting-down($f6)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,679.99,1067.8 344.9,1099.3 440.25,1090.4 571.86,1078 670,1068.8",
+		style=solid];
+	"person-waiting-down($f6)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,621.45,846.32 378.51,1107.5 400.17,1102.4 421.3,1094.6 439.82,1083 538.63,1021.3 484.96,925.62 583.82,864 592.68,858.48 602.12,\
+853.81 611.94,849.87",
+		style=solid];
+	"person-waiting-down($f2)" -> "Reward Function"	[pos="e,678.03,1663.1 374.55,1446.3 397.28,1451.1 419.78,1458.3 439.82,1469 525.46,1514.5 498.85,1586.2 583.82,1633 609.32,1647 638.82,\
+1655.9 667.81,1661.3"];
+	"person-waiting-down($f2)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,660.15,1949.1 381.02,1440.1 402.44,1445.8 422.84,1455 439.82,1469 598.12,1599.8 433.36,1768.3 583.82,1908 602.55,1925.4 625.9,\
+1937.5 650.36,1945.9",
+		style=solid];
+	"person-waiting-down($f2)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,679.99,1484.2 344.9,1452.7 440.25,1461.6 571.86,1474 670,1483.2",
+		style=solid];
+	"person-waiting-down($f2)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,612.45,845.12 379.85,1443.4 401.88,1437.5 422.76,1428 439.82,1413 629.34,1246.5 394.17,1030.3 583.82,864 589.92,858.65 596.51,\
+853.98 603.46,849.93",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f2)"	[color=black,
+		pos="e,648.78,676.34 348.67,890.18 379.85,885.87 412.16,877.71 439.82,863 525.46,817.46 498.14,744.47 583.82,699 600.9,689.94 619.73,\
+683.34 638.99,678.59",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,693.32,1892.8 318.26,879.14 360.88,879.47 408.27,888.25 439.82,919 740.62,1212.1 282.79,1560.1 583.82,1853 610,1878.5 646.92,1889 \
+683.13,1892.1",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f6)"	[color=black,
+		pos="e,641.66,451.05 337.33,898.56 373.38,895.37 411.13,885.71 439.82,863 582.73,749.87 440.82,592.02 583.82,479 598.08,467.73 614.54,\
+459.65 631.92,453.97",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,642.4,1442.6 330.72,881.62 369.12,883.96 410.04,893.55 439.82,919 613.67,1067.6 409.85,1264.6 583.82,1413 598.02,1425.1 614.7,\
+1433.7 632.45,1439.6",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,660.74,1108 348.67,891.82 379.85,896.13 412.16,904.29 439.82,919 525.46,964.54 498.14,1037.5 583.82,1083 604.36,1093.9 627.44,\
+1101.2 650.74,1106.1",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,644.78,1162.5 347.9,888.89 379.76,893.13 412.6,902 439.82,919 538.63,980.7 484.96,1076.4 583.82,1138 599.38,1147.7 616.75,1154.8 \
+634.73,1159.9",
+		style=solid];
+	"elevator-dir-up($e0)" -> "Reward Function"	[pos="e,690.52,1674.9 322.64,879.9 363.8,881 408.83,890.16 439.82,919 676.79,1139.5 350.11,1409 583.82,1633 609.49,1657.6 645.03,1669.1 \
+680.15,1673.7"];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f1)"	[color=black,
+		pos="e,657.28,733.82 344.8,886.46 376.61,882.27 410.2,875.09 439.82,863 514.13,832.66 509.48,784.28 583.82,754 603.76,745.88 625.48,739.96 \
+647.27,735.67",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f5)"	[color=black,
+		pos="e,642.02,506.97 341.15,897.2 375.79,893.58 411.76,884.01 439.82,863 567.59,767.33 455.98,629.57 583.82,534 598.31,523.17 614.87,\
+515.36 632.28,509.82",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,642.89,1498.2 328,881.02 367.34,882.97 409.59,892.45 439.82,919 629.34,1085.5 394.17,1301.7 583.82,1468 598.04,1480.5 614.87,1489.2 \
+632.82,1495.2",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,691.74,1837.6 319.25,879.28 361.55,879.79 408.4,888.66 439.82,919 724.62,1194 298.8,1523.3 583.82,1798 609.74,1823 646,1833.5 \
+681.69,1836.8",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-dir-up'($e0)"	[color=black,
+		pos="e,710.9,139.7 324.36,901.78 364.95,900.41 409.08,891.13 439.82,863 660.06,661.51 386.93,431.35 583.82,207 613.69,172.97 659.15,153.41 \
+701.15,142.17",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,657.28,1048.2 344.8,895.54 376.61,899.73 410.2,906.91 439.82,919 514.13,949.34 509.48,997.72 583.82,1028 603.76,1036.1 625.48,\
+1042 647.27,1046.3",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,659.26,1222.5 345.08,886.6 378.19,890.61 412.36,899.93 439.82,919 552.81,997.48 470.77,1114.6 583.82,1193 603.21,1206.4 625.9,\
+1215.1 649.23,1220.4",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,600.06,891 348.85,891 419.35,891 508.75,891 589.72,891",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f0)"	[color=black,
+		pos="e,675.94,792.22 331.79,881.86 366.68,877.65 405.14,871.6 439.82,863 506.16,846.55 517.46,825.39 583.82,809 610.07,802.51 638.46,\
+797.49 665.89,793.6",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f4)"	[color=black,
+		pos="e,642.85,563.12 345.08,895.4 378.19,891.39 412.36,882.07 439.82,863 552.81,784.52 470.77,667.39 583.82,589 598.69,578.69 615.49,\
+571.21 633.03,565.87",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,678.98,1560.3 326.07,880.57 366.08,882.21 409.32,891.6 439.82,919 645.1,1103.4 378.39,1338.7 583.82,1523 607.15,1543.9 637.82,\
+1554.4 668.89,1559",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,641.7,1386.8 333.65,882.39 371.02,885.13 410.5,894.78 439.82,919 598.12,1049.8 425.42,1227.3 583.82,1358 597.96,1369.7 614.44,\
+1378 631.91,1383.8",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,682.45,1616 324.09,880.19 364.76,881.53 409.02,890.8 439.82,919 660.92,1121.5 362.56,1375.7 583.82,1578 607.89,1600 640.06,1610.6 \
+672.41,1614.9",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,680.07,934.2 327.8,901.06 424.05,910.11 565.96,923.46 670.11,933.26",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f3)"	[color=black,
+		pos="e,644.78,619.52 347.9,893.11 379.76,888.87 412.6,880 439.82,863 538.63,801.3 484.96,705.62 583.82,644 599.38,634.3 616.75,627.23 \
+634.73,622.15",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,642.02,1275 341.15,884.8 375.79,888.42 411.76,897.99 439.82,919 567.59,1014.7 455.98,1152.4 583.82,1248 598.31,1258.8 614.87,1266.6 \
+632.28,1272.2",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,689.58,1759.7 320.93,879.6 362.66,880.41 408.59,889.43 439.82,919 697.05,1162.6 348.24,1438.4 583.82,1703 608.48,1730.7 644.09,\
+1747.3 679.58,1757.1",
+		style=solid];
+	"elevator-dir-up($e0)" -> "elevator-at-floor'($e0, $f7)"	[color=black,
+		pos="e,641.7,395.25 333.65,899.61 371.02,896.87 410.5,887.22 439.82,863 598.12,732.21 425.42,554.66 583.82,424 597.96,412.33 614.44,404.02 \
+631.91,398.22",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,641.66,1330.9 337.33,883.44 373.38,886.63 411.13,896.29 439.82,919 582.73,1032.1 440.82,1190 583.82,1303 598.08,1314.3 614.54,\
+1322.3 631.92,1328",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,683.49,990.76 331.79,900.14 366.68,904.35 405.14,910.4 439.82,919 506.16,935.45 517.46,956.61 583.82,973 612.5,980.09 643.74,985.43 \
+673.47,989.45",
+		style=solid];
+	"elevator-dir-up($e0)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,658.93,849.79 327.8,880.94 417.65,872.49 547.3,860.3 648.88,850.74",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f2)"	[color=black,
+		pos="e,642.85,668.88 318.94,334.93 359.47,336.62 405.01,344.94 439.82,369 552.99,447.22 470.77,564.61 583.82,643 598.69,653.31 615.49,\
+660.79 633.03,666.13",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f6)"	[color=black,
+		pos="e,675.94,439.78 319.07,349.12 357.14,353.18 400.87,359.44 439.82,369 506.2,385.3 517.46,406.61 583.82,423 610.07,429.49 638.46,434.51 \
+665.89,438.4",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f1)"	[color=black,
+		pos="e,642.02,725.03 318.97,333.72 359.85,335.11 405.66,343.54 439.82,369 567.8,464.38 455.98,602.43 583.82,698 598.31,708.83 614.87,\
+716.64 632.28,722.18",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f5)"	[color=black,
+		pos="e,657.28,498.18 319.02,343.19 357.79,346.42 402.03,353.67 439.82,369 514.2,399.17 509.48,447.72 583.82,478 603.76,486.12 625.48,\
+492.04 647.27,496.33",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f0)"	[color=black,
+		pos="e,641.66,780.95 319.08,332.83 360.23,334.01 406.21,342.51 439.82,369 582.99,481.81 440.82,639.98 583.82,753 598.08,764.27 614.54,\
+772.35 631.92,778.03",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f4)"	[color=black,
+		pos="e,648.78,555.66 319.15,339.25 358.59,341.84 403.26,349.67 439.82,369 525.57,414.35 498.14,487.53 583.82,533 600.9,542.06 619.73,\
+548.66 638.99,553.41",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f3)"	[color=black,
+		pos="e,644.78,612.48 318.94,336.67 359,338.73 404.2,346.87 439.82,369 538.77,430.48 484.96,526.38 583.82,588 599.38,597.7 616.75,604.77 \
+634.73,609.85",
+		style=solid];
+	"move-current-dir($e0)" -> "elevator-at-floor'($e0, $f7)"	[color=black,
+		pos="e,679.16,384.33 319.1,351.07 414.96,359.92 561.66,373.47 668.9,383.38",
+		style=solid];
+	"elevator-at-floor($e1, $f0)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,617.28,1972.8 381.43,2319.4 402.37,2313.9 422.52,2305.5 439.82,2293 560.28,2205.8 463.29,2078.1 583.82,1991 591.38,1985.5 599.48,\
+1980.8 607.95,1976.8",
+		style=solid];
+	"elevator-at-floor($e1, $f0)" -> "elevator-at-floor'($e1, $f0)"	[color=black,
+		pos="e,641.73,2321 382.22,2321 459.68,2321 552.63,2321 631.67,2321",
+		style=solid];
+	"elevator-at-floor($e1, $f0)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,685.38,1540.5 378.4,2324.8 401.15,2318.9 422.64,2309 439.82,2293 676.79,2072.5 346.67,1799.4 583.82,1579 608.42,1556.1 641.73,\
+1545.5 675.05,1541.5",
+		style=solid];
+	"elevator-at-floor($e1, $f0)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,680.91,2032.6 378.8,2317.4 400.35,2312.3 421.38,2304.5 439.82,2293 538.63,2231.3 488.89,2141.5 583.82,2074 609.44,2055.8 640.42,\
+2043.5 671,2035.2",
+		style=solid];
+	"elevator-at-floor($e1, $f0)" -> "elevator-at-floor'($e1, $f1)"	[color=black,
+		pos="e,675.94,2419.8 348.3,2332.2 378.55,2336.3 410.53,2341.7 439.82,2349 506.16,2365.4 517.46,2386.6 583.82,2403 610.07,2409.5 638.46,\
+2414.5 665.89,2418.4",
+		style=solid];
+	"elevator-at-floor($e1, $f0)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,655.19,1268.7 371.91,2327.4 397.26,2321.7 421.31,2311.2 439.82,2293 756.63,1981.6 266.76,1615.1 583.82,1304 600.78,1287.4 622.32,\
+1277.1 645.28,1271.1",
+		style=solid];
+	"person-in-elevator-going-up($e0)" -> "Reward Function"	[pos="e,651.07,1667.5 407.66,1008.1 419.31,1013.5 430.2,1020.4 439.82,1029 645.1,1213.4 381.27,1445.6 583.82,1633 600.07,1648 620.02,1658.1 \
+641.24,1664.7"];
+	"person-in-elevator-going-up($e0)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,662.11,904.14 361.94,987.85 388.03,984.04 414.9,979.18 439.82,973 506.16,956.55 517.46,935.39 583.82,919 605.64,913.61 628.94,\
+909.22 651.93,905.67",
+		style=solid];
+	"open-door-going-up($e1)" -> "elevator-closed'($e1)"	[color=black,
+		pos="e,672.88,234 330.54,234 424.45,234 560.36,234 662.77,234",
+		style=solid];
+	"open-door-going-up($e1)" -> "elevator-dir-up'($e1)"	[color=black,
+		pos="e,696.94,278.78 330.54,244.31 431.97,253.86 582.39,268.01 686.68,277.82",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,688.12,1892 329.17,1925.8 427.9,1916.5 573.85,1902.8 678.16,1893",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f1)"	[color=black,
+		pos="e,641.7,1440.2 336.48,1944.4 373,1941.4 411.24,1931.6 439.82,1908 598.12,1777.2 425.42,1599.7 583.82,1469 597.96,1457.3 614.44,1449 \
+631.91,1443.2",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,687.77,1100.1 323.11,1947.3 364.24,1946.2 409.1,1937 439.82,1908 692.71,1669.3 330.74,1377.5 583.82,1139 608.95,1115.3 643.39,\
+1104.7 677.64,1101",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f5)"	[color=black,
+		pos="e,645.77,1161.9 324.6,1947 365.23,1945.7 409.32,1936.4 439.82,1908 676.79,1687.5 346.67,1414.4 583.82,1194 598.65,1180.2 616.65,\
+1170.9 635.91,1164.8",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f7)"	[color=black,
+		pos="e,721.25,2085.2 341.21,1943 373.77,1947.1 408.63,1953.7 439.82,1964 509.53,1987.1 515.63,2017.8 583.82,2045 624.53,2061.3 671.36,\
+2073.9 711.47,2083",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f3)"	[color=black,
+		pos="e,641.66,2375.9 340.16,1928.7 375.35,1932.1 411.88,1941.9 439.82,1964 582.73,2077.1 440.82,2235 583.82,2348 598.08,2359.3 614.54,\
+2367.3 631.92,2373",
+		style=solid];
+	"elevator-closed($e1)" -> "person-in-elevator-going-down'($e1)"	[color=black,
+		pos="e,611.91,1954.1 344.54,1941.7 419.16,1945.2 516.08,1949.6 601.79,1953.6",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,641.66,1496.1 340.16,1943.3 375.35,1939.9 411.88,1930.1 439.82,1908 582.73,1794.9 440.82,1637 583.82,1524 598.08,1512.7 614.54,\
+1504.7 631.92,1499",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,683.49,1836.2 332.92,1926.7 367.51,1922.5 405.51,1916.5 439.82,1908 506.16,1891.6 517.46,1870.4 583.82,1854 612.5,1846.9 643.74,\
+1841.6 673.47,1837.5",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,648.51,1050.8 322.16,1947.5 363.62,1946.6 409,1937.4 439.82,1908 708.65,1651.2 314.78,1340.6 583.82,1084 599.27,1069.3 618.33,\
+1059.6 638.73,1053.4",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,682.45,1211 326.33,1946.7 366.38,1945.1 409.59,1935.7 439.82,1908 660.92,1705.5 362.56,1451.3 583.82,1249 607.89,1227 640.06,1216.4 \
+672.41,1212.1",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-closed'($e1)"	[color=black,
+		pos="e,712.49,220.92 314.2,1948.8 358.29,1949.3 408.1,1941 439.82,1908 694.21,1643.2 329.21,526.56 583.82,262 613.9,230.75 659.99,221.45 \
+702.37,220.89",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f0)"	[color=black,
+		pos="e,642.02,2320 343.99,1930.1 377.75,1933.9 412.52,1943.6 439.82,1964 567.59,2059.7 455.98,2197.4 583.82,2293 598.31,2303.8 614.87,\
+2311.6 632.28,2317.2",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f4)"	[color=black,
+		pos="e,642.85,2263.9 347.64,1931.9 379.95,1936.1 413.07,1945.4 439.82,1964 552.81,2042.5 470.77,2159.6 583.82,2238 598.69,2248.3 615.49,\
+2255.8 633.03,2261.1",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f0)"	[color=black,
+		pos="e,660.96,1547.7 343.99,1941.9 377.75,1938.1 412.52,1928.4 439.82,1908 567.59,1812.3 455.98,1674.6 583.82,1579 603.42,1564.3 626.82,\
+1555.2 650.95,1549.8",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f3)"	[color=black,
+		pos="e,642.4,1384.4 333.26,1945.2 370.92,1942.6 410.69,1932.9 439.82,1908 613.67,1759.4 409.85,1562.4 583.82,1414 598.02,1401.9 614.7,\
+1393.3 632.45,1387.4",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f4)"	[color=black,
+		pos="e,659.86,1603.6 347.37,1940.1 379.78,1936 413.01,1926.7 439.82,1908 553.08,1829.2 470.33,1711.4 583.82,1633 603.36,1619.5 626.24,\
+1610.9 649.75,1605.7",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f7)"	[color=black,
+		pos="e,652.47,939.48 320.21,1947.8 362.32,1947.3 408.75,1938.3 439.82,1908 740.62,1614.9 282.79,1266.9 583.82,974 600.17,958.09 620.71,\
+948.01 642.65,941.92",
+		style=solid];
+	"elevator-closed($e1)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,680.5,2003.4 321.05,1947.7 358.39,1952.4 401.1,1958 439.82,1964 504.1,1973.9 519.54,1980.1 583.82,1990 611.78,1994.3 641.8,1998.4 \
+670.44,2002.1",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f1)"	[color=black,
+		pos="e,641.7,2431.8 336.48,1927.6 373,1930.6 411.24,1940.4 439.82,1964 598.12,2094.8 425.42,2272.3 583.82,2403 597.96,2414.7 614.44,2423 \
+631.91,2428.8",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f5)"	[color=black,
+		pos="e,644.78,2207.5 350.18,1934.2 381.33,1938.6 413.25,1947.4 439.82,1964 538.63,2025.7 484.96,2121.4 583.82,2183 599.38,2192.7 616.75,\
+2199.8 634.73,2204.9",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f0)"	[color=black,
+		pos="e,643.72,1273.1 328.31,1946.3 367.69,1944.4 409.89,1934.9 439.82,1908 645.1,1723.6 378.39,1488.3 583.82,1304 598.27,1291 615.54,\
+1282.1 633.98,1276",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f3)"	[color=black,
+		pos="e,667.26,1777.2 346.51,1931.2 377.82,1927 410.73,1919.9 439.82,1908 514.13,1877.7 509.48,1829.3 583.82,1799 606.82,1789.6 632.18,\
+1783.2 657.28,1778.8",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-down'($f4)"	[color=black,
+		pos="e,642.89,1328.8 330.53,1945.8 369.14,1943.6 410.24,1934 439.82,1908 629.34,1741.5 394.17,1525.3 583.82,1359 598.04,1346.5 614.87,\
+1337.8 632.82,1331.8",
+		style=solid];
+	"elevator-closed($e1)" -> "person-waiting-up'($f7)"	[color=black,
+		pos="e,691.74,989.42 320.92,1947.7 362.78,1947 408.81,1937.9 439.82,1908 724.62,1633 298.8,1303.7 583.82,1029 609.74,1004 646,993.46 \
+681.69,990.16",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f6)"	[color=black,
+		pos="e,648.78,2150.7 350.67,1937.1 381.23,1941.5 412.76,1949.6 439.82,1964 525.46,2009.5 498.14,2082.5 583.82,2128 600.9,2137.1 619.73,\
+2143.7 638.99,2148.4",
+		style=solid];
+	"elevator-closed($e1)" -> "elevator-at-floor'($e1, $f2)"	[color=black,
+		pos="e,642.4,2487.6 333.26,1926.8 370.92,1929.4 410.69,1939.1 439.82,1964 613.67,2112.6 409.85,2309.6 583.82,2458 598.02,2470.1 614.7,\
+2478.7 632.45,2484.6",
+		style=solid];
+	"person-waiting-up($f5)" -> "Reward Function"	[pos="e,709.87,1657.9 331.57,1617.7 437.29,1628.9 595.54,1645.7 699.66,1656.8"];
+	"person-waiting-up($f5)" -> "person-waiting-up'($f5)"	[color=black,
+		pos="e,660.96,1217.7 362.82,1609.1 390.39,1604.1 417.58,1594.6 439.82,1578 567.59,1482.3 455.98,1344.6 583.82,1249 603.42,1234.3 626.82,\
+1225.2 650.95,1219.8",
+		style=solid];
+	"person-waiting-up($f5)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,615.44,898.06 344.17,1615.5 378.82,1611.9 414.04,1601.6 439.82,1578 660.92,1375.5 362.56,1121.3 583.82,919 590.76,912.65 598.37,\
+907.26 606.47,902.69",
+		style=solid];
+	"person-waiting-up($f5)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,619.72,2010.2 361.76,1602.1 389.79,1607.1 417.44,1616.7 439.82,1634 574.99,1738.2 448.57,1885.9 583.82,1990 592.09,1996.4 601.07,\
+2001.7 610.53,2006.2",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "elevator-at-floor'($e0, $f2)"	[color=black,
+		pos="e,641.73,671 382.22,671 459.68,671 552.63,671 631.67,671",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "person-waiting-up'($f2)"	[color=black,
+		pos="e,697.75,1893.5 365.45,662.94 393.25,668.18 419.87,678.99 439.82,699 804.74,1065 218.61,1487.3 583.82,1853 610.81,1880 649.84,1890.4 \
+687.65,1893",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "elevator-at-floor'($e0, $f1)"	[color=black,
+		pos="e,680.14,714.2 345.26,682.7 440.64,691.67 572.13,704.04 670.16,713.26",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "person-waiting-down'($f2)"	[color=black,
+		pos="e,646.99,1500.6 377.48,666.71 400.62,672.57 422.47,682.63 439.82,699 692.71,937.65 330.74,1229.5 583.82,1468 598.93,1482.2 617.4,\
+1491.7 637.18,1497.9",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,630.81,881.27 374.84,676.37 397.47,681.18 419.86,688.39 439.82,699 525.46,744.54 498.14,817.53 583.82,863 595.5,869.2 607.99,874.24 \
+620.88,878.33",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "elevator-at-floor'($e0, $f3)"	[color=black,
+		pos="e,680.14,627.8 345.26,659.3 440.64,650.33 572.13,637.96 670.16,628.74",
+		style=solid];
+	"elevator-at-floor($e0, $f2)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,636.39,824.04 366.43,678.83 391.5,683.2 416.85,689.62 439.82,699 514.13,729.34 509.48,777.72 583.82,808 597.32,813.5 611.64,817.99 \
+626.24,821.64",
+		style=solid];
+	"person-waiting-up($f1)" -> "Reward Function"	[pos="e,753.44,1685.4 340.56,1815.8 373.05,1811.6 408.02,1805.9 439.82,1798 506.16,1781.6 519.48,1767.1 583.82,1744 637.71,1724.7 699.33,\
+1703.6 743.91,1688.6"];
+	"person-waiting-up($f1)" -> "person-waiting-up'($f1)"	[color=black,
+		pos="e,658.71,1826 365.06,1826 451.09,1826 560.4,1826 648.61,1826",
+		style=solid];
+	"person-waiting-up($f1)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,614.4,897.75 335.57,1837.1 373.22,1834.6 412.39,1824.5 439.82,1798 724.62,1523 298.8,1193.7 583.82,919 590.42,912.64 597.68,907.22 \
+605.44,902.61",
+		style=solid];
+	"person-waiting-up($f1)" -> "person-in-elevator-going-up'($e1)"	[color=black,
+		pos="e,635.02,2007.7 360.41,1830.5 387.64,1835.1 415.32,1842.4 439.82,1854 519.39,1891.7 504.22,1952.4 583.82,1990 596.86,1996.2 610.79,\
+2001.1 625.08,2005.1",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "elevator-at-floor'($e0, $f6)"	[color=black,
+		pos="e,641.73,451 382.22,451 459.68,451 552.63,451 631.67,451",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "person-waiting-up'($f6)"	[color=black,
+		pos="e,678.98,1120.3 380.15,448.31 402.14,454.18 422.93,463.83 439.82,479 645.1,663.44 378.39,898.72 583.82,1083 607.15,1103.9 637.82,\
+1114.4 668.89,1119",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "elevator-at-floor'($e0, $f5)"	[color=black,
+		pos="e,680.14,494.2 345.26,462.7 440.64,471.67 572.13,484.04 670.16,493.26",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "person-waiting-down'($f6)"	[color=black,
+		pos="e,642.89,1058.2 380.96,448.94 402.58,454.8 423.05,464.27 439.82,479 629.34,645.47 394.17,861.68 583.82,1028 598.04,1040.5 614.87,\
+1049.2 632.82,1055.2",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "person-in-elevator-going-up'($e0)"	[color=black,
+		pos="e,618.94,883.25 381.89,451.11 402.88,456.77 422.92,465.62 439.82,479 582.73,592.13 440.82,749.98 583.82,863 591.81,869.32 600.5,\
+874.63 609.65,879.08",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "elevator-at-floor'($e0, $f7)"	[color=black,
+		pos="e,680.14,407.8 345.26,439.3 440.64,430.33 572.13,417.96 670.16,408.74",
+		style=solid];
+	"elevator-at-floor($e0, $f6)" -> "person-in-elevator-going-down'($e0)"	[color=black,
+		pos="e,616.46,826.39 381.81,452.09 402.69,457.64 422.72,466.2 439.82,479 567.59,574.67 455.98,712.43 583.82,808 591.18,813.5 599.08,818.23 \
+607.35,822.27",
+		style=solid];
+}

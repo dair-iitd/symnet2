@@ -1,0 +1,81 @@
+non-fluents nf_recon_inst_mdp__5002 {
+	domain = recon_mdp; 
+	objects { 
+		x_pos : {x0,x1,x2,x3,x4,x5,x6,x7,x8,x9};
+		y_pos : {y0,y1,y2,y3,y4,y5,y6,y7,y8,y9};
+		obj : {o0,o1,o2,o3,o4,o5,o6,o7};
+		agent : {a1};
+		tool : {l1,w1,p1};
+
+	}; 
+	non-fluents {
+		ADJACENT-LEFT(x0, x0);
+		ADJACENT-DOWN(y0, y0);
+		ADJACENT-RIGHT(x0, x1);
+		ADJACENT-UP(y0, y1);
+		ADJACENT-LEFT(x1, x0);
+		ADJACENT-DOWN(y1, y0);
+		ADJACENT-RIGHT(x1, x2);
+		ADJACENT-UP(y1, y2);
+		ADJACENT-LEFT(x2, x1);
+		ADJACENT-DOWN(y2, y1);
+		ADJACENT-RIGHT(x2, x3);
+		ADJACENT-UP(y2, y3);
+		ADJACENT-LEFT(x3, x2);
+		ADJACENT-DOWN(y3, y2);
+		ADJACENT-RIGHT(x3, x4);
+		ADJACENT-UP(y3, y4);
+		ADJACENT-LEFT(x4, x3);
+		ADJACENT-DOWN(y4, y3);
+		ADJACENT-RIGHT(x4, x5);
+		ADJACENT-UP(y4, y5);
+		ADJACENT-LEFT(x5, x4);
+		ADJACENT-DOWN(y5, y4);
+		ADJACENT-RIGHT(x5, x6);
+		ADJACENT-UP(y5, y6);
+		ADJACENT-LEFT(x6, x5);
+		ADJACENT-DOWN(y6, y5);
+		ADJACENT-RIGHT(x6, x7);
+		ADJACENT-UP(y6, y7);
+		ADJACENT-LEFT(x7, x6);
+		ADJACENT-DOWN(y7, y6);
+		ADJACENT-RIGHT(x7, x8);
+		ADJACENT-UP(y7, y8);
+		ADJACENT-LEFT(x8, x7);
+		ADJACENT-DOWN(y8, y7);
+		ADJACENT-RIGHT(x8, x9);
+		ADJACENT-UP(y8, y9);
+		ADJACENT-LEFT(x9, x8);
+		ADJACENT-DOWN(y9, y8);
+		ADJACENT-RIGHT(x9, x9);
+		ADJACENT-UP(y9, y9);
+		WATER_TOOL(w1);
+		LIFE_TOOL(l1);
+		CAMERA_TOOL(p1);
+		BASE(x7,y2);
+		objAt(o0,x4,y3);
+		objAt(o1,x9,y1);
+		objAt(o2,x2,y6);
+		objAt(o3,x8,y6);
+		objAt(o4,x3,y0);
+		objAt(o5,x4,y1);
+		objAt(o6,x9,y5);
+		objAt(o7,x1,y7);
+		HAZARD(x2,y1);
+		DAMAGE_PROB(w1) = 0.39499345;
+		DAMAGE_PROB(l1) = 0.36985373;
+		GOOD_PIC_WEIGHT = 0.95070785;
+		BAD_PIC_WEIGHT = 0.35053757;
+	};
+}
+instance recon_inst_mdp__5002 { 
+	domain = recon_mdp; 
+ 	non-fluents = nf_recon_inst_mdp__5002;
+	init-state { 
+		agentAt(a1,x7,y2);
+	};
+	max-nondef-actions = 1;
+	horizon = 100;
+	discount = 1.0;
+} 
+

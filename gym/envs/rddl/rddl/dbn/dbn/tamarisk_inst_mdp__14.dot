@@ -1,0 +1,2648 @@
+digraph G {
+	graph [bb="0,0,715.97,4397",
+		fontname=Helvetica,
+		fontsize=16,
+		rankdir=LR,
+		ranksep=2.00,
+		ratio=auto,
+		size="7.5,10"
+	];
+	node [fontsize=16,
+		label="\N"
+	];
+	{
+		graph [rank=same];
+		"native-at($s7s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2580",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,4325",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"tamarisk-at($s6s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3452",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s9s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,565",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"eradicate($r10)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,181",
+			shape=box,
+			style=filled,
+			width=2.0278];
+		"tamarisk-at($s3s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2963",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"eradicate($r4)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,4162",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"native-at($s1s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1435",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s4s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,4108",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s6s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3179",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,3561",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"tamarisk-at($s9s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,455",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s6s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3397",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s1s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1598",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s4s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3943",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"eradicate($r5)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,3724",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"native-at($s1s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1543",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s4s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,4271",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s9s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,728",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s9s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,836",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s6s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3234",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,3125",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"tamarisk-at($s5s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3833",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s8s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1217",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"Current State and Actions"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="127.99,4379",
+			shape=plaintext,
+			style=bold,
+			width=3.2361];
+		"tamarisk-at($s3s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2853",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"native-at($s3s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2743",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"eradicate($r2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,1872",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"native-at($s10s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,72",
+			shape=ellipse,
+			style=filled,
+			width=3.1427];
+		"native-at($s9s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,673",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s6s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3071",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,2471",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"tamarisk-at($s8s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,946",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s6s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3342",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s3s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2908",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"native-at($s1s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1380",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s3s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2798",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"eradicate($r3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,3017",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"tamarisk-at($s10s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,290",
+			shape=ellipse,
+			style=filled,
+			width=3.5552];
+		"native-at($s8s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1272",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,1000",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"eradicate($r9)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,619",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"tamarisk-at($s7s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2254",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s5s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3778",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s2s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1926",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s2s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1818",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s10s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,400",
+			shape=ellipse,
+			style=filled,
+			width=3.5552];
+		"native-at($s2s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2144",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s5s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3670",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s8s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,891",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s10s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,127",
+			shape=ellipse,
+			style=filled,
+			width=3.1427];
+		"native-at($s8s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1109",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r9)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,782",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"tamarisk-at($s8s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1054",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s5s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3888",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s2s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1981",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"native-at($s3s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2635",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"tamarisk-at($s10s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,345",
+			shape=ellipse,
+			style=filled,
+			width=3.5552];
+		"native-at($s10s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,235",
+			shape=ellipse,
+			style=filled,
+			width=3.1427];
+		"native-at($s5s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3615",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"eradicate($r1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,1489",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"native-at($s7s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2199",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r2)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,2090",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"tamarisk-at($s9s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,510",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s7s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2525",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s4s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,4053",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s1s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1653",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"tamarisk-at($s1s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1708",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"eradicate($r6)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,3288",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"native-at($s2s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2036",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"native-at($s4s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,4216",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"restore($r1)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,1326",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"restore($r3)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,2689",
+			shape=box,
+			style=filled,
+			width=1.6111];
+		"native-at($s7s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2417",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"eradicate($r8)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,1163",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"tamarisk-at($s7s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,2362",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"restore($r10)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,18",
+			shape=box,
+			style=filled,
+			width=1.7639];
+		"tamarisk-at($s4s3)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3998",
+			shape=ellipse,
+			style=filled,
+			width=3.3391];
+		"native-at($s2s2)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,1763",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+		"eradicate($r7)"	[color=black,
+			fillcolor=olivedrab1,
+			height=0.5,
+			pos="127.99,2308",
+			shape=box,
+			style=filled,
+			width=1.875];
+		"native-at($s5s1)"	[color=black,
+			fillcolor=lightblue,
+			height=0.51069,
+			pos="127.99,3507",
+			shape=ellipse,
+			style=filled,
+			width=2.9266];
+	}
+	{
+		graph [rank=same];
+		"native-at'($s4s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,4271",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s7s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2525",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s10s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,427",
+			shape=ellipse,
+			style=filled,
+			width=3.6337];
+		"Next State and Reward"	[color=black,
+			fillcolor=white,
+			height=0.5,
+			pos="557.97,4379",
+			shape=plaintext,
+			style=bold,
+			width=2.9167];
+		"tamarisk-at'($s8s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1109",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s9s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,728",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s1s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1543",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s2s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1981",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s5s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3833",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s4s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,4216",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s7s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2470",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s10s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,372",
+			shape=ellipse,
+			style=filled,
+			width=3.6337];
+		"tamarisk-at'($s3s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2853",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s8s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1164",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s5s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3778",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s2s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2036",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s3s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2798",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s6s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3234",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s10s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,235",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"tamarisk-at'($s8s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,999",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s9s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,783",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s3s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2908",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s1s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1380",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s6s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3289",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s6s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3179",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s10s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,127",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"tamarisk-at'($s1s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1625",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s9s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,618",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s9s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,673",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s6s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3399",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s4s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,4108",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s3s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2963",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s1s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1435",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s5s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3613",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s1s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1680",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"Reward Function"	[color=black,
+			fillcolor=firebrick1,
+			height=0.72222,
+			pos="557.97,2170",
+			shape=diamond,
+			style=filled,
+			width=4.3889];
+		"tamarisk-at'($s6s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3344",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s9s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,508",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s8s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1219",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s4s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3888",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s3s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2688",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s6s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3124",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s10s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,72",
+			shape=ellipse,
+			style=filled,
+			width=3.2213];
+		"tamarisk-at'($s1s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1735",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s8s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,944",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s9s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,563",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s3s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2743",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s4s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3998",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s7s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2415",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s5s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3558",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s7s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2250",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s2s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1926",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s7s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2360",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s4s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3943",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s2s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1816",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s5s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3668",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"tamarisk-at'($s10s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,317",
+			shape=ellipse,
+			style=filled,
+			width=3.6337];
+		"tamarisk-at'($s2s2)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1871",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s7s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2305",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"tamarisk-at'($s5s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,3723",
+			shape=ellipse,
+			style=filled,
+			width=3.4373];
+		"native-at'($s8s1)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,1054",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+		"native-at'($s2s3)"	[color=black,
+			fillcolor=gold1,
+			height=0.51069,
+			pos="557.97,2091",
+			shape=ellipse,
+			style=filled,
+			width=3.0248];
+	}
+	"native-at($s7s1)" -> "native-at'($s7s1)"	[color=black,
+		pos="e,470.66,2536.1 213.29,2569.2 284.34,2560 386.03,2547 460.36,2537.4",
+		style=solid];
+	"native-at($s7s1)" -> "Reward Function"	[pos="e,478.37,2182.9 219.91,2571 232.97,2566.7 245.51,2560.6 255.97,2552 379.32,2450.7 282.31,2330.8 399.97,2223 419.07,2205.5 444.16,\
+2193.7 468.66,2185.9"];
+	"native-at($s7s1)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,456.48,2425.7 208.28,2568 224.48,2564.1 241.11,2558.9 255.97,2552 328.85,2518.4 326.43,2475.2 399.97,2443 414.57,2436.6 430.54,\
+2431.7 446.53,2427.9",
+		style=solid];
+	"restore($r4)" -> "native-at'($s4s2)"	[color=black,
+		pos="e,470.03,4282 186.26,4317.8 256.19,4308.9 375.56,4293.9 459.92,4283.2",
+		style=solid];
+	"restore($r4)" -> "native-at'($s4s3)"	[color=black,
+		pos="e,474.45,4227.8 186.01,4314.8 208.05,4310.3 233.36,4304.6 255.97,4298 321.58,4278.8 334.05,4262.1 399.97,4244 420.6,4238.3 443.08,\
+4233.6 464.41,4229.6",
+		style=solid];
+	"restore($r4)" -> "native-at'($s4s1)"	[color=black,
+		pos="e,519.18,4125.2 185.99,4318.3 208.5,4314.3 234.14,4308 255.97,4298 328.98,4264.6 332.06,4231.8 399.97,4189 435.64,4166.5 478.26,\
+4144.8 510.09,4129.6",
+		style=solid];
+	"restore($r4)" -> "Reward Function"	[pos="e,467.37,2181.2 186,4327.3 211.14,4325.1 238.83,4317.7 255.97,4298 559.11,3949.1 117.58,2588.9 399.97,2223 414.35,2204.4 435.58,\
+2192.2 457.8,2184.3"];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,442.37,3826.2 225.07,3462.8 236.25,3467 246.88,3472.6 255.97,3480 378.28,3580 275.66,3707.5 399.97,3805 409.77,3812.7 420.97,3818.5 \
+432.78,3823",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,444.21,3770.7 223.91,3463.3 235.41,3467.3 246.44,3472.8 255.97,3480 364.33,3562.2 289.97,3670 399.97,3750 410.41,3757.6 422.26,\
+3763.3 434.65,3767.7",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "native-at'($s6s2)"	[color=black,
+		pos="e,458.03,3241.3 218.44,3439.8 231.55,3435.9 244.48,3430.7 255.97,3424 339.06,3375.3 315.91,3309.1 399.97,3262 414.72,3253.7 431.35,\
+3247.8 448.14,3243.6",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,456.95,3299.7 212.6,3438.8 227.41,3435 242.42,3430.2 255.97,3424 328.51,3390.9 326.78,3348.6 399.97,3317 414.71,3310.6 430.82,\
+3305.7 446.93,3301.9",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,462.44,3410.7 221.85,3440.5 289.69,3432.1 381.74,3420.7 452.2,3412",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "Reward Function"	[pos="e,468.83,2181.5 230.45,3442.2 240.05,3437.8 248.85,3431.9 255.97,3424 617.1,3025.8 60.981,2640.3 399.97,2223 414.97,2204.5 436.66,\
+2192.5 459.15,2184.6"];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,469.2,3356.9 202.25,3437.5 219.95,3433.6 238.73,3429 255.97,3424 321.33,3405.1 334.24,3389.6 399.97,3372 418.96,3366.9 439.5,3362.5 \
+459.26,3358.8",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,437.81,2419.6 229.94,3442.2 239.7,3437.7 248.66,3431.8 255.97,3424 556.27,3101.5 93.196,2759.4 399.97,2443 408.1,2434.6 417.8,\
+2428.2 428.35,2423.4",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,437.74,2364.5 230,3442.2 239.75,3437.8 248.69,3431.9 255.97,3424 571.46,3082.6 77.627,2723 399.97,2388 408.07,2379.6 417.75,2373.2 \
+428.28,2368.4",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,437.67,2309.5 230.05,3442.3 239.79,3437.8 248.72,3431.9 255.97,3424 586.67,3063.6 62.045,2686.6 399.97,2333 408.04,2324.6 417.7,\
+2318.1 428.22,2313.3",
+		style=solid];
+	"tamarisk-at($s6s2)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,446.26,3714.9 221.61,3463.6 233.79,3467.6 245.62,3472.9 255.97,3480 350.97,3544.8 303.68,3632.1 399.97,3695 411.06,3702.2 423.48,\
+3707.8 436.35,3711.9",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,505.88,444 203.35,550.61 220.75,546.69 239.12,542.1 255.97,537 321.7,517.1 335.49,504.62 399.97,481 431.58,469.42 467.03,457.17 \
+496.23,447.27",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,439.97,1103.2 228.85,575.08 238.8,579.22 248.12,584.73 255.97,592 422.21,745.93 231.21,929.84 399.97,1081 408.91,1089 419.33,1095.1 \
+430.47,1099.7",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,449.94,382.42 215.94,552.45 229.79,548.6 243.61,543.57 255.97,537 333.97,495.52 321.15,439.89 399.97,400 412.52,393.65 426.26,\
+388.72 440.24,384.89",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,439.71,1158.5 229.36,575 239.16,579.16 248.3,584.7 255.97,592 437.13,764.44 216,966.57 399.97,1136 408.8,1144.1 419.15,1150.3 \
+430.24,1155",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,441.48,992.68 227.67,575.44 237.96,579.5 247.67,584.89 255.97,592 392.79,709.26 261.24,856.01 399.97,971 409.48,978.88 420.43,\
+984.86 432.04,989.37",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "native-at'($s9s1)"	[color=black,
+		pos="e,458,775.71 220.11,576.94 232.65,580.68 244.97,585.58 255.97,592 339.46,640.73 315.7,707.65 399.97,755 414.7,763.28 431.33,769.2 \
+448.12,773.42",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,462.44,606.29 221.85,576.5 289.69,584.9 381.74,596.3 452.2,605.03",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "Reward Function"	[pos="e,466.9,2158.9 231.83,574.36 240.93,578.68 249.23,584.43 255.97,592 482.53,846.34 187.78,1851.6 399.97,2118 414.39,2136.1 435.28,\
+2148 457.15,2155.7"];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,465.38,520.2 219.23,552.98 288.33,543.78 383.65,531.08 455.41,521.53",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,433.93,563.58 248.2,564.44 302.8,564.19 367.72,563.88 423.9,563.62",
+		style=solid];
+	"tamarisk-at($s9s1)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,444.63,326.34 220.28,553.18 232.86,549.22 245.15,543.97 255.97,537 345.65,479.25 309.14,400.93 399.97,345 410.67,338.41 422.51,\
+333.28 434.74,329.3",
+		style=solid];
+	"eradicate($r10)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,444.65,417.63 201.31,187.2 220.16,191.2 239.72,197.65 255.97,208 345.64,265.11 309.37,343.37 399.97,399 410.68,405.57 422.52,410.7 \
+434.76,414.68",
+		style=solid];
+	"eradicate($r10)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,449.97,361.54 201.22,189.27 219.77,193.27 239.21,199.2 255.97,208 333.93,248.9 321.35,304.39 399.97,344 412.53,350.33 426.28,355.24 \
+440.26,359.06",
+		style=solid];
+	"eradicate($r10)" -> "Reward Function"	[pos="e,466.25,2159 201.1,180.7 221.65,184.34 242.18,192.22 255.97,208 536.09,528.49 137.96,1782.6 399.97,2118 414.14,2136.1 434.82,2148 \
+456.55,2155.8"];
+	"eradicate($r10)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,507.38,299.94 201.31,194.43 219.3,198.3 238.45,202.88 255.97,208 321.58,227.16 335.71,238.7 399.97,262 432.17,273.68 468.23,286.34 \
+497.66,296.57",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,437.9,1985.7 229.87,2953.1 239.64,2948.7 248.63,2942.8 255.97,2935 541.1,2631.4 108.75,2306.8 399.97,2009 408.13,2000.7 417.86,\
+1994.3 428.42,1989.5",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,468.73,2865.8 202.97,2948.5 220.47,2944.6 238.98,2940 255.97,2935 321.51,2915.6 334.05,2899.1 399.97,2881 418.82,2875.8 439.2,\
+2871.4 458.85,2867.7",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "native-at'($s3s3)"	[color=black,
+		pos="e,463.51,2807.2 212.65,2949.9 227.45,2946.1 242.44,2941.2 255.97,2935 328.85,2901.4 326.43,2858.2 399.97,2826 416.75,2818.7 435.33,\
+2813.3 453.66,2809.3",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,463.72,2920 220.54,2951.2 288.88,2942.5 382.33,2930.4 453.4,2921.3",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,433.93,2963 248.2,2963 302.8,2963 367.72,2963 423.9,2963",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "Reward Function"	[pos="e,471.46,2181.8 229.21,2952.9 239.17,2948.5 248.38,2942.7 255.97,2935 482.26,2704.7 186.51,2465.2 399.97,2223 416.11,2204.7 438.78,\
+2192.7 461.89,2184.8"];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,438,3883.2 230.69,2972.6 240.12,2976.8 248.81,2982.5 255.97,2990 526.74,3273.4 124.57,3581.1 399.97,3860 408.17,3868.3 417.93,\
+3874.6 428.51,3879.4",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,437.82,3993.4 231.13,2972.6 240.42,2976.8 248.96,2982.5 255.97,2990 557.21,3311 93.479,3654 399.97,3970 408.1,3978.4 417.8,3984.8 \
+428.35,3989.6",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,437.81,1930.6 229.94,2953.2 239.7,2948.7 248.66,2942.8 255.97,2935 556.27,2612.5 93.196,2270.4 399.97,1954 408.1,1945.6 417.8,\
+1939.2 428.35,1934.4",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,437.9,3938.3 231.07,2972.6 240.37,2976.9 248.92,2982.6 255.97,2990 541.96,3292.2 109.03,3617.6 399.97,3915 408.13,3923.3 417.86,\
+3929.7 428.42,3934.5",
+		style=solid];
+	"tamarisk-at($s3s3)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,437.74,1875.5 230,2953.2 239.75,2948.8 248.69,2942.9 255.97,2935 571.46,2593.6 77.627,2234 399.97,1899 408.07,1890.6 417.75,1884.2 \
+428.28,1879.4",
+		style=solid];
+	"eradicate($r4)" -> "Reward Function"	[pos="e,467.44,2181.3 195.8,4163.1 218.07,4160 240.99,4152.1 255.97,4135 536.36,3814.2 138.66,2559.6 399.97,2223 414.41,2204.4 435.65,\
+2192.3 457.88,2184.4"];
+	"eradicate($r4)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,446.19,3896 195.51,4157.7 216.25,4153.9 238.29,4147.1 255.97,4135 352.16,4069.3 302.71,3980.1 399.97,3916 411.03,3908.7 423.43,\
+3903.2 436.29,3899",
+		style=solid];
+	"eradicate($r4)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,524.08,4015.9 195.62,4150.7 215.29,4146.6 236.71,4141.3 255.97,4135 351.79,4103.4 457.89,4050.6 515,4020.7",
+		style=solid];
+	"eradicate($r4)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,450.14,3952 195.55,4156 215.95,4152.1 237.79,4145.7 255.97,4135 339.67,4086 315.48,4018.6 399.97,3971 412.42,3964 426.22,3958.7 \
+440.33,3954.6",
+		style=solid];
+	"native-at($s1s2)" -> "native-at'($s1s2)"	[color=black,
+		pos="e,448.75,1435 233.41,1435 295.42,1435 374.24,1435 438.56,1435",
+		style=solid];
+	"native-at($s1s2)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,447.95,1671.5 216.58,1445 230.43,1449 244.08,1454.4 255.97,1462 345.41,1518.8 309.61,1596.7 399.97,1652 411.66,1659.2 424.69,1664.6 \
+438.12,1668.7",
+		style=solid];
+	"native-at($s1s2)" -> "Reward Function"	[pos="e,470.87,2158.3 224.32,1442.5 236.1,1446.9 247.1,1453.2 255.97,1462 467.74,1672.4 200.13,1896.3 399.97,2118 416.04,2135.8 438.34,\
+2147.6 461.1,2155.3"];
+	"native-at($s4s1)" -> "native-at'($s4s1)"	[color=black,
+		pos="e,448.75,4108 233.41,4108 295.42,4108 374.24,4108 438.56,4108",
+		style=solid];
+	"native-at($s4s1)" -> "Reward Function"	[pos="e,467.47,2181.3 225.21,4100.9 236.94,4096.2 247.68,4089.5 255.97,4080 527.52,3767.6 145.77,2549.6 399.97,2223 414.43,2204.4 435.68,\
+2192.3 457.9,2184.4"];
+	"native-at($s4s1)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,450.14,3897 213.47,4097.2 228.27,4093.2 243.05,4087.6 255.97,4080 339.49,4030.7 315.48,3963.6 399.97,3916 412.42,3909 426.22,3903.7 \
+440.33,3899.6",
+		style=solid];
+	"native-at($s6s3)" -> "native-at'($s6s3)"	[color=black,
+		pos="e,448.75,3179 233.41,3179 295.42,3179 374.24,3179 438.56,3179",
+		style=solid];
+	"native-at($s6s3)" -> "Reward Function"	[pos="e,470.08,2181.6 225.15,3171.9 236.74,3167.4 247.45,3161 255.97,3152 543.07,2848.4 130.96,2542.7 399.97,2223 415.45,2204.6 437.55,\
+2192.6 460.3,2184.7"];
+	"native-at($s6s3)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,456.48,3333.3 208.28,3191 224.48,3194.9 241.11,3200.1 255.97,3207 328.85,3240.6 326.43,3283.8 399.97,3316 414.57,3322.4 430.54,\
+3327.3 446.53,3331.1",
+		style=solid];
+	"restore($r5)" -> "native-at'($s5s3)"	[color=black,
+		pos="e,469.23,3602.3 186.26,3568 255.98,3576.4 374.81,3590.9 459.13,3601.1",
+		style=solid];
+	"restore($r5)" -> "Reward Function"	[pos="e,468.7,2181.4 186.29,3562.9 211.19,3560.6 238.58,3553.2 255.97,3534 649.2,3099.3 32.617,2679.8 399.97,2223 414.88,2204.5 436.54,\
+2192.4 459.03,2184.5"];
+	"restore($r5)" -> "native-at'($s5s1)"	[color=black,
+		pos="e,449.01,3558.8 186.26,3560.6 250.55,3560.1 356.6,3559.4 438.84,3558.8",
+		style=solid];
+	"restore($r5)" -> "native-at'($s5s2)"	[color=black,
+		pos="e,474.91,3656.1 186.29,3571.4 208.25,3575.9 233.43,3581.6 255.97,3588 321.4,3606.7 334.24,3622.4 399.97,3640 420.75,3645.6 443.38,\
+3650.3 464.82,3654.3",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,439.11,434.71 238.93,447.81 296.99,444.01 368.57,439.33 429.11,435.37",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,439.1,1103.6 228.62,465.25 238.74,469.57 248.16,475.33 255.97,483 451.13,674.43 200.97,893.56 399.97,1081 408.63,1089.2 418.81,\
+1095.4 429.75,1100",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,475.01,386.24 199.65,440.18 254.28,428.84 331.83,412.99 399.97,400 420.99,395.99 443.62,391.86 464.97,388.03",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,438.91,1158.8 228.77,465.11 238.86,469.44 248.23,475.26 255.97,483 466.12,693.15 185.61,930.16 399.97,1136 408.55,1144.2 418.68,\
+1150.5 429.58,1155.2",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,439.98,993.24 227.61,465.39 238.04,469.66 247.8,475.38 255.97,483 421.36,637.21 231.49,820.17 399.97,971 408.92,979.01 419.34,\
+985.11 430.47,989.71",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,456.95,607.31 212.6,468.16 227.41,471.96 242.42,476.82 255.97,483 328.51,516.1 326.78,558.38 399.97,590 414.71,596.36 430.82,601.28 \
+446.93,605.08",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "native-at'($s9s2)"	[color=black,
+		pos="e,458.03,665.67 218.44,467.25 231.55,471.14 244.48,476.26 255.97,483 339.06,531.75 315.91,597.95 399.97,645 414.72,653.25 431.35,\
+659.16 448.14,663.38",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "Reward Function"	[pos="e,466.82,2158.9 230.7,464.58 240.26,469.04 248.97,475.03 255.97,483 496.7,757.02 173.65,1832 399.97,2118 414.33,2136.1 435.2,2148 \
+457.07,2155.8"];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,462.44,496.29 221.85,466.5 289.69,474.9 381.74,486.3 452.2,495.03",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,469.2,550.06 202.25,469.46 219.95,473.42 238.73,478.01 255.97,483 321.33,501.92 334.24,517.41 399.97,535 418.96,540.08 439.5,544.5 \
+459.26,548.23",
+		style=solid];
+	"tamarisk-at($s9s2)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,459.3,329.09 208.65,441.29 224.58,437.47 241.01,432.76 255.97,427 324.71,400.55 330.71,370.05 399.97,345 415.64,339.33 432.62,\
+334.78 449.43,331.14",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,441.47,3826.7 226.1,3407.6 236.98,3411.8 247.26,3417.5 255.97,3425 392.61,3543.1 260.97,3689.7 399.97,3805 409.47,3812.9 420.43,\
+3818.9 432.04,3823.4",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,442.37,3771.2 225.07,3407.8 236.25,3412 246.88,3417.6 255.97,3425 378.28,3525 275.66,3652.5 399.97,3750 409.77,3757.7 420.97,3763.5 \
+432.78,3768",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,469.2,3301.9 202.25,3382.5 219.95,3378.6 238.73,3374 255.97,3369 321.33,3350.1 334.24,3334.6 399.97,3317 418.96,3311.9 439.5,3307.5 \
+459.26,3303.8",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "native-at'($s6s3)"	[color=black,
+		pos="e,458.03,3186.3 218.44,3384.8 231.55,3380.9 244.48,3375.7 255.97,3369 339.06,3320.3 315.91,3254.1 399.97,3207 414.72,3198.7 431.35,\
+3192.8 448.14,3188.6",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,433.93,3398.4 248.2,3397.6 302.8,3397.8 367.72,3398.1 423.9,3398.4",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "Reward Function"	[pos="e,469.31,2181.4 230.41,3387.2 240.02,3382.7 248.82,3376.8 255.97,3369 601.88,2989.7 75.152,2620.5 399.97,2223 415.1,2204.5 436.96,\
+2192.4 459.58,2184.5"];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,462.44,3355.7 221.85,3385.5 289.69,3377.1 381.74,3365.7 452.2,3357",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,437.9,2419.7 229.87,3387.1 239.64,3382.7 248.63,3376.8 255.97,3369 541.1,3065.4 108.75,2740.8 399.97,2443 408.13,2434.7 417.86,\
+2428.3 428.42,2423.5",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,437.81,2364.6 229.94,3387.2 239.7,3382.7 248.66,3376.8 255.97,3369 556.27,3046.5 93.196,2704.4 399.97,2388 408.1,2379.6 417.8,\
+2373.2 428.35,2368.4",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,437.74,2309.5 230,3387.2 239.75,3382.8 248.69,3376.9 255.97,3369 571.46,3027.6 77.627,2668 399.97,2333 408.07,2324.6 417.75,2318.2 \
+428.28,2313.4",
+		style=solid];
+	"tamarisk-at($s6s3)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,444.21,3715.7 223.91,3408.3 235.41,3412.3 246.44,3417.8 255.97,3425 364.33,3507.2 289.97,3615 399.97,3695 410.41,3702.6 422.26,\
+3708.3 434.65,3712.7",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,442.35,1974.2 225.41,1608.9 236.47,1613.1 246.98,1618.6 255.97,1626 378.8,1726.7 275.13,1854.9 399.97,1953 409.76,1960.7 420.96,\
+1966.6 432.76,1971",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "native-at'($s1s1)"	[color=black,
+		pos="e,458.03,1387.3 218.44,1585.8 231.55,1581.9 244.48,1576.7 255.97,1570 339.06,1521.3 315.91,1455.1 399.97,1408 414.72,1399.7 431.35,\
+1393.8 448.14,1389.6",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,443.92,1617.9 239.48,1605 298.96,1608.7 372.48,1613.4 433.79,1617.2",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,477.05,1666.1 200.51,1612.7 255.1,1623.8 332.21,1639.2 399.97,1652 421.68,1656.1 445.1,1660.4 467.07,1664.3",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "Reward Function"	[pos="e,472.9,2157.9 227.63,1608.4 238.05,1612.6 247.81,1618.4 255.97,1626 422.44,1781.6 241.72,1954.1 399.97,2118 416.98,2135.6 440.07,\
+2147.3 463.3,2155"];
+	"tamarisk-at($s1s1)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,461.82,1723.3 208.29,1611.7 224.33,1615.5 240.89,1620.2 255.97,1626 324.57,1652.2 330.86,1682.2 399.97,1707 416.31,1712.9 434.06,\
+1717.5 451.56,1721.2",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,444.19,1918.8 223.94,1609.2 235.43,1613.3 246.45,1618.8 255.97,1626 364.83,1708.8 289.46,1817.4 399.97,1898 410.4,1905.6 422.24,\
+1911.4 434.62,1915.7",
+		style=solid];
+	"tamarisk-at($s1s1)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,446.23,1862.9 221.64,1609.6 233.82,1613.6 245.64,1618.9 255.97,1626 351.44,1691.4 303.2,1779.5 399.97,1843 411.04,1850.3 423.45,\
+1855.8 436.32,1860",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,468.73,3845.8 202.97,3928.5 220.47,3924.6 238.98,3920 255.97,3915 321.51,3895.6 334.05,3879.1 399.97,3861 418.82,3855.8 439.2,\
+3851.4 458.85,3847.7",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,437.74,2857.5 229.99,3933.2 239.74,3928.8 248.69,3922.9 255.97,3915 570.91,3574.3 78.193,3215.3 399.97,2881 408.07,2872.6 417.75,\
+2866.2 428.28,2861.4",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,456.48,3788.7 212.65,3929.9 227.45,3926.1 242.44,3921.2 255.97,3915 328.85,3881.4 326.43,3838.2 399.97,3806 414.57,3799.6 430.54,\
+3794.7 446.53,3790.9",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,437.82,2912.6 229.93,3933.1 239.7,3928.7 248.66,3922.8 255.97,3915 555.72,3593.2 93.762,3251.7 399.97,2936 408.1,2927.6 417.81,\
+2921.2 428.35,2916.4",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "native-at'($s4s1)"	[color=black,
+		pos="e,524.49,4090.5 205.57,3957.2 222.36,3961 239.91,3965.6 255.97,3971 351.93,4003 458.38,4055.9 515.43,4085.7",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,524.99,2980.9 229.41,3933.1 239.33,3928.7 248.48,3922.8 255.97,3915 511.36,3648.5 216.79,3417.5 399.97,3097 427.6,3048.7 479.5,\
+3009.7 516.05,2986.4",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "Reward Function"	[pos="e,467.98,2181.2 230.72,3933.4 240.28,3929 248.98,3923 255.97,3915 504.61,3631.1 167.1,2519.9 399.97,2223 414.57,2204.4 436,2192.3 \
+458.36,2184.4"];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,463.72,3900 220.54,3931.2 288.88,3922.5 382.33,3910.4 453.4,3901.3",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,463.72,3986 220.54,3954.8 288.88,3963.5 382.33,3975.6 453.4,3984.7",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,433.93,3943 248.2,3943 302.8,3943 367.72,3943 423.9,3943",
+		style=solid];
+	"tamarisk-at($s4s1)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,450.14,3732 218.47,3930.8 231.58,3926.9 244.5,3921.8 255.97,3915 339.49,3865.7 315.48,3798.6 399.97,3751 412.42,3744 426.22,3738.7 \
+440.33,3734.6",
+		style=solid];
+	"eradicate($r5)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,468.73,3820.2 195.69,3736.2 215.26,3740.3 236.61,3745.3 255.97,3751 321.58,3770.2 334.05,3786.9 399.97,3805 418.82,3810.2 439.2,\
+3814.6 458.85,3818.3",
+		style=solid];
+	"eradicate($r5)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,463.18,3766.2 195.86,3732.4 264.74,3741.1 373.03,3754.8 453.07,3764.9",
+		style=solid];
+	"eradicate($r5)" -> "Reward Function"	[pos="e,468.14,2181.4 195.59,3725 217.84,3721.8 240.8,3714 255.97,3697 475.29,3451.6 195.26,2480.7 399.97,2223 414.69,2204.5 436.16,2192.4 \
+458.52,2184.5"];
+	"eradicate($r5)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,434.19,3723.3 195.86,3723.8 256.72,3723.7 348.36,3723.5 424.09,3723.3",
+		style=solid];
+	"native-at($s1s3)" -> "native-at'($s1s3)"	[color=black,
+		pos="e,448.75,1543 233.41,1543 295.42,1543 374.24,1543 438.56,1543",
+		style=solid];
+	"native-at($s1s3)" -> "Reward Function"	[pos="e,472.17,2158.1 222.74,1551.2 235.05,1555.6 246.61,1562 255.97,1571 437.29,1745.1 227.84,1934.8 399.97,2118 416.65,2135.7 439.51,\
+2147.4 462.62,2155.2"];
+	"native-at($s1s3)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,452.87,1725.2 211.23,1554.3 226.64,1558.3 242.21,1563.7 255.97,1571 333.77,1612.2 321.35,1667.4 399.97,1707 413.36,1713.7 428.11,\
+1718.9 443.04,1722.8",
+		style=solid];
+	"native-at($s4s2)" -> "native-at'($s4s2)"	[color=black,
+		pos="e,448.75,4271 233.41,4271 295.42,4271 374.24,4271 438.56,4271",
+		style=solid];
+	"native-at($s4s2)" -> "Reward Function"	[pos="e,467.39,2181.2 225.58,4263.8 237.17,4259.2 247.78,4252.5 255.97,4243 550.16,3902.4 124.69,2579 399.97,2223 414.37,2204.4 435.6,\
+2192.2 457.82,2184.4"];
+	"native-at($s4s2)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,514.88,4015.3 213.43,4260.2 228.23,4256.1 243.02,4250.6 255.97,4243 339.06,4194.3 324.18,4140.5 399.97,4081 432.32,4055.6 473.56,\
+4034.2 505.66,4019.4",
+		style=solid];
+	"native-at($s9s3)" -> "native-at'($s9s3)"	[color=black,
+		pos="e,448.75,728 233.41,728 295.42,728 374.24,728 438.56,728",
+		style=solid];
+	"native-at($s9s3)" -> "Reward Function"	[pos="e,467.45,2158.9 225.88,734.89 237.27,739.41 247.75,745.87 255.97,755 663.68,1207.6 17.841,1643.6 399.97,2118 414.56,2136.1 435.64,\
+2148 457.64,2155.7"];
+	"native-at($s9s3)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,456.48,573.65 208.28,716.04 224.48,712.08 241.11,706.86 255.97,700 328.85,666.36 326.43,623.16 399.97,591 414.57,584.62 430.54,\
+579.69 446.53,575.88",
+		style=solid];
+	"native-at($s9s1)" -> "native-at'($s9s1)"	[color=black,
+		pos="e,469.6,793.82 214.31,825.43 285,816.68 385.48,804.24 459.36,795.09",
+		style=solid];
+	"native-at($s9s1)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,450.16,627.08 215.11,825.49 229.35,821.6 243.51,816.27 255.97,809 339.46,760.27 315.7,693.35 399.97,646 412.43,639 426.24,633.69 \
+440.35,629.66",
+		style=solid];
+	"native-at($s9s1)" -> "Reward Function"	[pos="e,467.57,2158.8 224.89,843.38 236.66,847.99 247.5,854.61 255.97,864 631.77,1280.5 46.07,1682.7 399.97,2118 414.65,2136 435.76,2147.9 \
+457.76,2155.6"];
+	"native-at($s6s2)" -> "native-at'($s6s2)"	[color=black,
+		pos="e,448.75,3234 233.41,3234 295.42,3234 374.24,3234 438.56,3234",
+		style=solid];
+	"native-at($s6s2)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,456.45,3388.4 209.98,3245.6 225.65,3249.4 241.64,3254.4 255.97,3261 329.15,3294.6 326.25,3338.6 399.97,3371 414.56,3377.4 430.52,\
+3382.4 446.51,3386.2",
+		style=solid];
+	"native-at($s6s2)" -> "Reward Function"	[pos="e,469.56,2181.6 224.31,3226.5 236.24,3221.9 247.28,3215.3 255.97,3206 556.83,2882.8 117.09,2562 399.97,2223 415.29,2204.6 437.22,\
+2192.6 459.84,2184.7"];
+	"restore($r6)" -> "native-at'($s6s2)"	[color=black,
+		pos="e,474.45,3222.2 186.01,3135.2 208.05,3139.7 233.36,3145.4 255.97,3152 321.58,3171.2 334.05,3187.9 399.97,3206 420.6,3211.7 443.08,\
+3216.4 464.41,3220.4",
+		style=solid];
+	"restore($r6)" -> "native-at'($s6s3)"	[color=black,
+		pos="e,470.03,3168 186.26,3132.2 256.19,3141.1 375.56,3156.1 459.92,3166.8",
+		style=solid];
+	"restore($r6)" -> "Reward Function"	[pos="e,470.19,2181.7 186.15,3126.5 210.87,3124 238.15,3116.7 255.97,3098 528.12,2812.9 144.82,2523.4 399.97,2223 415.54,2204.7 437.67,\
+2192.7 460.42,2184.8"];
+	"restore($r6)" -> "native-at'($s6s1)"	[color=black,
+		pos="e,449.01,3124.3 186.26,3124.9 250.55,3124.7 356.6,3124.5 438.84,3124.3",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,433.93,3833 248.2,3833 302.8,3833 367.72,3833 423.9,3833",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,463.72,3790 220.54,3821.2 288.88,3812.5 382.33,3800.4 453.4,3791.3",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,439.98,3294.8 227.61,3822.6 238.04,3818.3 247.8,3812.6 255.97,3805 421.36,3650.8 231.49,3467.8 399.97,3317 408.92,3309 419.34,\
+3302.9 430.47,3298.3",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,529.47,3417.1 223.96,3821.8 235.45,3817.7 246.46,3812.3 255.97,3805 365.33,3721.5 313.71,3638.2 399.97,3531 435.28,3487.1 486.86,\
+3447.1 521.14,3422.9",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "native-at'($s5s3)"	[color=black,
+		pos="e,457.57,3620.3 218.47,3820.8 231.58,3816.9 244.5,3811.8 255.97,3805 339.49,3755.7 315.48,3688.6 399.97,3641 414.59,3632.8 431.08,\
+3626.9 447.75,3622.6",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "Reward Function"	[pos="e,468.05,2181.3 230.68,3823.4 240.24,3818.9 248.96,3813 255.97,3805 489.34,3540.1 181.31,2500.1 399.97,2223 414.63,2204.4 436.07,\
+2192.3 458.43,2184.4"];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,440.7,3350 227.04,3822.5 237.63,3818.2 247.59,3812.6 255.97,3805 406.64,3669.2 246.58,3504.7 399.97,3372 409.13,3364.1 419.75,\
+3358 431.05,3353.5",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,463.72,3876 220.54,3844.8 288.88,3853.5 382.33,3865.6 453.4,3874.7",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,456.48,3987.3 212.65,3846.1 227.45,3849.9 242.44,3854.8 255.97,3861 328.85,3894.6 326.43,3937.8 399.97,3970 414.57,3976.4 430.54,\
+3981.3 446.53,3985.1",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,468.73,3930.2 202.97,3847.5 220.47,3851.4 238.98,3856 255.97,3861 321.51,3880.4 334.05,3896.9 399.97,3915 418.82,3920.2 439.2,\
+3924.6 458.85,3928.3",
+		style=solid];
+	"tamarisk-at($s5s3)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,468.73,3735.8 202.97,3818.5 220.47,3814.6 238.98,3810 255.97,3805 321.51,3785.6 334.05,3769.1 399.97,3751 418.82,3745.8 439.2,\
+3741.4 458.85,3737.7",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,469.17,1121.8 204.63,1202.8 221.64,1199.1 239.52,1194.8 255.97,1190 321.49,1171.1 334.15,1154.8 399.97,1137 418.95,1131.9 439.47,\
+1127.4 459.23,1123.7",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,462.44,1175.7 221.85,1205.5 289.69,1197.1 381.74,1185.7 452.2,1177",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,450.16,1008.1 220.11,1205.1 232.65,1201.3 244.97,1196.4 255.97,1190 339.46,1141.3 315.7,1074.3 399.97,1027 412.43,1020 426.24,\
+1014.7 440.35,1010.7",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,439.71,623.47 229.36,1207 239.16,1202.8 248.3,1197.3 255.97,1190 437.13,1017.6 216,815.43 399.97,646 408.8,637.87 419.15,631.69 \
+430.24,627.03",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "Reward Function"	[pos="e,469,2158.5 229.8,1227 239.58,1231.4 248.6,1237.2 255.97,1245 526.49,1530.4 144.47,1819.1 399.97,2118 415.32,2136 437.01,2147.7 \
+459.38,2155.5"];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,438.91,513.17 229.98,1207.2 239.61,1203 248.53,1197.4 255.97,1190 467.19,980.31 185.33,742.18 399.97,536 408.55,527.76 418.68,\
+521.5 429.58,516.78",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "native-at'($s8s2)"	[color=black,
+		pos="e,449,1218.5 248.2,1217.6 307.71,1217.8 379.47,1218.2 438.82,1218.4",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,439.1,568.36 229.84,1207 239.49,1202.9 248.46,1197.3 255.97,1190 452.12,998.96 200.69,778.77 399.97,591 408.63,582.84 418.81,576.63 \
+429.74,571.95",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,437.61,2410.6 230.1,1226.7 239.83,1231.1 248.75,1237.1 255.97,1245 600.77,1622.9 47.586,2016.1 399.97,2387 408.01,2395.5 417.66,\
+2401.9 428.17,2406.7",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,437.67,2355.5 230.05,1226.7 239.79,1231.2 248.72,1237.1 255.97,1245 585.56,1604 63.178,1979.8 399.97,2332 408.04,2340.4 417.7,\
+2346.9 428.23,2351.7",
+		style=solid];
+	"tamarisk-at($s8s2)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,437.74,2300.5 229.99,1226.8 239.74,1231.2 248.69,1237.1 255.97,1245 570.36,1585 78.76,1943.4 399.97,2277 408.07,2285.4 417.75,\
+2291.8 428.29,2296.6",
+		style=solid];
+	"Current State and Actions" -> "Next State and Reward"	[color=black,
+		pos="e,452.63,4379 244.52,4379 305.97,4379 381.26,4379 442.53,4379",
+		style=invis];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,438.1,1985.9 229.4,2843.1 239.32,2838.7 248.47,2832.8 255.97,2825 510.81,2559.1 139.8,2269.6 399.97,2009 408.22,2000.7 418,1994.4 \
+428.6,1989.7",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,433.93,2853 248.2,2853 302.8,2853 367.72,2853 423.9,2853",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,463.72,2896 220.54,2864.8 288.88,2873.5 382.33,2885.6 453.4,2894.7",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,468.73,2950.2 202.97,2867.5 220.47,2871.4 238.98,2876 255.97,2881 321.51,2900.4 334.05,2916.9 399.97,2935 418.82,2940.2 439.2,\
+2944.6 458.85,2948.3",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "Reward Function"	[pos="e,472.7,2182 228.63,2842.8 238.75,2838.4 248.16,2832.7 255.97,2825 452.22,2632.2 214.47,2426.2 399.97,2223 416.6,2204.8 439.68,2192.8 \
+463.04,2185"];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,437.82,3883.4 229.93,2862.9 239.7,2867.3 248.66,2873.2 255.97,2881 555.72,3202.8 93.762,3544.3 399.97,3860 408.1,3868.4 417.81,\
+3874.8 428.35,3879.6",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "native-at'($s3s1)"	[color=black,
+		pos="e,463.51,2697.2 212.65,2839.9 227.45,2836.1 242.44,2831.2 255.97,2825 328.85,2791.4 326.43,2748.2 399.97,2716 416.75,2708.7 435.33,\
+2703.3 453.66,2699.3",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,437.67,3993.5 230.05,2862.7 239.79,2867.2 248.72,2873.1 255.97,2881 586.11,3240.7 62.612,3617.1 399.97,3970 408.04,3978.4 417.7,\
+3984.9 428.22,3989.7",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,438,1930.8 229.8,2843 239.58,2838.6 248.59,2832.8 255.97,2825 525.94,2540.3 124.29,2233.2 399.97,1954 408.17,1945.7 417.93,1939.4 \
+428.51,1934.6",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,437.74,3938.5 229.99,2862.8 239.74,2867.2 248.69,2873.1 255.97,2881 570.91,3221.7 78.193,3580.7 399.97,3915 408.07,3923.4 417.75,\
+3929.8 428.28,3934.6",
+		style=solid];
+	"tamarisk-at($s3s1)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,437.9,1875.7 229.87,2843.1 239.64,2838.7 248.63,2832.8 255.97,2825 541.1,2521.4 108.75,2196.8 399.97,1899 408.13,1890.7 417.86,\
+1884.3 428.42,1879.5",
+		style=solid];
+	"native-at($s3s2)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,456.48,2897.3 208.28,2755 224.48,2758.9 241.11,2764.1 255.97,2771 328.85,2804.6 326.43,2847.8 399.97,2880 414.57,2886.4 430.54,\
+2891.3 446.53,2895.1",
+		style=solid];
+	"native-at($s3s2)" -> "Reward Function"	[pos="e,474.09,2182.3 223.46,2735 235.44,2730.7 246.72,2724.6 255.97,2716 423.29,2560.7 241.94,2387.7 399.97,2223 417.22,2205 440.75,2193.2 \
+464.35,2185.3"];
+	"native-at($s3s2)" -> "native-at'($s3s2)"	[color=black,
+		pos="e,448.75,2743 233.41,2743 295.42,2743 374.24,2743 438.56,2743",
+		style=solid];
+	"eradicate($r2)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,468.73,1968.2 195.69,1884.2 215.26,1888.3 236.61,1893.3 255.97,1899 321.58,1918.2 334.05,1934.9 399.97,1953 418.82,1958.2 439.2,\
+1962.6 458.85,1966.3",
+		style=solid];
+	"eradicate($r2)" -> "Reward Function"	[pos="e,482.91,2156.3 195.51,1876.3 216.25,1880.1 238.29,1886.9 255.97,1899 352.16,1964.7 307.55,2047.1 399.97,2118 421.28,2134.4 447.98,\
+2145.7 473.29,2153.5"];
+	"eradicate($r2)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,463.18,1914.2 195.86,1880.4 264.74,1889.1 373.03,1902.8 453.07,1912.9",
+		style=solid];
+	"eradicate($r2)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,434.19,1871.3 195.86,1871.8 256.72,1871.7 348.36,1871.5 424.09,1871.3",
+		style=solid];
+	"native-at($s10s3)" -> "Reward Function"	[pos="e,466.2,2159 228.69,80.483 239.07,85.06 248.52,91.373 255.97,100 549.88,440.21 123.94,1763.1 399.97,2118 414.1,2136.2 434.77,2148.1 \
+456.5,2155.8"];
+	"native-at($s10s3)" -> "native-at'($s10s3)"	[color=black,
+		pos="e,441.78,72 241.16,72 299.57,72 371.18,72 431.44,72",
+		style=solid];
+	"native-at($s10s3)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,488.94,301.35 216.1,83.57 230.01,87.537 243.8,92.86 255.97,100 339.06,148.75 319.96,208.36 399.97,262 423.8,277.97 452.76,289.83 \
+479.29,298.36",
+		style=solid];
+	"native-at($s9s2)" -> "native-at'($s9s2)"	[color=black,
+		pos="e,448.75,673 233.41,673 295.42,673 374.24,673 438.56,673",
+		style=solid];
+	"native-at($s9s2)" -> "Reward Function"	[pos="e,466.99,2158.8 225.01,680.28 236.76,684.91 247.57,691.56 255.97,701 466.46,937.38 201.91,1871.1 399.97,2118 414.45,2136 435.37,\
+2147.9 457.24,2155.6"];
+	"native-at($s9s2)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,456.45,518.59 209.98,661.39 225.65,657.6 241.64,652.59 255.97,646 329.15,612.36 326.25,568.43 399.97,536 414.56,529.58 430.52,\
+524.64 446.51,520.82",
+		style=solid];
+	"native-at($s6s1)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,450.16,3279.9 215.11,3081.5 229.35,3085.4 243.51,3090.7 255.97,3098 339.46,3146.7 315.7,3213.7 399.97,3261 412.43,3268 426.24,\
+3273.3 440.35,3277.3",
+		style=solid];
+	"native-at($s6s1)" -> "Reward Function"	[pos="e,470.73,2181.7 224.99,3063.7 236.6,3059.3 247.37,3052.9 255.97,3044 513.19,2777.4 158.66,2504.1 399.97,2223 415.71,2204.7 438.03,\
+2192.7 460.91,2184.8"];
+	"native-at($s6s1)" -> "native-at'($s6s1)"	[color=black,
+		pos="e,469.6,3113.2 214.31,3081.6 285,3090.3 385.48,3102.8 459.36,3111.9",
+		style=solid];
+	"restore($r7)" -> "native-at'($s7s1)"	[color=black,
+		pos="e,470.03,2514 186.26,2478.2 256.19,2487.1 375.56,2502.1 459.92,2512.8",
+		style=solid];
+	"restore($r7)" -> "native-at'($s7s2)"	[color=black,
+		pos="e,449.01,2470.3 186.26,2470.9 250.55,2470.7 356.6,2470.5 438.84,2470.3",
+		style=solid];
+	"restore($r7)" -> "Reward Function"	[pos="e,483.65,2183.9 186.16,2468.3 209.45,2464.9 235.62,2458 255.97,2444 352.64,2377.7 307.32,2294.8 399.97,2223 421.44,2206.4 448.44,\
+2194.8 473.96,2186.8"];
+	"restore($r7)" -> "native-at'($s7s3)"	[color=black,
+		pos="e,457.52,2257.3 186.22,2466.8 209.13,2463.1 235.01,2456.4 255.97,2444 340.1,2394.4 315.04,2326.2 399.97,2278 414.56,2269.7 431.05,\
+2263.8 447.71,2259.6",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,456.92,1098.4 214.31,958.8 228.56,962.43 242.94,967.08 255.97,973 328.81,1006.1 326.6,1049.1 399.97,1081 414.69,1087.4 430.8,1092.3 \
+446.9,1096.1",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,450.16,1154.9 220.11,957.94 232.65,961.68 244.97,966.58 255.97,973 339.46,1021.7 315.7,1088.7 399.97,1136 412.43,1143 426.24,1148.3 \
+440.35,1152.3",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,462.44,987.29 221.85,957.5 289.69,965.9 381.74,977.3 452.2,986.03",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,444.19,625.24 223.94,934.77 235.43,930.69 246.45,925.25 255.97,918 364.83,835.17 289.46,726.61 399.97,646 410.4,638.39 422.24,\
+632.63 434.62,628.29",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "Reward Function"	[pos="e,467.7,2158.7 231.29,955.43 240.55,959.73 249.03,965.45 255.97,973 603.02,1350.6 74.273,1721.8 399.97,2118 414.74,2136 435.89,2147.8 \
+457.89,2155.5"];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,441.46,514.29 226.44,935.27 237.19,931.07 247.35,925.46 255.97,918 393.14,799.23 260.43,651.97 399.97,536 409.47,528.11 420.41,\
+522.12 432.02,517.61",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "native-at'($s8s3)"	[color=black,
+		pos="e,449,944.5 248.2,945.44 307.71,945.16 379.47,944.83 438.82,944.55",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,442.35,569.77 225.41,935.05 236.47,930.91 246.98,925.37 255.97,918 378.8,817.35 275.13,689.14 399.97,591 409.76,583.3 420.96,577.45 \
+432.76,573.02",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,437.36,2410.8 231.77,955.41 240.88,959.72 249.2,965.45 255.97,973 466.93,1208.1 185.16,2155.4 399.97,2387 407.91,2395.6 417.49,\
+2402.1 427.96,2406.9",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,437.41,2355.8 231.74,955.43 240.86,959.75 249.18,965.47 255.97,973 662.57,1424.2 -14.014,1887.6 399.97,2332 407.93,2340.5 417.52,\
+2347 427.99,2351.9",
+		style=solid];
+	"tamarisk-at($s8s3)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,437.45,2300.7 231.71,955.47 240.83,959.77 249.17,965.48 255.97,973 647.25,1405.3 1.6091,1851.2 399.97,2277 407.95,2285.5 417.55,\
+2292 428.03,2296.9",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,440.68,3827 227.05,3352.5 237.64,3356.8 247.59,3362.4 255.97,3370 407.17,3506.4 246.04,3671.7 399.97,3805 409.13,3812.9 419.74,\
+3819 431.04,3823.5",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,441.47,3771.7 226.1,3352.6 236.98,3356.8 247.26,3362.5 255.97,3370 392.61,3488.1 260.97,3634.7 399.97,3750 409.47,3757.9 420.43,\
+3763.9 432.04,3768.4",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,462.44,3300.7 221.85,3330.5 289.69,3322.1 381.74,3310.7 452.2,3302",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,465.38,3386.8 219.23,3354 288.33,3363.2 383.65,3375.9 455.41,3385.5",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "Reward Function"	[pos="e,469.38,2181.5 231.24,3332.5 240.51,3328.2 249.01,3322.5 255.97,3315 588.3,2955.5 89.057,2601.1 399.97,2223 415.16,2204.5 437.04,\
+2192.5 459.66,2184.6"];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,433.93,3343.4 248.2,3342.6 302.8,3342.8 367.72,3343.1 423.9,3343.4",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "native-at'($s6s1)"	[color=black,
+		pos="e,458,3131.3 220.11,3330.1 232.65,3326.3 244.97,3321.4 255.97,3315 339.46,3266.3 315.7,3199.3 399.97,3152 414.7,3143.7 431.33,3137.8 \
+448.12,3133.6",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,437.99,2419.8 230.69,3332.4 240.12,3328.2 248.81,3322.5 255.97,3315 527.29,3031 124.01,2722.5 399.97,2443 408.17,2434.7 417.93,\
+2428.4 428.51,2423.6",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,437.9,2364.7 231.07,3332.4 240.37,3328.1 248.92,3322.4 255.97,3315 542.52,3012.1 108.47,2686.1 399.97,2388 408.13,2379.7 417.86,\
+2373.3 428.42,2368.5",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,437.81,2309.6 231.13,3332.4 240.42,3328.2 248.96,3322.5 255.97,3315 557.76,2993.3 92.913,2649.7 399.97,2333 408.1,2324.6 417.8,\
+2318.2 428.35,2313.4",
+		style=solid];
+	"tamarisk-at($s6s1)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,442.37,3716.2 225.07,3352.8 236.25,3357 246.88,3362.6 255.97,3370 378.28,3470 275.66,3597.5 399.97,3695 409.77,3702.7 420.97,3708.5 \
+432.78,3713",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,438,1985.8 229.8,2898 239.58,2893.6 248.59,2887.8 255.97,2880 525.94,2595.3 124.29,2288.2 399.97,2009 408.17,2000.7 417.93,1994.4 \
+428.51,1989.6",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,463.72,2865 220.54,2896.2 288.88,2887.5 382.33,2875.4 453.4,2866.3",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,433.93,2908 248.2,2908 302.8,2908 367.72,2908 423.9,2908",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,463.72,2951 220.54,2919.8 288.88,2928.5 382.33,2940.6 453.4,2949.7",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "Reward Function"	[pos="e,472.06,2181.9 228.78,2897.9 238.87,2893.6 248.24,2887.7 255.97,2880 467.22,2668.5 200.51,2445.7 399.97,2223 416.34,2204.7 439.21,\
+2192.8 462.45,2184.9"];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,437.9,3883.3 229.87,2917.9 239.64,2922.3 248.63,2928.2 255.97,2936 540.55,3238.9 109.32,3562.9 399.97,3860 408.13,3868.3 417.86,\
+3874.7 428.43,3879.5",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "native-at'($s3s2)"	[color=black,
+		pos="e,463.51,2752.2 212.65,2894.9 227.45,2891.1 242.44,2886.2 255.97,2880 328.85,2846.4 326.43,2803.2 399.97,2771 416.75,2763.7 435.33,\
+2758.3 453.66,2754.3",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,437.74,3993.5 229.99,2917.8 239.74,2922.2 248.69,2928.1 255.97,2936 570.91,3276.7 78.193,3635.7 399.97,3970 408.07,3978.4 417.75,\
+3984.8 428.28,3989.6",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,437.9,1930.7 229.87,2898.1 239.64,2893.7 248.63,2887.8 255.97,2880 541.1,2576.4 108.75,2251.8 399.97,1954 408.13,1945.7 417.86,\
+1939.3 428.42,1934.5",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,437.82,3938.4 229.93,2917.9 239.7,2922.3 248.66,2928.2 255.97,2936 555.72,3257.8 93.762,3599.3 399.97,3915 408.1,3923.4 417.81,\
+3929.8 428.35,3934.6",
+		style=solid];
+	"tamarisk-at($s3s2)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,437.81,1875.6 229.94,2898.2 239.7,2893.7 248.66,2887.8 255.97,2880 556.27,2557.5 93.196,2215.4 399.97,1899 408.1,1890.6 417.8,\
+1884.2 428.35,1879.4",
+		style=solid];
+	"native-at($s1s1)" -> "native-at'($s1s1)"	[color=black,
+		pos="e,448.75,1380 233.41,1380 295.42,1380 374.24,1380 438.56,1380",
+		style=solid];
+	"native-at($s1s1)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,489.72,1609.6 213.43,1390.8 228.23,1394.9 243.02,1400.4 255.97,1408 339.06,1456.7 319.96,1516.4 399.97,1570 424.01,1586.1 453.28,\
+1598 480.01,1606.6",
+		style=solid];
+	"native-at($s1s1)" -> "Reward Function"	[pos="e,470.26,2158.4 223.53,1387.8 235.65,1392.3 246.95,1398.8 255.97,1408 481.71,1637.6 186.33,1877.1 399.97,2118 415.81,2135.9 437.92,\
+2147.6 460.55,2155.3"];
+	"native-at($s3s3)" -> "native-at'($s3s3)"	[color=black,
+		pos="e,448.75,2798 233.41,2798 295.42,2798 374.24,2798 438.56,2798",
+		style=solid];
+	"native-at($s3s3)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,456.48,2952.3 208.28,2810 224.48,2813.9 241.11,2819.1 255.97,2826 328.85,2859.6 326.43,2902.8 399.97,2935 414.57,2941.4 430.54,\
+2946.3 446.53,2950.1",
+		style=solid];
+	"native-at($s3s3)" -> "Reward Function"	[pos="e,473.37,2182.1 222.74,2789.8 235.05,2785.4 246.61,2779 255.97,2770 437.29,2595.9 228.37,2406.7 399.97,2223 416.89,2204.9 440.19,\
+2193 463.67,2185.1"];
+	"eradicate($r3)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,456.48,2863.7 195.67,3008.5 215.64,3004.5 237.22,2998.6 255.97,2990 328.98,2956.6 326.43,2913.2 399.97,2881 414.57,2874.6 430.54,\
+2869.7 446.53,2865.9",
+		style=solid];
+	"eradicate($r3)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,468.73,2920.8 195.69,3004.8 215.26,3000.7 236.61,2995.7 255.97,2990 321.58,2970.8 334.05,2954.1 399.97,2936 418.82,2930.8 439.2,\
+2926.4 458.85,2922.7",
+		style=solid];
+	"eradicate($r3)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,463.18,2974.8 195.86,3008.6 264.74,2999.9 373.03,2986.2 453.07,2976.1",
+		style=solid];
+	"eradicate($r3)" -> "Reward Function"	[pos="e,470.88,2181.8 195.77,3017.1 217.63,3013.7 240.31,3006 255.97,2990 498.28,2741.8 172.47,2484.8 399.97,2223 415.82,2204.8 438.18,\
+2192.8 461.06,2184.9"];
+	"tamarisk-at($s10s3)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,459.32,414.83 210.31,304.18 225.72,307.92 241.53,312.48 255.97,318 324.57,344.19 330.86,374.2 399.97,399 415.66,404.63 432.65,\
+409.16 449.46,412.79",
+		style=solid];
+	"tamarisk-at($s10s3)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,475.02,357.71 202.23,305.01 256.71,316.08 332.92,331.34 399.97,344 420.99,347.97 443.63,352.09 464.98,355.92",
+		style=solid];
+	"tamarisk-at($s10s3)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,444.19,610.76 225.88,301.93 236.67,305.93 246.99,311.16 255.97,318 364.83,400.83 289.46,509.39 399.97,590 410.4,597.61 422.24,\
+603.37 434.62,607.71",
+		style=solid];
+	"tamarisk-at($s10s3)" -> "Reward Function"	[pos="e,466.31,2158.9 232.88,300.55 241.6,304.9 249.52,310.6 255.97,318 519.6,620.53 152.24,1802.3 399.97,2118 414.18,2136.1 434.88,2148 \
+456.61,2155.7"];
+	"tamarisk-at($s10s3)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,491.98,492.4 217.93,303.15 231.11,306.92 244.2,311.77 255.97,318 333.77,359.19 324.65,408.43 399.97,454 425.12,469.21 455.15,480.88 \
+482.17,489.4",
+		style=solid];
+	"tamarisk-at($s10s3)" -> "native-at'($s10s3)"	[color=black,
+		pos="e,453.9,80.244 220.44,277.15 232.86,273.34 245.07,268.4 255.97,262 339.06,213.25 315.91,147.05 399.97,100 413.45,92.456 428.51,86.87 \
+443.82,82.748",
+		style=solid];
+	"tamarisk-at($s10s3)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,446.23,554.92 223.61,302.25 235.09,306.17 246.2,311.3 255.97,318 351.44,383.45 303.2,471.5 399.97,535 411.04,542.26 423.45,547.79 \
+436.32,551.97",
+		style=solid];
+	"tamarisk-at($s10s3)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,438.38,309.52 245.37,297.34 302,300.91 370.23,305.22 428.39,308.89",
+		style=solid];
+	"native-at($s8s2)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,469.2,1176.9 198.6,1258.4 217.35,1254.2 237.54,1249.3 255.97,1244 321.33,1225.1 334.24,1209.6 399.97,1192 418.96,1186.9 439.5,\
+1182.5 459.26,1178.8",
+		style=solid];
+	"native-at($s8s2)" -> "Reward Function"	[pos="e,469.54,2158.5 224.99,1279.3 236.59,1283.7 247.36,1290.1 255.97,1299 512.63,1564.9 158.37,1838.3 399.97,2118 415.49,2136 437.37,\
+2147.8 459.87,2155.5"];
+	"native-at($s8s2)" -> "native-at'($s8s2)"	[color=black,
+		pos="e,469.6,1229.8 214.31,1261.4 285,1252.7 385.48,1240.2 459.36,1231.1",
+		style=solid];
+	"restore($r8)" -> "Reward Function"	[pos="e,468.19,2158.7 186.1,998.23 210.96,1000.6 238.38,1008 255.97,1027 588.02,1386.1 88.233,1741.1 399.97,2118 414.95,2136.1 436.38,\
+2147.9 458.62,2155.7"];
+	"restore($r8)" -> "native-at'($s8s2)"	[color=black,
+		pos="e,457.57,1211.7 186.18,1004.3 209.09,1008 234.97,1014.7 255.97,1027 339.67,1076 315.48,1143.4 399.97,1191 414.59,1199.2 431.08,1205.1 \
+447.75,1209.4",
+		style=solid];
+	"restore($r8)" -> "native-at'($s8s3)"	[color=black,
+		pos="e,471.22,955.22 186.26,992.51 256.52,983.31 376.68,967.59 461.11,956.54",
+		style=solid];
+	"restore($r8)" -> "native-at'($s8s1)"	[color=black,
+		pos="e,470.03,1043 186.26,1007.2 256.19,1016.1 375.56,1031.1 459.92,1041.8",
+		style=solid];
+	"eradicate($r9)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,434.19,618.29 195.86,618.84 256.72,618.7 348.36,618.49 424.09,618.31",
+		style=solid];
+	"eradicate($r9)" -> "Reward Function"	[pos="e,466.94,2158.9 195.59,618.04 217.84,621.24 240.8,629.03 255.97,646 475.01,891.05 194.78,1861.2 399.97,2118 414.42,2136.1 435.32,\
+2147.9 457.19,2155.7"];
+	"eradicate($r9)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,468.27,520.72 195.73,606.92 215.31,602.81 236.64,597.77 255.97,592 321.77,572.35 333.86,554.56 399.97,536 418.59,530.77 438.73,\
+526.32 458.18,522.6",
+		style=solid];
+	"eradicate($r9)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,464.37,575.12 195.86,610.25 265.07,601.19 374.09,586.93 454.25,576.44",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,437.67,1113.5 230.05,2244.3 239.79,2239.8 248.72,2233.9 255.97,2226 586.11,1866.3 62.612,1489.9 399.97,1137 408.04,1128.6 417.7,\
+1122.1 428.22,1117.3",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,437.74,1168.5 229.99,2244.2 239.74,2239.8 248.69,2233.9 255.97,2226 570.91,1885.3 78.193,1526.3 399.97,1192 408.07,1183.6 417.75,\
+1177.2 428.28,1172.4",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,437.55,1003.3 230.45,2244.2 240.05,2239.8 248.84,2233.9 255.97,2226 616.55,1828.4 31.417,1417.2 399.97,1027 407.99,1018.5 417.62,\
+1012.1 428.12,1007.2",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,437.82,3284.4 231.13,2263.6 240.42,2267.8 248.96,2273.5 255.97,2281 557.21,2602 93.479,2945 399.97,3261 408.1,3269.4 417.8,3275.8 \
+428.35,3280.6",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,437.67,3394.5 231.24,2263.5 240.51,2267.8 249.01,2273.5 255.97,2281 587.74,2639.8 62.328,3017.8 399.97,3371 408.04,3379.4 417.7,\
+3385.9 428.22,3390.7",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "Reward Function"	[pos="e,485.07,2184.1 202.56,2239.6 278.42,2224.7 396.44,2201.5 475.19,2186.1"];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,437.74,3339.5 231.19,2263.5 240.47,2267.8 248.98,2273.5 255.97,2281 572.47,2620.9 77.91,2981.4 399.97,3316 408.07,3324.4 417.75,\
+3330.8 428.28,3335.6",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,456.97,2404.2 214.26,2266.9 228.52,2270.5 242.92,2275.1 255.97,2281 328.47,2313.6 326.95,2355.6 399.97,2387 414.72,2393.3 430.84,\
+2398.2 446.95,2402",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "native-at'($s7s3)"	[color=black,
+		pos="e,449,2251 248.2,2252.9 307.71,2252.3 379.47,2251.7 438.82,2251.1",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,469.63,2347 204.25,2268.3 221.36,2272 239.38,2276.3 255.97,2281 321.32,2299.4 334.33,2314.6 399.97,2332 419.09,2337.1 439.77,2341.5 \
+459.64,2345.2",
+		style=solid];
+	"tamarisk-at($s7s3)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,460.91,2293.6 223.44,2265.3 290.66,2273.3 381.05,2284 450.78,2292.3",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,463.72,3821 220.54,3789.8 288.88,3798.5 382.33,3810.6 453.4,3819.7",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,433.93,3778 248.2,3778 302.8,3778 367.72,3778 423.9,3778",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,440.69,3295 228.29,3767.8 238.41,3763.7 247.91,3758.2 255.97,3751 407.42,3615.5 246.31,3450 399.97,3317 409.13,3309.1 419.75,3303 \
+431.05,3298.5",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,531.06,3417.1 223.3,3766.7 234.9,3762.9 246.12,3757.7 255.97,3751 352.4,3685 322.42,3618.4 399.97,3531 437.66,3488.5 489.32,3447.7 \
+522.92,3423",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "Reward Function"	[pos="e,468.09,2181.3 231.83,3768.6 240.93,3764.3 249.23,3758.6 255.97,3751 482.81,3496.3 188.29,2490.4 399.97,2223 414.66,2204.4 436.11,\
+2192.3 458.47,2184.5"];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,441.48,3350.3 227.67,3767.6 237.96,3763.5 247.67,3758.1 255.97,3751 392.79,3633.7 261.24,3487 399.97,3372 409.48,3364.1 420.43,\
+3358.1 432.04,3353.6",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,468.73,3875.2 202.97,3792.5 220.47,3796.4 238.98,3801 255.97,3806 321.51,3825.4 334.05,3841.9 399.97,3860 418.82,3865.2 439.2,\
+3869.6 458.85,3873.3",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,450.14,3989 218.47,3790.2 231.58,3794.1 244.5,3799.2 255.97,3806 339.49,3855.3 315.48,3922.4 399.97,3970 412.42,3977 426.22,3982.3 \
+440.33,3986.4",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "native-at'($s5s1)"	[color=black,
+		pos="e,457.55,3565.3 220.14,3766.1 232.68,3762.4 244.99,3757.5 255.97,3751 339.88,3701.7 315.26,3633.9 399.97,3586 414.58,3577.7 431.07,\
+3571.8 447.73,3567.6",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,456.48,3932.3 212.65,3791.1 227.45,3794.9 242.44,3799.8 255.97,3806 328.85,3839.6 326.43,3882.8 399.97,3915 414.57,3921.4 430.54,\
+3926.3 446.53,3930.1",
+		style=solid];
+	"tamarisk-at($s5s1)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,463.72,3735 220.54,3766.2 288.88,3757.5 382.33,3745.4 453.4,3736.3",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,463.72,1969 220.54,1937.8 288.88,1946.5 382.33,1958.6 453.4,1967.7",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,438,2848.2 229.8,1936 239.58,1940.4 248.59,1946.2 255.97,1954 525.94,2238.7 124.29,2545.8 399.97,2825 408.17,2833.3 417.93,2839.6 \
+428.51,2844.4",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "native-at'($s2s1)"	[color=black,
+		pos="e,474.45,2024.2 202.97,1940.5 220.47,1944.4 238.98,1949 255.97,1954 321.51,1973.4 334.05,1989.9 399.97,2008 420.6,2013.7 443.08,\
+2018.4 464.41,2022.4",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,437.9,2903.3 229.87,1935.9 239.64,1940.3 248.63,1946.2 255.97,1954 541.1,2257.6 108.75,2582.2 399.97,2880 408.13,2888.3 417.86,\
+2894.7 428.42,2899.5",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,444.95,1632.6 224.28,1915 235.59,1911 246.47,1905.9 255.97,1899 358.69,1824.8 296.05,1725.5 399.97,1653 410.65,1645.6 422.7,1639.9 \
+435.26,1635.6",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,437.81,2958.4 229.94,1935.8 239.7,1940.3 248.66,1946.2 255.97,1954 556.27,2276.5 93.196,2618.6 399.97,2935 408.1,2943.4 417.8,\
+2949.8 428.35,2954.6",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,447.93,1688.5 221.9,1914.4 233.91,1910.6 245.61,1905.6 255.97,1899 345.64,1841.9 309.37,1763.6 399.97,1708 411.65,1700.8 424.68,\
+1695.4 438.1,1691.3",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "Reward Function"	[pos="e,487.32,2155.5 218.47,1938.2 231.58,1942.1 244.5,1947.2 255.97,1954 339.49,2003.3 319.11,2064.4 399.97,2118 423.22,2133.4 451.41,\
+2144.6 477.46,2152.6"];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,495.81,1751 214.69,1913.2 228.83,1909.6 243.07,1904.9 255.97,1899 329.15,1865.4 328.98,1827 399.97,1789 426.91,1774.6 458.45,1762.8 \
+486.17,1754",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,433.93,1926 248.2,1926 302.8,1926 367.72,1926 423.9,1926",
+		style=solid];
+	"tamarisk-at($s2s1)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,463.72,1883 220.54,1914.2 288.88,1905.5 382.33,1893.4 453.4,1884.3",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,456.92,1970.4 214.31,1830.8 228.56,1834.4 242.94,1839.1 255.97,1845 328.81,1878.1 326.6,1921.1 399.97,1953 414.69,1959.4 430.8,\
+1964.3 446.9,1968.1",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,437.82,2848.4 231.13,1827.6 240.42,1831.8 248.96,1837.5 255.97,1845 557.21,2166 93.479,2509 399.97,2825 408.1,2833.4 417.8,2839.8 \
+428.35,2844.6",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,437.74,2903.5 231.19,1827.5 240.47,1831.8 248.98,1837.5 255.97,1845 572.47,2184.9 77.91,2545.4 399.97,2880 408.07,2888.4 417.75,\
+2894.8 428.28,2899.6",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,452.84,1634.7 215.94,1805.5 229.79,1801.6 243.61,1796.6 255.97,1790 333.97,1748.5 321.15,1692.9 399.97,1653 413.35,1646.2 428.09,\
+1641.1 443.02,1637.1",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,437.67,2958.5 231.24,1827.5 240.51,1831.8 249.01,1837.5 255.97,1845 587.74,2203.8 62.328,2581.8 399.97,2935 408.04,2943.4 417.7,\
+2949.9 428.22,2954.7",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,461.79,1691.6 208.65,1804.3 224.58,1800.5 241.01,1795.8 255.97,1790 324.71,1763.6 330.71,1733.1 399.97,1708 416.3,1702.1 434.04,\
+1697.4 451.53,1693.7",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "Reward Function"	[pos="e,479.55,2156.8 225.22,1828.9 236.25,1832.8 246.8,1838.1 255.97,1845 365.39,1927.7 295.29,2029.4 399.97,2118 419.8,2134.8 445.23,\
+2146.2 469.82,2154"];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,482.02,1749.5 203.05,1803.6 277.96,1789.1 393.61,1766.7 472.16,1751.4",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,469.17,1913.2 204.63,1832.2 221.64,1835.9 239.52,1840.2 255.97,1845 321.49,1863.9 334.15,1880.2 399.97,1898 418.95,1903.1 439.47,\
+1907.6 459.23,1911.3",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "native-at'($s2s2)"	[color=black,
+		pos="e,449,1816.5 248.2,1817.4 307.71,1817.2 379.47,1816.8 438.82,1816.6",
+		style=solid];
+	"tamarisk-at($s2s2)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,462.44,1859.3 221.85,1829.5 289.69,1837.9 381.74,1849.3 452.2,1858",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,438.38,419.52 245.37,407.34 302,410.91 370.23,415.22 428.39,418.89",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,439.2,379.71 244.81,392.42 301.79,388.69 370.63,384.19 429.15,380.36",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "native-at'($s10s2)"	[color=black,
+		pos="e,502.98,251.24 210.34,385.88 225.74,382.14 241.54,377.55 255.97,372 324.71,345.55 332.95,320.52 399.97,290 429.96,276.34 464.41,\
+263.93 493.38,254.37",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,450.18,608.88 220.44,412.85 232.86,416.66 245.07,421.6 255.97,428 339.06,476.75 315.91,542.95 399.97,590 412.44,596.98 426.25,\
+602.28 440.37,606.3",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "Reward Function"	[pos="e,466.78,2159 232.84,410.58 241.56,414.93 249.5,420.61 255.97,428 504.33,711.52 166.51,1822.1 399.97,2118 414.3,2136.2 435.17,2148 \
+457.03,2155.8"];
+	"tamarisk-at($s10s2)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,498.89,491.77 200.63,415.24 218.73,419.24 238.09,423.66 255.97,428 336.35,447.53 428.16,472.29 489.02,489.05",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,456.95,552.31 214.29,413.59 228.55,417.33 242.93,422.05 255.97,428 328.51,461.1 326.78,503.38 399.97,535 414.71,541.36 430.82,\
+546.28 446.93,550.08",
+		style=solid];
+	"tamarisk-at($s10s2)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,475.01,331.24 201.07,384.88 255.62,373.56 332.42,357.88 399.97,345 420.99,340.99 443.62,336.86 464.97,333.03",
+		style=solid];
+	"native-at($s2s3)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,456.92,1991.6 209.6,2132.4 225.38,2128.6 241.51,2123.6 255.97,2117 328.81,2083.9 326.6,2040.9 399.97,2009 414.69,2002.6 430.8,\
+1997.7 446.9,1993.9",
+		style=solid];
+	"native-at($s2s3)" -> "Reward Function"	[pos="e,442.07,2163 227.71,2150 288.4,2153.7 366.73,2158.4 431.75,2162.4"];
+	"native-at($s2s3)" -> "native-at'($s2s3)"	[color=black,
+		pos="e,469.6,2101.8 214.31,2133.4 285,2124.7 385.48,2112.2 459.36,2103.1",
+		style=solid];
+	"native-at($s5s2)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,456.92,3822.4 209.6,3681.6 225.38,3685.4 241.51,3690.4 255.97,3697 328.81,3730.1 326.6,3773.1 399.97,3805 414.69,3811.4 430.8,\
+3816.3 446.9,3820.1",
+		style=solid];
+	"native-at($s5s2)" -> "Reward Function"	[pos="e,468.19,2181.4 225.01,3662.7 236.76,3658.1 247.57,3651.4 255.97,3642 466.74,3405.3 202.36,2470.8 399.97,2223 414.73,2204.5 436.2,\
+2192.4 458.57,2184.5"];
+	"native-at($s5s2)" -> "native-at'($s5s2)"	[color=black,
+		pos="e,448.75,3668.5 233.41,3669.5 295.42,3669.2 374.24,3668.9 438.56,3668.6",
+		style=solid];
+	"native-at($s8s3)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,469.2,986.06 198.6,904.65 217.35,908.78 237.54,913.66 255.97,919 321.33,937.92 334.24,953.41 399.97,971 418.96,976.08 439.5,980.5 \
+459.26,984.23",
+		style=solid];
+	"native-at($s8s3)" -> "Reward Function"	[pos="e,467.63,2158.7 224.85,898.42 236.63,903.03 247.48,909.64 255.97,919 616.55,1316.6 60.305,1702.4 399.97,2118 414.69,2136 435.82,\
+2147.8 457.82,2155.6"];
+	"native-at($s8s3)" -> "native-at'($s8s3)"	[color=black,
+		pos="e,469.6,933.18 214.31,901.57 285,910.32 385.48,922.76 459.36,931.91",
+		style=solid];
+	"native-at($s10s1)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,445.08,362.71 219.57,137.89 232.38,141.77 244.94,146.99 255.97,154 345.41,210.81 309.61,288.67 399.97,344 410.89,350.68 422.98,\
+355.86 435.46,359.87",
+		style=solid];
+	"native-at($s10s1)" -> "native-at'($s10s1)"	[color=black,
+		pos="e,441.78,127 241.16,127 299.57,127 371.18,127 431.44,127",
+		style=solid];
+	"native-at($s10s1)" -> "Reward Function"	[pos="e,466.22,2159 229.86,135.22 239.77,139.68 248.79,145.76 255.97,154 543.62,483.8 130.95,1772.8 399.97,2118 414.12,2136.1 434.79,2148 \
+456.52,2155.8"];
+	"native-at($s8s1)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,433.84,1109 233.41,1109 290.72,1109 362.39,1109 423.7,1109",
+		style=solid];
+	"native-at($s8s1)" -> "Reward Function"	[pos="e,468.37,2158.6 225.54,1116.2 236.99,1120.7 247.57,1127 255.97,1136 557.76,1457.7 116.38,1780.1 399.97,2118 415.07,2136 436.56,2147.8 \
+458.8,2155.5"];
+	"native-at($s8s1)" -> "native-at'($s8s1)"	[color=black,
+		pos="e,470.66,1065.1 213.29,1098.2 284.34,1089 386.03,1076 460.36,1066.4",
+		style=solid];
+	"restore($r9)" -> "native-at'($s9s3)"	[color=black,
+		pos="e,470.03,738.97 186.26,774.77 256.19,765.95 375.56,750.89 459.92,740.25",
+		style=solid];
+	"restore($r9)" -> "native-at'($s9s1)"	[color=black,
+		pos="e,449.01,782.75 186.26,782.13 250.55,782.28 356.6,782.53 438.84,782.72",
+		style=solid];
+	"restore($r9)" -> "native-at'($s9s2)"	[color=black,
+		pos="e,474.45,684.81 186.01,771.76 208.05,767.31 233.36,761.6 255.97,755 321.58,735.84 334.05,719.08 399.97,701 420.6,695.34 443.08,690.55 \
+464.41,686.62",
+		style=solid];
+	"restore($r9)" -> "Reward Function"	[pos="e,467.51,2158.8 186.29,780.06 211.19,782.38 238.58,789.78 255.97,809 648.65,1243 31.829,1663 399.97,2118 414.6,2136.1 435.7,2147.9 \
+457.7,2155.7"];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,463.72,1097 220.54,1065.8 288.88,1074.5 382.33,1086.6 453.4,1095.7",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,468.73,1151.2 202.97,1068.5 220.47,1072.4 238.98,1077 255.97,1082 321.51,1101.4 334.05,1117.9 399.97,1136 418.82,1141.2 439.2,\
+1145.6 458.85,1149.3",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,463.72,1011 220.54,1042.2 288.88,1033.5 382.33,1021.4 453.4,1012.3",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,441.47,624.3 227.68,1043.6 237.97,1039.5 247.68,1034.1 255.97,1027 393.32,909.07 260.7,761.64 399.97,646 409.47,638.11 420.42,\
+632.13 432.03,627.61",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "Reward Function"	[pos="e,468.27,2158.7 230,1063.8 239.75,1068.2 248.69,1074.1 255.97,1082 571.46,1423.4 102.44,1760.8 399.97,2118 415.01,2136 436.47,2147.9 \
+458.71,2155.6"];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,439.96,513.74 228.85,1043.9 238.81,1039.8 248.12,1034.3 255.97,1027 422.75,872.4 230.66,687.83 399.97,536 408.91,527.99 419.32,\
+521.88 430.46,517.27",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,440.68,568.97 228.3,1043.8 238.42,1039.7 247.92,1034.2 255.97,1027 407.95,890.81 245.76,724.66 399.97,591 409.13,583.07 419.74,\
+577.03 431.04,572.47",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,437.45,2410.7 230.53,1063.7 240.12,1068.2 248.88,1074.1 255.97,1082 645.9,1516.1 1.3251,1960.9 399.97,2387 407.95,2395.5 417.55,\
+2402 428.03,2406.9",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,437.5,2355.7 230.49,1063.8 240.08,1068.2 248.86,1074.1 255.97,1082 630.67,1497.1 16.942,1924.5 399.97,2332 407.97,2340.5 417.58,\
+2347 428.07,2351.8",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,437.55,2300.7 230.45,1063.8 240.05,1068.2 248.84,1074.1 255.97,1082 615.44,1478.2 32.552,1888.2 399.97,2277 407.99,2285.5 417.62,\
+2291.9 428.12,2296.8",
+		style=solid];
+	"tamarisk-at($s8s1)" -> "native-at'($s8s1)"	[color=black,
+		pos="e,449,1054 248.2,1054 307.71,1054 379.47,1054 438.82,1054",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,463.72,3845 220.54,3876.2 288.88,3867.5 382.33,3855.4 453.4,3846.3",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,468.73,3790.8 202.97,3873.5 220.47,3869.6 238.98,3865 255.97,3860 321.51,3840.6 334.05,3824.1 399.97,3806 418.82,3800.8 439.2,\
+3796.4 458.85,3792.7",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,439.72,3294.5 228.13,3877.7 238.41,3873.4 247.99,3867.7 255.97,3860 436.21,3687.2 216.28,3486.1 399.97,3317 408.81,3308.9 419.15,\
+3302.7 430.24,3298",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,528.6,3416.9 225.42,3877.1 236.48,3872.9 246.99,3867.4 255.97,3860 379.32,3758.7 304.38,3658.8 399.97,3531 433.59,3486 485.34,\
+3446.4 520.14,3422.6",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "Reward Function"	[pos="e,468.02,2181.3 230.7,3878.4 240.26,3874 248.97,3868 255.97,3860 496.98,3585.6 174.21,2510 399.97,2223 414.6,2204.4 436.04,2192.3 \
+458.39,2184.4"];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,439.98,3349.8 227.61,3877.6 238.04,3873.3 247.8,3867.6 255.97,3860 421.36,3705.8 231.49,3522.8 399.97,3372 408.92,3364 419.34,\
+3357.9 430.47,3353.3",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,433.93,3888 248.2,3888 302.8,3888 367.72,3888 423.9,3888",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,468.73,3985.2 202.97,3902.5 220.47,3906.4 238.98,3911 255.97,3916 321.51,3935.4 334.05,3951.9 399.97,3970 418.82,3975.2 439.2,\
+3979.6 458.85,3983.3",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,463.72,3931 220.54,3899.8 288.88,3908.5 382.33,3920.6 453.4,3929.7",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "native-at'($s5s2)"	[color=black,
+		pos="e,457.57,3675.3 218.47,3875.8 231.58,3871.9 244.5,3866.8 255.97,3860 339.49,3810.7 315.48,3743.6 399.97,3696 414.59,3687.8 431.08,\
+3681.9 447.75,3677.6",
+		style=solid];
+	"tamarisk-at($s5s2)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,456.48,3733.7 212.65,3874.9 227.45,3871.1 242.44,3866.2 255.97,3860 328.85,3826.4 326.43,3783.2 399.97,3751 414.57,3744.6 430.54,\
+3739.7 446.53,3735.9",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,433.93,1981 248.2,1981 302.8,1981 367.72,1981 423.9,1981",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,438.1,2848.1 229.4,1990.9 239.32,1995.3 248.47,2001.2 255.97,2009 510.81,2274.9 139.8,2564.4 399.97,2825 408.22,2833.3 418,2839.6 \
+428.6,2844.3",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,438,2903.2 229.8,1991 239.58,1995.4 248.59,2001.2 255.97,2009 525.94,2293.7 124.29,2600.8 399.97,2880 408.17,2888.3 417.93,2894.6 \
+428.51,2899.4",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,443.04,1632 224.53,1970 235.86,1965.9 246.68,1960.4 255.97,1953 371.88,1861.1 282.22,1742.5 399.97,1653 409.97,1645.4 421.36,1639.6 \
+433.33,1635.2",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,437.9,2958.3 229.87,1990.9 239.64,1995.3 248.63,2001.2 255.97,2009 541.1,2312.6 108.75,2637.2 399.97,2935 408.13,2943.3 417.86,\
+2949.7 428.42,2954.5",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,444.97,1687.6 222.98,1969.6 234.76,1965.6 246.11,1960.2 255.97,1953 358.16,1878.8 296.3,1780.1 399.97,1708 410.66,1700.6 422.71,\
+1694.9 435.28,1690.6",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "Reward Function"	[pos="e,494.3,2154.4 212.65,1994.1 227.45,1997.9 242.44,2002.8 255.97,2009 328.85,2042.6 328.92,2080.7 399.97,2118 426.34,2131.9 457.13,\
+2143 484.42,2151.4"];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,488.11,1750.3 218.47,1968.8 231.58,1964.9 244.5,1959.8 255.97,1953 339.49,1903.7 319.41,1843 399.97,1789 423.53,1773.2 452.18,\
+1761.6 478.52,1753.2",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,463.72,1938 220.54,1969.2 288.88,1960.5 382.33,1948.4 453.4,1939.3",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,468.73,1883.8 202.97,1966.5 220.47,1962.6 238.98,1958 255.97,1953 321.51,1933.6 334.05,1917.1 399.97,1899 418.82,1893.8 439.2,\
+1889.4 458.85,1885.7",
+		style=solid];
+	"tamarisk-at($s2s3)" -> "native-at'($s2s3)"	[color=black,
+		pos="e,474.45,2079.2 202.97,1995.5 220.47,1999.4 238.98,2004 255.97,2009 321.51,2028.4 334.05,2044.9 399.97,2063 420.6,2068.7 443.08,\
+2073.4 464.41,2077.4",
+		style=solid];
+	"native-at($s3s1)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,450.16,2843.9 215.11,2645.5 229.35,2649.4 243.51,2654.7 255.97,2662 339.46,2710.7 315.7,2777.7 399.97,2825 412.43,2832 426.24,\
+2837.3 440.35,2841.3",
+		style=solid];
+	"native-at($s3s1)" -> "Reward Function"	[pos="e,476.57,2182.7 220.97,2626.3 233.74,2621.9 245.91,2615.7 255.97,2607 393.66,2487.6 268.96,2349.7 399.97,2223 418.32,2205.3 442.8,\
+2193.4 466.97,2185.6"];
+	"native-at($s3s1)" -> "native-at'($s3s1)"	[color=black,
+		pos="e,469.6,2677.2 214.31,2645.6 285,2654.3 385.48,2666.8 459.36,2675.9",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,475.02,412.71 202.23,360.01 256.71,371.08 332.92,386.34 399.97,399 420.99,402.97 443.63,407.09 464.98,410.92",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,438.38,364.52 245.37,352.34 302,355.91 370.23,360.22 428.39,363.89",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "native-at'($s10s1)"	[color=black,
+		pos="e,518.86,144.4 214.67,331.42 228.81,327.68 243.06,322.96 255.97,317 328.85,283.36 332.06,250.78 399.97,208 435.52,185.61 477.98,\
+163.99 509.77,148.73",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,446.23,609.92 223.61,357.25 235.09,361.17 246.2,366.3 255.97,373 351.44,438.45 303.2,526.5 399.97,590 411.04,597.26 423.45,602.79 \
+436.32,606.97",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "Reward Function"	[pos="e,466.75,2159 232.86,355.56 241.58,359.91 249.51,365.6 255.97,373 511.97,666.02 159.37,1812.2 399.97,2118 414.28,2136.2 435.13,2148.1 \
+457,2155.8"];
+	"tamarisk-at($s10s1)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,501.17,491.52 210.31,359.18 225.72,362.92 241.53,367.48 255.97,373 324.57,399.19 332.98,423.94 399.97,454 429.26,467.14 462.78,\
+479.07 491.3,488.35",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,450.18,553.88 220.44,357.85 232.86,361.66 245.07,366.6 255.97,373 339.06,421.75 315.91,487.95 399.97,535 412.44,541.98 426.25,\
+547.28 440.37,551.3",
+		style=solid];
+	"tamarisk-at($s10s1)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,439.2,324.71 244.81,337.42 301.79,333.69 370.63,329.19 429.15,325.36",
+		style=solid];
+	"native-at($s10s2)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,449.97,416.54 213.91,247.03 228.43,250.95 243,256.13 255.97,263 333.77,304.19 321.35,359.39 399.97,399 412.53,405.33 426.28,410.24 \
+440.26,414.06",
+		style=solid];
+	"native-at($s10s2)" -> "native-at'($s10s2)"	[color=black,
+		pos="e,441.78,235 241.16,235 299.57,235 371.18,235 431.44,235",
+		style=solid];
+	"native-at($s10s2)" -> "Reward Function"	[pos="e,466.28,2158.9 228.64,243.53 239.02,248.1 248.49,254.4 255.97,263 527.24,575.03 145.1,1792.4 399.97,2118 414.16,2136.1 434.85,2148 \
+456.58,2155.7"];
+	"native-at($s5s3)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,456.95,3767.3 207.9,3627 224.21,3630.9 240.98,3636.2 255.97,3643 328.51,3676.1 326.78,3718.4 399.97,3750 414.71,3756.4 430.82,\
+3761.3 446.93,3765.1",
+		style=solid];
+	"native-at($s5s3)" -> "native-at'($s5s3)"	[color=black,
+		pos="e,448.75,3613.5 233.41,3614.5 295.42,3614.2 374.24,3613.9 438.56,3613.6",
+		style=solid];
+	"native-at($s5s3)" -> "Reward Function"	[pos="e,468.65,2181.3 225.88,3608.1 237.28,3603.6 247.75,3597.1 255.97,3588 664.24,3134.7 18.685,2699.2 399.97,2223 414.84,2204.4 436.48,\
+2192.3 458.97,2184.5"];
+	"eradicate($r1)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,507.73,1608.1 195.69,1501.2 215.26,1505.3 236.61,1510.3 255.97,1516 321.58,1535.2 335.71,1546.7 399.97,1570 432.29,1581.7 468.51,\
+1594.4 498,1604.7",
+		style=solid];
+	"eradicate($r1)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,452.87,1670.2 195.62,1496.1 215.81,1500.1 237.51,1506.3 255.97,1516 333.93,1556.9 321.35,1612.4 399.97,1652 413.36,1658.7 428.11,\
+1663.9 443.04,1667.8",
+		style=solid];
+	"eradicate($r1)" -> "Reward Function"	[pos="e,471.09,2158.1 195.66,1489.4 217.39,1492.9 240,1500.4 255.97,1516 452.94,1708.1 213.89,1915.4 399.97,2118 416.2,2135.7 438.56,2147.3 \
+461.33,2155.1"];
+	"eradicate($r1)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,447.93,1726.5 195.71,1494.1 216.24,1498 238.1,1504.6 255.97,1516 345.64,1573.1 309.37,1651.4 399.97,1707 411.65,1714.2 424.68,\
+1719.6 438.1,1723.7",
+		style=solid];
+	"native-at($s7s3)" -> "Reward Function"	[pos="e,445.64,2177.5 226.37,2192.4 288.43,2188.2 369.32,2182.7 435.56,2178.2"];
+	"native-at($s7s3)" -> "native-at'($s7s3)"	[color=black,
+		pos="e,468.55,2239.5 215.34,2209.3 285.65,2217.7 384.94,2229.5 458.36,2238.2",
+		style=solid];
+	"native-at($s7s3)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,470.07,2292 198.22,2212.7 217.07,2216.9 237.4,2221.7 255.97,2227 321.16,2245.4 334.42,2259.9 399.97,2277 419.22,2282 440.04,2286.4 \
+460.02,2290.2",
+		style=solid];
+	"restore($r2)" -> "native-at'($s2s1)"	[color=black,
+		pos="e,470.03,2047 186.26,2082.8 256.19,2073.9 375.56,2058.9 459.92,2048.2",
+		style=solid];
+	"restore($r2)" -> "Reward Function"	[pos="e,483.18,2156.2 186.26,2100.7 259.99,2114.5 388.66,2138.5 473.34,2154.4"];
+	"restore($r2)" -> "native-at'($s2s2)"	[color=black,
+		pos="e,454.4,1822 186.13,2087.3 209.42,2083.9 235.59,2076.9 255.97,2063 352.16,1997.3 302.71,1908.1 399.97,1844 413.37,1835.2 428.75,\
+1828.9 444.53,1824.5",
+		style=solid];
+	"restore($r2)" -> "native-at'($s2s3)"	[color=black,
+		pos="e,449.01,2090.7 186.26,2090.1 250.55,2090.3 356.6,2090.5 438.84,2090.7",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s10s2)"	[color=black,
+		pos="e,480.21,441.89 203.05,495.64 277.38,481.22 391.84,459.02 470.34,443.8",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,439.72,1103.5 228.13,520.3 238.41,524.59 247.99,530.34 255.97,538 436.21,710.78 216.28,911.91 399.97,1081 408.81,1089.1 419.15,\
+1095.3 430.24,1100",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "native-at'($s9s3)"	[color=black,
+		pos="e,458.03,720.67 218.44,522.25 231.55,526.14 244.48,531.26 255.97,538 339.06,586.75 315.91,652.95 399.97,700 414.72,708.25 431.35,\
+714.16 448.14,718.38",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s10s1)"	[color=black,
+		pos="e,459.3,384.09 208.65,496.29 224.58,492.47 241.01,487.76 255.97,482 324.71,455.55 330.71,425.05 399.97,400 415.64,394.33 432.62,\
+389.78 449.43,386.14",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,439.1,1158.6 228.62,520.25 238.74,524.57 248.16,530.33 255.97,538 451.13,729.43 200.97,948.56 399.97,1136 408.63,1144.2 418.81,\
+1150.4 429.75,1155",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,440.7,993.01 227.04,520.53 237.63,524.77 247.59,530.44 255.97,538 406.64,673.76 246.58,838.33 399.97,971 409.13,978.92 419.75,\
+984.96 431.05,989.52",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s9s1)"	[color=black,
+		pos="e,469.2,605.06 202.25,524.46 219.95,528.42 238.73,533.01 255.97,538 321.33,556.92 334.24,572.41 399.97,590 418.96,595.08 439.5,599.5 \
+459.26,603.23",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "Reward Function"	[pos="e,466.86,2158.9 230.68,519.6 240.24,524.06 248.96,530.04 255.97,538 489.07,802.52 180.78,1841.9 399.97,2118 414.36,2136.1 435.24,\
+2148 457.11,2155.7"];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s9s2)"	[color=black,
+		pos="e,433.93,508.58 248.2,509.44 302.8,509.19 367.72,508.88 423.9,508.62",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s9s3)"	[color=black,
+		pos="e,462.44,551.29 221.85,521.5 289.69,529.9 381.74,541.3 452.2,550.03",
+		style=solid];
+	"tamarisk-at($s9s3)" -> "tamarisk-at'($s10s3)"	[color=black,
+		pos="e,449.94,327.42 215.94,497.45 229.79,493.6 243.61,488.57 255.97,482 333.97,440.52 321.15,384.89 399.97,345 412.52,338.65 426.26,\
+333.72 440.24,329.89",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "native-at'($s7s1)"	[color=black,
+		pos="e,449,2525 248.2,2525 307.71,2525 379.47,2525 438.82,2525",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,437.4,1113.2 231.74,2515.6 240.86,2511.3 249.18,2505.5 255.97,2498 663.12,2046.1 -14.582,1582.1 399.97,1137 407.93,1128.5 417.52,\
+1122 427.99,1117.1",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,437.45,1168.3 231.71,2515.5 240.83,2511.2 249.17,2505.5 255.97,2498 647.81,2065 1.0411,1618.5 399.97,1192 407.95,1183.5 417.55,\
+1177 428.03,1172.1",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,437.32,1003.1 231.8,2515.6 240.91,2511.3 249.21,2505.6 255.97,2498 474.87,2253.1 177.06,1268.2 399.97,1027 407.89,1018.4 417.46,\
+1011.9 427.92,1007",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,438.75,3284 229.2,2535.1 239.16,2539.5 248.37,2545.3 255.97,2553 481.17,2781.9 170.19,3036.7 399.97,3261 408.4,3269.2 418.36,3275.5 \
+429.12,3280.2",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,438.1,3394.1 229.41,2534.9 239.33,2539.3 248.48,2545.2 255.97,2553 511.36,2819.5 139.24,3109.7 399.97,3371 408.22,3379.3 418,3385.6 \
+428.6,3390.3",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "Reward Function"	[pos="e,480.71,2183.3 225.24,2514.2 236.27,2510.2 246.81,2504.9 255.97,2498 365.89,2414.6 295.08,2312.6 399.97,2223 420.05,2205.8 445.93,\
+2194.2 470.85,2186.3"];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,438.61,3339.1 229.31,2535 239.25,2539.4 248.43,2545.2 255.97,2553 496.25,2800.7 154.73,3073.2 399.97,3316 408.34,3324.3 418.27,\
+3330.6 429,3335.3",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,468.71,2427.7 205.01,2510.8 221.91,2507.1 239.65,2502.8 255.97,2498 321.68,2478.6 333.96,2461.3 399.97,2443 418.8,2437.8 439.18,\
+2433.3 458.83,2429.6",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,456.45,2370.6 214.69,2512.2 228.83,2508.6 243.07,2503.9 255.97,2498 329.15,2464.4 326.25,2420.4 399.97,2388 414.56,2381.6 430.52,\
+2376.6 446.51,2372.8",
+		style=solid];
+	"tamarisk-at($s7s1)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,449.7,2314.1 220.14,2513.1 232.68,2509.4 244.99,2504.5 255.97,2498 339.88,2448.7 315.26,2380.9 399.97,2333 412.31,2326 425.99,\
+2320.7 439.98,2316.7",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "native-at'($s4s2)"	[color=black,
+		pos="e,458.03,4263.7 218.44,4065.2 231.55,4069.1 244.48,4074.3 255.97,4081 339.06,4129.7 315.91,4195.9 399.97,4243 414.72,4251.3 431.35,\
+4257.2 448.14,4261.4",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,450.14,3842 218.47,4040.8 231.58,4036.9 244.5,4031.8 255.97,4025 339.49,3975.7 315.48,3908.6 399.97,3861 412.42,3854 426.22,3848.7 \
+440.33,3844.6",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,437.61,2857.4 230.41,4043.2 240.02,4038.7 248.82,4032.8 255.97,4025 601.32,3646.4 47.019,3252.5 399.97,2881 408.01,2872.5 417.66,\
+2866.1 428.17,2861.3",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,446.19,3786 221.67,4041.5 233.84,4037.4 245.65,4032.1 255.97,4025 351.91,3958.9 302.71,3870.1 399.97,3806 411.03,3798.7 423.43,\
+3793.2 436.29,3789",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,437.67,2912.5 230.05,4043.3 239.79,4038.8 248.72,4032.9 255.97,4025 586.11,3665.3 62.612,3288.9 399.97,2936 408.04,2927.6 417.7,\
+2921.1 428.22,2916.3",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,524.8,2980.8 229.87,4043.1 239.65,4038.7 248.63,4032.8 255.97,4025 541.65,3720.7 196.54,3461.4 399.97,3097 427.1,3048.4 479.11,\
+3009.4 515.82,2986.3",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "Reward Function"	[pos="e,467.91,2181.2 231.07,4043.3 240.5,4038.9 249.08,4032.9 255.97,4025 519.88,3722.1 152.88,2539.7 399.97,2223 414.53,2204.3 435.93,\
+2192.2 458.29,2184.3"];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,456.48,3898.7 212.65,4039.9 227.45,4036.1 242.44,4031.2 255.97,4025 328.85,3991.4 326.43,3948.2 399.97,3916 414.57,3909.6 430.54,\
+3904.7 446.53,3900.9",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,463.72,4010 220.54,4041.2 288.88,4032.5 382.33,4020.4 453.4,4011.3",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,468.73,3955.8 202.97,4038.5 220.47,4034.6 238.98,4030 255.97,4025 321.51,4005.6 334.05,3989.1 399.97,3971 418.82,3965.8 439.2,\
+3961.4 458.85,3957.7",
+		style=solid];
+	"tamarisk-at($s4s2)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,443.76,3730.3 223.96,4041.8 235.45,4037.7 246.46,4032.3 255.97,4025 365.33,3941.5 288.95,3832.2 399.97,3751 410.2,3743.5 421.79,\
+3737.8 433.92,3733.5",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,444.19,1973.8 223.94,1664.2 235.43,1668.3 246.45,1673.8 255.97,1681 364.83,1763.8 289.46,1872.4 399.97,1953 410.4,1960.6 422.24,\
+1966.4 434.62,1970.7",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,444.38,1632.4 238.93,1645.8 298.63,1641.9 372.63,1637.1 434.22,1633",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "native-at'($s1s2)"	[color=black,
+		pos="e,519.18,1452.2 212.65,1639.9 227.45,1636.1 242.44,1631.2 255.97,1625 328.85,1591.4 332.06,1558.8 399.97,1516 435.64,1493.5 478.26,\
+1471.8 510.09,1456.6",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,443.92,1672.9 239.48,1660 298.96,1663.7 372.48,1668.4 433.79,1672.2",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "Reward Function"	[pos="e,474.1,2157.8 227.06,1663.5 237.65,1667.8 247.6,1673.4 255.97,1681 407.71,1818.1 255.48,1973.3 399.97,2118 417.45,2135.5 440.94,\
+2147.1 464.41,2154.8"];
+	"tamarisk-at($s1s2)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,477.05,1721.1 200.51,1667.7 255.1,1678.8 332.21,1694.2 399.97,1707 421.68,1711.1 445.1,1715.4 467.07,1719.3",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,446.23,1917.9 221.64,1664.6 233.82,1668.6 245.64,1673.9 255.97,1681 351.44,1746.4 303.2,1834.5 399.97,1898 411.04,1905.3 423.45,\
+1910.8 436.32,1915",
+		style=solid];
+	"tamarisk-at($s1s2)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,450.18,1861.9 218.44,1665.2 231.55,1669.1 244.48,1674.3 255.97,1681 339.06,1729.7 315.91,1795.9 399.97,1843 412.44,1850 426.25,\
+1855.3 440.37,1859.3",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "native-at'($s1s3)"	[color=black,
+		pos="e,503.71,1559 208.65,1694.3 224.58,1690.5 241.01,1685.8 255.97,1680 324.71,1653.6 332.95,1628.5 399.97,1598 430.2,1584.2 464.95,\
+1571.7 494.06,1562.1",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "tamarisk-at'($s2s3)"	[color=black,
+		pos="e,446.23,1972.9 221.64,1719.6 233.82,1723.6 245.64,1728.9 255.97,1736 351.44,1801.4 303.2,1889.5 399.97,1953 411.04,1960.3 423.45,\
+1965.8 436.32,1970",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "tamarisk-at'($s1s1)"	[color=black,
+		pos="e,476.63,1638.9 199.65,1693.2 254.28,1681.8 331.83,1666 399.97,1653 421.55,1648.9 444.84,1644.6 466.7,1640.7",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "tamarisk-at'($s1s2)"	[color=black,
+		pos="e,444.38,1687.4 238.93,1700.8 298.63,1696.9 372.63,1692.1 434.22,1688",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "Reward Function"	[pos="e,475.39,2157.5 226.44,1718.7 237.19,1722.9 247.35,1728.5 255.97,1736 393.14,1854.8 269.09,1992.3 399.97,2118 417.99,2135.3 441.9,\
+2146.9 465.61,2154.6"];
+	"tamarisk-at($s1s3)" -> "tamarisk-at'($s1s3)"	[color=black,
+		pos="e,443.92,1727.9 239.48,1715 298.96,1718.7 372.48,1723.4 433.79,1727.2",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,450.18,1916.9 218.44,1720.2 231.55,1724.1 244.48,1729.3 255.97,1736 339.06,1784.7 315.91,1850.9 399.97,1898 412.44,1905 426.25,\
+1910.3 440.37,1914.3",
+		style=solid];
+	"tamarisk-at($s1s3)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,456.95,1860.3 212.6,1721.2 227.41,1725 242.42,1729.8 255.97,1736 328.51,1769.1 326.78,1811.4 399.97,1843 414.71,1849.4 430.82,\
+1854.3 446.93,1858.1",
+		style=solid];
+	"eradicate($r6)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,434.19,3288.7 195.86,3288.2 256.72,3288.3 348.36,3288.5 424.09,3288.7",
+		style=solid];
+	"eradicate($r6)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,468.27,3386.3 195.73,3300.1 215.31,3304.2 236.64,3309.2 255.97,3315 321.77,3334.6 333.86,3352.4 399.97,3371 418.59,3376.2 438.73,\
+3380.7 458.18,3384.4",
+		style=solid];
+	"eradicate($r6)" -> "Reward Function"	[pos="e,469.47,2181.5 195.54,3288.6 217.65,3285.3 240.54,3277.6 255.97,3261 573.3,2920.1 102.95,2581.8 399.97,2223 415.22,2204.6 437.12,\
+2192.5 459.75,2184.7"];
+	"eradicate($r6)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,464.37,3331.9 195.86,3296.8 265.07,3305.8 374.09,3320.1 454.25,3330.6",
+		style=solid];
+	"native-at($s2s1)" -> "native-at'($s2s1)"	[color=black,
+		pos="e,448.75,2036 233.41,2036 295.42,2036 374.24,2036 438.56,2036",
+		style=solid];
+	"native-at($s2s1)" -> "Reward Function"	[pos="e,503.36,2152.9 201,2049.3 219.09,2053.2 238.36,2057.8 255.97,2063 321.68,2082.4 335.44,2095 399.97,2118 430.71,2129 465.1,2140.4 \
+493.84,2149.8"];
+	"native-at($s2s1)" -> "tamarisk-at'($s2s1)"	[color=black,
+		pos="e,468.73,1938.8 199.3,2022.4 217.87,2018.3 237.79,2013.4 255.97,2008 321.51,1988.6 334.05,1972.1 399.97,1954 418.82,1948.8 439.2,\
+1944.4 458.85,1940.7",
+		style=solid];
+	"native-at($s4s3)" -> "native-at'($s4s3)"	[color=black,
+		pos="e,448.75,4216 233.41,4216 295.42,4216 374.24,4216 438.56,4216",
+		style=solid];
+	"native-at($s4s3)" -> "Reward Function"	[pos="e,467.42,2181.3 226.46,4209.2 237.7,4204.7 247.97,4198.2 255.97,4189 543.9,3858.9 131.68,2569.3 399.97,2223 414.39,2204.4 435.62,\
+2192.3 457.85,2184.4"];
+	"native-at($s4s3)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,446.21,3951.1 218,4206.3 231.46,4202.3 244.61,4196.7 255.97,4189 351.92,4123.6 302.96,4034.8 399.97,3971 411.03,3963.7 423.44,\
+3958.2 436.3,3954",
+		style=solid];
+	"restore($r1)" -> "native-at'($s1s3)"	[color=black,
+		pos="e,519.18,1525.8 185.99,1332.7 208.5,1336.7 234.14,1343 255.97,1353 328.98,1386.4 332.06,1419.2 399.97,1462 435.64,1484.5 478.26,\
+1506.2 510.09,1521.4",
+		style=solid];
+	"restore($r1)" -> "native-at'($s1s1)"	[color=black,
+		pos="e,470.03,1369 186.26,1333.2 256.19,1342.1 375.56,1357.1 459.92,1367.8",
+		style=solid];
+	"restore($r1)" -> "native-at'($s1s2)"	[color=black,
+		pos="e,474.45,1423.2 186.01,1336.2 208.05,1340.7 233.36,1346.4 255.97,1353 321.58,1372.2 334.05,1388.9 399.97,1407 420.6,1412.7 443.08,\
+1417.4 464.41,1421.4",
+		style=solid];
+	"restore($r1)" -> "Reward Function"	[pos="e,469.68,2158.4 186.28,1324.7 210.87,1327.3 238.02,1334.6 255.97,1353 497.73,1600.5 172.23,1857.6 399.97,2118 415.6,2135.9 437.51,\
+2147.6 460.02,2155.3"];
+	"restore($r3)" -> "native-at'($s3s3)"	[color=black,
+		pos="e,474.45,2786.2 186.01,2699.2 208.05,2703.7 233.36,2709.4 255.97,2716 321.58,2735.2 334.05,2751.9 399.97,2770 420.6,2775.7 443.08,\
+2780.4 464.41,2784.4",
+		style=solid];
+	"restore($r3)" -> "Reward Function"	[pos="e,475.28,2182.4 186.17,2689 210.3,2686.2 237.11,2678.9 255.97,2662 408.76,2524.8 255.4,2368.8 399.97,2223 417.69,2205.1 441.62,2193.3 \
+465.45,2185.4"];
+	"restore($r3)" -> "native-at'($s3s1)"	[color=black,
+		pos="e,449.01,2688.3 186.26,2688.9 250.55,2688.7 356.6,2688.5 438.84,2688.3",
+		style=solid];
+	"restore($r3)" -> "native-at'($s3s2)"	[color=black,
+		pos="e,470.03,2732 186.26,2696.2 256.19,2705.1 375.56,2720.1 459.92,2730.8",
+		style=solid];
+	"native-at($s7s2)" -> "native-at'($s7s2)"	[color=black,
+		pos="e,469.6,2459.2 214.31,2427.6 285,2436.3 385.48,2448.8 459.36,2457.9",
+		style=solid];
+	"native-at($s7s2)" -> "Reward Function"	[pos="e,488.45,2184.6 213.84,2406.2 228.52,2402.2 243.17,2396.6 255.97,2389 339.91,2339.1 318.87,2277.4 399.97,2223 423.59,2207.2 452.38,\
+2195.6 478.83,2187.5"];
+	"native-at($s7s2)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,465.01,2372.2 212.27,2405.9 281.6,2396.7 380.59,2383.5 454.72,2373.6",
+		style=solid];
+	"eradicate($r8)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,463.18,1120.8 195.86,1154.6 264.74,1145.9 373.03,1132.2 453.07,1122.1",
+		style=solid];
+	"eradicate($r8)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,434.19,1163.7 195.86,1163.2 256.72,1163.3 348.36,1163.5 424.09,1163.7",
+		style=solid];
+	"eradicate($r8)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,456.48,1009.7 195.67,1154.5 215.64,1150.5 237.22,1144.6 255.97,1136 328.98,1102.6 326.43,1059.2 399.97,1027 414.57,1020.6 430.54,\
+1015.7 446.53,1011.9",
+		style=solid];
+	"eradicate($r8)" -> "Reward Function"	[pos="e,468.88,2158.6 195.73,1162.6 217.72,1165.9 240.48,1173.6 255.97,1190 542.79,1493.2 130.31,1799.4 399.97,2118 415.23,2136 436.89,\
+2147.8 459.26,2155.6"];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s8s1)"	[color=black,
+		pos="e,437.55,1113.3 231.64,2352.5 240.77,2348.2 249.13,2342.5 255.97,2335 617.76,1939.1 31.7,1526.8 399.97,1137 407.99,1128.5 417.62,\
+1122.1 428.12,1117.2",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "native-at'($s7s2)"	[color=black,
+		pos="e,474.91,2458.1 202.25,2376.5 219.95,2380.4 238.73,2385 255.97,2390 321.33,2408.9 334.24,2424.4 399.97,2442 420.75,2447.6 443.38,\
+2452.3 464.82,2456.3",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s8s2)"	[color=black,
+		pos="e,437.61,1168.4 231.29,2352.6 240.55,2348.3 249.03,2342.6 255.97,2335 602.47,1958 47.302,1563.2 399.97,1192 408.01,1183.5 417.66,\
+1177.1 428.17,1172.3",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s8s3)"	[color=black,
+		pos="e,437.45,1003.3 231.71,2352.5 240.83,2348.2 249.17,2342.5 255.97,2335 648.37,1901.3 0.47308,1454.1 399.97,1027 407.94,1018.5 417.55,\
+1012 428.03,1007.1",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s6s1)"	[color=black,
+		pos="e,438,3284.2 229.8,2372 239.58,2376.4 248.59,2382.2 255.97,2390 525.94,2674.7 124.29,2981.8 399.97,3261 408.17,3269.3 417.93,3275.6 \
+428.51,3280.4",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s6s2)"	[color=black,
+		pos="e,437.81,3394.4 229.94,2371.8 239.7,2376.3 248.66,2382.2 255.97,2390 556.27,2712.5 93.196,3054.6 399.97,3371 408.1,3379.4 417.8,\
+3385.8 428.35,3390.6",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "Reward Function"	[pos="e,494.98,2185.7 215.07,2349.2 229.09,2345.6 243.2,2340.9 255.97,2335 329.49,2300.8 328.56,2261.4 399.97,2223 426.6,2208.7 457.83,\
+2197.2 485.4,2188.6"];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s6s3)"	[color=black,
+		pos="e,437.9,3339.3 229.87,2371.9 239.64,2376.3 248.63,2382.2 255.97,2390 541.1,2693.6 108.75,3018.2 399.97,3316 408.13,3324.3 417.86,\
+3330.7 428.42,3335.5",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,462.44,2403.3 221.85,2373.5 289.69,2381.9 381.74,2393.3 452.2,2402",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,433.93,2360.6 248.2,2361.4 302.8,2361.2 367.72,2360.9 423.9,2360.6",
+		style=solid];
+	"tamarisk-at($s7s2)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,465.38,2317.2 219.23,2350 288.33,2340.8 383.65,2328.1 455.41,2318.5",
+		style=solid];
+	"restore($r10)" -> "native-at'($s10s2)"	[color=black,
+		pos="e,518.86,217.6 191.76,25.728 212.8,29.771 235.99,35.865 255.97,45 328.98,78.367 332.06,111.22 399.97,154 435.52,176.39 477.98,198.01 \
+509.77,213.27",
+		style=solid];
+	"restore($r10)" -> "native-at'($s10s1)"	[color=black,
+		pos="e,471.6,114.69 191.78,29.416 212.39,33.676 235.31,38.966 255.97,45 321.58,64.161 334.05,80.925 399.97,99 419.71,104.41 441.13,109.03 \
+461.63,112.87",
+		style=solid];
+	"restore($r10)" -> "Reward Function"	[pos="e,466.17,2159 191.56,16.252 215.14,19.019 240.08,26.71 255.97,45 558.83,393.59 116.79,1753.2 399.97,2118 414.08,2136.2 434.75,2148.1 \
+456.47,2155.8"];
+	"restore($r10)" -> "native-at'($s10s3)"	[color=black,
+		pos="e,466.46,60.58 191.68,25.91 261.22,34.684 374.4,48.965 456.37,59.307",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s5s2)"	[color=black,
+		pos="e,456.48,3843.7 212.65,3984.9 227.45,3981.1 242.44,3976.2 255.97,3970 328.85,3936.4 326.43,3893.2 399.97,3861 414.57,3854.6 430.54,\
+3849.7 446.53,3845.9",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "native-at'($s4s3)"	[color=black,
+		pos="e,519.18,4198.8 212.65,4011.1 227.45,4014.9 242.44,4019.8 255.97,4026 328.85,4059.6 332.06,4092.2 399.97,4135 435.64,4157.5 478.26,\
+4179.2 510.09,4194.4",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s3s1)"	[color=black,
+		pos="e,437.67,2857.5 230.05,3988.3 239.79,3983.8 248.72,3977.9 255.97,3970 586.11,3610.3 62.612,3233.9 399.97,2881 408.04,2872.6 417.7,\
+2866.1 428.22,2861.3",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s5s3)"	[color=black,
+		pos="e,450.14,3787 218.47,3985.8 231.58,3981.9 244.5,3976.8 255.97,3970 339.49,3920.7 315.48,3853.6 399.97,3806 412.42,3799 426.22,3793.7 \
+440.33,3789.6",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s3s2)"	[color=black,
+		pos="e,437.74,2912.5 229.99,3988.2 239.74,3983.8 248.69,3977.9 255.97,3970 570.91,3629.3 78.193,3270.3 399.97,2936 408.07,2927.6 417.75,\
+2921.2 428.28,2916.4",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s3s3)"	[color=black,
+		pos="e,524.89,2980.8 229.8,3988 239.58,3983.6 248.6,3977.8 255.97,3970 526.49,3684.6 206.67,3439.5 399.97,3097 427.33,3048.5 479.3,3009.5 \
+515.93,2986.4",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "Reward Function"	[pos="e,467.95,2181.2 231.05,3988.3 240.48,3983.9 249.07,3977.9 255.97,3970 512.24,3676.6 159.99,2529.8 399.97,2223 414.55,2204.4 435.97,\
+2192.2 458.32,2184.3"];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s4s1)"	[color=black,
+		pos="e,468.73,3900.8 202.97,3983.5 220.47,3979.6 238.98,3975 255.97,3970 321.51,3950.6 334.05,3934.1 399.97,3916 418.82,3910.8 439.2,\
+3906.4 458.85,3902.7",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s4s2)"	[color=black,
+		pos="e,433.93,3998 248.2,3998 302.8,3998 367.72,3998 423.9,3998",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s4s3)"	[color=black,
+		pos="e,463.72,3955 220.54,3986.2 288.88,3977.5 382.33,3965.4 453.4,3956.3",
+		style=solid];
+	"tamarisk-at($s4s3)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,446.19,3731 221.67,3986.5 233.84,3982.4 245.65,3977.1 255.97,3970 351.91,3903.9 302.71,3815.1 399.97,3751 411.03,3743.7 423.43,\
+3738.2 436.29,3734",
+		style=solid];
+	"native-at($s2s2)" -> "Reward Function"	[pos="e,477.2,2157.2 219.89,1772 232.95,1776.3 245.5,1782.4 255.97,1791 378.8,1891.7 282.48,2011.2 399.97,2118 418.82,2135.1 443.46,2146.6 \
+467.62,2154.4"];
+	"native-at($s2s2)" -> "native-at'($s2s2)"	[color=black,
+		pos="e,469.6,1805.2 214.31,1773.6 285,1782.3 385.48,1794.8 459.36,1803.9",
+		style=solid];
+	"native-at($s2s2)" -> "tamarisk-at'($s2s2)"	[color=black,
+		pos="e,469.2,1858.1 198.6,1776.6 217.35,1780.8 237.54,1785.7 255.97,1791 321.33,1809.9 334.24,1825.4 399.97,1843 418.96,1848.1 439.5,\
+1852.5 459.26,1856.2",
+		style=solid];
+	"eradicate($r7)" -> "Reward Function"	[pos="e,503.66,2187.2 195.78,2296.1 215.35,2292 236.68,2286.9 255.97,2281 321.96,2260.9 335.26,2246.9 399.97,2223 430.76,2211.6 465.29,\
+2199.8 494.11,2190.3"];
+	"eradicate($r7)" -> "tamarisk-at'($s7s1)"	[color=black,
+		pos="e,469.2,2402.1 195.65,2320.4 215.22,2324.5 236.57,2329.5 255.97,2335 321.4,2353.7 334.24,2369.4 399.97,2387 418.96,2392.1 439.5,\
+2396.5 459.26,2400.2",
+		style=solid];
+	"eradicate($r7)" -> "tamarisk-at'($s7s2)"	[color=black,
+		pos="e,461.59,2348.4 195.86,2316.1 264.29,2324.4 371.61,2337.5 451.5,2347.2",
+		style=solid];
+	"eradicate($r7)" -> "tamarisk-at'($s7s3)"	[color=black,
+		pos="e,434.19,2305.9 195.86,2307.5 256.72,2307.1 348.36,2306.5 424.09,2305.9",
+		style=solid];
+	"native-at($s5s1)" -> "Reward Function"	[pos="e,468.76,2181.4 224.9,3499.6 236.66,3495 247.5,3488.4 255.97,3479 632.33,3061.8 46.802,2660 399.97,2223 414.92,2204.5 436.6,2192.4 \
+459.09,2184.5"];
+	"native-at($s5s1)" -> "native-at'($s5s1)"	[color=black,
+		pos="e,468.55,3547.5 215.34,3517.3 285.65,3525.7 384.94,3537.5 458.36,3546.2",
+		style=solid];
+	"native-at($s5s1)" -> "tamarisk-at'($s5s1)"	[color=black,
+		pos="e,450.21,3713.8 214.74,3517.5 229.09,3521.4 243.39,3526.7 255.97,3534 339.03,3582.1 316.13,3648.2 399.97,3695 412.45,3702 426.27,\
+3707.2 440.39,3711.3",
+		style=solid];
+}

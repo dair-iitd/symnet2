@@ -1,0 +1,8771 @@
+#####TASK##### Here
+## name
+academic_advising_inst_mdp__5001
+## horizon
+100
+## discount factor
+1
+## number of action fluents
+48
+## number of det state fluents
+48
+## number of prob state fluents
+48
+## number of preconds
+0
+## number of actions
+49
+## number of hashing functions
+97
+## initial state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## 1 if task is deterministic
+0
+## 1 if state hashing possible
+0
+## 1 if kleene state hashing possible
+0
+
+
+#####ACTION FLUENTS#####
+## index
+0
+## name
+takeCourse(CS11)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+1
+## name
+takeCourse(CS12)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+2
+## name
+takeCourse(CS13)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+3
+## name
+takeCourse(CS14)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+4
+## name
+takeCourse(CS15)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+5
+## name
+takeCourse(CS16)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+6
+## name
+takeCourse(CS21)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+7
+## name
+takeCourse(CS22)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+8
+## name
+takeCourse(CS23)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+9
+## name
+takeCourse(CS24)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+10
+## name
+takeCourse(CS25)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+11
+## name
+takeCourse(CS26)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+12
+## name
+takeCourse(CS31)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+13
+## name
+takeCourse(CS32)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+14
+## name
+takeCourse(CS33)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+15
+## name
+takeCourse(CS34)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+16
+## name
+takeCourse(CS35)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+17
+## name
+takeCourse(CS36)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+18
+## name
+takeCourse(CS41)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+19
+## name
+takeCourse(CS42)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+20
+## name
+takeCourse(CS43)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+21
+## name
+takeCourse(CS44)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+22
+## name
+takeCourse(CS45)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+23
+## name
+takeCourse(CS46)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+24
+## name
+takeCourse(CS51)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+25
+## name
+takeCourse(CS52)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+26
+## name
+takeCourse(CS53)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+27
+## name
+takeCourse(CS54)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+28
+## name
+takeCourse(CS55)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+29
+## name
+takeCourse(CS56)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+30
+## name
+takeCourse(CS61)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+31
+## name
+takeCourse(CS62)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+32
+## name
+takeCourse(CS63)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+33
+## name
+takeCourse(CS64)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+34
+## name
+takeCourse(CS65)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+35
+## name
+takeCourse(CS66)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+36
+## name
+takeCourse(CS71)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+37
+## name
+takeCourse(CS72)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+38
+## name
+takeCourse(CS73)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+39
+## name
+takeCourse(CS74)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+40
+## name
+takeCourse(CS75)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+41
+## name
+takeCourse(CS76)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+42
+## name
+takeCourse(CS81)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+43
+## name
+takeCourse(CS82)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+44
+## name
+takeCourse(CS83)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+45
+## name
+takeCourse(CS84)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+46
+## name
+takeCourse(CS85)
+## number of values
+2
+## values
+0 false
+1 true
+
+## index
+47
+## name
+takeCourse(CS86)
+## number of values
+2
+## values
+0 false
+1 true
+
+
+
+#####DET STATE FLUENTS AND CPFS#####
+## index
+0
+## name
+taken(CS11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(0) $a(0))
+## hash index
+0
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 1
+
+## index
+1
+## name
+taken(CS12)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(1) $a(1))
+## hash index
+1
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 1
+48 0
+
+## index
+2
+## name
+taken(CS13)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(2) $a(2))
+## hash index
+2
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 1
+47 0
+48 0
+
+## index
+3
+## name
+taken(CS14)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(3) $a(3))
+## hash index
+3
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 1
+46 0
+47 0
+48 0
+
+## index
+4
+## name
+taken(CS15)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(4) $a(4))
+## hash index
+4
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 1
+45 0
+46 0
+47 0
+48 0
+
+## index
+5
+## name
+taken(CS16)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(5) $a(5))
+## hash index
+5
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 1
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+6
+## name
+taken(CS21)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(6) $a(6))
+## hash index
+6
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 1
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+7
+## name
+taken(CS22)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(7) $a(7))
+## hash index
+7
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 1
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+8
+## name
+taken(CS23)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(8) $a(8))
+## hash index
+8
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 1
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+9
+## name
+taken(CS24)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(9) $a(9))
+## hash index
+9
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 1
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+10
+## name
+taken(CS25)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(10) $a(10))
+## hash index
+10
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 1
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+11
+## name
+taken(CS26)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(11) $a(11))
+## hash index
+11
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 1
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+12
+## name
+taken(CS31)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(12) $a(12))
+## hash index
+12
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 1
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+13
+## name
+taken(CS32)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(13) $a(13))
+## hash index
+13
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 1
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+14
+## name
+taken(CS33)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(14) $a(14))
+## hash index
+14
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 1
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+15
+## name
+taken(CS34)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(15) $a(15))
+## hash index
+15
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 1
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+16
+## name
+taken(CS35)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(16) $a(16))
+## hash index
+16
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 1
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+17
+## name
+taken(CS36)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(17) $a(17))
+## hash index
+17
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 1
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+18
+## name
+taken(CS41)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(18) $a(18))
+## hash index
+18
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 1
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+19
+## name
+taken(CS42)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(19) $a(19))
+## hash index
+19
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 1
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+20
+## name
+taken(CS43)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(20) $a(20))
+## hash index
+20
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 1
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+21
+## name
+taken(CS44)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(21) $a(21))
+## hash index
+21
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 1
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+22
+## name
+taken(CS45)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(22) $a(22))
+## hash index
+22
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 1
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+23
+## name
+taken(CS46)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(23) $a(23))
+## hash index
+23
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 1
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+24
+## name
+taken(CS51)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(24) $a(24))
+## hash index
+24
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 1
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+25
+## name
+taken(CS52)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(25) $a(25))
+## hash index
+25
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 1
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+26
+## name
+taken(CS53)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(26) $a(26))
+## hash index
+26
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 1
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+27
+## name
+taken(CS54)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(27) $a(27))
+## hash index
+27
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 1
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+28
+## name
+taken(CS55)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(28) $a(28))
+## hash index
+28
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 1
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+29
+## name
+taken(CS56)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(29) $a(29))
+## hash index
+29
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 1
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+30
+## name
+taken(CS61)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(30) $a(30))
+## hash index
+30
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 1
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+31
+## name
+taken(CS62)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(31) $a(31))
+## hash index
+31
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 1
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+32
+## name
+taken(CS63)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(32) $a(32))
+## hash index
+32
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 1
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+33
+## name
+taken(CS64)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(33) $a(33))
+## hash index
+33
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 1
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+34
+## name
+taken(CS65)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(34) $a(34))
+## hash index
+34
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 1
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+35
+## name
+taken(CS66)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(35) $a(35))
+## hash index
+35
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 1
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+36
+## name
+taken(CS71)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(36) $a(36))
+## hash index
+36
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 1
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+37
+## name
+taken(CS72)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(37) $a(37))
+## hash index
+37
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 1
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+38
+## name
+taken(CS73)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(38) $a(38))
+## hash index
+38
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 1
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+39
+## name
+taken(CS74)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(39) $a(39))
+## hash index
+39
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 1
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+40
+## name
+taken(CS75)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(40) $a(40))
+## hash index
+40
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 1
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+41
+## name
+taken(CS76)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(41) $a(41))
+## hash index
+41
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 1
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+42
+## name
+taken(CS81)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(42) $a(42))
+## hash index
+42
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 1
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+43
+## name
+taken(CS82)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(43) $a(43))
+## hash index
+43
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 1
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+44
+## name
+taken(CS83)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(44) $a(44))
+## hash index
+44
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 1
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+45
+## name
+taken(CS84)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(45) $a(45))
+## hash index
+45
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 1
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+46
+## name
+taken(CS85)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(46) $a(46))
+## hash index
+46
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 1
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+47
+## name
+taken(CS86)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+or($s(47) $a(47))
+## hash index
+47
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+
+
+#####PROB STATE FLUENTS AND CPFS#####
+## index
+0
+## name
+passed(CS11)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(0) ~($s(48))) : Bernoulli($c(0.8))) ($c(1) : $s(48)) )
+## hash index
+48
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 1
+
+## index
+1
+## name
+passed(CS12)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(1) ~($s(49))) : Bernoulli($c(0.8))) ($c(1) : $s(49)) )
+## hash index
+49
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 1
+48 0
+
+## index
+2
+## name
+passed(CS13)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(2) ~($s(50))) : Bernoulli($c(0.8))) ($c(1) : $s(50)) )
+## hash index
+50
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 1
+47 0
+48 0
+
+## index
+3
+## name
+passed(CS14)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(3) ~($s(51))) : Bernoulli($c(0.8))) ($c(1) : $s(51)) )
+## hash index
+51
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 1
+46 0
+47 0
+48 0
+
+## index
+4
+## name
+passed(CS15)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(4) ~($s(52))) : Bernoulli($c(0.8))) ($c(1) : $s(52)) )
+## hash index
+52
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 1
+45 0
+46 0
+47 0
+48 0
+
+## index
+5
+## name
+passed(CS16)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(5) ~($s(53))) : Bernoulli($c(0.8))) ($c(1) : $s(53)) )
+## hash index
+53
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 1
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+6
+## name
+passed(CS21)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(6) ~($s(54))) : Bernoulli(+(*(/(+($s(49) $s(50) $s(51) $s(53)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(54)) )
+## hash index
+54
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 1
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+7
+## name
+passed(CS22)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(7) ~($s(55))) : Bernoulli(+(*(/(+($s(48) $s(50) $s(51) $s(52)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(55)) )
+## hash index
+55
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 1
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+8
+## name
+passed(CS23)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(8) ~($s(56))) : Bernoulli(+(*(/(+($s(49) $s(50) $s(51) $s(55)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(56)) )
+## hash index
+56
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 1
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+9
+## name
+passed(CS24)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(9) ~($s(57))) : Bernoulli(+(*(/(+($s(51) $s(52) $s(53) $s(55)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(57)) )
+## hash index
+57
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 1
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+10
+## name
+passed(CS25)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(10) ~($s(58))) : Bernoulli(+(*(/(+($s(50) $s(52) $s(55) $s(56)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(58)) )
+## hash index
+58
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 1
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+11
+## name
+passed(CS26)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(11) ~($s(59))) : Bernoulli(+(*(/(+($s(50) $s(51) $s(55) $s(56) $s(58)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(59)) )
+## hash index
+59
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 1
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+12
+## name
+passed(CS31)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(12) ~($s(60))) : Bernoulli(+(*(/(+($s(52) $s(56) $s(57) $s(58)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(60)) )
+## hash index
+60
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 1
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+13
+## name
+passed(CS32)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(13) ~($s(61))) : Bernoulli(+(*(/(+($s(50) $s(53) $s(55) $s(59)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(61)) )
+## hash index
+61
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 1
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+14
+## name
+passed(CS33)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(14) ~($s(62))) : Bernoulli(+(*(/(+($s(50) $s(51) $s(53) $s(57)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(62)) )
+## hash index
+62
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 1
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+15
+## name
+passed(CS34)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(15) ~($s(63))) : Bernoulli(+(*(/(+($s(49) $s(54) $s(56) $s(60)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(63)) )
+## hash index
+63
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 1
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+16
+## name
+passed(CS35)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(16) ~($s(64))) : Bernoulli(+(*(/(+($s(49) $s(51) $s(58) $s(61)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(64)) )
+## hash index
+64
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 1
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+17
+## name
+passed(CS36)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(17) ~($s(65))) : Bernoulli(+(*(/(+($s(48) $s(49) $s(50) $s(51)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(65)) )
+## hash index
+65
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 1
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+18
+## name
+passed(CS41)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(18) ~($s(66))) : Bernoulli(+(*(/(+($s(51) $s(53) $s(57) $s(58)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(66)) )
+## hash index
+66
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 1
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+19
+## name
+passed(CS42)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(19) ~($s(67))) : Bernoulli(+(*(/(+($s(48) $s(55) $s(63) $s(65)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(67)) )
+## hash index
+67
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 1
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+20
+## name
+passed(CS43)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(20) ~($s(68))) : Bernoulli(+(*(/(+($s(50) $s(52) $s(56) $s(67)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(68)) )
+## hash index
+68
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 1
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+21
+## name
+passed(CS44)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(21) ~($s(69))) : Bernoulli(+(*(/(+($s(49) $s(50) $s(59) $s(65)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(69)) )
+## hash index
+69
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 1
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+22
+## name
+passed(CS45)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(22) ~($s(70))) : Bernoulli(+(*(/(+($s(51) $s(60) $s(61) $s(64) $s(67)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(70)) )
+## hash index
+70
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 1
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+23
+## name
+passed(CS46)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(23) ~($s(71))) : Bernoulli(+(*(/(+($s(54) $s(61) $s(64) $s(68) $s(69)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(71)) )
+## hash index
+71
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 1
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+24
+## name
+passed(CS51)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(24) ~($s(72))) : Bernoulli(+(*(/(+($s(49) $s(53) $s(67) $s(68)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(72)) )
+## hash index
+72
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 1
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+25
+## name
+passed(CS52)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(25) ~($s(73))) : Bernoulli(+(*(/(+($s(55) $s(64) $s(70) $s(71)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(73)) )
+## hash index
+73
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 1
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+26
+## name
+passed(CS53)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(26) ~($s(74))) : Bernoulli(+(*(/(+($s(48) $s(52) $s(56) $s(73)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(74)) )
+## hash index
+74
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 1
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+27
+## name
+passed(CS54)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(27) ~($s(75))) : Bernoulli(+(*(/(+($s(50) $s(51) $s(63)) $c(4)) $c(0.8)) $c(0.2)))) ($c(1) : $s(75)) )
+## hash index
+75
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 1
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+28
+## name
+passed(CS55)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(28) ~($s(76))) : Bernoulli(+(*(/(+($s(56) $s(70) $s(73) $s(75)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(76)) )
+## hash index
+76
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 1
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+29
+## name
+passed(CS56)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(29) ~($s(77))) : Bernoulli(+(*(/(+($s(53) $s(69) $s(71) $s(76)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(77)) )
+## hash index
+77
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 1
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+30
+## name
+passed(CS61)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(30) ~($s(78))) : Bernoulli(+(*(/(+($s(50) $s(55) $s(60) $s(75)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(78)) )
+## hash index
+78
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 1
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+31
+## name
+passed(CS62)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(31) ~($s(79))) : Bernoulli(+(*(/(+($s(56) $s(63) $s(68) $s(71) $s(77)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(79)) )
+## hash index
+79
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 1
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+32
+## name
+passed(CS63)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(32) ~($s(80))) : Bernoulli(+(*(/(+($s(54) $s(55) $s(64) $s(73) $s(75)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(80)) )
+## hash index
+80
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 1
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+33
+## name
+passed(CS64)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(33) ~($s(81))) : Bernoulli(+(*(/(+($s(54) $s(61) $s(63) $s(79)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(81)) )
+## hash index
+81
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 1
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+34
+## name
+passed(CS65)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(34) ~($s(82))) : Bernoulli(+(*(/(+($s(56) $s(59) $s(67)) $c(4)) $c(0.8)) $c(0.2)))) ($c(1) : $s(82)) )
+## hash index
+82
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 1
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+35
+## name
+passed(CS66)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(35) ~($s(83))) : Bernoulli(+(*(/(+($s(62) $s(64) $s(68) $s(71) $s(80)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(83)) )
+## hash index
+83
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 1
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+36
+## name
+passed(CS71)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(36) ~($s(84))) : Bernoulli(+(*(/(+($s(50) $s(54) $s(55) $s(76)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(84)) )
+## hash index
+84
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 1
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+37
+## name
+passed(CS72)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(37) ~($s(85))) : Bernoulli(+(*(/(+($s(50) $s(58) $s(65) $s(74)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(85)) )
+## hash index
+85
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 1
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+38
+## name
+passed(CS73)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(38) ~($s(86))) : Bernoulli(+(*(/(+($s(63) $s(64) $s(65) $s(68)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(86)) )
+## hash index
+86
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 1
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+39
+## name
+passed(CS74)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(39) ~($s(87))) : Bernoulli(+(*(/(+($s(57) $s(60) $s(71) $s(73) $s(78)) $c(6)) $c(0.8)) $c(0.2)))) ($c(1) : $s(87)) )
+## hash index
+87
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 1
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+40
+## name
+passed(CS75)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(40) ~($s(88))) : Bernoulli(+(*(/(+($s(63) $s(81) $s(83) $s(85)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(88)) )
+## hash index
+88
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 1
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+41
+## name
+passed(CS76)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(41) ~($s(89))) : Bernoulli(+(*(/(+($s(54) $s(62) $s(68) $s(69)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(89)) )
+## hash index
+89
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 0
+7 1
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+42
+## name
+passed(CS81)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(42) ~($s(90))) : Bernoulli(+(*(/(+($s(55) $s(56) $s(71) $s(77)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(90)) )
+## hash index
+90
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 0
+6 1
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+43
+## name
+passed(CS82)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(43) ~($s(91))) : Bernoulli(+(*(/(+($s(49) $s(54) $s(66) $s(75)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(91)) )
+## hash index
+91
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 0
+5 1
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+44
+## name
+passed(CS83)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(44) ~($s(92))) : Bernoulli(+(*(/(+($s(48) $s(52) $s(53) $s(80)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(92)) )
+## hash index
+92
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 0
+4 1
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+45
+## name
+passed(CS84)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(45) ~($s(93))) : Bernoulli(+(*(/(+($s(65) $s(67) $s(71) $s(75)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(93)) )
+## hash index
+93
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 0
+3 1
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+46
+## name
+passed(CS85)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(46) ~($s(94))) : Bernoulli(+(*(/(+($s(53) $s(56) $s(79) $s(87)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(94)) )
+## hash index
+94
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 0
+2 1
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+## index
+47
+## name
+passed(CS86)
+## number of values
+2
+## values
+0 false
+1 true
+## formula
+switch( (and($a(47) ~($s(95))) : Bernoulli(+(*(/(+($s(52) $s(56) $s(67) $s(81)) $c(5)) $c(0.8)) $c(0.2)))) ($c(1) : $s(95)) )
+## hash index
+95
+## caching type 
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 0
+3 0
+4 0
+5 0
+6 0
+7 0
+8 0
+9 0
+10 0
+11 0
+12 0
+13 0
+14 0
+15 0
+16 0
+17 0
+18 0
+19 0
+20 0
+21 0
+22 0
+23 0
+24 0
+25 0
+26 0
+27 0
+28 0
+29 0
+30 0
+31 0
+32 0
+33 0
+34 0
+35 0
+36 0
+37 0
+38 0
+39 0
+40 0
+41 0
+42 0
+43 0
+44 0
+45 0
+46 0
+47 0
+48 0
+
+
+
+#####REWARD#####
+## formula
++(*(and($a(0) ~($s(0))) $c(-1)) *(and($a(1) ~($s(1))) $c(-1)) *(and($a(2) ~($s(2))) $c(-1)) *(and($a(3) ~($s(3))) $c(-1)) *(and($a(4) ~($s(4))) $c(-1)) *(and($a(5) ~($s(5))) $c(-1)) *(and($a(6) ~($s(6))) $c(-1)) *(and($a(7) ~($s(7))) $c(-1)) *(and($a(8) ~($s(8))) $c(-1)) *(and($a(9) ~($s(9))) $c(-1)) *(and($a(10) ~($s(10))) $c(-1)) *(and($a(11) ~($s(11))) $c(-1)) *(and($a(12) ~($s(12))) $c(-1)) *(and($a(13) ~($s(13))) $c(-1)) *(and($a(14) ~($s(14))) $c(-1)) *(and($a(15) ~($s(15))) $c(-1)) *(and($a(16) ~($s(16))) $c(-1)) *(and($a(17) ~($s(17))) $c(-1)) *(and($a(18) ~($s(18))) $c(-1)) *(and($a(19) ~($s(19))) $c(-1)) *(and($a(20) ~($s(20))) $c(-1)) *(and($a(21) ~($s(21))) $c(-1)) *(and($a(22) ~($s(22))) $c(-1)) *(and($a(23) ~($s(23))) $c(-1)) *(and($a(24) ~($s(24))) $c(-1)) *(and($a(25) ~($s(25))) $c(-1)) *(and($a(26) ~($s(26))) $c(-1)) *(and($a(27) ~($s(27))) $c(-1)) *(and($a(28) ~($s(28))) $c(-1)) *(and($a(29) ~($s(29))) $c(-1)) *(and($a(30) ~($s(30))) $c(-1)) *(and($a(31) ~($s(31))) $c(-1)) *(and($a(32) ~($s(32))) $c(-1)) *(and($a(33) ~($s(33))) $c(-1)) *(and($a(34) ~($s(34))) $c(-1)) *(and($a(35) ~($s(35))) $c(-1)) *(and($a(36) ~($s(36))) $c(-1)) *(and($a(37) ~($s(37))) $c(-1)) *(and($a(38) ~($s(38))) $c(-1)) *(and($a(39) ~($s(39))) $c(-1)) *(and($a(40) ~($s(40))) $c(-1)) *(and($a(41) ~($s(41))) $c(-1)) *(and($a(42) ~($s(42))) $c(-1)) *(and($a(43) ~($s(43))) $c(-1)) *(and($a(44) ~($s(44))) $c(-1)) *(and($a(45) ~($s(45))) $c(-1)) *(and($a(46) ~($s(46))) $c(-1)) *(and($a(47) ~($s(47))) $c(-1)) *(and($a(0) $s(0)) $c(-2)) *(and($a(1) $s(1)) $c(-2)) *(and($a(2) $s(2)) $c(-2)) *(and($a(3) $s(3)) $c(-2)) *(and($a(4) $s(4)) $c(-2)) *(and($a(5) $s(5)) $c(-2)) *(and($a(6) $s(6)) $c(-2)) *(and($a(7) $s(7)) $c(-2)) *(and($a(8) $s(8)) $c(-2)) *(and($a(9) $s(9)) $c(-2)) *(and($a(10) $s(10)) $c(-2)) *(and($a(11) $s(11)) $c(-2)) *(and($a(12) $s(12)) $c(-2)) *(and($a(13) $s(13)) $c(-2)) *(and($a(14) $s(14)) $c(-2)) *(and($a(15) $s(15)) $c(-2)) *(and($a(16) $s(16)) $c(-2)) *(and($a(17) $s(17)) $c(-2)) *(and($a(18) $s(18)) $c(-2)) *(and($a(19) $s(19)) $c(-2)) *(and($a(20) $s(20)) $c(-2)) *(and($a(21) $s(21)) $c(-2)) *(and($a(22) $s(22)) $c(-2)) *(and($a(23) $s(23)) $c(-2)) *(and($a(24) $s(24)) $c(-2)) *(and($a(25) $s(25)) $c(-2)) *(and($a(26) $s(26)) $c(-2)) *(and($a(27) $s(27)) $c(-2)) *(and($a(28) $s(28)) $c(-2)) *(and($a(29) $s(29)) $c(-2)) *(and($a(30) $s(30)) $c(-2)) *(and($a(31) $s(31)) $c(-2)) *(and($a(32) $s(32)) $c(-2)) *(and($a(33) $s(33)) $c(-2)) *(and($a(34) $s(34)) $c(-2)) *(and($a(35) $s(35)) $c(-2)) *(and($a(36) $s(36)) $c(-2)) *(and($a(37) $s(37)) $c(-2)) *(and($a(38) $s(38)) $c(-2)) *(and($a(39) $s(39)) $c(-2)) *(and($a(40) $s(40)) $c(-2)) *(and($a(41) $s(41)) $c(-2)) *(and($a(42) $s(42)) $c(-2)) *(and($a(43) $s(43)) $c(-2)) *(and($a(44) $s(44)) $c(-2)) *(and($a(45) $s(45)) $c(-2)) *(and($a(46) $s(46)) $c(-2)) *(and($a(47) $s(47)) $c(-2)) *(~(and($s(48) $s(49) $s(52) $s(56) $s(67) $s(69) $s(71) $s(76) $s(78) $s(79) $s(80) $s(94))) $c(-5)))
+## min
+-8
+## max
+-0
+## independent from actions
+0
+## hash index
+96
+## caching type
+NONE
+## kleene caching type
+NONE
+## action hash keys
+0 0
+1 1
+2 2
+3 3
+4 4
+5 5
+6 6
+7 7
+8 8
+9 9
+10 10
+11 11
+12 12
+13 13
+14 14
+15 15
+16 16
+17 17
+18 18
+19 19
+20 20
+21 21
+22 22
+23 23
+24 24
+25 25
+26 26
+27 27
+28 28
+29 29
+30 30
+31 31
+32 32
+33 33
+34 34
+35 35
+36 36
+37 37
+38 38
+39 39
+40 40
+41 41
+42 42
+43 43
+44 44
+45 45
+46 46
+47 47
+48 48
+
+
+#####PRECONDITIONS#####
+
+
+#####ACTION STATES#####
+## index
+0
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+1
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 
+## relevant preconditions
+0
+
+
+## index
+2
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 
+## relevant preconditions
+0
+
+
+## index
+3
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 
+## relevant preconditions
+0
+
+
+## index
+4
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+5
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+6
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+7
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+8
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+9
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+10
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+11
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+12
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+13
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+14
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+15
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+16
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+17
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+18
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+19
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+20
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+21
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+22
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+23
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+24
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+25
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+26
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+27
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+28
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+29
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+30
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+31
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+32
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+33
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+34
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+35
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+36
+## state
+0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+37
+## state
+0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+38
+## state
+0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+39
+## state
+0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+40
+## state
+0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+41
+## state
+0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+42
+## state
+0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+43
+## state
+0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+44
+## state
+0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+45
+## state
+0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+46
+## state
+0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+47
+## state
+0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+## index
+48
+## state
+1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+## relevant preconditions
+0
+
+
+
+#####HASH KEYS OF DETERMINISTIC STATE FLUENTS#####
+## index
+0
+
+## state fluent hash keys (first line is the number of keys)
+1
+0 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+1
+
+## state fluent hash keys (first line is the number of keys)
+1
+1 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+2
+
+## state fluent hash keys (first line is the number of keys)
+1
+2 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+3
+
+## state fluent hash keys (first line is the number of keys)
+1
+3 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+4
+
+## state fluent hash keys (first line is the number of keys)
+1
+4 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+5
+
+## state fluent hash keys (first line is the number of keys)
+1
+5 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+6
+
+## state fluent hash keys (first line is the number of keys)
+1
+6 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+7
+
+## state fluent hash keys (first line is the number of keys)
+1
+7 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+8
+
+## state fluent hash keys (first line is the number of keys)
+1
+8 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+9
+
+## state fluent hash keys (first line is the number of keys)
+1
+9 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+10
+
+## state fluent hash keys (first line is the number of keys)
+1
+10 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+11
+
+## state fluent hash keys (first line is the number of keys)
+1
+11 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+12
+
+## state fluent hash keys (first line is the number of keys)
+1
+12 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+13
+
+## state fluent hash keys (first line is the number of keys)
+1
+13 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+14
+
+## state fluent hash keys (first line is the number of keys)
+1
+14 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+15
+
+## state fluent hash keys (first line is the number of keys)
+1
+15 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+16
+
+## state fluent hash keys (first line is the number of keys)
+1
+16 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+17
+
+## state fluent hash keys (first line is the number of keys)
+1
+17 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+18
+
+## state fluent hash keys (first line is the number of keys)
+1
+18 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+19
+
+## state fluent hash keys (first line is the number of keys)
+1
+19 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+20
+
+## state fluent hash keys (first line is the number of keys)
+1
+20 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+21
+
+## state fluent hash keys (first line is the number of keys)
+1
+21 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+22
+
+## state fluent hash keys (first line is the number of keys)
+1
+22 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+23
+
+## state fluent hash keys (first line is the number of keys)
+1
+23 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+24
+
+## state fluent hash keys (first line is the number of keys)
+1
+24 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+25
+
+## state fluent hash keys (first line is the number of keys)
+1
+25 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+26
+
+## state fluent hash keys (first line is the number of keys)
+1
+26 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+27
+
+## state fluent hash keys (first line is the number of keys)
+1
+27 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+28
+
+## state fluent hash keys (first line is the number of keys)
+1
+28 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+29
+
+## state fluent hash keys (first line is the number of keys)
+1
+29 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+30
+
+## state fluent hash keys (first line is the number of keys)
+1
+30 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+31
+
+## state fluent hash keys (first line is the number of keys)
+1
+31 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+32
+
+## state fluent hash keys (first line is the number of keys)
+1
+32 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+33
+
+## state fluent hash keys (first line is the number of keys)
+1
+33 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+34
+
+## state fluent hash keys (first line is the number of keys)
+1
+34 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+35
+
+## state fluent hash keys (first line is the number of keys)
+1
+35 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+36
+
+## state fluent hash keys (first line is the number of keys)
+1
+36 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+37
+
+## state fluent hash keys (first line is the number of keys)
+1
+37 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+38
+
+## state fluent hash keys (first line is the number of keys)
+1
+38 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+39
+
+## state fluent hash keys (first line is the number of keys)
+1
+39 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+40
+
+## state fluent hash keys (first line is the number of keys)
+1
+40 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+41
+
+## state fluent hash keys (first line is the number of keys)
+1
+41 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+42
+
+## state fluent hash keys (first line is the number of keys)
+1
+42 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+43
+
+## state fluent hash keys (first line is the number of keys)
+1
+43 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+44
+
+## state fluent hash keys (first line is the number of keys)
+1
+44 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+45
+
+## state fluent hash keys (first line is the number of keys)
+1
+45 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+46
+
+## state fluent hash keys (first line is the number of keys)
+1
+46 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+## index
+47
+
+## state fluent hash keys (first line is the number of keys)
+1
+47 2
+## kleene state fluent hash keys (first line is the number of keys)
+0
+
+
+#####HASH KEYS OF PROBABILISTIC STATE FLUENTS#####
+## index
+0
+
+## state fluent hash keys (first line is the number of keys)
+6
+48 2
+55 2
+65 2
+67 2
+74 2
+92 2
+## kleene state fluent hash keys (first line is the number of keys)
+6
+38018416 35897360
+55 2
+65 2
+67 2
+74 2
+92 2
+
+## index
+1
+
+## state fluent hash keys (first line is the number of keys)
+9
+49 2
+54 2
+56 2
+63 2
+64 2
+65 4
+69 2
+72 2
+91 2
+## kleene state fluent hash keys (first line is the number of keys)
+9
+38083904 35897360
+54 2
+56 2
+63 2
+64 2
+65 6
+69 2
+72 2
+91 2
+
+## index
+2
+
+## state fluent hash keys (first line is the number of keys)
+15
+50 2
+54 4
+55 4
+56 4
+58 2
+59 2
+61 2
+62 2
+65 8
+68 2
+69 4
+75 2
+78 2
+84 2
+85 2
+## kleene state fluent hash keys (first line is the number of keys)
+15
+38065488 35897360
+54 6
+55 6
+56 6
+58 2
+59 2
+61 2
+62 2
+65 18
+68 2
+69 6
+75 2
+78 2
+84 2
+85 2
+
+## index
+3
+
+## state fluent hash keys (first line is the number of keys)
+12
+51 2
+54 8
+55 8
+56 8
+57 2
+59 4
+62 4
+64 4
+65 16
+66 2
+70 2
+75 4
+## kleene state fluent hash keys (first line is the number of keys)
+12
+37932240 35897360
+54 18
+55 18
+56 18
+57 2
+59 6
+62 6
+64 6
+65 54
+66 2
+70 2
+75 6
+
+## index
+4
+
+## state fluent hash keys (first line is the number of keys)
+9
+52 2
+55 16
+57 4
+58 4
+60 2
+68 4
+74 4
+92 4
+95 2
+## kleene state fluent hash keys (first line is the number of keys)
+9
+37932512 35897360
+55 54
+57 6
+58 6
+60 2
+68 6
+74 6
+92 6
+95 2
+
+## index
+5
+
+## state fluent hash keys (first line is the number of keys)
+10
+53 2
+54 16
+57 8
+61 4
+62 8
+66 4
+72 4
+77 2
+92 8
+94 2
+## kleene state fluent hash keys (first line is the number of keys)
+10
+38083152 35897360
+54 54
+57 18
+61 6
+62 18
+66 6
+72 6
+77 2
+92 18
+94 2
+
+## index
+6
+
+## state fluent hash keys (first line is the number of keys)
+8
+54 32
+63 4
+71 2
+80 2
+81 2
+84 4
+89 2
+91 4
+## kleene state fluent hash keys (first line is the number of keys)
+8
+37977968 35897360
+63 6
+71 2
+80 2
+81 2
+84 6
+89 2
+91 6
+
+## index
+7
+
+## state fluent hash keys (first line is the number of keys)
+12
+55 32
+56 16
+57 16
+58 8
+59 8
+61 8
+67 4
+73 2
+78 4
+80 4
+84 8
+90 2
+## kleene state fluent hash keys (first line is the number of keys)
+12
+38070144 35897360
+56 54
+57 54
+58 18
+59 18
+61 18
+67 6
+73 2
+78 6
+80 6
+84 18
+90 2
+
+## index
+8
+
+## state fluent hash keys (first line is the number of keys)
+13
+56 32
+58 16
+59 16
+60 4
+63 8
+68 8
+74 8
+76 2
+79 2
+82 2
+90 4
+94 4
+95 4
+## kleene state fluent hash keys (first line is the number of keys)
+13
+39720576 38015248
+58 54
+59 54
+60 6
+63 18
+68 18
+74 18
+76 2
+79 2
+82 2
+90 6
+94 6
+95 6
+
+## index
+9
+
+## state fluent hash keys (first line is the number of keys)
+5
+57 32
+60 8
+62 16
+66 8
+87 2
+## kleene state fluent hash keys (first line is the number of keys)
+5
+38015120 35897360
+60 18
+62 54
+66 18
+87 2
+
+## index
+10
+
+## state fluent hash keys (first line is the number of keys)
+6
+58 32
+59 32
+60 16
+64 8
+66 16
+85 4
+## kleene state fluent hash keys (first line is the number of keys)
+6
+38047808 35897360
+59 162
+60 54
+64 18
+66 54
+85 6
+
+## index
+11
+
+## state fluent hash keys (first line is the number of keys)
+4
+59 64
+61 16
+69 8
+82 4
+## kleene state fluent hash keys (first line is the number of keys)
+4
+39090288 35897360
+61 54
+69 18
+82 6
+
+## index
+12
+
+## state fluent hash keys (first line is the number of keys)
+5
+60 32
+63 16
+70 4
+78 8
+87 4
+## kleene state fluent hash keys (first line is the number of keys)
+5
+37894416 35897360
+63 54
+70 6
+78 18
+87 6
+
+## index
+13
+
+## state fluent hash keys (first line is the number of keys)
+5
+61 32
+64 16
+70 8
+71 4
+81 4
+## kleene state fluent hash keys (first line is the number of keys)
+5
+38002144 38010192
+64 54
+70 18
+71 6
+81 6
+
+## index
+14
+
+## state fluent hash keys (first line is the number of keys)
+3
+62 32
+83 2
+89 4
+## kleene state fluent hash keys (first line is the number of keys)
+3
+0 162
+83 2
+89 6
+
+## index
+15
+
+## state fluent hash keys (first line is the number of keys)
+7
+63 32
+67 8
+75 8
+79 4
+81 8
+86 2
+88 2
+## kleene state fluent hash keys (first line is the number of keys)
+7
+63 162
+67 18
+75 18
+79 6
+81 18
+86 2
+88 2
+
+## index
+16
+
+## state fluent hash keys (first line is the number of keys)
+7
+64 32
+70 16
+71 8
+73 4
+80 8
+83 4
+86 4
+## kleene state fluent hash keys (first line is the number of keys)
+7
+38015248 38039376
+70 54
+71 18
+73 6
+80 18
+83 6
+86 6
+
+## index
+17
+
+## state fluent hash keys (first line is the number of keys)
+6
+65 32
+67 16
+69 16
+85 8
+86 8
+93 2
+## kleene state fluent hash keys (first line is the number of keys)
+6
+38010192 38017856
+67 54
+69 54
+85 18
+86 18
+93 2
+
+## index
+18
+
+## state fluent hash keys (first line is the number of keys)
+2
+66 32
+91 8
+## kleene state fluent hash keys (first line is the number of keys)
+2
+0 162
+91 18
+
+## index
+19
+
+## state fluent hash keys (first line is the number of keys)
+7
+67 32
+68 16
+70 32
+72 8
+82 8
+93 4
+95 8
+## kleene state fluent hash keys (first line is the number of keys)
+7
+38039376 38026224
+68 54
+70 162
+72 18
+82 18
+93 6
+95 18
+
+## index
+20
+
+## state fluent hash keys (first line is the number of keys)
+7
+68 32
+71 16
+72 16
+79 8
+83 8
+86 16
+89 8
+## kleene state fluent hash keys (first line is the number of keys)
+7
+38017856 38048080
+71 54
+72 54
+79 18
+83 18
+86 54
+89 18
+
+## index
+21
+
+## state fluent hash keys (first line is the number of keys)
+4
+69 32
+71 32
+77 4
+89 16
+## kleene state fluent hash keys (first line is the number of keys)
+4
+37889856 162
+71 162
+77 6
+89 54
+
+## index
+22
+
+## state fluent hash keys (first line is the number of keys)
+3
+70 64
+73 8
+76 4
+## kleene state fluent hash keys (first line is the number of keys)
+3
+37985504 486
+73 18
+76 6
+
+## index
+23
+
+## state fluent hash keys (first line is the number of keys)
+8
+71 64
+73 16
+77 8
+79 16
+83 16
+87 8
+90 8
+93 8
+## kleene state fluent hash keys (first line is the number of keys)
+8
+71 486
+73 54
+77 18
+79 54
+83 54
+87 18
+90 18
+93 18
+
+## index
+24
+
+## state fluent hash keys (first line is the number of keys)
+1
+72 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37872384 162
+
+## index
+25
+
+## state fluent hash keys (first line is the number of keys)
+5
+73 32
+74 16
+76 8
+80 16
+87 16
+## kleene state fluent hash keys (first line is the number of keys)
+5
+38026224 37927920
+74 54
+76 18
+80 54
+87 54
+
+## index
+26
+
+## state fluent hash keys (first line is the number of keys)
+2
+74 32
+85 16
+## kleene state fluent hash keys (first line is the number of keys)
+2
+38065424 162
+85 54
+
+## index
+27
+
+## state fluent hash keys (first line is the number of keys)
+6
+75 16
+76 16
+78 16
+80 32
+91 16
+93 16
+## kleene state fluent hash keys (first line is the number of keys)
+6
+38048080 140594792598496
+76 54
+78 54
+80 162
+91 54
+93 54
+
+## index
+28
+
+## state fluent hash keys (first line is the number of keys)
+3
+76 32
+77 16
+84 16
+## kleene state fluent hash keys (first line is the number of keys)
+3
+37981024 162
+77 54
+84 54
+
+## index
+29
+
+## state fluent hash keys (first line is the number of keys)
+3
+77 32
+79 32
+90 16
+## kleene state fluent hash keys (first line is the number of keys)
+3
+37985424 162
+79 162
+90 54
+
+## index
+30
+
+## state fluent hash keys (first line is the number of keys)
+2
+78 32
+87 32
+## kleene state fluent hash keys (first line is the number of keys)
+2
+37965248 162
+87 162
+
+## index
+31
+
+## state fluent hash keys (first line is the number of keys)
+3
+79 64
+81 16
+94 8
+## kleene state fluent hash keys (first line is the number of keys)
+3
+37491712 486
+81 54
+94 18
+
+## index
+32
+
+## state fluent hash keys (first line is the number of keys)
+3
+80 64
+83 32
+92 16
+## kleene state fluent hash keys (first line is the number of keys)
+3
+37957264 486
+83 162
+92 54
+
+## index
+33
+
+## state fluent hash keys (first line is the number of keys)
+3
+81 32
+88 4
+95 16
+## kleene state fluent hash keys (first line is the number of keys)
+3
+37989824 162
+88 6
+95 54
+
+## index
+34
+
+## state fluent hash keys (first line is the number of keys)
+1
+82 16
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37874944 54
+
+## index
+35
+
+## state fluent hash keys (first line is the number of keys)
+2
+83 64
+88 8
+## kleene state fluent hash keys (first line is the number of keys)
+2
+37880672 486
+88 18
+
+## index
+36
+
+## state fluent hash keys (first line is the number of keys)
+1
+84 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37980464 162
+
+## index
+37
+
+## state fluent hash keys (first line is the number of keys)
+2
+85 32
+88 16
+## kleene state fluent hash keys (first line is the number of keys)
+2
+37894320 162
+88 54
+
+## index
+38
+
+## state fluent hash keys (first line is the number of keys)
+1
+86 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37874784 162
+
+## index
+39
+
+## state fluent hash keys (first line is the number of keys)
+2
+87 64
+94 16
+## kleene state fluent hash keys (first line is the number of keys)
+2
+37889776 486
+94 54
+
+## index
+40
+
+## state fluent hash keys (first line is the number of keys)
+1
+88 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37956752 162
+
+## index
+41
+
+## state fluent hash keys (first line is the number of keys)
+1
+89 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37872864 162
+
+## index
+42
+
+## state fluent hash keys (first line is the number of keys)
+1
+90 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37965296 162
+
+## index
+43
+
+## state fluent hash keys (first line is the number of keys)
+1
+91 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37989392 162
+
+## index
+44
+
+## state fluent hash keys (first line is the number of keys)
+1
+92 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37840304 162
+
+## index
+45
+
+## state fluent hash keys (first line is the number of keys)
+1
+93 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37965376 162
+
+## index
+46
+
+## state fluent hash keys (first line is the number of keys)
+1
+94 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37874304 162
+
+## index
+47
+
+## state fluent hash keys (first line is the number of keys)
+1
+95 32
+## kleene state fluent hash keys (first line is the number of keys)
+1
+37875584 162
+
