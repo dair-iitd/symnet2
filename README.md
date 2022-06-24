@@ -2,7 +2,6 @@
 
 Repo contains the code for UAI 2022 paper "**SymNet 2.0: Effectively handling Non-Fluents and Actions in Generalized Neural Policies for RDDL Relational MDPs**".
 
-For the predecessor version refer to [SymNet 1.0](https://github.com/dair-iitd/symnet)
 <hr />
 
 ### Libraries required:
@@ -107,3 +106,5 @@ For my_config:
 1. ./gym contains the code for setting up the RDDL domains and instances in ATARI gym based framework (used for generating the trajectories during validation and testing).
 2. ./rddl contains files (RDDL, parsed files and dbbn files) for various domains and instances used.
 3. ./multi_train/deep_plan contains the main code.
+
+For the predecessor version refer to [SymNet 1.0](https://github.com/dair-iitd/symnet)
