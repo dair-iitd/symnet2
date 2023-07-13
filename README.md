@@ -1,4 +1,8 @@
-# SymNet 2.0
+### The code for the successor version, Symnet 3.0, published in [UAI 2023](https://openreview.net/forum?id=sWzgZUmJich), is available at [SymNet 3.0](https://github.com/dair-iitd/symnet3)
+
+<hr />
+
+## SymNet 2.0
 
 Repo contains the code for UAI 2022 paper "**SymNet 2.0: Effectively handling Non-Fluents and Actions in Generalized Neural Policies for RDDL Relational MDPs**".
 
